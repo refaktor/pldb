@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title mys
+
+title mys - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="jisp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ids.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/mys.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/eerimoq/mys" class="material-symbols-outlined">code</a> <a href="/edit.html?id=mys" class="material-symbols-outlined">edit</a></div>
+
+* mys is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2020 by Erik Moqvist.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2020 2020
+ link ../lists/creators.html#erikMoqvist Erik Moqvist
+
+codeWithHeader Source code:
+ git clone https://github.com/eerimoq/mys
+
+dashboard
+ #1857 <span title="TotalRank: 2370 Jobs: 103 Users: 1281 Facts: 1662 Links: 986">on PLDB</span>
+ 3 Years Old
+
+* The Mys (/maɪs/) programming language - an attempt to create a statically typed Python-like language that produces fast binaries. See https://mys-lang.org for more information.
+
+- mys is developed on <a href="https://github.com/eerimoq/mys">GitHub</a> and has 128 stars
+- mys first developed in <a href="../lists/originCommunities.html#httpsGithubComMysLang">https://github.com/mys-lang</a>
+
+<br>
+
+endColumns
+
+keyboardNav jisp.html ids.html
+
+import ../footer.scroll

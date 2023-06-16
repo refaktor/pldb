@@ -1,0 +1,37 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Elasticsearch Query DSL
+
+title Elasticsearch Query DSL - Query language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="ebg.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="english-programming-language.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/elastic-query-dsl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=elastic-query-dsl" class="material-symbols-outlined">edit</a></div>
+
+* Elasticsearch Query DSL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 2010.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2010 2010
+
+dashboard
+ #3389 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3865 Links: 986">on PLDB</span>
+ 13 Years Old
+
+* 
+
+- Elasticsearch Query DSL first developed in <a href="../lists/originCommunities.html#elasticsearchBV">Elasticsearch B.V</a>
+- Read more about Elasticsearch Query DSL on the web: 1.
+ https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html 1.
+
+<br>
+
+endColumns
+
+keyboardNav ebg.html english-programming-language.html
+
+import ../footer.scroll

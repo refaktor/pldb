@@ -1,0 +1,7 @@
+import ../header.scroll
+import settings.scroll
+title The PLDB Blog
+
+snippets index
+
+import footer.scroll

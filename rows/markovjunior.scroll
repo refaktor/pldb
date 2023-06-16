@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title MarkovJunior
+
+title MarkovJunior - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="jsoniq.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="treenotation.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/markovjunior.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/mxgmn/MarkovJunior" class="material-symbols-outlined">code</a> <a href="/edit.html?id=markovjunior" class="material-symbols-outlined">edit</a></div>
+
+* MarkovJunior is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2022 by Maxim Gumin.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2022 2022
+ link ../lists/creators.html#maximGumin Maxim Gumin
+
+codeWithHeader Source code:
+ git clone https://github.com/mxgmn/MarkovJunior
+
+dashboard
+ #699 <span title="TotalRank: 1265 Jobs: 103 Users: 176 Facts: 1777 Links: 986">on PLDB</span>
+ 1 Years Old
+
+* Probabilistic language based on pattern matching and constraint propagation, 153 examples
+
+- MarkovJunior is developed on <a href="https://github.com/mxgmn/MarkovJunior">GitHub</a> and has 5,359 stars
+- MarkovJunior first developed in <a href="../lists/originCommunities.html#httpsGithubComMxgmnMarkovJuniorIssues">https://github.com/mxgmn/MarkovJunior/issues</a>
+
+<br>
+
+endColumns
+
+keyboardNav jsoniq.html treenotation.html
+
+import ../footer.scroll

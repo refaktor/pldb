@@ -1,0 +1,45 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title kerf
+
+title kerf - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="rapidbatch.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="devicetree.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/kerf.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/kevinlawler/kerf" class="material-symbols-outlined">code</a> <a href="/edit.html?id=kerf" class="material-symbols-outlined">edit</a></div>
+
+* kerf is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015 by Kevin Lawler.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+ link ../lists/creators.html#kevinLawler Kevin Lawler
+
+codeWithHeader Source code:
+ git clone https://github.com/kevinlawler/kerf
+
+dashboard
+ #2016 <span title="TotalRank: 2531 Jobs: 103 Users: 2383 Facts: 1442 Links: 986">on PLDB</span>
+ 8 Years Old
+
+* Kerf is a columnar tick database and time-series language for Linux/OSX/BSD/iOS/Android. It is written in C and natively speaks JSON and SQL. Kerf can be used for trading platforms, feedhandlers, low-latency networking, high-volume analysis of realtime and historical data, logfile processing, and more.
+
+- kerf is developed on <a href="https://github.com/kevinlawler/kerf">GitHub</a> and has 4 stars
+- kerf first developed in <a href="../lists/originCommunities.html#httpsGithubComKevinlawlerKerfIssues">https://github.com/kevinlawler/kerf/issues</a>
+- Read more about kerf on the web: 1.
+ http://kerfsoftware.com/ 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ [100] + [0, 10, 20]
+
+endColumns
+
+keyboardNav rapidbatch.html devicetree.html
+
+import ../footer.scroll

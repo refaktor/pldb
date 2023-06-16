@@ -1,0 +1,57 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title SpiderBasic
+
+title SpiderBasic - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="ecsharp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="schematron.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/spiderbasic.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.spiderbasic.com/" class="material-symbols-outlined">home</a> <a href="https://github.com/fantaisie-software/purebasic" class="material-symbols-outlined">code</a> <a href="/edit.html?id=spiderbasic" class="material-symbols-outlined">edit</a></div>
+
+* SpiderBasic is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+codeWithHeader Source code:
+ git clone https://github.com/fantaisie-software/purebasic
+
+dashboard
+ #1668 <span title="TotalRank: 2181 Jobs: 103 Users: 1092 Facts: 1662 Links: 986">on PLDB</span>
+ 8 Years Old
+
+* PureBasic OpenSource Projects
+
+- SpiderBasic website
+ https://www.spiderbasic.com/
+- SpiderBasic is developed on <a href="https://github.com/fantaisie-software/purebasic">GitHub</a> and has 72 stars
+- SpiderBasic first developed in <a href="../lists/originCommunities.html#fantaisieSoftware">Fantaisie Software</a>
+- file extensions for SpiderBasic include pb
+
+<br>
+
+<div class="keywordsBlock">
+codeWithHeader SpiderBasic <a href="../lists/keywords.html?filter=spiderbasic">Keywords</a>
+ And Array Bool Break CallDebugger Case ClearStructure CompilerCase CompilerElse CompilerElseIf CompilerEndIf CompilerEndSelect CompilerIf CompilerSelect Continue CopyStructure Data DataSection Debug DebugLevel Declare DeclareModule Default Define Defined Dim DisableExplicit DisableDebugger DisableJS Else ElseIf EnableASM EnableExplicit EnableDebugger EnableJS End EndDataSection EndDeclareModule EndEnumeration EndIf EndImport EndInterface EndMacro EndModule EndProcedure EndSelect EndStructure EndWith Enumeration Extends For ForEach Forever Global Import IncludeFile IncludePath Interface List Macro MacroExpandedCount Map Module NewList NewMap Next Not OffsetOf Or Procedure ProcedureReturn Protected Prototype Read ReDim Repeat Restore Runtime Select Shared SizeOf Static Step Structure Subsystem Swap To TypeOf UndefineMacro Until UnuseModule UseModule Wend With While XIncludeFile XOr
+</div>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Inheritance
+  FeatureLink ../features/hasInheritance.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+
+keyboardNav ecsharp.html schematron.html
+
+import ../footer.scroll

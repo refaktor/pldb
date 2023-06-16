@@ -1,0 +1,46 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title OpenComal
+
+title OpenComal - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="enterprise-mashup-markup-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="nylo.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/opencomal.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.josvisser.nl/opencomal" class="material-symbols-outlined">home</a> <a href="https://github.com/poldy/OpenCOMAL" class="material-symbols-outlined">code</a> <a href="/edit.html?id=opencomal" class="material-symbols-outlined">edit</a></div>
+
+* OpenComal is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2006 by Christian Pietsch.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
+ link ../lists/creators.html#christianPietsch Christian Pietsch
+
+codeWithHeader Source code:
+ git clone https://github.com/poldy/OpenCOMAL
+
+dashboard
+ #2008 <span title="TotalRank: 2531 Jobs: 103 Users: 1997 Facts: 1442 Links: 986">on PLDB</span>
+ 17 Years Old
+
+* OpenCOMAL aims to be a compliant Common COMAL interpreter. It has been tested on Linux and macOS.
+
+- OpenComal website
+ https://www.josvisser.nl/opencomal
+- OpenComal is developed on <a href="https://github.com/poldy/OpenCOMAL">GitHub</a> and has 18 stars
+- OpenComal first developed in <a href="../lists/originCommunities.html#httpWwwJosvisserNl">http://www.josvisser.nl</a>
+- OpenComal on HOPL
+ https://hopl.info/showlanguage.prx?exp=8618
+- Read more about OpenComal on the web: 1.
+ https://slackbuilds.org/repository/14.2/development/opencomal 1.
+
+<br>
+
+endColumns
+
+keyboardNav enterprise-mashup-markup-language.html nylo.html
+
+import ../footer.scroll

@@ -1,0 +1,72 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title CSVw
+
+title CSVw - Data validation language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="bitbake.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="eff.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/csvw.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/w3c/csvw" class="material-symbols-outlined">code</a> <a href="/edit.html?id=csvw" class="material-symbols-outlined">edit</a></div>
+
+* CSVw, aka CSV on the Web, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+dataValidationLanguage">data validation language</a> created in 2014 by Ivan Herman.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
+ link ../lists/creators.html#ivanHerman Ivan Herman
+
+codeWithHeader Source code:
+ git clone https://github.com/w3c/csvw
+
+dashboard
+ #1128 <span title="TotalRank: 1683 Jobs: 103 Users: 958 Facts: 622 Links: 986">on PLDB</span>
+ 9 Years Old
+
+* The CSV on the Web Working Group has developed standard ways to express useful metadata about CSV files and other kinds of tabular data.
+
+- CSVw is developed on <a href="https://github.com/w3c/csvw">GitHub</a> and has 145 stars
+- CSVw first developed in <a href="../lists/originCommunities.html#csvOnTheWebWorkingGroup">CSV on the Web Working Group</a> and <a href="../lists/originCommunities.html#csvOnTheWebCommunityGroup">CSV on the Web Community Group</a>
+- Read more about CSVw on the web: 1.
+ https://www.w3.org/TR/tabular-data-primer/ 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ {
+   &quot;@context&quot;: &quot;http://www.w3.org/ns/csvw&quot;,
+   &quot;url&quot;: &quot;countries.csv&quot;,
+   &quot;tableSchema&quot;: {
+     &quot;aboutUrl&quot;: &quot;http://example.org/country/{code}&quot;,
+     &quot;columns&quot;: [{
+       &quot;titles&quot;: &quot;country&quot;,
+       &quot;name&quot;: &quot;code&quot;
+     },{
+       &quot;titles&quot;: &quot;country group&quot;
+     },{
+       &quot;titles&quot;: &quot;name (en)&quot;,
+       &quot;lang&quot;: &quot;en&quot;
+     },{
+       &quot;titles&quot;: &quot;name (fr)&quot;,
+       &quot;lang&quot;: &quot;fr&quot;
+     },{
+       &quot;titles&quot;: &quot;name (de)&quot;,
+       &quot;lang&quot;: &quot;de&quot;
+     },{
+       &quot;titles&quot;: &quot;latitude&quot;,
+       &quot;datatype&quot;: &quot;number&quot;
+     },{
+       &quot;titles&quot;: &quot;longitude&quot;,
+       &quot;datatype&quot;: &quot;number&quot;
+     }]
+   }
+ }
+
+endColumns
+
+keyboardNav bitbake.html eff.html
+
+import ../footer.scroll

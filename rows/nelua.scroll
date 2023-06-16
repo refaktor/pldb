@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Nelua
+
+title Nelua - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="manticore.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="please.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/nelua.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://riju.codes/nelua" class="material-symbols-outlined">terminal</a> <a href="/edit.html?id=nelua" class="material-symbols-outlined">edit</a></div>
+
+* Nelua is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+dashboard
+ #2718 <span title="TotalRank: 3393 Jobs: 103 Users: 2831 Facts: 2304 Links: 986">on PLDB</span>
+ 4 Years Old
+
+* Try now: <a href="https://riju.codes/nelua">Riju</a>
+
+* 
+
+- Nelua first developed in <a href="../lists/originCommunities.html#httpsGithubComEdubartNeluaLangIssues">https://github.com/edubart/nelua-lang/issues</a>
+- Nelua compiles to <a href="c.html">C</a>
+- See also: (1 related languages)<a href="lua.html">Lua</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://riju.codes/nelua'>Riju</a>:
+ print &#39;Hello, world!&#39;
+ 
+
+endColumns
+
+keyboardNav manticore.html please.html
+
+import ../footer.scroll

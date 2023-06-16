@@ -1,0 +1,44 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title contracts.coffee
+
+title contracts.coffee - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="bosque.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ante.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/contracts.coffee.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://disnet.github.io/contracts.coffee/" class="material-symbols-outlined">home</a> <a href="https://github.com/disnet/contracts.coffee" class="material-symbols-outlined">code</a> <a href="/edit.html?id=contracts.coffee" class="material-symbols-outlined">edit</a></div>
+
+* contracts.coffee is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2011 by Tim Disney.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
+ link ../lists/creators.html#timDisney Tim Disney
+
+codeWithHeader Source code:
+ git clone https://github.com/disnet/contracts.coffee
+
+dashboard
+ #681 <span title="TotalRank: 1255 Jobs: 103 Users: 166 Facts: 1876 Links: 986">on PLDB</span>
+ 12 Years Old
+
+* 
+
+- contracts.coffee website
+ https://disnet.github.io/contracts.coffee/
+- contracts.coffee is developed on <a href="https://github.com/disnet/contracts.coffee">GitHub</a> and has 217 stars
+- contracts.coffee first developed in <a href="../lists/originCommunities.html#httpsWwwDisnetdevCom">https://www.disnetdev.com/</a>
+- file extensions for contracts.coffee include coffee
+- contracts.coffee compiles to <a href="javascript.html">JavaScript</a>
+
+<br>
+
+endColumns
+
+keyboardNav bosque.html ante.html
+
+import ../footer.scroll

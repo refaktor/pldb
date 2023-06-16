@@ -1,0 +1,35 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title komodo-editor
+
+title komodo-editor - Editor
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="intellijidea-editor.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pycharm-editor.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/komodo-editor.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=komodo-editor" class="material-symbols-outlined">edit</a></div>
+
+* komodo-editor is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+editor">editor</a> created in 2007.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2007 2007
+
+dashboard
+ #3896 on PLDB
+ 16 Years Old
+
+* 
+
+- komodo-editor first developed in <a href="../lists/originCommunities.html#httpsGithubComKomodo">https://github.com/Komodo</a>
+
+<br>
+
+endColumns
+
+keyboardNav intellijidea-editor.html pycharm-editor.html
+
+import ../footer.scroll

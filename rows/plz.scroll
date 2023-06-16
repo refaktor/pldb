@@ -1,0 +1,94 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title PLZ
+
+title PLZ - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="dslx.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="linda.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/plz.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=plz" class="material-symbols-outlined">edit</a></div>
+
+* PLZ is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1979.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1979 1979
+
+dashboard
+ #1107 <span title="TotalRank: 1664 Jobs: 103 Users: 2831 Facts: 575 Links: 986">on PLDB</span>
+ 44 Years Old
+
+* PLZ/SYS is intended to aid the implementation of system programs for microcomputers. PLZ/SYS is a synthesis of concepts from contemporary programming languages and compilers--the language Pascal has had the most notable influence on the overall design and implementation of PLZ/SYS.
+
+- PLZ first developed in <a href="../lists/originCommunities.html#zilogInc">Zilog, Inc</a>
+- PLZ on HOPL
+ https://hopl.info/showlanguage.prx?exp=865
+- Read more about PLZ on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/a6f73d43d666ff8763b9cc97ce408243c9b95038 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ bubble sort MODULE
+ 
+ CONSTANT
+  false : .. 0
+  true := 1
+  
+ EXTERNAL
+  printarray PROCEDURE (first tWORD count BYTE)
+  
+ INTERNAL
+  a ARRAY [10 WORD]
+   := [33 10 2000 400 410
+    3 3 33 500 1999]
+  sort PROCEDURE (n BYTE)
+   LOCAL
+    i j limit BYTE
+    temp WORD
+    switched BYTE
+   ENTRY
+   DO
+    switched := false
+     i := 0
+     limit := n-2
+     DO
+      IF i &gt; limit THEN EXIT FI
+      j := i + 1
+      IF a[i] &gt; a[j] THEN
+       switched := true
+       temp :&#39;&quot; a [i)
+       a[i] := a[j]
+       a [j] : .. temp
+      FI
+      i +- 1
+    OD
+    IF switched .. false THEN RETURN FI
+   END sort
+ GLOBAL
+  main PROCEDURE
+   ENTRY
+    sort (10)
+    printarray(ta[O] 10)
+   END main
+ END bubble sort
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Booleans
+  FeatureLink ../features/hasBooleans.html
+  Supported <span class="hasFeature">✓</span>
+  Token true false
+  Example
+
+keyboardNav dslx.html linda.html
+
+import ../footer.scroll

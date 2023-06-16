@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title LDL1
+
+title LDL1 - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="lcl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="legol.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ldl1.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=ldl1" class="material-symbols-outlined">edit</a></div>
+
+* LDL1 is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1987.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1987 1987
+
+dashboard
+ #3804 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 36 Years Old
+
+* 
+
+- LDL1 first developed in <a href="../lists/originCommunities.html#moc">MOC</a>
+- LDL1 on HOPL
+ https://hopl.info/showlanguage.prx?exp=1332
+- Read more about LDL1 on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/e90830263f9c2f9cb62d466cb547d021d12cfe85 1.
+
+<br>
+
+endColumns
+
+keyboardNav lcl.html legol.html
+
+import ../footer.scroll

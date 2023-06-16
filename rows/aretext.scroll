@@ -1,0 +1,51 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title aretext
+
+title aretext - Editor
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="kalyn.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="obsidian.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/aretext.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://aretext.org" class="material-symbols-outlined">home</a> <a href="https://github.com/aretext/aretext" class="material-symbols-outlined">code</a> <a href="https://aretext.org/docs/#getting-started" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=aretext" class="material-symbols-outlined">edit</a></div>
+
+* aretext is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+editor">editor</a> created in 2020 by Will Daly.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2020 2020
+ link ../lists/creators.html#willDaly Will Daly
+
+codeWithHeader Source code:
+ git clone https://github.com/aretext/aretext
+
+dashboard
+ #1989 on PLDB
+ 3 Years Old
+
+* Minimalist text editor with vim-compatible key bindings.
+
+- aretext website
+ https://aretext.org
+- aretext is developed on <a href="https://github.com/aretext/aretext">GitHub</a> and has 96 stars
+- aretext docs
+ https://aretext.org/docs/#getting-started
+- Video demo of aretext
+ https://raw.githubusercontent.com/aretext/aretext/main/screencast.gif
+- aretext first developed in <a href="../lists/originCommunities.html#httpsDevNonsenseCom">https://dev-nonsense.com</a>
+- aretext is written in <a href="go.html">Go</a>
+- aretext cheat sheet
+ https://aretext.org/docs/cheat-sheet.html
+- Read more about aretext on the web: 1.
+ https://aretext.org/docs/#getting-started 1.
+
+<br>
+
+endColumns
+
+keyboardNav kalyn.html obsidian.html
+
+import ../footer.scroll

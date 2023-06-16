@@ -1,0 +1,51 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Copilot
+
+title Copilot - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="beautiful-report-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lain.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/copilot.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://copilot-language.github.io/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=copilot" class="material-symbols-outlined">edit</a></div>
+
+* Copilot is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2021.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2021 2021
+
+dashboard
+ #2356 <span title="TotalRank: 2866 Jobs: 103 Users: 2435 Facts: 1777 Links: 986">on PLDB</span>
+ 2 Years Old
+
+* Copilot is a realtime programming language and Runtime Verification framework. It allows users to write concise programs in a simple but powerful way using a stream-based approach. Programs can be interpreted for testing, or translated C99 code to be incorporated in a project, or as a standalone application. The C99 backend ensures us that the output is constant in memory and time, making it suitable for systems with hard realtime requirements.
+
+- Copilot website
+ https://copilot-language.github.io/
+- Copilot first developed in <a href="../lists/originCommunities.html#nasa">NASA</a> and <a href="../lists/originCommunities.html#httpsGithubComCopilotLanguage">https://github.com/Copilot-Language</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ -- Raw temperature from sensor, range -50.0C to 100.0C.
+ temp :: Stream Word8
+ temp = extern &quot;temperature&quot; Nothing
+ 
+ -- Transform the temperature to Celsius.
+ ctemp :: Stream Float
+ ctemp = (unsafeCast temp) * (150.0 / 255.0) - 50.0
+ 
+ -- Bind two triggers with a 3.0C hysteresis.
+ spec = do
+   trigger &quot;heaton&quot;  (ctemp &lt; 18.0) [arg ctemp]
+   trigger &quot;heatoff&quot; (ctemp &gt; 21.0) [arg ctemp]
+
+endColumns
+
+keyboardNav beautiful-report-language.html lain.html
+
+import ../footer.scroll

@@ -1,0 +1,60 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Toy
+
+title Toy - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="parlog.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="blz.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/toy-lang.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://toylang.com/" class="material-symbols-outlined">home</a> <a href="https://github.com/Ratstail91/Toy" class="material-symbols-outlined">code</a> <a href="/edit.html?id=toy-lang" class="material-symbols-outlined">edit</a></div>
+
+* Toy is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018 by Kayne Ruse.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#kayneRuse Kayne Ruse
+
+codeWithHeader Source code:
+ git clone https://github.com/Ratstail91/Toy
+
+dashboard
+ #1658 <span title="TotalRank: 2176 Jobs: 103 Users: 1899 Facts: 1087 Links: 986">on PLDB</span>
+ 5 Years Old
+
+* A toy programming language.
+
+- Toy website
+ https://toylang.com/
+- Toy is developed on <a href="https://github.com/Ratstail91/Toy">GitHub</a> and has 40 stars
+- Toy is written in <a href="c.html">C</a>
+- <a href="https://toylang.com/">toylang.com</a> was registered in 2019
+
+<br>
+
+codeWithHeader Example from the web:
+ if (1 &lt; 2) {
+  print &quot;this will print to the console&quot;;
+ } else {
+  print &quot;this will not&quot;;
+ }
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token print
+  Example
+
+keyboardNav parlog.html blz.html
+
+import ../footer.scroll

@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Statemate
+
+title Statemate - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="squidconf.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="unicode-lang.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/statemate.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=statemate" class="material-symbols-outlined">edit</a></div>
+
+* Statemate is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1998.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1998 1998
+
+dashboard
+ #4314 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 2912 Links: 986">on PLDB</span>
+ 25 Years Old
+
+* 
+
+- Statemate on HOPL
+ https://hopl.info/showlanguage.prx?exp=2535
+- Read more about Statemate on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/23937871cf955d5ea9a48bd419465e3b3a6ff1c0 1.
+
+<br>
+
+endColumns
+
+keyboardNav squidconf.html unicode-lang.html
+
+import ../footer.scroll

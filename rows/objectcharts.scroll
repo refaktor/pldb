@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Objectcharts
+
+title Objectcharts - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="obj2.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="objectworld.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/objectcharts.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=objectcharts" class="material-symbols-outlined">edit</a></div>
+
+* Objectcharts is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1992.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1992 1992
+
+dashboard
+ #3905 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 31 Years Old
+
+* 
+
+- Objectcharts first developed in <a href="../lists/originCommunities.html#fziForschungszentrumInformatik">FZI Forschungszentrum Informatik</a>
+- Objectcharts on HOPL
+ https://hopl.info/showlanguage.prx?exp=7789
+- Read more about Objectcharts on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/e55bd50560451f344e31e48c3226b7d1cf1217a1 1.
+
+<br>
+
+endColumns
+
+keyboardNav obj2.html objectworld.html
+
+import ../footer.scroll

@@ -1,0 +1,53 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title SaltStack
+
+title SaltStack - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="datalog.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hypercard.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/saltstack.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://repo.saltstack.com/" class="material-symbols-outlined">home</a> <a href="https://github.com/saltstack/salt" class="material-symbols-outlined">code</a> <a href="/edit.html?id=saltstack" class="material-symbols-outlined">edit</a></div>
+
+* SaltStack is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2011 by Thomas S Hatch.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
+ link ../lists/creators.html#thomasSHatch Thomas S Hatch
+
+codeWithHeader Source code:
+ git clone https://github.com/saltstack/salt
+
+dashboard
+ #333 <span title="TotalRank: 774 Jobs: 103 Users: 61 Facts: 610 Links: 986">on PLDB</span>
+ 12 Years Old
+ 4k <span title="SaltStack repos on GitHub.">Repos</span>
+
+* Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
+
+- SaltStack website
+ https://repo.saltstack.com/
+- SaltStack is developed on <a href="https://github.com/saltstack/salt">GitHub</a> and has 12,572 stars
+- There are at least 4,398 SaltStack repos on <a href="https://github.com/search?q=language:SaltStack">GitHub</a>
+- SaltStack first developed in <a href="../lists/originCommunities.html#httpsGithubComSaltstack">https://github.com/saltstack</a>
+- file extensions for SaltStack include sls
+- The  Google BigQuery Public Dataset GitHub snapshot shows 1k users using SaltStack in 2k repos on <a href="https://api.github.com/search/repositories?q=language:SaltStack">GitHub</a>
+- GitHub supports <a href="https://github.com/saltstack/atom-salt" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for SaltStack
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/saltstack/atom-salt'>Linguist</a>:
+ base:
+   &#39;*&#39;:
+     - packages
+     - coffeestats
+
+endColumns
+
+keyboardNav datalog.html hypercard.html
+
+import ../footer.scroll

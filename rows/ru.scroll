@@ -1,0 +1,48 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title ru
+
+title ru - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="nvdl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="chrome-programming-language.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ru.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://ru-lang.org" class="material-symbols-outlined">home</a> <a href="https://github.com/jcouyang/ru" class="material-symbols-outlined">code</a> <a href="/edit.html?id=ru" class="material-symbols-outlined">edit</a></div>
+
+* ru is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+codeWithHeader Source code:
+ git clone https://github.com/jcouyang/ru
+
+dashboard
+ #1940 <span title="TotalRank: 2463 Jobs: 103 Users: 1899 Facts: 1374 Links: 986">on PLDB</span>
+ 8 Years Old
+
+* clojurize javascript
+
+- ru website
+ http://ru-lang.org
+- ru is developed on <a href="https://github.com/jcouyang/ru">GitHub</a> and has 34 stars
+- ru first developed in <a href="../lists/originCommunities.html#httpsGithubComJcouyangRuIssues">https://github.com/jcouyang/ru/issues</a>
+- <a href="http://ru-lang.org">ru-lang.org</a> was registered in 2021
+
+<br>
+
+endColumns
+
+## HackerNews discussions of ru
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: 入(rù-lang) – Clojurized JavaScript|https://news.ycombinator.com/item?id=9749286|06/20/2015|51|8
+
+keyboardNav nvdl.html chrome-programming-language.html
+
+import ../footer.scroll

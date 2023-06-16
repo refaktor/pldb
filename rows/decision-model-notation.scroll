@@ -1,0 +1,33 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Decision Model & Notation
+
+title Decision Model & Notation - Notation
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="cymbal.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="dinnerbell.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/decision-model-notation.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=decision-model-notation" class="material-symbols-outlined">edit</a></div>
+
+* Decision Model & Notation is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+notation">notation</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+dashboard
+ #3165 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 4070 Links: 986">on PLDB</span>
+ 8 Years Old
+
+* Decision Model and Notation (DMN) is an industry standard for modeling and executing decisions that are determined by business rules.
+
+<br>
+
+endColumns
+
+keyboardNav cymbal.html dinnerbell.html
+
+import ../footer.scroll

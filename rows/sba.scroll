@@ -1,0 +1,42 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title SBA
+
+title SBA - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="rbscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="scan.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/sba.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=sba" class="material-symbols-outlined">edit</a></div>
+
+* SBA is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1977 by Moshe M. Zloof and S. Peter de Jong.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1977 1977
+ link ../lists/creators.html#mosheMZloof Moshe M. Zloof
+ link ../lists/creators.html#sPeterDeJong S. Peter de Jong
+
+dashboard
+ #2721 <span title="TotalRank: 3393 Jobs: 103 Users: 2831 Facts: 2304 Links: 986">on PLDB</span>
+ 46 Years Old
+
+* 
+
+- SBA is a superset of <a href="/rows/query-by-example.html">Query by Example</a>
+- SBA first developed in <a href="../lists/originCommunities.html#internationalBusinessMachinesCorporation">International Business Machines Corporation</a>
+- SBA on HOPL
+ https://hopl.info/showlanguage.prx?exp=4747
+- Read more about SBA on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/143c5493bb3b8cb14ea07f77b6aa02a2e79ebe14 1.
+
+<br>
+
+endColumns
+
+keyboardNav rbscript.html scan.html
+
+import ../footer.scroll

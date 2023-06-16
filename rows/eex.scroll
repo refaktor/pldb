@@ -1,0 +1,78 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title EEX
+
+title EEX - Template language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="gff-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jsx.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/eex.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://hexdocs.pm/eex/EEx.html" class="material-symbols-outlined">home</a> <a href="/edit.html?id=eex" class="material-symbols-outlined">edit</a></div>
+
+* EEX is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+template">template language</a> created in 2012.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+
+dashboard
+ #1053 <span title="TotalRank: 1618 Jobs: 103 Users: 1125 Facts: 529 Links: 986">on PLDB</span>
+ 11 Years Old
+ 34 <span title="EEX repos on GitHub.">Repos</span>
+
+* EEx stands for Embedded Elixir. It allows you to embed Elixir code inside a string in a robust way.
+
+- EEX website
+ https://hexdocs.pm/eex/EEx.html
+- There are at least 34 EEX repos on <a href="https://github.com/search?q=language:HTML+EEX">GitHub</a>
+- EEX first developed in <a href="../lists/originCommunities.html#elixirTeam">Elixir Team</a>
+- file extensions for EEX include eex, htmlheex and htmlleex
+- GitHub supports <a href="https://github.com/elixir-lang/elixir-tmbundle" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for EEX
+- Read more about EEX on the web: 1.
+ https://github.com/elixir-lang/elixir/commits/master/lib/eex/lib/eex.ex 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ &lt;%= if true do %&gt;
+   It is obviously true
+ &lt;% else %&gt;
+   This will never appear
+ &lt;% end %&gt;
+
+codeWithHeader Example from <a href='https://github.com/elixir-lang/elixir-tmbundle'>Linguist</a>:
+ &lt;h1&gt;Listing Books&lt;/h1&gt;
+  
+ &lt;table&gt;
+   &lt;tr&gt;
+     &lt;th&gt;Title&lt;/th&gt;
+     &lt;th&gt;Summary&lt;/th&gt;
+     &lt;th&gt;&lt;/th&gt;
+     &lt;th&gt;&lt;/th&gt;
+     &lt;th&gt;&lt;/th&gt;
+   &lt;/tr&gt;
+ 
+ &lt;%= for book &lt;- @books do %&gt;
+   &lt;tr&gt;
+     &lt;%# comment %&gt;
+     &lt;td&gt;&lt;%= book.title %&gt;&lt;/td&gt;
+     &lt;td&gt;&lt;%= book.content %&gt;&lt;/td&gt;
+     &lt;td&gt;&lt;%= link &quot;Show&quot;, to: book_path(@conn, :show, book) %&gt;&lt;/td&gt;
+     &lt;td&gt;&lt;%= link &quot;Edit&quot;, to: book_path(@conn, :edit, book) %&gt;&lt;/td&gt;
+     &lt;td&gt;&lt;%= link &quot;Delete&quot;, to: book_path(@conn, :delete, book), method: :delete, data: [confirm: &quot;Are you sure?&quot;] %&gt;&lt;/td&gt;
+   &lt;/tr&gt;
+ &lt;% end %&gt;
+ &lt;/table&gt;
+  
+ &lt;br /&gt;
+  
+ &lt;%= link &quot;New book&quot;, to: book_path(@conn, :new) %&gt;
+
+endColumns
+
+keyboardNav gff-format.html jsx.html
+
+import ../footer.scroll

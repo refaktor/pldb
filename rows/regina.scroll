@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Regina
+
+title Regina - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="real-time-mentat.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="regulus.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/regina.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=regina" class="material-symbols-outlined">edit</a></div>
+
+* Regina is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2001.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2001 2001
+
+dashboard
+ #3112 <span title="TotalRank: 3878 Jobs: 103 Users: 2831 Facts: 2789 Links: 986">on PLDB</span>
+ 22 Years Old
+
+* 
+
+- Regina first developed in <a href="../lists/originCommunities.html#httpsSourceforgeNetPReginaRexxListTickets">https://sourceforge.net/p/regina-rexx/_list/tickets</a>
+- Regina on HOPL
+ https://hopl.info/showlanguage.prx?exp=2444
+- Read more about Regina on the web: 1.
+ https://sourceforge.net/projects/regina-rexx/ 1.
+
+<br>
+
+endColumns
+
+keyboardNav real-time-mentat.html regulus.html
+
+import ../footer.scroll

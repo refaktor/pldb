@@ -1,0 +1,68 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title spiral
+
+title spiral - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="potion.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="xbasic.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/spiral.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/mrakgr/The-Spiral-Language" class="material-symbols-outlined">code</a> <a href="/edit.html?id=spiral" class="material-symbols-outlined">edit</a></div>
+
+* spiral is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2017.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+
+codeWithHeader Source code:
+ git clone https://github.com/mrakgr/The-Spiral-Language
+
+dashboard
+ #1113 <span title="TotalRank: 1671 Jobs: 103 Users: 582 Facts: 1198 Links: 986">on PLDB</span>
+ 6 Years Old
+
+* Functional language with intensional polymorphism and first-class staging.
+
+- spiral is developed on <a href="https://github.com/mrakgr/The-Spiral-Language">GitHub</a> and has 847 stars
+
+<br>
+
+codeWithHeader Example from the web:
+ inl x = 2 // Define a 64-bit integer in Spiral.
+ inl mult a b = a * b
+ inl f g = g 1 2, g 3.0 4.0 // Would give a type error in F#.
+ f mult
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token //
+  Example
+   // A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav potion.html xbasic.html
+
+import ../footer.scroll

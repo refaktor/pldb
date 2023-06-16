@@ -1,0 +1,62 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Ante
+
+title Ante - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="contracts.coffee.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="icd.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ante.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://antelang.org" class="material-symbols-outlined">home</a> <a href="https://riju.codes/ante" class="material-symbols-outlined">terminal</a> <a href="https://github.com/jfecher/ante" class="material-symbols-outlined">code</a> <a href="/edit.html?id=ante" class="material-symbols-outlined">edit</a></div>
+
+* Ante is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015 by Jake Fecher.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+ link ../lists/creators.html#jakeFecher Jake Fecher
+
+codeWithHeader Source code:
+ git clone https://github.com/jfecher/ante
+
+dashboard
+ #682 <span title="TotalRank: 1255 Jobs: 103 Users: 418 Facts: 734 Links: 986">on PLDB</span>
+ 8 Years Old
+
+* Try now: <a href="https://riju.codes/ante">Riju</a> · <a href="https://tio.run/#ante">TIO</a>
+
+* <a href='https://github.com/jfecher/ante'>Ante</a> is a compiled systems language focusing on providing extreme extensibility through the use of a compile-time API. Using such an API, compiler extensions can be created within the program itself, allowing for the addition of a garbage collector, ownership system, type system changes, etc.
+
+- Ante website
+ http://antelang.org
+- Ante is developed on <a href="https://github.com/jfecher/ante">GitHub</a> and has 1,420 stars
+- <a href="http://antelang.org">antelang.org</a> was registered in 2018
+
+<br>
+
+codeWithHeader Example from <a href='https://riju.codes/ante'>Riju</a>:
+ print &quot;Hello, world!&quot;
+ 
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/a/Ante.ante'>hello-world</a>:
+ 9♦8♥J♦A♦2♣3♥7♠J♦A♦7♦J♦J♦A♦3♦J♦5♥6♦4♥J♥A♥6♠6♠J♥A♦8♦J♦A♦8♠J♦A♦3♦J♦A♦6♠J♦A♦8♠J♦A♥3♦2♠J♥A♥2♣6♠J♥
+ 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token print
+  Example
+
+keyboardNav contracts.coffee.html icd.html
+
+import ../footer.scroll

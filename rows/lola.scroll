@@ -1,0 +1,65 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title LOLA
+
+title LOLA - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="verifpal.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="struql.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lola.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=lola" class="material-symbols-outlined">edit</a></div>
+
+* LOLA is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1991.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1991 1991
+
+dashboard
+ #1484 <span title="TotalRank: 2001 Jobs: 103 Users: 2831 Facts: 912 Links: 986">on PLDB</span>
+ 32 Years Old
+
+* 
+
+- LOLA first developed in <a href="../lists/originCommunities.html#technischeUniversitatMunchen">Technische Universitat Munchen</a>
+- LOLA on HOPL
+ https://hopl.info/showlanguage.prx?exp=3564
+- Read more about LOLA on the web: 1.
+ https://docplayer.net/10592589-9-amos-a-natural-language-parser-implemented-as-a-deductive-database-in-lola.html 1.
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/l/LOLA.lola'>hello-world</a>:
+ :H,:e,2:l,,:o,:&#39;,:_,:w,:o,:r,:l,:d,:!,:%,:\\b,\\a,,,,,,,,,,,,,,
+ 
+ +\\\cb,ba,,
+ *\\ba+,,\\a,
+ :\\\a\c,c,
+ 
+ H*+8,,8,
+ e+d,
+ l8+,d,
+ o3+,l,
+ &#39;_+,^,
+ w8+,o,
+ r+^,+,e,
+ d2%,
+ _52,
+ !+_,
+ 
+ 2\\bba,,
+ 3+2,
+ 5+22,,
+ 832,
+ %*2,5,
+ ^2*2,,3,
+ 
+
+endColumns
+
+keyboardNav verifpal.html struql.html
+
+import ../footer.scroll

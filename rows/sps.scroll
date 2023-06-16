@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Symbolic Programming System
+
+title Symbolic Programming System - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="splaw.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="squrl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/sps.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=sps" class="material-symbols-outlined">edit</a></div>
+
+* Symbolic Programming System, aka Symbolic Programming System, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1959.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1959 1959
+
+dashboard
+ #3214 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 4070 Links: 986">on PLDB</span>
+ 64 Years Old
+
+* 
+
+- Symbolic Programming System on HOPL
+ https://hopl.info/showlanguage.prx?exp=2524
+- Read more about Symbolic Programming System on the web: 1.
+ http://bitsavers.org/pdf/ibm/1620/C26-5600-1_Symbolic_Programming_System_Apr63.pdf 1.
+
+<br>
+
+endColumns
+
+keyboardNav splaw.html squrl.html
+
+import ../footer.scroll

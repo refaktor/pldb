@@ -1,0 +1,184 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title EDN
+
+title EDN - Data notation
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="click.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ibm-rpg.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/edn.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/edn-format/edn" class="material-symbols-outlined">code</a> <a href="https://learnxinyminutes.com/docs/edn/#:~:text=Extensible%20Data%20Notation%20(EDN)%20is,restricted%20to%20data%2C%20no%20code." class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=edn" class="material-symbols-outlined">edit</a></div>
+
+* EDN, aka Extensible Data Notation, is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+dataNotation">data notation</a> created in 2012.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+
+codeWithHeader Source code:
+ git clone https://github.com/edn-format/edn
+
+dashboard
+ #217 <span title="TotalRank: 574 Jobs: 103 Users: 295 Facts: 176 Links: 667">on PLDB</span>
+ 11 Years Old
+ 0 <span title="EDN repos on GitHub.">Repos</span>
+
+* Extensible Data Notation
+
+- EDN is developed on <a href="https://github.com/edn-format/edn">GitHub</a> and has 2,351 stars
+- EDN docs
+ https://learnxinyminutes.com/docs/edn/#:~:text=Extensible%20Data%20Notation%20(EDN)%20is,restricted%20to%20data%2C%20no%20code.
+- There are at least 0 EDN repos on <a href="https://github.com/search?q=language:edn">GitHub</a>
+- EDN first developed in <a href="../lists/originCommunities.html#httpsGithubComEdnFormat">https://github.com/edn-format</a>
+- file extensions for EDN include edn
+- GitHub supports <a href="https://github.com/atom/language-clojure" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for EDN
+
+<br>
+
+codeWithHeader Example from the web:
+ {:a 1, &quot;foo&quot; :bar, [1 2 3] four}
+
+codeWithHeader Example from <a href='https://github.com/atom/language-clojure'>Linguist</a>:
+ [{:db/id #db/id [db.part/db]
+   :db/ident :object/name
+   :db/doc &quot;Name of a Solar System object.&quot;
+   :db/valueType :db.type/string
+   :db/index true
+   :db/cardinality :db.cardinality/one
+   :db.install/_attribute :db.part/db}
+  {:db/id #db/id [db.part/db]
+   :db/ident :object/meanRadius
+   :db/doc &quot;Mean radius of an object.&quot;
+   :db/index true
+   :db/valueType :db.type/double
+   :db/cardinality :db.cardinality/one
+   :db.install/_attribute :db.part/db}
+  {:db/id #db/id [db.part/db]
+   :db/ident :data/source
+   :db/doc &quot;Source of the data in a transaction.&quot;
+   :db/valueType :db.type/string
+   :db/index true
+   :db/cardinality :db.cardinality/one
+   :db.install/_attribute :db.part/db}]
+ [{:db/id #db/id [db.part/tx]
+   :db/doc &quot;Solar system objects bigger than Pluto.&quot;}
+  {:db/id #db/id [db.part/tx]
+   :data/source &quot;http://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size&quot;}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Sun&quot;
+   :object/meanRadius 696000.0}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Jupiter&quot;
+   :object/meanRadius 69911.0}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Saturn&quot;
+   :object/meanRadius 58232.0}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Uranus&quot;
+   :object/meanRadius 25362.0}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Neptune&quot;
+   :object/meanRadius 24622.0}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Earth&quot;
+   :object/meanRadius 6371.0}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Venus&quot;
+   :object/meanRadius 6051.8}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Mars&quot;
+   :object/meanRadius 3390.0}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Ganymede&quot;
+   :object/meanRadius 2631.2}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Titan&quot;
+   :object/meanRadius 2576.0}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Mercury&quot;
+   :object/meanRadius 2439.7}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Callisto&quot;
+   :object/meanRadius 2410.3}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Io&quot;
+   :object/meanRadius 1821.5}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Moon&quot;
+   :object/meanRadius 1737.1}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Europa&quot;
+   :object/meanRadius 1561.0}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Triton&quot;
+   :object/meanRadius 1353.4}
+  {:db/id #db/id [db.part/user]
+   :object/name &quot;Eris&quot;
+   :object/meanRadius 1163.0}]
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Sets
+  FeatureLink ../features/hasSets.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Maps
+  FeatureLink ../features/hasMaps.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Lists
+  FeatureLink ../features/hasLists.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Floats
+  FeatureLink ../features/hasFloats.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Booleans
+  FeatureLink ../features/hasBooleans.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav click.html ibm-rpg.html
+
+import ../footer.scroll

@@ -1,0 +1,50 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Acme
+
+title Acme - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="serious.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="aspectcpp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/acme.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.cs.cmu.edu/~acme/docs/language_overview.html" class="material-symbols-outlined">home</a> <a href="/edit.html?id=acme" class="material-symbols-outlined">edit</a></div>
+
+* Acme is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1994.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1994 1994
+
+dashboard
+ #1894 <span title="TotalRank: 2395 Jobs: 103 Users: 2435 Facts: 1306 Links: 986">on PLDB</span>
+ 29 Years Old
+
+* Acme is a simple, generic software architecture description language (ADL) that can be used as a common interchange format for architecture design tools and/or as a foundation for developing new architectural design and analysis tools. This site provides an introduction to Acme along with a collection of useful Acme software and technical information.
+
+- Acme website
+ http://www.cs.cmu.edu/~acme/docs/language_overview.html
+- Acme first developed in <a href="../lists/originCommunities.html#carnegieMellonUniversity">Carnegie Mellon University</a> and <a href="../lists/originCommunities.html#universityOfSouthernCalifornia">University of Southern California</a>
+- Acme on HOPL
+ https://hopl.info/showlanguage.prx?exp=4905
+
+<br>
+
+codeWithHeader Example from the web:
+ System simple_cs = {
+    Component client = { Port send-request; };
+    Component server = { Port receive-request; };
+    Connector rpc = { Roels { caller, callee}};
+    Attachments {
+        client.send-request to rpc.caller;
+        server.receive-request to rpc.callee;
+    }
+ }
+
+endColumns
+
+keyboardNav serious.html aspectcpp.html
+
+import ../footer.scroll

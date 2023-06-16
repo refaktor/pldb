@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title coherence
+
+title coherence - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="behavior-markup-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="s-lang.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/coherence.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://coherence-lang.org" class="material-symbols-outlined">home</a> <a href="/edit.html?id=coherence" class="material-symbols-outlined">edit</a></div>
+
+* coherence is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2009.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
+
+dashboard
+ #2176 <span title="TotalRank: 2675 Jobs: 103 Users: 2435 Facts: 1586 Links: 986">on PLDB</span>
+ 14 Years Old
+
+* 
+
+- coherence website
+ http://coherence-lang.org
+- <a href="http://coherence-lang.org">coherence-lang.org</a> was registered in 2020
+
+<br>
+
+endColumns
+
+## HackerNews discussions of coherence
+
+pipeTable
+ title|titleLink|date|score|comments
+ Coherence Language: an experimental continuation of Subtext|https://news.ycombinator.com/item?id=578630|04/25/2009|2|0
+
+keyboardNav behavior-markup-language.html s-lang.html
+
+import ../footer.scroll

@@ -1,0 +1,130 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Omgrofl
+
+title Omgrofl - Esoteric programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="dokuwiki.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fancy.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/omgrofl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://riju.codes/omgrofl" class="material-symbols-outlined">terminal</a> <a href="https://github.com/OlegSmelov/omgrofl-interpreter" class="material-symbols-outlined">code</a> <a href="/edit.html?id=omgrofl" class="material-symbols-outlined">edit</a></div>
+
+* Omgrofl is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+esolang">esoteric programming language</a> created in 2006.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
+
+codeWithHeader Source code:
+ git clone https://github.com/OlegSmelov/omgrofl-interpreter
+
+dashboard
+ #741 <span title="TotalRank: 1305 Jobs: 103 Users: 1943 Facts: 216 Links: 986">on PLDB</span>
+ 17 Years Old
+ 3 <span title="Omgrofl repos on GitHub.">Repos</span>
+
+* Try now: <a href="https://riju.codes/omgrofl">Riju</a>
+
+* Omgrofl interpreter
+
+- Omgrofl is developed on <a href="https://github.com/OlegSmelov/omgrofl-interpreter">GitHub</a> and has 16 stars
+- There are at least 3 Omgrofl repos on <a href="https://github.com/search?q=language:Omgrofl">GitHub</a>
+- Omgrofl first developed in <a href="../lists/originCommunities.html#httpsGithubComOlegSmelovOmgroflInterpreterIssues">https://github.com/OlegSmelov/omgrofl-interpreter/issues</a>
+- file extensions for Omgrofl include omgrofl
+- The  Google BigQuery Public Dataset GitHub snapshot shows 8 users using Omgrofl in 8 repos on <a href="https://api.github.com/search/repositories?q=language:Omgrofl">GitHub</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ lol iz 71
+ wtf lol iz liek 71
+     lmao lol
+ brb
+ w00t Hello, World!
+ rofl lol
+ lol iz 101
+ rofl lol
+ lol iz 108
+ rofl lol
+ rofl lol
+ lool iz 111
+ rofl lool
+ loool iz 44
+ rofl loool
+ loool iz 32
+ rofl loool
+ loool iz 87
+ rofl loool
+ rofl lool
+ lool iz 114
+ rofl lool
+ rofl lol
+ lol iz 100
+ rofl lol
+ lol iz 33
+ rofl lol
+ stfu
+ 
+
+codeWithHeader Example from <a href='https://riju.codes/omgrofl'>Riju</a>:
+ lol iz 72
+ rofl lol
+ lol iz 101
+ rofl lol
+ lol iz 108
+ rofl lol
+ rofl lol
+ lool iz 111
+ rofl lool
+ loool iz 44
+ rofl loool
+ loool iz 32
+ rofl loool
+ loool iz 119
+ rofl loool
+ rofl lool
+ lool iz 114
+ rofl lool
+ rofl lol
+ lol iz 100
+ rofl lol
+ lol iz 33
+ rofl lol
+ lol iz 10
+ rofl lol
+ 
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/o/Omgrofl.omgrofl'>hello-world</a>:
+ lol iz 72
+ rofl lol
+ lol iz 101
+ rofl lol
+ lol iz 108
+ rofl lol
+ rofl lol
+ lool iz 111
+ rofl lool
+ loool iz 44
+ rofl loool
+ loool iz 32
+ rofl loool
+ loool iz 87
+ rofl loool
+ rofl lool
+ lool iz 114
+ rofl lool
+ rofl lol
+ lol iz 100
+ rofl lol
+ lol iz 33
+ rofl lol
+ 
+
+endColumns
+
+keyboardNav dokuwiki.html fancy.html
+
+import ../footer.scroll

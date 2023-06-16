@@ -1,0 +1,137 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title XML
+
+title XML - Data notation
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="cpp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="php.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/xml.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction" class="material-symbols-outlined">menu_book</a> <a href="http://www.cafeconleche.org/mailinglists.html" class="material-symbols-outlined">mail</a> <a href="https://en.wikipedia.org/wiki/XML"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="98.05px" height="98.05px" viewBox="0 0 98.05 98.05" style="enable-background:new 0 0 98.05 98.05;" xml:space="preserve"><path d="M98.023,17.465l-19.584-0.056c-0.004,0.711-0.006,1.563-0.017,2.121c1.664,0.039,5.922,0.822,7.257,4.327L66.92,67.155 c-0.919-2.149-9.643-21.528-10.639-24.02l9.072-18.818c1.873-2.863,5.455-4.709,8.918-4.843l-0.01-1.968L55.42,17.489 c-0.045,0.499,0.001,1.548-0.068,2.069c5.315,0.144,7.215,1.334,5.941,4.508c-2.102,4.776-6.51,13.824-7.372,15.475 c-2.696-5.635-4.41-9.972-7.345-16.064c-1.266-2.823,1.529-3.922,4.485-4.004v-1.981l-21.82-0.067 c0.016,0.93-0.021,1.451-0.021,2.131c3.041,0.046,6.988,0.371,8.562,3.019c2.087,4.063,9.044,20.194,11.149,24.514 c-2.685,5.153-9.207,17.341-11.544,21.913c-3.348-7.43-15.732-36.689-19.232-44.241c-1.304-3.218,3.732-5.077,6.646-5.213 l0.019-2.148L0,17.398c0.005,0.646,0.027,1.71,0.029,2.187c4.025-0.037,9.908,6.573,11.588,10.683 c7.244,16.811,14.719,33.524,21.928,50.349c0.002,0.029,2.256,0.059,2.281,0.008c4.717-9.653,10.229-19.797,15.206-29.56 L63.588,80.64c0.005,0.004,2.082,0.016,2.093,0.007c7.962-18.196,19.892-46.118,23.794-54.933c1.588-3.767,4.245-6.064,8.543-6.194 l0.032-1.956L98.023,17.465z"/></svg></a> <a href="/edit.html?id=xml" class="material-symbols-outlined">edit</a></div>
+
+* XML, aka Extensible Markup Language, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+dataNotation">data notation</a> created in 1996.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1996 1996
+
+dashboard
+ #8 <span title="TotalRank: 25 Jobs: 10 Users: 11 Facts: 46 Links: 4">on PLDB</span>
+ 27 Years Old
+ 3k <span title="XML repos on GitHub.">Repos</span>
+
+monacoEditor xml
+ <?xml version="1.0" encoding="UTF-8"?>
+ <text><![CDATA[Hello World]]></text>
+
+* In computing, Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. The W3C's XML 1.0 Specification and several other related specifications—all of them free open standards—define XML. The design goals of XML emphasize simplicity, generality, and usability across the Internet. Read more on Wikipedia...
+ https://en.wikipedia.org/wiki/XML Read more on Wikipedia...
+
+- XML Wikipedia page
+ https://en.wikipedia.org/wiki/XML
+- XML docs
+ https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction
+- XML specs
+ https://www.w3.org/TR/xml/
+- XML mailing list
+ http://www.cafeconleche.org/mailinglists.html
+- There are at least 3,258 XML repos on <a href="https://github.com/search?q=language:XML">GitHub</a>
+- PLDB estimates there are currently 42k job openings for XML programmers.
+- file extensions for XML include xml, adml, admx, ant, axaml, axml, builds, ccproj, ccxml, clixml, cproject, cscfg, csdef, csl, csproj, ct, depproj, dita, ditamap, ditaval, dllconfig, dotsettings, filters, fsproj, fxml, glade, gml, gmx, grxml, gst, hzp, iml, ivy, jelly, jsproj, kml, launch, mdpolicy, mjml, mm, mod, mxml, natvis, ncl, ndproj, nproj, nuspec, odd, osm, pkgproj, pluginspec, proj, props, ps1xml, psc1, pt, qhelp, rdf, res, resx, rs, rss, sch, scxml, sfproj, shproj, srdf, storyboard, sublime-snippet, targets, tml, ts, tsx, ui, urdf, ux, vbproj, vcxproj, vsixmanifest, vssettings, vstemplate, vxml, wixproj, workflow, wsdl, wsf, wxi, wxl, wxs, x3d, xacro, xaml, xib, xlf, xliff, xmi, xmldist, xmp, xproj, xsd, xspec, xul, zcml, xsl and xslt
+- The  Google BigQuery Public Dataset GitHub snapshot shows 2k users using XML in 3k repos on <a href="https://api.github.com/search/repositories?q=language:XML">GitHub</a>
+- XML on HOPL
+ https://hopl.info/showlanguage.prx?exp=2626
+- <a href="antlr.html">ANTLR</a> <a href="https://github.com/antlr/grammars-v4/tree/master/xml">grammar</a> for XML
+- XML <a href="language-server-protocol.html">LSP</a> <a href="https://github.com/angelozerr/lsp4xml/tree/master/org.eclipse.lsp4xml">implementation</a>
+- <a href="codemirror.html">CodeMirror</a> <a href="https://github.com/codemirror/codemirror5/tree/master/mode/xml">package</a> for syntax highlighting XML
+- <a href="monaco.html">Monaco</a> <a href="https://github.com/microsoft/monaco-editor/tree/main/src/basic-languages/xml">package</a> for syntax highlighting XML
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/html.py">syntax highlighting</a> for XML
+- GitHub supports <a href="https://github.com/textmate/xml.tmbundle" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for XML
+- Indeed.com has 23,248 matches for <a href="https://www.indeed.com/jobs?q=xml developer">"xml developer"</a>.
+- See also: (22 related languages)<a href="sgml.html">SGML</a>, <a href="unicode.html">Unicode</a>, <a href="soap.html">SOAP</a>, <a href="ooxml.html">Office Open XML</a>, <a href="utf-8.html">UTF-8</a>, <a href="ascii.html">ASCII</a>, <a href="html.html">HTML</a>, <a href="regex.html">Regular Expressions</a>, <a href="xpath.html">XPath</a>, <a href="xquery.html">XQuery</a>, <a href="scala.html">Scala</a>, <a href="java.html">Java</a>, <a href="smalltalk.html">Smalltalk</a>, <a href="php.html">PHP</a>, <a href="python.html">Python</a>, <a href="ecmascript.html">ECMAScript</a>, <a href="rdf.html">RDF</a>, <a href="javascript.html">JavaScript</a>, <a href="hytime.html">HyTime</a>, <a href="json.html">JSON</a>, <a href="yaml.html">YAML</a>, <a href="s-expressions.html">S-expressions</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/x/XML.xml'>hello-world</a>:
+ &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+ &lt;text&gt;&lt;![CDATA[Hello World]]&gt;&lt;/text&gt;
+
+codeWithHeader Example from <a href='https://github.com/textmate/xml.tmbundle'>Linguist</a>:
+ &lt;?xml version=&quot;1.0&quot;?&gt;
+ &lt;gml:Point xmlns:gml=&quot;http://www.opengis.net/gml&quot; srsName=&quot;urn:ogc:def:crs:EPSG::4326&quot; gml:id=&quot;uuid.12b3c8bb-bc8a-4f83-9085-1a5f3280b8ba&quot;&gt;
+   &lt;gml:pos&gt;52.56 13.29&lt;/gml:pos&gt;
+ &lt;/gml:Point&gt;
+ 
+
+codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/XML'>Wikipedia</a>:
+ &lt;?xml version=&quot;1.0&quot; encoding=&quot;ISO-8859-1&quot; ?&gt;
+ &lt;xs:schema xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&lt;/xs:schema&gt;
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature MultiLine Comments
+  FeatureLink ../features/hasMultiLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token <!-- -->
+  Example
+   <!-- A comment
+   -->
+ row
+  Feature Case Insensitive Identifiers
+  FeatureLink ../features/hasCaseInsensitiveIdentifiers.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Ternary operators
+  FeatureLink ../features/hasTernaryOperators.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Macros
+  FeatureLink ../features/hasMacros.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Conditionals
+  FeatureLink ../features/hasConditionals.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Disk Output
+  FeatureLink ../features/canWriteToDisk.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav cpp.html php.html
+
+import ../footer.scroll

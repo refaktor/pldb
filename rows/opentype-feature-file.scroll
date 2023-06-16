@@ -1,0 +1,57 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title OpenType Feature File
+
+title OpenType Feature File - Application
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="cuneiform.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="elena.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/opentype-feature-file.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=opentype-feature-file" class="material-symbols-outlined">edit</a></div>
+
+* OpenType Feature File is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+application">application</a> created in 1996.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1996 1996
+
+dashboard
+ #1641 on PLDB
+ 27 Years Old
+
+* An OpenType feature file is a text file that contains the typographic layout feature specifications for an OpenType font in an easy-to-read format. It may also contain override values for certain fields in the font tables. It is read in during the creation or editing of an OpenType font.
+
+- OpenType Feature File first developed in <a href="../lists/originCommunities.html#microsoft">Microsoft</a> and <a href="../lists/originCommunities.html#adobeSystems">Adobe Systems</a>
+- file extensions for OpenType Feature File include fea
+- GitHub supports <a href="https://github.com/Alhadis/language-fontforge" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for OpenType Feature File
+- Read more about OpenType Feature File on the web: 1.
+ https://en.wikipedia.org/wiki/OpenType 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ # Script and language coverage
+ languagesystem DFLT dflt;
+ languagesystem latn dflt;
+ 
+ # Ligature formation
+ feature liga {
+      substitute f i by f_i;
+      substitute f l by f_l;
+ } liga;
+ 
+ # Kerning
+ feature kern {
+      position A Y -100;
+      position a y -80;
+      position s f&#39; &lt;0 0 10 0&gt; t;
+ } kern;
+
+endColumns
+
+keyboardNav cuneiform.html elena.html
+
+import ../footer.scroll

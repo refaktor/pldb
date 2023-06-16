@@ -1,0 +1,52 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title srv
+
+title srv - Interface design language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="slim.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sweet-expressions.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/srv.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://wiki.ros.org/srv" class="material-symbols-outlined">home</a> <a href="/edit.html?id=srv" class="material-symbols-outlined">edit</a></div>
+
+* srv is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+idl">interface design language</a> created in 2010.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2010 2010
+
+dashboard
+ #2436 <span title="TotalRank: 2965 Jobs: 103 Users: 2435 Facts: 1876 Links: 986">on PLDB</span>
+ 13 Years Old
+
+* 
+
+- srv website
+ http://wiki.ros.org/srv
+- file extensions for srv include srv
+
+<br>
+
+codeWithHeader Example from the web:
+ #request constants
+ int8 FOO=1
+ int8 BAR=2
+ #request fields
+ int8 foobar
+ another_pkg/AnotherMessage msg
+ ---
+ #response constants
+ uint32 SECRET=123456
+ #response fields
+ another_pkg/YetAnotherMessage val
+ CustomMessageDefinedInThisPackage value
+ uint32 an_integer
+
+endColumns
+
+keyboardNav slim.html sweet-expressions.html
+
+import ../footer.scroll

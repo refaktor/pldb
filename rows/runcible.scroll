@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title RUNCIBLE
+
+title RUNCIBLE - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="roscoe.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="russell.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/runcible.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=runcible" class="material-symbols-outlined">edit</a></div>
+
+* RUNCIBLE is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1958.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1958 1958
+
+dashboard
+ #4291 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 2912 Links: 986">on PLDB</span>
+ 65 Years Old
+
+* 
+
+- RUNCIBLE is a superset of <a href="/rows/it.html">IT</a>
+- RUNCIBLE first developed in <a href="../lists/originCommunities.html#caseInstituteOfTechnology">Case Institute of Technology</a>
+- RUNCIBLE on HOPL
+ https://hopl.info/showlanguage.prx?exp=111
+- Read more about RUNCIBLE on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/f179a5e14cde9d538af898d2e8ad49e651855352 1.
+
+<br>
+
+endColumns
+
+keyboardNav roscoe.html russell.html
+
+import ../footer.scroll

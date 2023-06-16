@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Haxe Library Manager
+
+title Haxe Library Manager - Package manager
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="siphash-hash-function.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ko.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/haxelibs-pm.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://lib.haxe.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/HaxeFoundation/haxelib" class="material-symbols-outlined">code</a> <a href="/edit.html?id=haxelibs-pm" class="material-symbols-outlined">edit</a></div>
+
+* Haxe Library Manager is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+packageManager">package manager</a> created in 2013.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2013 2013
+
+codeWithHeader Source code:
+ git clone https://github.com/HaxeFoundation/haxelib
+
+dashboard
+ #1853 on PLDB
+ 10 Years Old
+
+* The Haxe library manager
+
+- Haxe Library Manager website
+ https://lib.haxe.org/
+- Haxe Library Manager is developed on <a href="https://github.com/HaxeFoundation/haxelib">GitHub</a> and has 149 stars
+- Haxe Library Manager first developed in <a href="../lists/originCommunities.html#haxeFoundation">Haxe Foundation</a>
+
+<br>
+
+endColumns
+
+keyboardNav siphash-hash-function.html ko.html
+
+import ../footer.scroll

@@ -1,0 +1,45 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title semicolon
+
+title semicolon - Esoteric programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="wah.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lever.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/semicolon.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://pksunkara.com/semicolon" class="material-symbols-outlined">home</a> <a href="https://github.com/pksunkara/semicolon" class="material-symbols-outlined">code</a> <a href="https://esolangs.org/wiki/Semicolon" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=semicolon" class="material-symbols-outlined">edit</a></div>
+
+* semicolon is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+esolang">esoteric programming language</a> created in 2012 by Pavan Kumar Sunkara.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+ link ../lists/creators.html#pavanKumarSunkara Pavan Kumar Sunkara
+
+codeWithHeader Source code:
+ git clone https://github.com/pksunkara/semicolon
+
+dashboard
+ #1741 <span title="TotalRank: 2287 Jobs: 103 Users: 1254 Facts: 1198 Links: 986">on PLDB</span>
+ 11 Years Old
+
+* An esoteric language made up of only semicolons. You can't escape the semicolon monster!
+
+- semicolon website
+ https://pksunkara.com/semicolon
+- semicolon is developed on <a href="https://github.com/pksunkara/semicolon">GitHub</a> and has 128 stars
+- semicolon docs
+ https://esolangs.org/wiki/Semicolon
+- semicolon first developed in <a href="../lists/originCommunities.html#httpsGithubComPksunkaraSemicolonPulls">https://github.com/pksunkara/semicolon/pulls</a>
+- See also: (1 related languages)<a href="brainfuck.html">Brainfuck</a>
+
+<br>
+
+endColumns
+
+keyboardNav wah.html lever.html
+
+import ../footer.scroll

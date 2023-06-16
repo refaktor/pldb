@@ -1,0 +1,49 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Homa
+
+title Homa - Protocol
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="vyxal.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="objectscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/homa.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://web.stanford.edu/~ouster/cgi-bin/home.php" class="material-symbols-outlined">home</a> <a href="https://github.com/PlatformLab/HomaModule" class="material-symbols-outlined">code</a> <a href="https://homa-transport.atlassian.net/wiki/spaces/HOMA/overview" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=homa" class="material-symbols-outlined">edit</a></div>
+
+* Homa is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+protocol">protocol</a> created in 2018 by John Ousterhout.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#johnOusterhout John Ousterhout
+
+codeWithHeader Source code:
+ git clone https://github.com/PlatformLab/HomaModule
+
+dashboard
+ #1595 <span title="TotalRank: 2116 Jobs: 103 Users: 1255 Facts: 1027 Links: 986">on PLDB</span>
+ 5 Years Old
+
+* TCP’s problems are too fundamental and interrelated to be fixed; the only way to harness the full performance potential of modern networks is to introduce a new transport protocol into the datacenter.
+
+- Homa website
+ https://web.stanford.edu/~ouster/cgi-bin/home.php
+- Homa is developed on <a href="https://github.com/PlatformLab/HomaModule">GitHub</a> and has 93 stars
+- Homa docs
+ https://homa-transport.atlassian.net/wiki/spaces/HOMA/overview
+- Homa specs
+ https://github.com/PlatformLab/HomaModule/blob/master/protocol.md
+- Homa first developed in <a href="../lists/originCommunities.html#stanfordUniversity">Stanford University</a>
+- Homa is written in <a href="c.html">C</a> & <a href="cpp.html">C++</a>
+- Read more about Homa on the web: 1.
+ https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf 1.
+
+<br>
+
+endColumns
+
+keyboardNav vyxal.html objectscript.html
+
+import ../footer.scroll

@@ -1,0 +1,59 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title BrightScript
+
+title BrightScript - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="mimix-stream-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hspec.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/brightscript-lang.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://docs.brightsign.biz/display/DOC/BrightScript" class="material-symbols-outlined">home</a> <a href="/edit.html?id=brightscript-lang" class="material-symbols-outlined">edit</a></div>
+
+* BrightScript is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2008.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
+
+dashboard
+ #1720 <span title="TotalRank: 2244 Jobs: 103 Users: 2435 Facts: 1155 Links: 986">on PLDB</span>
+ 15 Years Old
+
+* BrightScript is a powerful scripting language for building media and networked applications for embedded devices. This language features integrated support for a lightweight library of BrightScript objects, which are used to expose the API of the platform (device) that is running BrightScript. The BrightScript language connects generalized script functionality with underlying components for networking, media playback, UI screens, and interactive interfaces; BrightScript is optimized for generating user-friendly applications with minimal programmer effort. Now part of Roku.
+
+- BrightScript website
+ http://docs.brightsign.biz/display/DOC/BrightScript
+- BrightScript first developed in <a href="../lists/originCommunities.html#atlassian">Atlassian</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ REM
+ REM The game of Snake
+ REM demonstrates BrightScript programming concepts
+ REM June 22, 2008
+  
+ REM
+ REM Every BrightScript program must have a single Main()
+ REM
+  
+ Sub Main()
+  
+     game_board=newGameBoard()
+  
+     While true
+         game_board.SetSnake(newSnake(game_board.StartX(), game_board.StartY()))
+         game_board.Draw()
+         game_board.EventLoop()
+         if game_board.GameOver() then ExitWhile
+     End While
+ End Sub
+
+endColumns
+
+keyboardNav mimix-stream-language.html hspec.html
+
+import ../footer.scroll

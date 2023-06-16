@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title neutron
+
+title neutron - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="vlibtemplate.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="emerald-lang.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/neutron.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://the-neutron-foundation.github.io" class="material-symbols-outlined">home</a> <a href="https://github.com/the-neutron-foundation/neutron" class="material-symbols-outlined">code</a> <a href="/edit.html?id=neutron" class="material-symbols-outlined">edit</a></div>
+
+* neutron is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+codeWithHeader Source code:
+ git clone https://github.com/the-neutron-foundation/neutron
+
+dashboard
+ #2161 <span title="TotalRank: 2675 Jobs: 103 Users: 2043 Facts: 1586 Links: 986">on PLDB</span>
+ 4 Years Old
+
+* A simple, extensible and efficient programming language based on C and Python
+
+- neutron website
+ https://the-neutron-foundation.github.io
+- neutron is developed on <a href="https://github.com/the-neutron-foundation/neutron">GitHub</a> and has 31 stars
+- neutron first developed in <a href="../lists/originCommunities.html#httpsGithubComTheNeutronFoundation">https://github.com/the-neutron-foundation</a>
+- Read more about neutron on the web: 1.
+ https://neutron-lang.readthedocs.io/en/latest/ 1.
+
+<br>
+
+endColumns
+
+keyboardNav vlibtemplate.html emerald-lang.html
+
+import ../footer.scroll

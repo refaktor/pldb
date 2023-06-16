@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Distributed Processes
+
+title Distributed Processes - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="diplans.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ditran.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/distributed-processes.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=distributed-processes" class="material-symbols-outlined">edit</a></div>
+
+* Distributed Processes is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1978.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1978 1978
+
+dashboard
+ #3655 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 45 Years Old
+
+* 
+
+- Distributed Processes first developed in <a href="../lists/originCommunities.html#universityOfSouthernCalifornia">University of Southern California</a>
+- Distributed Processes on HOPL
+ https://hopl.info/showlanguage.prx?exp=800
+- Read more about Distributed Processes on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/4b328006a699106fa809cc610b799a2d03bc77a4 1.
+
+<br>
+
+endColumns
+
+keyboardNav diplans.html ditran.html
+
+import ../footer.scroll

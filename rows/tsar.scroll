@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title tsar
+
+title tsar - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="nrl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="royalscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/tsar.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/adam-mcdaniel/tsar" class="material-symbols-outlined">code</a> <a href="/edit.html?id=tsar" class="material-symbols-outlined">edit</a></div>
+
+* tsar is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019 by adam-mcdaniel.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+ link ../lists/creators.html#adamMcdaniel adam-mcdaniel
+
+codeWithHeader Source code:
+ git clone https://github.com/adam-mcdaniel/tsar
+
+dashboard
+ #2481 <span title="TotalRank: 3057 Jobs: 103 Users: 2314 Facts: 1968 Links: 986">on PLDB</span>
+ 4 Years Old
+
+* Tsar programming language
+
+- tsar is developed on <a href="https://github.com/adam-mcdaniel/tsar">GitHub</a> and has 13 stars
+
+<br>
+
+endColumns
+
+keyboardNav nrl.html royalscript.html
+
+import ../footer.scroll

@@ -1,0 +1,4 @@
+cheatSheetUrlParser
+ extends abstractUrlColumnParser
+ single false
+ description What is a URL to a cheat sheet for this language?

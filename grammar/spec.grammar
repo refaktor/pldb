@@ -1,0 +1,3 @@
+specParser
+ extends abstractUrlColumnParser
+ description What is a URL to the official spec for this language?

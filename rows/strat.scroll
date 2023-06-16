@@ -1,0 +1,48 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title strat
+
+title strat - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="foaf.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jcof.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/strat.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://strat.world/" class="material-symbols-outlined">home</a> <a href="https://github.com/stratworld/strat" class="material-symbols-outlined">code</a> <a href="/edit.html?id=strat" class="material-symbols-outlined">edit</a></div>
+
+* strat is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+
+codeWithHeader Source code:
+ git clone https://github.com/stratworld/strat
+
+dashboard
+ #1814 <span title="TotalRank: 2340 Jobs: 103 Users: 2146 Facts: 1251 Links: 986">on PLDB</span>
+ 5 Years Old
+
+* A language to represent and deploy portable cloud systems ->
+
+- strat website
+ https://strat.world/
+- strat is developed on <a href="https://github.com/stratworld/strat">GitHub</a> and has 15 stars
+- <a href="https://strat.world/">strat.world</a> was registered in 2022
+
+<br>
+
+codeWithHeader Example from the web:
+ service HelloWorld {
+  include &quot;Birth&quot;
+ 
+  Birth -&gt; &quot;Hello World!&quot;
+ }
+
+endColumns
+
+keyboardNav foaf.html jcof.html
+
+import ../footer.scroll

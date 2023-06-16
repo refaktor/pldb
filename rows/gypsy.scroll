@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Gypsy
+
+title Gypsy - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="gxl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hank.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/gypsy.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=gypsy" class="material-symbols-outlined">edit</a></div>
+
+* Gypsy is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1976.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1976 1976
+
+dashboard
+ #3736 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 47 Years Old
+
+* 
+
+- Gypsy first developed in <a href="../lists/originCommunities.html#theUniversityOfTexas">The University of Texas</a>
+- Gypsy on HOPL
+ https://hopl.info/showlanguage.prx?exp=720
+- Read more about Gypsy on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/206988f693620b86bb81ac2d1d764ab857fbc5e2 1.
+
+<br>
+
+endColumns
+
+keyboardNav gxl.html hank.html
+
+import ../footer.scroll

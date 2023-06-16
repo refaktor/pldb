@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Standard Lisp
+
+title Standard Lisp - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="stage2.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="staple.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/standard-lisp.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=standard-lisp" class="material-symbols-outlined">edit</a></div>
+
+* Standard Lisp is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1979.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1979 1979
+
+dashboard
+ #3217 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 4070 Links: 986">on PLDB</span>
+ 44 Years Old
+
+* 
+
+- Standard Lisp on HOPL
+ https://hopl.info/showlanguage.prx?exp=872
+- Read more about Standard Lisp on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/4de0a5d3085447a5c230e1469c0c466584cdb9e7 1.
+
+<br>
+
+endColumns
+
+keyboardNav stage2.html staple.html
+
+import ../footer.scroll

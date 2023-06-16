@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Ante
+
+title Ante - Esoteric programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="miva.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="json-script.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ante-esolang.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/michaeldv/ante" class="material-symbols-outlined">code</a> <a href="/edit.html?id=ante-esolang" class="material-symbols-outlined">edit</a></div>
+
+* Ante is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+esolang">esoteric programming language</a> created in 2013 by Michael Dvorkin.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2013 2013
+ link ../lists/creators.html#michaelDvorkin Michael Dvorkin
+
+codeWithHeader Source code:
+ git clone https://github.com/michaeldv/ante
+
+dashboard
+ #1877 <span title="TotalRank: 2395 Jobs: 103 Users: 1603 Facts: 1306 Links: 986">on PLDB</span>
+ 10 Years Old
+
+* Esoteric programming language where all you've got is a deck of cards
+
+- Ante is developed on <a href="https://github.com/michaeldv/ante">GitHub</a> and has 48 stars
+- Ante on Esolang
+ https://esolangs.org/wiki/Ante
+
+<br>
+
+endColumns
+
+keyboardNav miva.html json-script.html
+
+import ../footer.scroll

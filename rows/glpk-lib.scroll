@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title GNU Linear Programming Kit
+
+title GNU Linear Programming Kit - Library
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="genshi-text.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hlvm.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/glpk-lib.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.gnu.org/software/glpk/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=glpk-lib" class="material-symbols-outlined">edit</a></div>
+
+* GNU Linear Programming Kit, aka GNU Linear Programming Kit, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+library">library</a> created in 2000.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
+
+dashboard
+ #3328 on PLDB
+ 23 Years Old
+
+* 
+
+- GNU Linear Programming Kit website
+ https://www.gnu.org/software/glpk/
+- GNU Linear Programming Kit first developed in <a href="../lists/originCommunities.html#httpsWwwGnuOrgSoftwareGlpkLists">https://www.gnu.org/software/glpk/#lists</a>
+- GNU Linear Programming Kit is written in <a href="c.html">C</a>
+- See also: (1 related languages)<a href="rason.html">rason</a>
+
+<br>
+
+endColumns
+
+keyboardNav genshi-text.html hlvm.html
+
+import ../footer.scroll

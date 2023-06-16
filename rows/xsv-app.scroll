@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title xsv-app
+
+title xsv-app - Application
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="docopt.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="vimwiki.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/xsv-app.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/BurntSushi/xsv" class="material-symbols-outlined">code</a> <a href="/edit.html?id=xsv-app" class="material-symbols-outlined">edit</a></div>
+
+* xsv-app is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+application">application</a> created in 2014.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
+
+codeWithHeader Source code:
+ git clone https://github.com/BurntSushi/xsv
+
+dashboard
+ #806 on PLDB
+ 9 Years Old
+
+* A fast CSV command line toolkit written in Rust.
+
+- xsv-app is developed on <a href="https://github.com/BurntSushi/xsv">GitHub</a> and has 8,448 stars
+
+<br>
+
+endColumns
+
+keyboardNav docopt.html vimwiki.html
+
+import ../footer.scroll

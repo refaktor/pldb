@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title APL-GPSS
+
+title APL-GPSS - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="anna.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="aqasm.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/apl-gpss.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=apl-gpss" class="material-symbols-outlined">edit</a></div>
+
+* APL-GPSS is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1988.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
+
+dashboard
+ #3072 <span title="TotalRank: 3878 Jobs: 103 Users: 2831 Facts: 2789 Links: 986">on PLDB</span>
+ 35 Years Old
+
+* 
+
+- APL-GPSS first developed in <a href="../lists/originCommunities.html#instituteForTheoreticalBiology">Institute for Theoretical Biology</a>
+- APL-GPSS on HOPL
+ https://hopl.info/showlanguage.prx?exp=8247
+- Read more about APL-GPSS on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/88dbb8eedbbd857bcfd05d4f879e19e0df4edc1b 1.
+
+<br>
+
+endColumns
+
+keyboardNav anna.html aqasm.html
+
+import ../footer.scroll

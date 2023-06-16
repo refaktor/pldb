@@ -1,0 +1,42 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title hashlink
+
+title hashlink - Bytecode format
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="snakemake.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="muon.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/hashlink.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://hashlink.haxe.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/HaxeFoundation/hashlink" class="material-symbols-outlined">code</a> <a href="/edit.html?id=hashlink" class="material-symbols-outlined">edit</a></div>
+
+* hashlink is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+bytecode">bytecode format</a> created in 2015 by Nicolas Cannasse.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+ link ../lists/creators.html#nicolasCannasse Nicolas Cannasse
+
+codeWithHeader Source code:
+ git clone https://github.com/HaxeFoundation/hashlink
+
+dashboard
+ #1057 <span title="TotalRank: 1621 Jobs: 103 Users: 532 Facts: 1374 Links: 986">on PLDB</span>
+ 8 Years Old
+
+* A virtual machine for Haxe
+
+- hashlink website
+ https://hashlink.haxe.org/
+- hashlink is developed on <a href="https://github.com/HaxeFoundation/hashlink">GitHub</a> and has 674 stars
+- hashlink first developed in <a href="../lists/originCommunities.html#httpsGithubComHaxeFoundation">https://github.com/HaxeFoundation</a>
+
+<br>
+
+endColumns
+
+keyboardNav snakemake.html muon.html
+
+import ../footer.scroll

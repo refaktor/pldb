@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title ACSL
+
+title ACSL - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="acos.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="act-one.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/acsl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=acsl" class="material-symbols-outlined">edit</a></div>
+
+* ACSL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1979.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1979 1979
+
+dashboard
+ #3329 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3865 Links: 986">on PLDB</span>
+ 44 Years Old
+
+* 
+
+- ACSL first developed in <a href="../lists/originCommunities.html#institutDeBiologieTheorique">Institut de Biologie Théorique</a>
+- ACSL on HOPL
+ https://hopl.info/showlanguage.prx?exp=683
+- Read more about ACSL on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/25c28b0f7ee05e369d55abdbbadd6e038d1dac47 1.
+
+<br>
+
+endColumns
+
+keyboardNav acos.html act-one.html
+
+import ../footer.scroll

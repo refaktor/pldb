@@ -1,0 +1,46 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Semantic Versioning
+
+title Semantic Versioning - Schema
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="edgedb.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="noms-db.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/semver.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://semver.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/semver/semver" class="material-symbols-outlined">code</a> <a href="/edit.html?id=semver" class="material-symbols-outlined">edit</a></div>
+
+* Semantic Versioning is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+schema">schema</a> created in 2011 by Tom Preston-Werner.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
+ link ../lists/creators.html#tomPrestonWerner Tom Preston-Werner
+
+codeWithHeader Source code:
+ git clone https://github.com/semver/semver
+
+dashboard
+ #637 <span title="TotalRank: 1217 Jobs: 103 Users: 128 Facts: 992 Links: 986">on PLDB</span>
+ 12 Years Old
+
+* Semantic versioning (aka SemVer)[1], currently the best known and most widely adopted version scheme in this category, uses a sequence of three digits (Major.Minor.Patch), an optional prerelease tag and optional build meta tag. In this scheme, risk and functionality are the measures of significance. Breaking changes are indicated by increasing the major number (high risk), new non-breaking features increment the minor number (medium risk) and all other non-breaking changes increment the patch number (lowest risk). The presence of a prerelease tag (-alpha, -beta) indicates substantial risk, as does a major number of zero (0.y.z), which is used to indicate a work-in-progress that may contain any level of potentially breaking changes (highest risk).
+
+- Semantic Versioning website
+ https://semver.org/
+- Semantic Versioning is developed on <a href="https://github.com/semver/semver">GitHub</a> and has 6,140 stars
+- Semantic Versioning first developed in <a href="../lists/originCommunities.html#httpsGithubComSemver">https://github.com/semver</a>
+- <a href="https://semver.org/">semver.org</a> was registered in 2009
+
+<br>
+
+codeWithHeader Example from the web:
+ 1.5.12
+
+endColumns
+
+keyboardNav edgedb.html noms-db.html
+
+import ../footer.scroll

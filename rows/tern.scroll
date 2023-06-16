@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title tern
+
+title tern - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="sub.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="terse.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/tern.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://tern-lang.org" class="material-symbols-outlined">home</a> <a href="/edit.html?id=tern" class="material-symbols-outlined">edit</a></div>
+
+* tern is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+dashboard
+ #2836 <span title="TotalRank: 3524 Jobs: 103 Users: 2435 Facts: 2912 Links: 986">on PLDB</span>
+ 4 Years Old
+
+* 
+
+- tern website
+ http://tern-lang.org
+- <a href="http://tern-lang.org">tern-lang.org</a> was registered in 2019
+
+<br>
+
+endColumns
+
+## HackerNews discussions of tern
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: Tern Programming Language|https://news.ycombinator.com/item?id=19825828|05/04/2019|2|0
+
+keyboardNav sub.html terse.html
+
+import ../footer.scroll

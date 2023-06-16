@@ -1,0 +1,3 @@
+ebookParser
+ extends abstractUrlColumnParser
+ description What is a link to a free public domain high quality eBook about this language?

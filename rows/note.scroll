@@ -1,0 +1,60 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Note
+
+title Note - Data notation
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="rtl-2.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="simscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/note.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/breck7/note" class="material-symbols-outlined">home</a> <a href="https://github.com/breck7/note" class="material-symbols-outlined">code</a> <a href="/edit.html?id=note" class="material-symbols-outlined">edit</a></div>
+
+* Note is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+dataNotation">data notation</a> created in 2012 by Breck Yunits.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+ link ../lists/creators.html#breckYunits Breck Yunits
+
+codeWithHeader Source code:
+ git clone https://github.com/breck7/note
+
+dashboard
+ #1437 <span title="TotalRank: 1968 Jobs: 103 Users: 2319 Facts: 1198 Links: 667">on PLDB</span>
+ 11 Years Old
+
+* Note is a structured, human readable, concise language for encoding data.
+
+- Note website
+ https://github.com/breck7/note
+- Note is developed on <a href="https://github.com/breck7/note">GitHub</a> and has 8 stars
+- Note first developed in <a href="../lists/originCommunities.html#httpsGithubComBreck7NoteIssues">https://github.com/breck7/note/issues</a>
+- Read more about Note on the web: 1.
+ https://breckyunits.com/introducing-note.html 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ settings
+  title Note
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   settings
+    title Note
+
+keyboardNav rtl-2.html simscript.html
+
+import ../footer.scroll

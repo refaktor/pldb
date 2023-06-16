@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title RC++
+
+title RC++ - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="rack.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="real-time-euclid.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/rcpp.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=rcpp" class="material-symbols-outlined">edit</a></div>
+
+* RC++ is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2001.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2001 2001
+
+dashboard
+ #4281 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 2912 Links: 986">on PLDB</span>
+ 22 Years Old
+
+* 
+
+- RC++ first developed in <a href="../lists/originCommunities.html#iKuniInc">IKuni Inc</a> and <a href="../lists/originCommunities.html#imperialCollegeLondon">Imperial College London</a>
+- RC++ on HOPL
+ https://hopl.info/showlanguage.prx?exp=7414
+- Read more about RC++ on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/18bab5069d96b2d4d4fab9f160c750605f62f2ef 1.
+- Read more about RC++ on the web: 1.
+ https://staffwww.dcs.shef.ac.uk/people/J.Marshall/publications/WrightMarshall2003.pdf 1.
+
+<br>
+
+endColumns
+
+keyboardNav rack.html real-time-euclid.html
+
+import ../footer.scroll

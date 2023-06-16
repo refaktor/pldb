@@ -1,0 +1,52 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title specrtl
+
+title specrtl - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="scl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="smalltalk-mt.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/specrtl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=specrtl" class="material-symbols-outlined">edit</a></div>
+
+* specrtl is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2011.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
+
+dashboard
+ #2276 <span title="TotalRank: 2751 Jobs: 103 Users: 2831 Facts: 1662 Links: 986">on PLDB</span>
+ 12 Years Old
+
+* specRTL (Spec Register Transfer Language) is a language designed to replace the existing RTL form machine descriptions which along with C Code forms the backend of GCC.
+
+- Read more about specrtl on the web: 1.
+ https://www.cse.iitb.ac.in/grc/software/specRTL/specRTL.pdf 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ concrete *cmp_ccno_1.insn instantiates set_compare
+ {
+   root(reg(NULL:FLAGS_REG),0=nonimmediate_operand:SWI:&quot;,?m&quot;,
+ 1=const0_operand:SWI:&quot;&quot;);
+ }
+ {:
+   &quot;ix86_match_ccmode (insn, CCNOmode)&quot;
+   &quot;@
+   test{}\t%0, %0
+   cmp{}\t{%1, %0|%0,%1}&quot;
+   [(set_attr &quot;type&quot; &quot;test,icmp&quot;)
+   (set_attr &quot;length_immediate&quot; &quot;0,1&quot;)
+   (set_attr &quot;mode&quot; &quot;&quot;)]
+ :}
+
+endColumns
+
+keyboardNav scl.html smalltalk-mt.html
+
+import ../footer.scroll

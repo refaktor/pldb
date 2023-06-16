@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Consul
+
+title Consul - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="constraints.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cst.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/consul.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=consul" class="material-symbols-outlined">edit</a></div>
+
+* Consul is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1981.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1981 1981
+
+dashboard
+ #4114 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 2912 Links: 986">on PLDB</span>
+ 42 Years Old
+
+* 
+
+- Consul first developed in <a href="../lists/originCommunities.html#universityOfRochester">University of Rochester</a>
+- Consul on HOPL
+ https://hopl.info/showlanguage.prx?exp=1921
+- Read more about Consul on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/d46bcfce44def084cebfb4aea31898f8a5a23a61 1.
+
+<br>
+
+endColumns
+
+keyboardNav constraints.html cst.html
+
+import ../footer.scroll

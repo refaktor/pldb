@@ -1,0 +1,60 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Incipit
+
+title Incipit - Text markup language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="z-flat.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="goal.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/incipit.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/phillbush/incipit" class="material-symbols-outlined">code</a> <a href="/edit.html?id=incipit" class="material-symbols-outlined">edit</a></div>
+
+* Incipit is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+textMarkup">text markup language</a> created in 2021 by Lucas de Sena.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2021 2021
+ link ../lists/creators.html#lucasDeSena Lucas de Sena
+
+codeWithHeader Source code:
+ git clone https://github.com/phillbush/incipit
+
+dashboard
+ #1392 <span title="TotalRank: 1921 Jobs: 103 Users: 2346 Facts: 832 Links: 986">on PLDB</span>
+ 2 Years Old
+
+* The ‘Incipit Markup Language’ (or ‘Incipit’, for short) is a plain text markup language that uses Unicode characters and the structure of the text itself to format documents.
+
+- Incipit is developed on <a href="https://github.com/phillbush/incipit">GitHub</a> and has 8 stars
+- Incipit first developed in <a href="../lists/originCommunities.html#httpsGithubComPhillbushIncipitIssues">https://github.com/phillbush/incipit/issues</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ .Enumeration incipit.
+ Each enumeration item can have a incipit colon, which will be explained
+ on the “§ Incipit” section below.  The incipit colon is a colon
+ describing the topic of the item.
+ 
+ The following is an example of enumeration.
+ • (A) First item:
+       This is the first item of a labeled enumeration.
+       This item also contains an incipit colon.
+ • (B) Second item:
+       This is the second item of a labeled enumeration.
+       It also contains an incipit colon.
+ • (C) Third item.
+     • First subitem of third item.
+     • Second subitem of third item.
+     • Third subitem of third item.
+     • Fourth subitem of third item.
+ • (D) Fourth item.
+
+endColumns
+
+keyboardNav z-flat.html goal.html
+
+import ../footer.scroll

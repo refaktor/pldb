@@ -1,0 +1,42 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Hush
+
+title Hush - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="lemon.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="status-quo-function.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/hush.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://hush-shell.github.io/" class="material-symbols-outlined">home</a> <a href="https://github.com/hush-shell/hush" class="material-symbols-outlined">code</a> <a href="/edit.html?id=hush" class="material-symbols-outlined">edit</a></div>
+
+* Hush is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2021 by Gabriel Bastos.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2021 2021
+ link ../lists/creators.html#gabrielBastos Gabriel Bastos
+
+codeWithHeader Source code:
+ git clone https://github.com/hush-shell/hush
+
+dashboard
+ #1253 <span title="TotalRank: 1791 Jobs: 103 Users: 702 Facts: 1662 Links: 986">on PLDB</span>
+ 2 Years Old
+
+* Hush is a unix shell based on the Lua programming language
+
+- Hush website
+ https://hush-shell.github.io/
+- Hush is developed on <a href="https://github.com/hush-shell/hush">GitHub</a> and has 552 stars
+- Hush first developed in <a href="../lists/originCommunities.html#httpsGithubComHushShell">https://github.com/hush-shell/</a>
+
+<br>
+
+endColumns
+
+keyboardNav lemon.html status-quo-function.html
+
+import ../footer.scroll

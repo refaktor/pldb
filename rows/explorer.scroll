@@ -1,0 +1,78 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Explorer
+
+title Explorer - Visual programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="picat.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="redprl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/explorer.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=explorer" class="material-symbols-outlined">edit</a></div>
+
+* Explorer is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+visual">visual programming language</a> created in 2020 by Hannah Ritchie and Breck Yunits and Shahid Ahmad.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2020 2020
+ link ../lists/creators.html#hannahRitchie Hannah Ritchie
+ link ../lists/creators.html#breckYunits Breck Yunits
+ link ../lists/creators.html#shahidAhmad Shahid Ahmad
+
+dashboard
+ #1576 <span title="TotalRank: 2081 Jobs: 103 Users: 2831 Facts: 992 Links: 986">on PLDB</span>
+ 3 Years Old
+
+openGraphImage https://pldb.com/screenshots/explorer.png
+image ../screenshots/explorer.png
+ caption A screenshot of the visual language Explorer.
+  link /search.html?q=select+type%0D%0Awhere+type+%3D+visual visual language
+
+* Programs are encoded as TSVs so are easy to read+write from a spreadsheet IDE, code, or plain text editor.
+
+- Video demo of Explorer
+ https://www.youtube.com/watch?v=0l2QWH-iV3k
+- Explorer first developed in <a href="../lists/originCommunities.html#ourWorldInData">Our World In Data</a>
+- See also: (1 related languages)<a href="6gunz.html">6gunz</a>
+- Read more about Explorer on the web: 1.
+ https://github.com/owid/owid-grapher/tree/master/explorer 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ selection	Canada~India			
+ title	Population of different countries			
+ subtitle	How many people live in each country?			
+ type	DiscreteBar			
+ hasMapTab	true			
+ hideControls	true			
+ ySlugs	Population			
+ table				
+ 	Country	Population	Year	MapleleafsInFlag
+ 	Canada	32000000	2020	1
+ 	India	1000000000	2020	0
+ 	France	50000000	2020	0
+ columns				
+ 	slug	type	name	notes
+ 	Country	EntityName	Country	Unreviewed
+ 	Population	Numeric	Population	Unreviewed
+ 	Year	Year	Year	Unreviewed
+ 	MapleleafsInFlag	Numeric	MapleleafsInFlag	Unreviewed
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Ternary operators
+  FeatureLink ../features/hasTernaryOperators.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav picat.html redprl.html
+
+import ../footer.scroll

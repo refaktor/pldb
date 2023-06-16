@@ -1,0 +1,4 @@
+pyplParser
+ extends abstractMultiwordGuidColumnParser
+ description What is this language's id on https://pypl.github.io?
+ string sourceDomain pypl.github.io

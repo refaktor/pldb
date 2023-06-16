@@ -1,0 +1,61 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title 2-pak
+
+title 2-pak - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="opengraph.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="rbs.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/2-pak.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=2-pak" class="material-symbols-outlined">edit</a></div>
+
+* 2-pak is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1975.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1975 1975
+
+dashboard
+ #1763 <span title="TotalRank: 2287 Jobs: 103 Users: 2831 Facts: 1198 Links: 986">on PLDB</span>
+ 48 Years Old
+
+* 
+
+- 2-pak first developed in <a href="../lists/originCommunities.html#departmentOfComputerScienceUniversityOfToronto">Department of Computer Science, University of Toronto</a>
+- 2-pak on HOPL
+ https://hopl.info/showlanguage.prx?exp=663
+- Read more about 2-pak on the web: 1.
+ https://www.ijcai.org/Proceedings/75/Papers/082.pdf 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ coroutine FRUIT_GEN()
+  begin
+  strin g FRUIT ;
+  FRUIT :- &#39;CHERRY1
+   ;
+  detach ;
+  whil e tru e do
+  case FRUIT of
+  &#39;CHERRY1
+  : FRUIT := &#39;LEMON1
+   ;
+  &#39;LEMON&#39;: FRUIT := &#39;ORANGE?
+   ;
+  &#39;ORANGE1
+  : FRUIT :- &#39;APPLE&#39; ;
+  &#39;APPLE&#39;: FRUIT :- &#39;CHERRY&#39; ;
+  end ;
+  detach ;
+  end ;
+  end ;
+
+endColumns
+
+keyboardNav opengraph.html rbs.html
+
+import ../footer.scroll

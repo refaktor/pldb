@@ -1,0 +1,82 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title dlvm
+
+title dlvm - Intermediate representation language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="information-processing-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="power-query-m.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/dlvm.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://dlvm.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/dlvm-team/swift" class="material-symbols-outlined">code</a> <a href="/edit.html?id=dlvm" class="material-symbols-outlined">edit</a></div>
+
+* dlvm is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+ir">intermediate representation language</a> created in 2017 by Chris Lattner.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+ link ../lists/creators.html#chrisLattner Chris Lattner
+
+codeWithHeader Source code:
+ git clone https://github.com/dlvm-team/swift
+
+dashboard
+ #1239 <span title="TotalRank: 1778 Jobs: 103 Users: 2414 Facts: 689 Links: 986">on PLDB</span>
+ 6 Years Old
+
+* Modern Compiler Infrastructure for Deep Learning Systems
+
+- dlvm website
+ http://dlvm.org/
+- dlvm is developed on <a href="https://github.com/dlvm-team/swift">GitHub</a> and has 0 stars
+- dlvm first developed in <a href="../lists/originCommunities.html#universityOfIllinoisAtUrbanaChampaign">University of Illinois at Urbana-Champaign</a> and <a href="../lists/originCommunities.html#purdueUniversity">Purdue University</a>
+- <a href="http://dlvm.org/">dlvm.org</a> was registered in 2022
+- Read more about dlvm on the web: 1.
+ https://dlvm-team.github.io/ 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ // Dimension-erased functions are flexible because input shapes are dynamic.
+ // They may be slower and less optimized than their shape-specialized counterparts.
+ 
+ // f(x, w, b) = dot(x, w) + pad(b, at: 0)
+ func @f: (&lt;_ x _ x f32&gt;, &lt;_ x _ x f32&gt;, &lt;_ x f32&gt;) -&gt; &lt;_ x _ x f32&gt; {
+ &#39;entry(%x: &lt;_ x _ x f32&gt;, %w: &lt;_ x _ x f32&gt;, %b: &lt;_ x f32&gt;):
+     %0.0 = dot %x: &lt;_ x _ x f32&gt;, %w: &lt;_ x _ x f32&gt;
+     %0.1 = padShape %b: &lt;_ x f32&gt; at 0
+     %0.2 = add %0.0: &lt;_ x _ x f32&gt;, %0.1: &lt;1 x _ x f32&gt;
+     return %0.2: &lt;_ x _ x f32&gt;
+ }
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token //
+  Example
+   // A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav information-processing-language.html power-query-m.html
+
+import ../footer.scroll

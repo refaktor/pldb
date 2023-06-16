@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title DATAN
+
+title DATAN - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="data-text.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="deacon.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/datan.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=datan" class="material-symbols-outlined">edit</a></div>
+
+* DATAN is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1966.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1966 1966
+
+dashboard
+ #3642 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 57 Years Old
+
+* 
+
+- DATAN first developed in <a href="../lists/originCommunities.html#theBoeingCompany">The Boeing Company</a>
+- DATAN on HOPL
+ https://hopl.info/showlanguage.prx?exp=7662
+- Read more about DATAN on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/70f1f9f2ca6218727b962a31051accd4c14b54b4 1.
+
+<br>
+
+endColumns
+
+keyboardNav data-text.html deacon.html
+
+import ../footer.scroll

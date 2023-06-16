@@ -1,0 +1,137 @@
+import header.scroll
+
+title Directives
+
+title Directives - language feature
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="hasDestructuring.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hasDisposeBlocks.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+
+startColumns 4
+
+codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+ &quot;use strict&quot;;
+ &quot;use asm&quot;;
+
+codeWithHeader Example from <a href="../rows/python.html">Python</a>, <a href="../rows/cython.html">Cython</a>:
+ from __future__ import feature
+ # coding=&lt;encoding name&gt;
+
+codeWithHeader Example from <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/tick-c.html">Tick C</a>:
+ #include &lt;stdio.h&gt;
+ #define height 10
+ #ifdef
+ #endif
+ #if
+ #else
+ #ifndef
+ #undef
+ #pragma
+
+codeWithHeader Example from <a href="../rows/perl.html">Perl</a>:
+ # In Perl, the keyword &quot;use&quot;, which imports modules, can also be used to specify directives, such as use strict; or use utf8;
+ use utf8;
+
+codeWithHeader Example from <a href="../rows/ruby.html">Ruby</a>:
+ coding: UTF-8
+
+codeWithHeader Example from <a href="../rows/csharp.html">C#</a>:
+ #define MAX_CLIENTS 200
+ int array[MAX_CLIENTS];
+ 
+ #if PRODUCTION
+ //code
+ #elif DEVELOPMENT
+ //code
+ #else
+ //code
+ #endif
+
+codeWithHeader Example from <a href="../rows/rust.html">Rust</a>:
+ // A conditionally-compiled module
+ #[cfg(target_os = &quot;linux&quot;)]
+ mod bar {
+     /* ... */
+ }
+ // General metadata applied to the enclosing module or crate.
+ #![crate_type = &quot;lib&quot;]
+ // A function marked as a unit test
+ #[test]
+ fn test_foo() {
+     /* ... */
+ }
+ // A lint attribute used to suppress a warning/error
+ #[allow(non_camel_case_types)]
+ type int8_t = i8;
+ 
+ // Inner attribute applies to the entire function.
+ fn some_unused_variables() {
+   #![allow(unused_variables)]
+ 
+   let x = ();
+   let y = ();
+   let z = ();
+ }
+
+codeWithHeader Example from <a href="../rows/haskell.html">Haskell</a>:
+ {-# INLINE foo #-}
+
+codeWithHeader Example from <a href="../rows/visual-basic.html">Visual Basic</a>:
+ Option Explicit On|Off
+ Option Compare Binary
+
+codeWithHeader Example from <a href="../rows/erlang.html">Erlang</a>:
+ -define(TIMEOUT, 200).
+ ...
+ call(Request) -&gt;
+    server:call(refserver, Request, ?TIMEOUT).
+ -undef(Macro).
+
+codeWithHeader Example from <a href="../rows/f-sharp.html">F#</a>:
+ #if VERSION1
+ let function1 x y =
+    printfn &quot;x: %d y: %d&quot; x y
+    x + 2 * y
+ #else
+ let function1 x y =
+    printfn &quot;x: %d y: %d&quot; x y
+    x - 2*y
+ #endif
+ // Line directives as source maps can be used when compiling to F#:
+ #line 25 &quot;C:\\Projects\\MyProject\\MyProject\\Script1&quot;
+
+codeWithHeader Example from <a href="../rows/algol-68.html">ALGOL 68</a>, <a href="../rows/mary.html">Mary</a>:
+ .PR POINT .PR
+ .PR UPPER .PR
+ .PR RES .PR
+ &#39;pr&#39; quote &#39;pr&#39;
+
+codeWithHeader Example from <a href="../rows/fml-lang.html">FML</a>:
+ # Directives are special lines that have syntax and semantics of their own. Directives all start with a name of the form .foo; new directives may be added by future versions of the language.
+ .import math.constants
+ area = x * math.constants.Pi, ^ 2
+ .from math.constants import Pi, E
+ area = x sq, * Pi
+ polar = a * [E ^ [b * 0+j1]]
+
+* Languages *with* Directives include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/python.html">Python</a>, <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/perl.html">Perl</a>, <a href="../rows/ruby.html">Ruby</a>, <a href="../rows/csharp.html">C#</a>, <a href="../rows/ada.html">Ada</a>, <a href="../rows/rust.html">Rust</a>, <a href="../rows/haskell.html">Haskell</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/visual-basic.html">Visual Basic</a>, <a href="../rows/erlang.html">Erlang</a>, <a href="../rows/f-sharp.html">F#</a>, <a href="../rows/common-lisp.html">Common Lisp</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/algol-68.html">ALGOL 68</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/c2.html">C2</a>, <a href="../rows/mary.html">Mary</a>, <a href="../rows/fml-lang.html">FML</a>, <a href="../rows/scriptease.html">ScriptEase</a>, <a href="../rows/tick-c.html">Tick C</a>
+
+* Languages *without* Directives include <a href="../rows/c3.html">C3</a>, <a href="../rows/progsbase.html">progsbase</a>
+
+* This question asks: Is the language embedded in a tiny compile-time directive language?
+
+* Read more about Directives on the web: 1.
+ https://en.wikipedia.org/wiki/Directive_(programming) 1.
+
+HTML of this page generated by Features.ts
+ https://github.com/breck7/pldb/blob/main/code/Features.ts Features.ts
+
+endColumns
+
+keyboardNav hasDestructuring.html hasDisposeBlocks.html
+
+import ../footer.scroll

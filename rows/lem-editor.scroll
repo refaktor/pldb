@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title lem-editor
+
+title lem-editor - Editor
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="z-machine.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sweave.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lem-editor.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/cxxxr/lem" class="material-symbols-outlined">code</a> <a href="/edit.html?id=lem-editor" class="material-symbols-outlined">edit</a></div>
+
+* lem-editor is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+editor">editor</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+codeWithHeader Source code:
+ git clone https://github.com/cxxxr/lem
+
+dashboard
+ #1265 on PLDB
+ 8 Years Old
+
+* Common Lisp editor/IDE with high expansibility
+
+- lem-editor is developed on <a href="https://github.com/cxxxr/lem">GitHub</a> and has 1,203 stars
+- lem-editor first developed in <a href="../lists/originCommunities.html#httpsGithubComLemProject">https://github.com/lem-project</a>
+
+<br>
+
+endColumns
+
+keyboardNav z-machine.html sweave.html
+
+import ../footer.scroll

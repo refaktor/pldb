@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title ABEL
+
+title ABEL - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="zeta.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="afnix.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/abel.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=abel" class="material-symbols-outlined">edit</a></div>
+
+* ABEL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1979.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1979 1979
+
+dashboard
+ #2993 <span title="TotalRank: 3623 Jobs: 103 Users: 2831 Facts: 2534 Links: 986">on PLDB</span>
+ 44 Years Old
+
+* 
+
+- ABEL first developed in <a href="../lists/originCommunities.html#telemarkCollege">Telemark College</a> and <a href="../lists/originCommunities.html#universityOfOslo">University of Oslo</a>
+- ABEL on HOPL
+ https://hopl.info/showlanguage.prx?exp=1780
+- Read more about ABEL on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/236ecf8536578457ddedcf9c35b843a970a1f726 1.
+
+<br>
+
+endColumns
+
+keyboardNav zeta.html afnix.html
+
+import ../footer.scroll

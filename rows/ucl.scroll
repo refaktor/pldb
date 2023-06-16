@@ -1,0 +1,59 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title UCL
+
+title UCL - Data notation
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="gleam.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gdscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ucl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/vstakhov/libucl" class="material-symbols-outlined">code</a> <a href="/edit.html?id=ucl" class="material-symbols-outlined">edit</a></div>
+
+* UCL, aka Universal Configuration Language, is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+dataNotation">data notation</a> created in 2013.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2013 2013
+
+codeWithHeader Source code:
+ git clone https://github.com/vstakhov/libucl
+
+dashboard
+ #687 <span title="TotalRank: 1259 Jobs: 103 Users: 376 Facts: 780 Links: 986">on PLDB</span>
+ 10 Years Old
+
+* Universal configuration library parser
+
+- UCL is developed on <a href="https://github.com/vstakhov/libucl">GitHub</a> and has 1,443 stars
+
+<br>
+
+codeWithHeader Example from the web:
+ param = value;
+ section {
+     param = value;
+     param1 = value1;
+     flag = true;
+     number = 10k;
+     time = 0.2s;
+     string = &quot;something&quot;;
+     subsection {
+         host = {
+             host = &quot;hostname&quot;;
+             port = 900;
+         }
+         host = {
+             host = &quot;hostname&quot;;
+             port = 901;
+         }
+     }
+ }
+
+endColumns
+
+keyboardNav gleam.html gdscript.html
+
+import ../footer.scroll

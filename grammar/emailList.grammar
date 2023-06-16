@@ -1,0 +1,4 @@
+emailListParser
+ extends abstractUrlColumnParser
+ description What is a link to the mailing list for this language?
+ single false

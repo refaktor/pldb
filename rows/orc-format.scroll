@@ -1,0 +1,37 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Optimized Row Columnar
+
+title Optimized Row Columnar - Binary data format
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="mlite.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="piccola.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/orc-format.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://orc.apache.org/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=orc-format" class="material-symbols-outlined">edit</a></div>
+
+* Optimized Row Columnar is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+binaryDataFormat">binary data format</a> created in 2016.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
+
+dashboard
+ #3340 on PLDB
+ 7 Years Old
+
+* 
+
+- Optimized Row Columnar website
+ https://orc.apache.org/
+- Optimized Row Columnar first developed in <a href="../lists/originCommunities.html#apacheSoftwareFoundation">Apache Software Foundation</a>
+
+<br>
+
+endColumns
+
+keyboardNav mlite.html piccola.html
+
+import ../footer.scroll

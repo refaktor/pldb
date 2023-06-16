@@ -1,0 +1,52 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title tuplemarkup
+
+title tuplemarkup - Text markup language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="alumina.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="dern.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/tuplemarkup.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/judnich/TupleMarkup" class="material-symbols-outlined">code</a> <a href="/edit.html?id=tuplemarkup" class="material-symbols-outlined">edit</a></div>
+
+* tuplemarkup is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+textMarkup">text markup language</a> created in 2012 by John Judnich.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+ link ../lists/creators.html#johnJudnich John Judnich
+
+codeWithHeader Source code:
+ git clone https://github.com/judnich/TupleMarkup
+
+dashboard
+ #1811 <span title="TotalRank: 2340 Jobs: 103 Users: 1997 Facts: 1251 Links: 986">on PLDB</span>
+ 11 Years Old
+
+* A minimalist all-purpose markup language: nested lists with bracket-minimizing syntax. It enables XML-like and YAML-like semantics within the same clean and consistent language.
+
+- tuplemarkup is developed on <a href="https://github.com/judnich/TupleMarkup">GitHub</a> and has 31 stars
+
+<br>
+
+codeWithHeader Example from the web:
+ [html |
+     Hello. This is an example [b|language] test.
+  [ div [class testc] | And this text is enclosed in a div. ]
+  [ a [href google.com] | Click this link [i|now] ]
+ ]
+
+endColumns
+
+## HackerNews discussions of tuplemarkup
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: Tuple Markup Language – An all-purpose (Lisp-inspired) markup language|https://news.ycombinator.com/item?id=5004956|01/03/2013|2|1
+
+keyboardNav alumina.html dern.html
+
+import ../footer.scroll

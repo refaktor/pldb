@@ -1,0 +1,93 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title monte
+
+title monte - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="tht.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ella-programming-language.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/monte.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/monte-language/monte" class="material-symbols-outlined">code</a> <a href="/edit.html?id=monte" class="material-symbols-outlined">edit</a></div>
+
+* monte is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2014.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
+
+codeWithHeader Source code:
+ git clone https://github.com/monte-language/monte
+
+dashboard
+ #1048 <span title="TotalRank: 1613 Jobs: 103 Users: 1438 Facts: 524 Links: 986">on PLDB</span>
+ 9 Years Old
+
+* <a href='https://github.com/monte-language'>Monte</a> is a dynamic programming language inspired by Python and E.
+
+- monte is developed on <a href="https://github.com/monte-language/monte">GitHub</a> and has 72 stars
+- monte first developed in <a href="../lists/originCommunities.html#httpsGithubComMonteLanguage">https://github.com/monte-language</a>
+- file extensions for monte include mt
+- Explore monte snippets on <a href="http://www.rosettacode.org/wiki/Category:Monte">Rosetta Code</a>
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/monte.py">syntax highlighting</a> for monte
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/m/Monte.mt'>hello-world</a>:
+ traceln(&quot;Hello World&quot;)
+ 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Floats
+  FeatureLink ../features/hasFloats.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Hexadecimals
+  FeatureLink ../features/hasHexadecimals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token traceln
+  Example
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav tht.html ella-programming-language.html
+
+import ../footer.scroll

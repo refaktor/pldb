@@ -1,0 +1,149 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title JFlex
+
+title JFlex - Grammar language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="rmarkdown.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pig.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/jflex.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://jflex.de/" class="material-symbols-outlined">home</a> <a href="https://github.com/jflex-de/jflex" class="material-symbols-outlined">code</a> <a href="/edit.html?id=jflex" class="material-symbols-outlined">edit</a></div>
+
+* JFlex is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+grammarLanguage">grammar language</a> created in 2003.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2003 2003
+
+codeWithHeader Source code:
+ git clone https://github.com/jflex-de/jflex
+
+dashboard
+ #377 <span title="TotalRank: 851 Jobs: 103 Users: 561 Facts: 187 Links: 986">on PLDB</span>
+ 20 Years Old
+ 2 <span title="JFlex repos on GitHub.">Repos</span>
+
+* JFlex is a lexical analyzer generator (also known as scanner generator) for Java, written in Java.
+
+- JFlex website
+ http://jflex.de/
+- JFlex is developed on <a href="https://github.com/jflex-de/jflex">GitHub</a> and has 469 stars
+- There are at least 2 JFlex repos on <a href="https://github.com/search?q=language:JFlex">GitHub</a>
+- JFlex first developed in <a href="../lists/originCommunities.html#httpsGithubComJflexDe">https://github.com/jflex-de/</a>
+- file extensions for JFlex include flex and jflex
+- The  Google BigQuery Public Dataset GitHub snapshot shows 38 users using JFlex in 39 repos on <a href="https://api.github.com/search/repositories?q=language:JFlex">GitHub</a>
+- GitHub supports <a href="https://github.com/jflex-de/jflex.tmbundle.git" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for JFlex
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/jflex-de/jflex.tmbundle.git'>Linguist</a>:
+ /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  * Copyright (C) 1998-2015  Gerwin Klein &lt;lsf@jflex.de&gt;                    *
+  * All rights reserved.                                                    *
+  *                                                                         *
+  * License: BSD                                                            *
+  *                                                                         *
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+ 
+ /* Java 1.2 language lexer specification */
+ 
+ /* Use together with unicode.flex for Unicode preprocesssing */
+ /* and java12.cup for a Java 1.2 parser                      */
+ 
+ /* Note that this lexer specification is not tuned for speed.
+    It is in fact quite slow on integer and floating point literals, 
+    because the input is read twice and the methods used to parse
+    the numbers are not very fast. 
+    For a production quality application (e.g. a Java compiler) 
+    this could be optimized */
+ 
+ 
+ import java_cup.runtime.*;
+ 
+ %%
+ 
+ %public
+ %class Scanner
+ %implements sym
+ 
+ %unicode
+ 
+ %line
+ %column
+ 
+ %cup
+ %cupdebug
+ 
+ %{
+   StringBuilder string = new StringBuilder();
+   
+   private Symbol symbol(int type) {
+     return new JavaSymbol(type, yyline+1, yycolumn+1);
+   }
+ 
+   private Symbol symbol(int type, Object value) {
+     return new JavaSymbol(type, yyline+1, yycolumn+1, value);
+   }
+ 
+   /** 
+    * assumes correct representation of a long value for 
+    * specified radix in scanner buffer from &lt;code&gt;start&lt;/code&gt; 
+    * to &lt;code&gt;end&lt;/code&gt; 
+    */
+   private long parseLong(int start, int end, int radix) {
+     long result = 0;
+     long digit;
+ 
+     for (int i = start; i &lt; end; i++) {
+       digit  = Character.digit(yycharat(i),radix);
+       result*= radix;
+       result+= digit;
+     }
+ 
+     return result;
+   }
+ %}
+ 
+ /* main character classes */
+ LineTerminator = \r|\n|\r\n
+ InputCharacter = [^\r\n]
+ 
+ WhiteSpace = {LineTerminator} | [ \t\f]
+ 
+ /* comments */
+ Comment = {Tradi
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   /* A comment
+   */
+ row
+  Feature MultiLine Comments
+  FeatureLink ../features/hasMultiLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token /* */
+  Example
+   /* A comment
+   */
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav rmarkdown.html pig.html
+
+import ../footer.scroll

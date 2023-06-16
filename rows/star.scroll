@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Star
+
+title Star - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="spitbol.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jazz.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/star.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/ALANVF/star" class="material-symbols-outlined">code</a> <a href="/edit.html?id=star" class="material-symbols-outlined">edit</a></div>
+
+* Star is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2021 by ALANVF.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2021 2021
+ link ../lists/creators.html#alanvf ALANVF
+
+codeWithHeader Source code:
+ git clone https://github.com/ALANVF/star
+
+dashboard
+ #2044 <span title="TotalRank: 2578 Jobs: 103 Users: 1489 Facts: 1968 Links: 986">on PLDB</span>
+ 2 Years Old
+
+* An experimental programming language that's made to be powerful, productive, and predictable
+
+- Star is developed on <a href="https://github.com/ALANVF/star">GitHub</a> and has 91 stars
+
+<br>
+
+endColumns
+
+keyboardNav spitbol.html jazz.html
+
+import ../footer.scroll

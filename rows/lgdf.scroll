@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title LGDF
+
+title LGDF - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="leopard.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="libra.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lgdf.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=lgdf" class="material-symbols-outlined">edit</a></div>
+
+* LGDF is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1986.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1986 1986
+
+dashboard
+ #3808 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 37 Years Old
+
+* 
+
+- LGDF first developed in <a href="../lists/originCommunities.html#universityOfNorthFlorida">University of North Florida</a> and <a href="../lists/originCommunities.html#universityOfMissouriRolla">University of Missouri-Rolla</a>
+- LGDF on HOPL
+ https://hopl.info/showlanguage.prx?exp=1235
+- Read more about LGDF on the web: 1.
+ https://digitalcommons.ohsu.edu/cgi/viewcontent.cgi?article=1167&context=csetech 1.
+
+<br>
+
+endColumns
+
+keyboardNav leopard.html libra.html
+
+import ../footer.scroll

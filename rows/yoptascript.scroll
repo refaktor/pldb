@@ -1,0 +1,70 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title YoptaScript
+
+title YoptaScript - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="atari-basic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="zuo.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/yoptascript.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://yopta.space/" class="material-symbols-outlined">home</a> <a href="https://riju.codes/yoptascript" class="material-symbols-outlined">terminal</a> <a href="https://github.com/samgozman/YoptaScript" class="material-symbols-outlined">code</a> <a href="/edit.html?id=yoptascript" class="material-symbols-outlined">edit</a></div>
+
+* YoptaScript is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2016 by Sam Gozman.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
+ link ../lists/creators.html#samGozman Sam Gozman
+
+codeWithHeader Source code:
+ git clone https://github.com/samgozman/YoptaScript
+
+dashboard
+ #674 <span title="TotalRank: 1249 Jobs: 103 Users: 366 Facts: 780 Links: 986">on PLDB</span>
+ 7 Years Old
+
+* Try now: <a href="https://riju.codes/yoptascript">Riju</a>
+
+* Скриптовый язык программирования для гопников и реальных пацанов
+
+- YoptaScript website
+ https://yopta.space/
+- YoptaScript is developed on <a href="https://github.com/samgozman/YoptaScript">GitHub</a> and has 1,675 stars
+- YoptaScript compiles to <a href="javascript.html">JavaScript</a>
+- YoptaScript is written with the native language of Russian
+
+<br>
+
+codeWithHeader Example from <a href='https://riju.codes/yoptascript'>Riju</a>:
+ красноглазое.чмо(&quot;Привет мир!&quot;) нах
+ 
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/y/YoptaScript'>hello-world</a>:
+ ксива.малява(&quot;Hello World&quot;) нах
+ 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token ксива.малява
+  Example
+
+keyboardNav atari-basic.html zuo.html
+
+import ../footer.scroll

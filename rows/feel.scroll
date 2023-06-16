@@ -1,0 +1,59 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Friendly Enough Expression Language
+
+title Friendly Enough Expression Language - Query language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="fable.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gel.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/feel.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=feel" class="material-symbols-outlined">edit</a></div>
+
+* Friendly Enough Expression Language, aka Friendly Enough Expression Language, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+dashboard
+ #3048 <span title="TotalRank: 3787 Jobs: 103 Users: 2831 Facts: 2698 Links: 986">on PLDB</span>
+ 8 Years Old
+
+* FEEL defines a syntax for expressing conditions that input data should be evaluated against
+
+- Friendly Enough Expression Language first developed in <a href="../lists/originCommunities.html#camunda">Camunda</a>
+- Read more about Friendly Enough Expression Language on the web: 1.
+ https://docs.camunda.org/manual/7.11/reference/dmn11/feel/ 1.
+
+<br>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Booleans
+  FeatureLink ../features/hasBooleans.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+
+keyboardNav fable.html gel.html
+
+import ../footer.scroll

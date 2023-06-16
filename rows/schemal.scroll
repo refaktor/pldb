@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title SCHEMAL
+
+title SCHEMAL - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="scalpel.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="scil-vp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/schemal.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=schemal" class="material-symbols-outlined">edit</a></div>
+
+* SCHEMAL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1983.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1983 1983
+
+dashboard
+ #4024 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 40 Years Old
+
+* 
+
+- SCHEMAL first developed in <a href="../lists/originCommunities.html#universityOfStrathclyde">University of Strathclyde</a>
+- SCHEMAL on HOPL
+ https://hopl.info/showlanguage.prx?exp=5966
+- Read more about SCHEMAL on Semantic Scholar: 1.
+ https://www.semanticscholar.org/paper/SCHEMAL%3A-Yet-Another-Conceptual-Schema-Definition-Frost/41d5967044ef078be763723f98cf93e90432cf3b 1.
+
+<br>
+
+endColumns
+
+keyboardNav scalpel.html scil-vp.html
+
+import ../footer.scroll

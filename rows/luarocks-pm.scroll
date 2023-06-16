@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title luarocks-pm
+
+title luarocks-pm - Package manager
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="libsvm-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mathematica-packagedata-pm.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/luarocks-pm.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://luarocks.org/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=luarocks-pm" class="material-symbols-outlined">edit</a></div>
+
+* luarocks-pm is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+packageManager">package manager</a> created in 2007.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2007 2007
+
+dashboard
+ #3477 on PLDB
+ 16 Years Old
+
+* 
+
+- luarocks-pm website
+ https://luarocks.org/
+- luarocks-pm first developed in <a href="../lists/originCommunities.html#httpsGithubComLuarocks">https://github.com/luarocks</a>
+- <a href="https://luarocks.org/">luarocks.org</a> was registered in 2007
+
+<br>
+
+endColumns
+
+keyboardNav libsvm-format.html mathematica-packagedata-pm.html
+
+import ../footer.scroll

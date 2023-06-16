@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title RoyalScript
+
+title RoyalScript - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="tsar.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="dreamlisp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/royalscript.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://jweinst1.github.io/Royalscript/" class="material-symbols-outlined">home</a> <a href="https://github.com/jweinst1/Royalscript" class="material-symbols-outlined">code</a> <a href="/edit.html?id=royalscript" class="material-symbols-outlined">edit</a></div>
+
+* RoyalScript is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2016 by Josh Weinstein.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
+ link ../lists/creators.html#joshWeinstein Josh Weinstein
+
+codeWithHeader Source code:
+ git clone https://github.com/jweinst1/Royalscript
+
+dashboard
+ #2482 <span title="TotalRank: 3057 Jobs: 103 Users: 2327 Facts: 1968 Links: 986">on PLDB</span>
+ 7 Years Old
+
+* A functional programming language that's Royal.
+
+- RoyalScript website
+ https://jweinst1.github.io/Royalscript/
+- RoyalScript is developed on <a href="https://github.com/jweinst1/Royalscript">GitHub</a> and has 4 stars
+
+<br>
+
+endColumns
+
+keyboardNav tsar.html dreamlisp.html
+
+import ../footer.scroll

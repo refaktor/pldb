@@ -1,0 +1,52 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Linker Script
+
+title Linker Script - Application
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="xsharp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/linker-script.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=linker-script" class="material-symbols-outlined">edit</a></div>
+
+* Linker Script is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+application">application</a> created in 1991.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1991 1991
+
+dashboard
+ #1955 on PLDB
+ 32 Years Old
+
+* ld combines a number of object and archive files, relocates their data and ties up symbol references. Usually the last step in compiling a program is to run ld. ld accepts Linker Command Language files written in a superset of AT&T’s Link Editor Command Language syntax, to provide explicit and total control over the linking process.
+
+- Linker Script first developed in <a href="../lists/originCommunities.html#redHatInc">Red Hat Inc</a> and <a href="../lists/originCommunities.html#freeSoftwareFoundationInc">Free Software Foundation, Inc</a>
+- file extensions for Linker Script include ld, lds and x
+- Read more about Linker Script on the web: 1.
+ https://www.eecs.umich.edu/courses/eecs373/readings/Linker.pdf 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ /*
+ *  link.ld
+ */
+ OUTPUT_FORMAT(elf32-i386)
+ ENTRY(start)
+ SECTIONS
+  {
+    . = 0x100000;
+    .text : { *(.text) }
+    .data : { *(.data) }
+    .bss  : { *(.bss)  }
+  }
+
+endColumns
+
+keyboardNav xsharp.html fl.html
+
+import ../footer.scroll

@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title LNF
+
+title LNF - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="lisptalk.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lo.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lnf.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=lnf" class="material-symbols-outlined">edit</a></div>
+
+* LNF is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1985.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1985 1985
+
+dashboard
+ #4204 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 2912 Links: 986">on PLDB</span>
+ 38 Years Old
+
+* 
+
+- LNF first developed in <a href="../lists/originCommunities.html#syracuseUniversity">Syracuse University</a>
+- LNF on HOPL
+ https://hopl.info/showlanguage.prx?exp=1160
+- Read more about LNF on the web: 1. 2.
+ http://foldoc.org/LNF 1.
+ https://dl.acm.org/doi/abs/10.5555/912525 2.
+
+<br>
+
+endColumns
+
+keyboardNav lisptalk.html lo.html
+
+import ../footer.scroll

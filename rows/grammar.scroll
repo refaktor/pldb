@@ -1,0 +1,72 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Grammar
+
+title Grammar - Grammar language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="flow-matic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jruby.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/grammar.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://jtree.treenotation.org/langs/grammar/" class="material-symbols-outlined">home</a> <a href="https://jtree.treenotation.org/designer/" class="material-symbols-outlined">terminal</a> <a href="https://github.com/breck7/jtree" class="material-symbols-outlined">code</a> <a href="/edit.html?id=grammar" class="material-symbols-outlined">edit</a></div>
+
+* Grammar is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+grammarLanguage">grammar language</a> created in 2017 by Breck Yunits.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+ link ../lists/creators.html#breckYunits Breck Yunits
+
+codeWithHeader Source code:
+ git clone https://github.com/breck7/jtree
+
+dashboard
+ #652 <span title="TotalRank: 1231 Jobs: 103 Users: 838 Facts: 802 Links: 326">on PLDB</span>
+ 6 Years Old
+
+* Try now: <a href="https://jtree.treenotation.org/designer/">Web</a>
+
+* Grammar is a Tree Language for creating new Tree Languages. By creating a grammar file you get a parser, a type checker, syntax highlighting, autocomplete, a compiler, and interpreter for executing your new language. Grammar uses both postfix and prefix language features.
+
+- Grammar website
+ https://jtree.treenotation.org/langs/grammar/
+- Grammar is developed on <a href="https://github.com/breck7/jtree">GitHub</a> and has 365 stars
+- Grammar first developed in <a href="../lists/originCommunities.html#httpsGithubComBreck7JtreeIssues">https://github.com/breck7/jtree/issues</a>
+- Release Notes for Grammar
+ https://jtree.treenotation.org/langs/grammar/
+- See also: (2 related languages)<a href="treenotation.html">Tree Notation</a>, <a href="antlr.html">ANTLR</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ latinNode
+  root
+  catchAllParser anyNode
+ anyNode
+  baseParser blobNode
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Enums
+  FeatureLink ../features/hasEnums.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   boolCell
+    enum true false
+ row
+  Feature Variable Substitution Syntax
+  FeatureLink ../features/hasVariableSubstitutionSyntax.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav flow-matic.html jruby.html
+
+import ../footer.scroll

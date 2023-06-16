@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title AMBUSH
+
+title AMBUSH - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="amber.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="amppl-i.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ambush.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=ambush" class="material-symbols-outlined">edit</a></div>
+
+* AMBUSH is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1971.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1971 1971
+
+dashboard
+ #3496 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 52 Years Old
+
+* 
+
+- AMBUSH first developed in <a href="../lists/originCommunities.html#appliedDataResearchInc">Applied Data Research, Inc</a>
+- AMBUSH on HOPL
+ https://hopl.info/showlanguage.prx?exp=539
+- Read more about AMBUSH on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/8db0e00953e405f1e1da41ad77362581012c14ff 1.
+
+<br>
+
+endColumns
+
+keyboardNav amber.html amppl-i.html
+
+import ../footer.scroll

@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title TyRuBa
+
+title TyRuBa - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="tyco.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="u-datalog.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/tyruba.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=tyruba" class="material-symbols-outlined">edit</a></div>
+
+* TyRuBa is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1998.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1998 1998
+
+dashboard
+ #3268 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 4070 Links: 986">on PLDB</span>
+ 25 Years Old
+
+* 
+
+- TyRuBa on HOPL
+ https://hopl.info/showlanguage.prx?exp=2947
+- Read more about TyRuBa on the web: 1.
+ http://tyruba.sourceforge.net/ 1.
+
+<br>
+
+endColumns
+
+keyboardNav tyco.html u-datalog.html
+
+import ../footer.scroll

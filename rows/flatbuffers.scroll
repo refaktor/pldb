@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title FlatBuffers
+
+title FlatBuffers - Interface design language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="bpmn.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pike.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/flatbuffers.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://google.github.io/flatbuffers/" class="material-symbols-outlined">home</a> <a href="https://github.com/google/flatbuffers" class="material-symbols-outlined">code</a> <a href="/edit.html?id=flatbuffers" class="material-symbols-outlined">edit</a></div>
+
+* FlatBuffers is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+idl">interface design language</a> created in 2014.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
+
+codeWithHeader Source code:
+ git clone https://github.com/google/flatbuffers
+
+dashboard
+ #271 <span title="TotalRank: 662 Jobs: 103 Users: 67 Facts: 1777 Links: 492">on PLDB</span>
+ 9 Years Old
+
+* FlatBuffers: Memory Efficient Serialization Library
+
+- FlatBuffers website
+ https://google.github.io/flatbuffers/
+- FlatBuffers is developed on <a href="https://github.com/google/flatbuffers">GitHub</a> and has 18,105 stars
+- FlatBuffers first developed in <a href="../lists/originCommunities.html#google">Google</a>
+
+<br>
+
+endColumns
+
+keyboardNav bpmn.html pike.html
+
+import ../footer.scroll

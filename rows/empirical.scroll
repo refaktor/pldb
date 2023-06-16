@@ -1,0 +1,44 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title empirical
+
+title empirical - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="albatross.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="golfscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/empirical.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.empirical-soft.com/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=empirical" class="material-symbols-outlined">edit</a></div>
+
+* empirical is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+dashboard
+ #2487 <span title="TotalRank: 3057 Jobs: 103 Users: 2435 Facts: 1968 Links: 986">on PLDB</span>
+ 4 Years Old
+
+* 
+
+- empirical website
+ https://www.empirical-soft.com/
+- empirical first developed in <a href="../lists/originCommunities.html#empiricalSoftwareSolutionsLlc">Empirical Software Solutions, LLC</a>
+- <a href="https://www.empirical-soft.com/">empirical-soft.com</a> was registered in 2018
+
+<br>
+
+endColumns
+
+## HackerNews discussions of empirical
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: Empirical – a language for time-series analysis|https://news.ycombinator.com/item?id=19969390|05/21/2019|111|29
+
+keyboardNav albatross.html golfscript.html
+
+import ../footer.scroll

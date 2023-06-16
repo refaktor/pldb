@@ -1,0 +1,57 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title world
+
+title world - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="scrapscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="worst.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/world.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.world-lang.org" class="material-symbols-outlined">home</a> <a href="/edit.html?id=world" class="material-symbols-outlined">edit</a></div>
+
+* world is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2011.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
+
+dashboard
+ #1823 <span title="TotalRank: 2340 Jobs: 103 Users: 2435 Facts: 1251 Links: 986">on PLDB</span>
+ 12 Years Old
+
+* 
+
+- world website
+ http://www.world-lang.org
+- <a href="http://www.world-lang.org">world-lang.org</a> was registered in 2011
+
+<br>
+
+codeWithHeader Example from the web:
+ timeval: struct [
+     slong sec
+     sint32 usec
+ ] none
+ 
+ timezone: struct [
+     sint minuteswest
+     sint dsttime
+ ] none
+ 
+ gettimeofday: routine [
+     [typecheck]
+     libc &quot;gettimeofday&quot; [
+         tp [struct!] pointer
+         tzp [struct!] pointer
+     ]
+     sint
+ ]
+
+endColumns
+
+keyboardNav scrapscript.html worst.html
+
+import ../footer.scroll

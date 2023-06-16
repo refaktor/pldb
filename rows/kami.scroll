@@ -1,0 +1,47 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Kami
+
+title Kami - Text markup language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="kaml.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="blc.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/kami.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://crates.io/crates/kami-parser" class="material-symbols-outlined">home</a> <a href="https://github.com/Lilith-In-Starlight/kami-parser" class="material-symbols-outlined">code</a> <a href="/edit.html?id=kami" class="material-symbols-outlined">edit</a></div>
+
+* Kami is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+textMarkup">text markup language</a> created in 2022 by Katie Ampersand.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2022 2022
+ link ../lists/creators.html#katieAmpersand Katie Ampersand
+
+codeWithHeader Source code:
+ git clone https://github.com/Lilith-In-Starlight/kami-parser
+
+dashboard
+ #1951 <span title="TotalRank: 2463 Jobs: 103 Users: 2402 Facts: 1374 Links: 986">on PLDB</span>
+ 1 Years Old
+
+* Kami tries to be a machine-first human-also-first markup language.
+
+- Kami website
+ https://crates.io/crates/kami-parser
+- Kami is developed on <a href="https://github.com/Lilith-In-Starlight/kami-parser">GitHub</a> and has 1 stars
+- Kami first developed in <a href="../lists/originCommunities.html#httpsAmpersandiaNet">https://ampersandia.net/</a>
+- file extensions for Kami include km
+
+<br>
+
+codeWithHeader Example from the web:
+ * Main list element
+ ** Sublist element
+
+endColumns
+
+keyboardNav kaml.html blc.html
+
+import ../footer.scroll

@@ -1,0 +1,65 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Hodor
+
+title Hodor - Esoteric programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="z-expressions.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="newsqueak.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/hodor.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.hodor-lang.org/" class="material-symbols-outlined">home</a> <a href="hodor" class="material-symbols-outlined">terminal</a> <a href="https://github.com/hummingbirdtech/hodor" class="material-symbols-outlined">code</a> <a href="/edit.html?id=hodor" class="material-symbols-outlined">edit</a></div>
+
+* Hodor is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+esolang">esoteric programming language</a> created in 2015 by Drew Morris.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+ link ../lists/creators.html#drewMorris Drew Morris
+
+codeWithHeader Source code:
+ git clone https://github.com/hummingbirdtech/hodor
+
+dashboard
+ #1230 <span title="TotalRank: 1768 Jobs: 103 Users: 833 Facts: 832 Links: 986">on PLDB</span>
+ 8 Years Old
+
+* Try now: <a href="https://tio.run/#hodor">TIO</a>
+
+* Using jumbled permutations of the word "hodor" over and over again we have simplified programming syntax to make it easier than ever before.
+
+- Hodor website
+ http://www.hodor-lang.org/
+- Hodor is developed on <a href="https://github.com/hummingbirdtech/hodor">GitHub</a> and has 323 stars
+- Hodor first developed in <a href="../lists/originCommunities.html#httpsGithubComHummingbirdtech">https://github.com/hummingbirdtech</a>
+- <a href="http://www.hodor-lang.org/">hodor-lang.org</a> was registered in 2021
+
+<br>
+
+codeWithHeader Example from the web:
+ $HODOR: hhodor? Hodor!? Hodor!? oHooodorrhodor orHodor!? d = HoDoRHoDoR () {
+  hodor.hod(&#39;Hhodor? Hodor!? Hodor!? o HODOR!? orHodor!? d!&#39;);
+ };
+ 
+ hhodor? Hodor!? Hodor!? oHooodorrhodor orHodor!? d();
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/h/Hodor.hd'>hello-world</a>:
+ hodor.hod(&#39;Hhodor? Hodor!? Hodor!? o, Hooodorrhodor orHodor!? d!&#39;);
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token hodor.hod
+  Example
+
+keyboardNav z-expressions.html newsqueak.html
+
+import ../footer.scroll

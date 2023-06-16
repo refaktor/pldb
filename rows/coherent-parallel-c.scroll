@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Coherent Parallel C
+
+title Coherent Parallel C - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="clear.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="col.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/coherent-parallel-c.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=coherent-parallel-c" class="material-symbols-outlined">edit</a></div>
+
+* Coherent Parallel C is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1988.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
+
+dashboard
+ #4103 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 2912 Links: 986">on PLDB</span>
+ 35 Years Old
+
+* 
+
+- Coherent Parallel C first developed in <a href="../lists/originCommunities.html#californiaInstituteOfTechnology">California Institute of Technology</a>
+- Coherent Parallel C on HOPL
+ https://hopl.info/showlanguage.prx?exp=1391
+- Read more about Coherent Parallel C on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/374fe7e3353bbd4cdc7c286945d2820a0049bb73 1.
+
+<br>
+
+endColumns
+
+keyboardNav clear.html col.html
+
+import ../footer.scroll

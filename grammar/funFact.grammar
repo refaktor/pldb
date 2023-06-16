@@ -1,0 +1,4 @@
+funFactParser
+ cells columnNameCell urlCell
+ description What is a code block or some text containing a fun or unusual fact about the language?
+ extends abstractCodeColumnParser

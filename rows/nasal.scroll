@@ -1,0 +1,47 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Nasal
+
+title Nasal - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="michelson.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="plantuml.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/nasal.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://web.archive.org/web/20150202210822/http://plausible.org/nasal" class="material-symbols-outlined">home</a> <a href="/edit.html?id=nasal" class="material-symbols-outlined">edit</a></div>
+
+* Nasal is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2002 by Andy Ross.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
+ link ../lists/creators.html#andyRoss Andy Ross
+
+dashboard
+ #2361 <span title="TotalRank: 2866 Jobs: 103 Users: 2435 Facts: 1777 Links: 986">on PLDB</span>
+ 21 Years Old
+ 32 <span title="Nasal repos on GitHub.">Repos</span>
+
+* 
+
+- Nasal website
+ https://web.archive.org/web/20150202210822/http://plausible.org/nasal
+- There are at least 32 Nasal repos on <a href="https://github.com/search?q=language:Nasal">GitHub</a>
+- Nasal first developed in <a href="../lists/originCommunities.html#httpsGithubComAndyrossNasalIssues">https://github.com/andyross/nasal/issues</a>
+- file extensions for Nasal include nas
+- The  Google BigQuery Public Dataset GitHub snapshot shows 12 users using Nasal in 12 repos on <a href="https://api.github.com/search/repositories?q=language:Nasal">GitHub</a>
+- Nasal on HOPL
+ https://hopl.info/showlanguage.prx?exp=8606
+- Read more about Nasal on the web: 1. 2.
+ https://mathieugouin.github.io/nasal/ 1.
+ http://freshmeat.sourceforge.net/projects/nasal 2.
+
+<br>
+
+endColumns
+
+keyboardNav michelson.html plantuml.html
+
+import ../footer.scroll

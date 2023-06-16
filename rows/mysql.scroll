@@ -1,0 +1,162 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title MySQL
+
+title MySQL - Query language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="fortran.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="r.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/mysql.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.mysql.com/" class="material-symbols-outlined">home</a> <a href="https://riju.codes/mysql" class="material-symbols-outlined">terminal</a> <a href="https://dev.mysql.com/doc/" class="material-symbols-outlined">menu_book</a> <a href="http://mysql.babo.ist/#/en/mailing-lists.html" class="material-symbols-outlined">mail</a> <a href="https://en.wikipedia.org/wiki/MySQL"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="98.05px" height="98.05px" viewBox="0 0 98.05 98.05" style="enable-background:new 0 0 98.05 98.05;" xml:space="preserve"><path d="M98.023,17.465l-19.584-0.056c-0.004,0.711-0.006,1.563-0.017,2.121c1.664,0.039,5.922,0.822,7.257,4.327L66.92,67.155 c-0.919-2.149-9.643-21.528-10.639-24.02l9.072-18.818c1.873-2.863,5.455-4.709,8.918-4.843l-0.01-1.968L55.42,17.489 c-0.045,0.499,0.001,1.548-0.068,2.069c5.315,0.144,7.215,1.334,5.941,4.508c-2.102,4.776-6.51,13.824-7.372,15.475 c-2.696-5.635-4.41-9.972-7.345-16.064c-1.266-2.823,1.529-3.922,4.485-4.004v-1.981l-21.82-0.067 c0.016,0.93-0.021,1.451-0.021,2.131c3.041,0.046,6.988,0.371,8.562,3.019c2.087,4.063,9.044,20.194,11.149,24.514 c-2.685,5.153-9.207,17.341-11.544,21.913c-3.348-7.43-15.732-36.689-19.232-44.241c-1.304-3.218,3.732-5.077,6.646-5.213 l0.019-2.148L0,17.398c0.005,0.646,0.027,1.71,0.029,2.187c4.025-0.037,9.908,6.573,11.588,10.683 c7.244,16.811,14.719,33.524,21.928,50.349c0.002,0.029,2.256,0.059,2.281,0.008c4.717-9.653,10.229-19.797,15.206-29.56 L63.588,80.64c0.005,0.004,2.082,0.016,2.093,0.007c7.962-18.196,19.892-46.118,23.794-54.933c1.588-3.767,4.245-6.064,8.543-6.194 l0.032-1.956L98.023,17.465z"/></svg></a> <a href="https://twitter.com/mysql"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></a> <a href="/edit.html?id=mysql" class="material-symbols-outlined">edit</a></div>
+
+* MySQL is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 1995 by David Axmark and Michael Widenius.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1995 1995
+ link ../lists/creators.html#davidAxmark David Axmark
+ link ../lists/creators.html#michaelWidenius Michael Widenius
+
+dashboard
+ #15 <span title="TotalRank: 53 Jobs: 7 Users: 9 Facts: 51 Links: 37">on PLDB</span>
+ 28 Years Old
+
+* Try now: <a href="https://riju.codes/mysql">Riju</a>
+
+monacoEditor mysql
+ SELECT 'Hello, world!';
+ 
+
+* MySQL (officially pronounced as  "My S-Q-L",) is an open-source relational database management system (RDBMS). Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language. The MySQL development project has made its source code available under the terms of the GNU General Public License, as well as under a variety of proprietary agreements. Read more on Wikipedia...
+ https://en.wikipedia.org/wiki/MySQL Read more on Wikipedia...
+
+- MySQL website
+ http://www.mysql.com/
+- MySQL downloads page
+ https://www.mysql.com/downloads/
+- MySQL Wikipedia page
+ https://en.wikipedia.org/wiki/MySQL
+- MySQL docs
+ https://dev.mysql.com/doc/
+- MySQL mailing list
+ http://mysql.babo.ist/#/en/mailing-lists.html
+- MySQL first developed in <a href="../lists/originCommunities.html#oracle">Oracle</a>
+- PLDB estimates there are currently 47k job openings for MySQL programmers.
+- MySQL on Twitter
+ https://twitter.com/mysql
+- Check out the 644 <a href="https://www.meetup.com/topics/mysql/">MySQL meetup groups</a> on Meetup.com.
+- Explore MySQL snippets on <a href="http://www.rosettacode.org/wiki/Category:MySQL">Rosetta Code</a>
+- <a href="antlr.html">ANTLR</a> <a href="https://github.com/antlr/grammars-v4/tree/master/mysql">grammar</a> for MySQL
+- <a href="monaco.html">Monaco</a> <a href="https://github.com/microsoft/monaco-editor/tree/main/src/basic-languages/mysql">package</a> for syntax highlighting MySQL
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/sql.py">syntax highlighting</a> for MySQL
+- Release Notes for MySQL
+ https://dev.mysql.com/doc/relnotes/mysql/8.0/en/
+- Official Blog page for MySQL
+ https://dev.mysql.com/blog-archive/
+- Frequently Asked Questions for MySQL
+ https://www.mysql.com/industry/faq/
+- Indeed.com has 21,490 matches for <a href="https://www.indeed.com/jobs?q=MySQL developer">"MySQL developer"</a>.
+- <a href="http://www.mysql.com/">mysql.com</a> was registered in 1999
+- See also: (21 related languages)<a href="c.html">C</a>, <a href="linux.html">Linux</a>, <a href="solaris.html">Solaris</a>, <a href="freebsd.html">FreeBSD</a>, <a href="sql.html">SQL</a>, <a href="perl.html">Perl</a>, <a href="php.html">PHP</a>, <a href="python.html">Python</a>, <a href="wordpress.html">WordPress</a>, <a href="mybb.html">MyBB</a>, <a href="drupal.html">Drupal</a>, <a href="yacc.html">Yacc</a>, <a href="mariadb.html">MariaDB</a>, <a href="sql-psm.html">SQL/PSM</a>, <a href="unicode.html">Unicode</a>, <a href="csv.html">CSV</a>, <a href="postgresql.html">PostgreSQL</a>, <a href="csharp.html">C#</a>, <a href="visual-basic.html">Visual Basic</a>, <a href="asp.html">ASP</a>, <a href="utf-8.html">UTF-8</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://riju.codes/mysql'>Riju</a>:
+ SELECT &#39;Hello, world!&#39;;
+ 
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/m/MySQL.sql'>hello-world</a>:
+ SELECT &quot;Hello World&quot;;
+ 
+
+<div class="keywordsBlock">
+codeWithHeader MySQL <a href="../lists/keywords.html?filter=mysql">Keywords</a>
+ ACCESSIBLE ADD ALL ALTER ANALYZE AND AS ASC ASENSITIVE BEFORE BETWEEN BIGINT BINARY BLOB BOTH BY CALL CASCADE CASE CHANGE CHAR CHARACTER CHECK COLLATE COLUMN CONDITION CONSTRAINT CONTINUE CONVERT CREATE CROSS CUBE CUME_DIST CURRENT_DATE CURRENT_TIME CURRENT_TIMESTAMP CURRENT_USER CURSOR DATABASE DATABASES DAY_HOUR DAY_MICROSECOND DAY_MINUTE DAY_SECOND DEC DECIMAL DECLARE DEFAULT DELAYED DELETE DENSE_RANK DESC DESCRIBE DETERMINISTIC DISTINCT DISTINCTROW DIV DOUBLE DROP DUAL EACH ELSE ELSEIF EMPTY ENCLOSED ESCAPED EXCEPT EXISTS EXIT EXPLAIN FALSE FETCH FIRST_VALUE FLOAT FLOAT4 FLOAT8 FOR FORCE FOREIGN FROM FULLTEXT FUNCTION GENERATED GET GRANT GROUP GROUPING GROUPS HAVING HIGH_PRIORITY HOUR_MICROSECOND HOUR_MINUTE HOUR_SECOND IF IGNORE IN INDEX INFILE INNER INOUT INSENSITIVE INSERT INT INT1 INT2 INT3 INT4 INT8 INTEGER INTERVAL INTO IO_AFTER_GTIDS IO_BEFORE_GTIDS IS ITERATE JOIN JSON_TABLE KEY KEYS KILL LAG LAST_VALUE LATERAL LEAD LEADING LEAVE LEFT LIKE LIMIT LINEAR LINES LOAD LOCALTIME LOCALTIMESTAMP LOCK LONG LONGBLOB LONGTEXT LOOP LOW_PRIORITY MASTER_BIND MASTER_SSL_VERIFY_SERVER_CERT MATCH MAXVALUE MEDIUMBLOB MEDIUMINT MEDIUMTEXT MIDDLEINT MINUTE_MICROSECOND MINUTE_SECOND MOD MODIFIES NATURAL NOT NO_WRITE_TO_BINLOG NTH_VALUE NTILE NULL NUMERIC OF ON OPTIMIZE OPTIMIZER_COSTS OPTION OPTIONALLY OR ORDER OUT OUTER OUTFILE OVER PARTITION PERCENT_RANK PRECISION PRIMARY PROCEDURE PURGE RANGE RANK READ READS READ_WRITE REAL RECURSIVE REFERENCES REGEXP RELEASE RENAME REPEAT REPLACE REQUIRE RESIGNAL RESTRICT RETURN REVOKE RIGHT RLIKE ROW ROWS ROW_NUMBER SCHEMA SCHEMAS SECOND_MICROSECOND SELECT SENSITIVE SEPARATOR SET SHOW SIGNAL SMALLINT SPATIAL SPECIFIC SQL SQLEXCEPTION SQLSTATE SQLWARNING SQL_BIG_RESULT SQL_CALC_FOUND_ROWS SQL_SMALL_RESULT SSL STARTING STORED STRAIGHT_JOIN SYSTEM TABLE TERMINATED THEN TINYBLOB TINYINT TINYTEXT TO TRAILING TRIGGER TRUE UNDO UNION UNIQUE UNLOCK UNSIGNED UPDATE USAGE USE USING UTC_DATE UTC_TIME UTC_TIMESTAMP VALUES VARBINARY VARCHAR VARCHARACTER VARYING VIRTUAL WHEN WHERE WHILE WINDOW WITH WRITE XOR YEAR_MONTH ZEROFILL
+</div>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Binary Literals
+  FeatureLink ../features/hasBinaryNumbers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   -- b'[01]+'
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   -- [0-9]+(?=[^0-9a-z$_\u0080-\uffff])
+ row
+  Feature Floats
+  FeatureLink ../features/hasFloats.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   -- [0-9]+\.[0-9]*(e[+-]?[0-9]+)?
+ row
+  Feature Hexadecimals
+  FeatureLink ../features/hasHexadecimals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   -- x'([0-9a-f]{2})+'
+ row
+  Feature Booleans
+  FeatureLink ../features/hasBooleans.html
+  Supported <span class="hasFeature">✓</span>
+  Token TRUE FALSE
+  Example
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+ row
+  Feature Case Insensitive Identifiers
+  FeatureLink ../features/hasCaseInsensitiveIdentifiers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature MultiLine Comments
+  FeatureLink ../features/hasMultiLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token /* */
+  Example
+   /* A comment
+   */
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   -- A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token --
+  Example
+   -- A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav fortran.html r.html
+
+import ../footer.scroll

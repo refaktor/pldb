@@ -1,0 +1,73 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title fay
+
+title fay - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="velato.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mql.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/fay.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/faylang/fay/wiki" class="material-symbols-outlined">home</a> <a href="https://github.com/faylang/fay" class="material-symbols-outlined">code</a> <a href="https://twitter.com/fayhaskell"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></a> <a href="/edit.html?id=fay" class="material-symbols-outlined">edit</a></div>
+
+* fay is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2012 by Chris Done.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+ link ../lists/creators.html#chrisDone Chris Done
+
+codeWithHeader Source code:
+ git clone https://github.com/faylang/fay
+
+dashboard
+ #561 <span title="TotalRank: 1122 Jobs: 103 Users: 422 Facts: 597 Links: 986">on PLDB</span>
+ 11 Years Old
+
+* A proper subset of Haskell that compiles to JavaScript
+
+- fay website
+ https://github.com/faylang/fay/wiki
+- fay is developed on <a href="https://github.com/faylang/fay">GitHub</a> and has 1,274 stars
+- fay first developed in <a href="../lists/originCommunities.html#httpsGithubComFaylang">https://github.com/faylang/</a>
+- fay compiles to <a href="javascript.html">JavaScript</a>
+- fay on Twitter
+ https://twitter.com/fayhaskell
+
+<br>
+
+codeWithHeader Example from the web:
+ {-# LANGUAGE EmptyDataDecls #-}
+ module Hello where
+ 
+ import FFI
+ 
+ data Event
+ 
+ alert :: String -&gt; Fay ()
+ alert = ffi &quot;alert(%1)&quot;
+ 
+ setBodyHtml :: String -&gt; Fay ()
+ setBodyHtml = ffi &quot;document.body.innerHTML = %1&quot;
+ 
+ addWindowEvent :: String -&gt; (Event -&gt; Fay ()) -&gt; Fay ()
+ addWindowEvent = ffi &quot;window.addEventListener(%1, %2)&quot;
+ 
+ greet :: Event -&gt; Fay ()
+ greet event = do
+   putStrLn &quot;The document has loaded&quot;
+   setBodyHtml &quot;Hello HTML!&quot;
+ 
+ main :: Fay ()
+ main = do
+   putStrLn &quot;Hello Console!&quot;
+   alert &quot;Hello Alert!&quot;
+   addWindowEvent &quot;load&quot; greet
+
+endColumns
+
+keyboardNav velato.html mql.html
+
+import ../footer.scroll

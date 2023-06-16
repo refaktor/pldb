@@ -1,0 +1,70 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title muon
+
+title muon - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="hashlink.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="caramel.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/muon.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/nickmqb/muon" class="material-symbols-outlined">code</a> <a href="/edit.html?id=muon" class="material-symbols-outlined">edit</a></div>
+
+* muon is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+codeWithHeader Source code:
+ git clone https://github.com/nickmqb/muon
+
+dashboard
+ #1058 <span title="TotalRank: 1621 Jobs: 103 Users: 606 Facts: 912 Links: 986">on PLDB</span>
+ 4 Years Old
+
+* Modern low-level programming language
+
+- muon is developed on <a href="https://github.com/nickmqb/muon">GitHub</a> and has 758 stars
+- muon first developed in <a href="../lists/originCommunities.html#httpsGithubComNickmqbMuonIssues">https://github.com/nickmqb/muon/issues</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/m/Muon.mu'>hello-world</a>:
+ printf(fmt cstring) int #Foreign(&quot;printf&quot;) #VarArgs
+ 
+ main() {
+ 	printf(&quot;Hello World&quot;)
+ }
+ 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token printf
+  Example
+
+## HackerNews discussions of muon
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: Muon, a low-level programming language inspired by C, C# and Go|https://news.ycombinator.com/item?id=19598592|04/07/2019|175|114
+
+keyboardNav hashlink.html caramel.html
+
+import ../footer.scroll

@@ -1,0 +1,44 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title remix
+
+title remix - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="tscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="vlibtemplate.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/remix.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://docs.racket-lang.org/remix/index.html" class="material-symbols-outlined">home</a> <a href="https://github.com/jeapostrophe/remix" class="material-symbols-outlined">code</a> <a href="/edit.html?id=remix" class="material-symbols-outlined">edit</a></div>
+
+* remix is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2016 by Jay McCarthy.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
+ link ../lists/creators.html#jayMcCarthy Jay McCarthy
+
+codeWithHeader Source code:
+ git clone https://github.com/jeapostrophe/remix
+
+dashboard
+ #2159 <span title="TotalRank: 2675 Jobs: 103 Users: 1899 Facts: 1586 Links: 986">on PLDB</span>
+ 7 Years Old
+
+* remix - a revised version of Racket
+
+- remix website
+ https://docs.racket-lang.org/remix/index.html
+- remix is developed on <a href="https://github.com/jeapostrophe/remix">GitHub</a> and has 34 stars
+- remix first developed in <a href="../lists/originCommunities.html#httpsGithubComJeapostropheRemixIssues">https://github.com/jeapostrophe/remix/issues</a>
+- Read more about remix on the web: 1.
+ https://pkgs.racket-lang.org/package/remix 1.
+
+<br>
+
+endColumns
+
+keyboardNav tscript.html vlibtemplate.html
+
+import ../footer.scroll

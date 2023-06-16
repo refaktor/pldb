@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title REGULUS
+
+title REGULUS - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="regina.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="relational-production-language.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/regulus.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=regulus" class="material-symbols-outlined">edit</a></div>
+
+* REGULUS is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1977.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1977 1977
+
+dashboard
+ #3113 <span title="TotalRank: 3878 Jobs: 103 Users: 2831 Facts: 2789 Links: 986">on PLDB</span>
+ 46 Years Old
+
+* 
+
+- REGULUS first developed in <a href="../lists/originCommunities.html#universityOfBritishColumbia">University of British Columbia</a>
+- REGULUS on HOPL
+ https://hopl.info/showlanguage.prx?exp=4109
+- Read more about REGULUS on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/5389de78b1dd5daf85bb3bbfdd36e303de5bfaad 1.
+
+<br>
+
+endColumns
+
+keyboardNav regina.html relational-production-language.html
+
+import ../footer.scroll

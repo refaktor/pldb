@@ -1,0 +1,48 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title xduce
+
+title xduce - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="rapidgen-rpl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="login.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/xduce.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=xduce" class="material-symbols-outlined">edit</a></div>
+
+* xduce is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2003 by Haruo Hosoya and Benjamin C. Pierce.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2003 2003
+ link ../lists/creators.html#haruoHosoya Haruo Hosoya
+ link ../lists/creators.html#benjaminCPierce Benjamin C. Pierce
+
+dashboard
+ #2655 <span title="TotalRank: 3256 Jobs: 103 Users: 2831 Facts: 2167 Links: 986">on PLDB</span>
+ 20 Years Old
+
+* XDuce is a statically typed programming language for XML processing. Its basic data values are XML documents, and its types (so-called regular expression types) directly correspond to document schemas. XDuce also provides a flexible form of regular expression pattern matching, integrating conditional branching, tag checking, and subtree extraction, as well as dynamic typechecking. We survey the principles of XDuce’s design, develop examples illustrating its key features, describe its foundations in the theory of regular tree automata, and present a complete formal definition of its core, along with a proof of type safety.
+
+- See also: (1 related languages)<a href="dtd.html">DTD</a>
+- Read more about xduce on the web: 1.
+ https://www.cis.upenn.edu/~bcpierce/papers/xduce-toit.pdf 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ addrbook[
+  person[name[&quot;Haruo Hosoya&quot;],
+    email[&quot;hahosoya@kyoto-u&quot;],
+    email[&quot;hahosoya@upenn&quot;]],
+  person[name[&quot;Benjamin Pierce&quot;],
+    email[&quot;bcpierce@upenn&quot;],
+    tel[&quot;123-456-789&quot;]]]
+
+endColumns
+
+keyboardNav rapidgen-rpl.html login.html
+
+import ../footer.scroll

@@ -1,0 +1,54 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title yeti
+
+title yeti - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="chicken.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mlab.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/yeti.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://mth.github.io/yeti/" class="material-symbols-outlined">home</a> <a href="http://try-yeti.appspot.com/" class="material-symbols-outlined">terminal</a> <a href="https://github.com/mth/yeti" class="material-symbols-outlined">code</a> <a href="/edit.html?id=yeti" class="material-symbols-outlined">edit</a></div>
+
+* yeti is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2007.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2007 2007
+
+codeWithHeader Source code:
+ git clone https://github.com/mth/yeti
+
+dashboard
+ #1579 <span title="TotalRank: 2087 Jobs: 103 Users: 998 Facts: 1119 Links: 986">on PLDB</span>
+ 16 Years Old
+
+* Try now: <a href="http://try-yeti.appspot.com/">Web</a>
+
+* Functional programming language for JVM.
+
+- yeti website
+ http://mth.github.io/yeti/
+- yeti is developed on <a href="https://github.com/mth/yeti">GitHub</a> and has 226 stars
+
+<br>
+
+codeWithHeader Example from the web:
+ ack m n =
+     if m == 0 then
+         n + 1
+     elif n == 0 then
+         ack (m - 1) 1
+     else
+         ack (m - 1) (ack m (n - 1))
+     fi;
+ 
+ println &quot;ack 3 8 = \(ack 3 8)&quot;
+
+endColumns
+
+keyboardNav chicken.html mlab.html
+
+import ../footer.scroll

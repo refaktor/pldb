@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title VIVA
+
+title VIVA - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="visual-occam.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="viz.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/viva.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=viva" class="material-symbols-outlined">edit</a></div>
+
+* VIVA is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1990.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1990 1990
+
+dashboard
+ #3292 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 4070 Links: 986">on PLDB</span>
+ 33 Years Old
+
+* 
+
+- VIVA on HOPL
+ https://hopl.info/showlanguage.prx?exp=4419
+- Read more about VIVA on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/4ec40622982b0632eec5699037a828942728df66 1.
+
+<br>
+
+endColumns
+
+keyboardNav visual-occam.html viz.html
+
+import ../footer.scroll

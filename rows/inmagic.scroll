@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title INMAGIC
+
+title INMAGIC - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="impl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="inscan.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/inmagic.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=inmagic" class="material-symbols-outlined">edit</a></div>
+
+* INMAGIC is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1983.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1983 1983
+
+dashboard
+ #3763 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 40 Years Old
+
+* 
+
+- INMAGIC first developed in <a href="../lists/originCommunities.html#inmagicInc">Inmagic, Inc</a>
+- INMAGIC on HOPL
+ https://hopl.info/showlanguage.prx?exp=4524
+- Read more about INMAGIC on the web: 1.
+ http://support.inmagic.com/Web/DBTWandWPP900/DBTextWorksv9UsersManual.pdf 1.
+
+<br>
+
+endColumns
+
+keyboardNav impl.html inscan.html
+
+import ../footer.scroll

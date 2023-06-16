@@ -1,0 +1,87 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Lexon
+
+title Lexon - Contract language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="false.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="scrapscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lexon.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://lexon.tech/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=lexon" class="material-symbols-outlined">edit</a></div>
+
+* Lexon is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+contractLanguage">contract language</a> created in 2018.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+
+dashboard
+ #1821 <span title="TotalRank: 2340 Jobs: 103 Users: 2435 Facts: 1251 Links: 986">on PLDB</span>
+ 5 Years Old
+
+monacoEditor lexon
+ LEX Escrow.
+ 
+ Chapter: Pay In.
+ A Payer pays an Amount into Escrow and appoints the Payee and the Arbiter.
+ 
+ Chapter: Pay Out.
+ The Arbiter or the Payer may pay the Escrow to the Payee.
+ 
+ Chapter: Pay Back.
+ The Arbiter or the Payee may pay the Escrow to the Payer.
+
+* 
+
+- Lexon website
+ http://lexon.tech/
+- Lexon first developed in <a href="../lists/originCommunities.html#httpsGitlabComLexonFoundation">https://gitlab.com/lexon-foundation</a>
+- <a href="monaco.html">Monaco</a> <a href="https://github.com/microsoft/monaco-editor/tree/main/src/basic-languages/lexon">package</a> for syntax highlighting Lexon
+- <a href="http://lexon.tech/">lexon.tech</a> was registered in 2018
+- See also: (1 related languages)<a href="solidity.html">Solidity</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ LEX Escrow.
+ 
+ Chapter: Pay In.
+ A Payer pays an Amount into Escrow and appoints the Payee and the Arbiter.
+ 
+ Chapter: Pay Out.
+ The Arbiter or the Payer may pay the Escrow to the Payee.
+ 
+ Chapter: Pay Back.
+ The Arbiter or the Payee may pay the Escrow to the Payer.
+
+<div class="keywordsBlock">
+codeWithHeader Lexon <a href="../lists/keywords.html?filter=lexon">Keywords</a>
+ lexon lex clause terms contracts may pay pays appoints into to
+</div>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   COMMENT A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token COMMENT
+  Example
+   COMMENT A comment
+
+keyboardNav false.html scrapscript.html
+
+import ../footer.scroll

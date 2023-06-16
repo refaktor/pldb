@@ -1,0 +1,57 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title bosque
+
+title bosque - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="modula.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="contracts.coffee.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/bosque.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/Microsoft/BosqueLanguage" class="material-symbols-outlined">code</a> <a href="/edit.html?id=bosque" class="material-symbols-outlined">edit</a></div>
+
+* bosque is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+codeWithHeader Source code:
+ git clone https://github.com/Microsoft/BosqueLanguage
+
+dashboard
+ #680 <span title="TotalRank: 1254 Jobs: 103 Users: 165 Facts: 992 Links: 986">on PLDB</span>
+ 4 Years Old
+
+* The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle. 
+
+- bosque is developed on <a href="https://github.com/Microsoft/BosqueLanguage">GitHub</a> and has 5,294 stars
+- bosque first developed in <a href="../lists/originCommunities.html#microsoftResearch">Microsoft Research</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/b/Bosque.bsq'>hello-world</a>:
+ namespace NSMain;
+ 
+ entrypoint function main(): String {  
+     return &quot;Hello World&quot;;
+ }
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+
+keyboardNav modula.html contracts.coffee.html
+
+import ../footer.scroll

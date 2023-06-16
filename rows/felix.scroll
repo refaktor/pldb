@@ -1,0 +1,188 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Felix
+
+title Felix - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="futhark.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ratfor.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/felix.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://felix-lang.github.io/felix/" class="material-symbols-outlined">home</a> <a href="https://github.com/felix-lang/felix" class="material-symbols-outlined">code</a> <a href="https://groups.google.com/g/felix-language" class="material-symbols-outlined">mail</a> <a href="/edit.html?id=felix" class="material-symbols-outlined">edit</a></div>
+
+* Felix is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2001 by John Skaller.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2001 2001
+ link ../lists/creators.html#johnSkaller John Skaller
+
+codeWithHeader Source code:
+ git clone https://github.com/felix-lang/felix
+
+dashboard
+ #525 <span title="TotalRank: 1068 Jobs: 103 Users: 611 Facts: 354 Links: 986">on PLDB</span>
+ 22 Years Old
+
+* The Felix Programming Language
+
+- Felix website
+ http://felix-lang.github.io/felix/
+- Felix is developed on <a href="https://github.com/felix-lang/felix">GitHub</a> and has 685 stars
+- Felix mailing list
+ https://groups.google.com/g/felix-language
+- Felix first developed in <a href="../lists/originCommunities.html#felixLanguageGooglegroupsCom">felix-language@googlegroups.com</a>
+- file extensions for Felix include flx and flxh
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/felix.py">syntax highlighting</a> for Felix
+- Read more about Felix on the web: 1.
+ http://web.archive.org/web/20080415185225/http://felix-lang.org/ 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ #import &lt;flx.flxh&gt;
+ fun abs_div(a:int, b:int when b!=0)
+   expect result &gt;=0
+ =&gt;
+   abs(a/b)
+ ;
+ print (abs_div(2,4)); print &quot;\n&quot;;
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/f/Felix.flx'>hello-world</a>:
+ println$ &quot;Hello World&quot;;
+ 
+
+<div class="keywordsBlock">
+codeWithHeader Felix <a href="../lists/keywords.html?filter=felix">Keywords</a>
+ _ _deref all as assert attempt call callback case caseno cclass code compound ctypes do done downto elif else endattempt endcase endif endmatch enum except exceptions expect finally for forall forget fork functor goto ident if incomplete inherit instance interface jump lambda loop match module namespace new noexpand nonterm obj of open parse raise regexp reglex regmatch rename return the then to type typecase typedef typematch typeof upto when whilst with yield
+</div>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Binary Literals
+  FeatureLink ../features/hasBinaryNumbers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // 0[Bb][01_]+([tTsSiIlLvV]|ll|LL|([iIuU])(8|16|32|64))?
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // (0|[1-9][0-9_]*)([tTsSiIlLvV]|ll|LL|([iIuU])(8|16|32|64))?
+ row
+  Feature Floats
+  FeatureLink ../features/hasFloats.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // 0[xX]([0-9a-fA-F_]*\.[0-9a-fA-F_]+|[0-9a-fA-F_]+)[pP][+\-]?[0-9_]+[lLfFdD]?
+ row
+  Feature Hexadecimals
+  FeatureLink ../features/hasHexadecimals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // 0[xX][0-9a-fA-F_]+([tTsSiIlLvV]|ll|LL|([iIuU])(8|16|32|64))?
+ row
+  Feature Octals
+  FeatureLink ../features/hasOctals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // 0[0-7_]+([tTsSiIlLvV]|ll|LL|([iIuU])(8|16|32|64))?
+ row
+  Feature Conditionals
+  FeatureLink ../features/hasConditionals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token println
+  Example
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token //
+  Example
+   // A comment
+ row
+  Feature Pattern Matching
+  FeatureLink ../features/hasPatternMatching.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   match x with
+    | Some x => println$ x; 
+    | None => println "NONE";
+    endmatch;
+ row
+  Feature Polymorphism
+  FeatureLink ../features/hasPolymorphism.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // overloads
+   fun f (x:double) => x +42.1;
+   fun f (x:int) =>  x + 1;
+   fun f (x:string) => x + "!";
+ row
+  Feature Generics
+  FeatureLink ../features/hasGenerics.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // generics
+   fun g (x) => f (f x);
+   println$ g 1, g "hello";
+   println$ _map f (1,"hello",2.0);
+ row
+  Feature Pointers
+  FeatureLink ../features/hasPointers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   var x = 1;
+   &x <- 2;
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+## HackerNews discussions of Felix
+
+pipeTable
+ title|titleLink|date|score|comments
+ Felix - a fast scripting language|https://news.ycombinator.com/item?id=5007674|01/04/2013|107|83
+
+keyboardNav futhark.html ratfor.html
+
+import ../footer.scroll

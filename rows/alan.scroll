@@ -1,0 +1,50 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title alan
+
+title alan - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="mai.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="avro.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/alan.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://alan-platform.com/pages/tuts/introducing.html" class="material-symbols-outlined">home</a> <a href="/edit.html?id=alan" class="material-symbols-outlined">edit</a></div>
+
+* alan is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+
+dashboard
+ #2353 <span title="TotalRank: 2866 Jobs: 103 Users: 2435 Facts: 1777 Links: 986">on PLDB</span>
+ 5 Years Old
+
+* 
+
+- alan website
+ https://alan-platform.com/pages/tuts/introducing.html
+- alan first developed in <a href="../lists/originCommunities.html#kjerner">Kjerner</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ &#39;Reasons&#39;: collection { }
+ &#39;Users&#39;: collection {
+   &#39;Name&#39;: text
+   &#39;Active&#39;: stategroup @default: &#39;Yes&#39; (
+     &#39;Yes&#39; -&gt; { }
+     &#39;No&#39; -&gt; {
+       &#39;Reason&#39;: text -&gt; ?^ .^ .&#39;Reasons&#39;
+     }
+   )
+ }
+ &#39;Active Users&#39;:= integer &#39;n&#39; = count .&#39;Users&#39;?&#39;Active&#39;|&#39;Yes&#39;
+
+endColumns
+
+keyboardNav mai.html avro.html
+
+import ../footer.scroll

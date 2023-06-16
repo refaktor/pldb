@@ -1,0 +1,45 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title ed script
+
+title ed script - Diff format
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="bayer-expressions.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="firefox.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/edscript.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=edscript" class="material-symbols-outlined">edit</a></div>
+
+* ed script is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+diffFormat">diff format</a> created in 1973.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1973 1973
+
+dashboard
+ #2559 <span title="TotalRank: 3211 Jobs: 103 Users: 2831 Facts: 2441 Links: 667">on PLDB</span>
+ 50 Years Old
+
+* diff can produce commands that direct the ed text editor to change the first file into the second file. These are often called "ed scripts".
+
+- See also: (1 related languages)<a href="ed-editor.html">ed</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ a
+ ed is the standard Unix text editor.
+ This is line number two.
+ .
+ 2i
+   
+ .
+ ,l
+
+endColumns
+
+keyboardNav bayer-expressions.html firefox.html
+
+import ../footer.scroll

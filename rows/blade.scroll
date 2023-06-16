@@ -1,0 +1,84 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Blade
+
+title Blade - Template language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="pl360.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="extensible-embeddable-language.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/blade.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://laravel.com/docs/5.7/blade" class="material-symbols-outlined">home</a> <a href="/edit.html?id=blade" class="material-symbols-outlined">edit</a></div>
+
+* Blade is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+template">template language</a> created in 2011.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
+
+dashboard
+ #986 <span title="TotalRank: 1549 Jobs: 103 Users: 1125 Facts: 460 Links: 986">on PLDB</span>
+ 12 Years Old
+ 41k <span title="Blade repos on GitHub.">Repos</span>
+
+* 
+
+- Blade website
+ https://laravel.com/docs/5.7/blade
+- There are at least 41,201 Blade repos on <a href="https://github.com/search?q=language:Blade">GitHub</a>
+- Blade first developed in <a href="../lists/originCommunities.html#laravel">Laravel</a>
+- file extensions for Blade include blade and bladephp
+- The  Google BigQuery Public Dataset GitHub snapshot shows 324 users using Blade in 372 repos on <a href="https://api.github.com/search/repositories?q=language:Blade">GitHub</a>
+- GitHub supports <a href="https://github.com/jawee/language-blade" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for Blade
+
+<br>
+
+codeWithHeader Example from the web:
+ &lt;!-- Stored in resources/views/layouts/app.blade.php --&gt;
+ 
+ &lt;html&gt;
+     &lt;head&gt;
+         &lt;title&gt;App Name - @yield(&#39;title&#39;)&lt;/title&gt;
+     &lt;/head&gt;
+     &lt;body&gt;
+         @section(&#39;sidebar&#39;)
+             This is the master sidebar.
+         @show
+ 
+         &lt;div class=&quot;container&quot;&gt;
+             @yield(&#39;content&#39;)
+         &lt;/div&gt;
+     &lt;/body&gt;
+ &lt;/html&gt;
+
+codeWithHeader Example from <a href='https://github.com/jawee/language-blade'>Linguist</a>:
+ &lt;!DOCTYPE html&gt;
+ &lt;html&gt;
+ &lt;head&gt;
+     &lt;title&gt;@yield(&#39;title&#39;, &#39;We love GitHub&#39;)&lt;/title&gt;
+     @stack(&#39;scripts&#39;)
+     @stack(&#39;styles&#39;)
+ &lt;/head&gt;
+ &lt;body&gt;
+     @include(&#39;partials.nav&#39;)
+ 
+     @yield(&#39;content&#39;)
+ 
+     &lt;ul&gt;
+         @foreach($foo as $bar)
+         &lt;li&gt;{{ $bar }}&lt;/li&gt;
+         @endforeach
+     &lt;/ul&gt;
+ 
+     {!! $raw_content !!}
+ &lt;/body&gt;
+ &lt;/html&gt;
+ 
+
+endColumns
+
+keyboardNav pl360.html extensible-embeddable-language.html
+
+import ../footer.scroll

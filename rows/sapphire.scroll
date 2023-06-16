@@ -1,0 +1,42 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Sapphire
+
+title Sapphire - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="prosper.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="shadow.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/sapphire.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=sapphire" class="material-symbols-outlined">edit</a></div>
+
+* Sapphire is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1995.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1995 1995
+
+dashboard
+ #3028 <span title="TotalRank: 3703 Jobs: 103 Users: 2831 Facts: 2614 Links: 986">on PLDB</span>
+ 28 Years Old
+
+* 
+
+- Sapphire first developed in <a href="../lists/originCommunities.html#elfDirconCoUk">elf.dircon.co.uk</a>
+- Sapphire on HOPL
+ https://hopl.info/showlanguage.prx?exp=6451
+- Read more about Sapphire on the web: 1. 2. 3. 4.
+ https://ibiblio.org/pub/linux/apps/sound/editors/sapphire.lsm 1.
+ http://wiki.c2.com/?SapphireLanguage 2.
+ https://web.archive.org/web/20060925114845/http://smallwiki.unibe.ch/sapphire 3.
+ https://timthompson.com/plum/cgi/showlist.cgi?oneid=97 4.
+
+<br>
+
+endColumns
+
+keyboardNav prosper.html shadow.html
+
+import ../footer.scroll

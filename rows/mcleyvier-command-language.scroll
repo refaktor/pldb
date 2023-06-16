@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title McLeyvier Command Language
+
+title McLeyvier Command Language - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="inquire.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="midas.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/mcleyvier-command-language.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=mcleyvier-command-language" class="material-symbols-outlined">edit</a></div>
+
+* McLeyvier Command Language is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1982.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1982 1982
+
+dashboard
+ #3021 <span title="TotalRank: 3703 Jobs: 103 Users: 2831 Facts: 2614 Links: 986">on PLDB</span>
+ 41 Years Old
+
+* Music language
+
+- McLeyvier Command Language first developed in <a href="../lists/originCommunities.html#hazelcomIndustries">Hazelcom Industries</a>
+- McLeyvier Command Language on HOPL
+ https://hopl.info/showlanguage.prx?exp=6405
+- Read more about McLeyvier Command Language on the web: 1. 2. 3.
+ http://www.nosuch.com/plum/cgi/showlist.cgi?oneid=118 1.
+ http://retiary.org/ls/writings/cmj_mcleyvier.html 2.
+ https://synthmuseum.com/mcleyvier/ 3.
+
+<br>
+
+endColumns
+
+keyboardNav inquire.html midas.html
+
+import ../footer.scroll

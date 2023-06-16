@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Herbrand
+
+title Herbrand - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="gloss.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jacl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/herbrand.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=herbrand" class="material-symbols-outlined">edit</a></div>
+
+* Herbrand is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1995.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1995 1995
+
+dashboard
+ #3051 <span title="TotalRank: 3787 Jobs: 103 Users: 2831 Facts: 2698 Links: 986">on PLDB</span>
+ 28 Years Old
+
+* 
+
+- Herbrand on HOPL
+ https://hopl.info/showlanguage.prx?exp=3759
+- Read more about Herbrand on the web: 1.
+ http://logic.stanford.edu/herbrand/herbrand.html 1.
+
+<br>
+
+endColumns
+
+keyboardNav gloss.html jacl.html
+
+import ../footer.scroll

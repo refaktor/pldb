@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title JOSS II
+
+title JOSS II - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="jmsl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jsyn.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/joss-ii.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=joss-ii" class="material-symbols-outlined">edit</a></div>
+
+* JOSS II is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1965.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1965 1965
+
+dashboard
+ #3779 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 58 Years Old
+
+* 
+
+- JOSS II first developed in <a href="../lists/originCommunities.html#randCorporation">RAND Corporation</a>
+- JOSS II on HOPL
+ https://hopl.info/showlanguage.prx?exp=1688
+- See also: (1 related languages)<a href="joss.html">JOSS</a>
+- Read more about JOSS II on the web: 1.
+ https://en.wikipedia.org/wiki/JOSS#JOSS-2_use 1.
+
+<br>
+
+endColumns
+
+keyboardNav jmsl.html jsyn.html
+
+import ../footer.scroll

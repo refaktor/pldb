@@ -1,0 +1,86 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title wah
+
+title wah - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="knowledge-interchange-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="semicolon.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/wah.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/tmcw/wah" class="material-symbols-outlined">code</a> <a href="/edit.html?id=wah" class="material-symbols-outlined">edit</a></div>
+
+* wah is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2017 by Tom MacWright.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+ link ../lists/creators.html#tomMacWright Tom MacWright
+
+codeWithHeader Source code:
+ git clone https://github.com/tmcw/wah
+
+dashboard
+ #1740 <span title="TotalRank: 2287 Jobs: 103 Users: 1233 Facts: 1198 Links: 986">on PLDB</span>
+ 6 Years Old
+
+* a slightly higher-level language superset of webassembly
+
+- wah is developed on <a href="https://github.com/tmcw/wah">GitHub</a> and has 146 stars
+- wah is a superset of <a href="/rows/wasm.html">WebAssembly</a>
+- wah compiles to <a href="wasm.html">WebAssembly</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ (0 = 1)
+ (%$a + %$b)
+ (0 + 1)
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature MultiLine Comments
+  FeatureLink ../features/hasMultiLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Floats
+  FeatureLink ../features/hasFloats.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Hexadecimals
+  FeatureLink ../features/hasHexadecimals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+
+keyboardNav knowledge-interchange-format.html semicolon.html
+
+import ../footer.scroll

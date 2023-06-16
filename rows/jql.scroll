@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title JSON Query Language
+
+title JSON Query Language - Query language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="minizinc.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="potion.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/jql.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/cube2222/jql" class="material-symbols-outlined">code</a> <a href="/edit.html?id=jql" class="material-symbols-outlined">edit</a></div>
+
+* JSON Query Language is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 2019 by Jakub Martin.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+ link ../lists/creators.html#jakubMartin Jakub Martin
+
+codeWithHeader Source code:
+ git clone https://github.com/cube2222/jql
+
+dashboard
+ #1111 <span title="TotalRank: 1670 Jobs: 103 Users: 581 Facts: 1586 Links: 986">on PLDB</span>
+ 4 Years Old
+
+* Easy JSON Query Processor with a Lispy syntax in Go
+
+- JSON Query Language is developed on <a href="https://github.com/cube2222/jql">GitHub</a> and has 863 stars
+- JSON Query Language first developed in <a href="../lists/originCommunities.html#httpsGithubComCube2222JqlIssues">https://github.com/cube2222/jql/issues</a>
+
+<br>
+
+endColumns
+
+keyboardNav minizinc.html potion.html
+
+import ../footer.scroll

@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Moxie
+
+title Moxie - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="mouse4.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mpgs.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/moxie.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=moxie" class="material-symbols-outlined">edit</a></div>
+
+* Moxie is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1984.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1984 1984
+
+dashboard
+ #3876 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 39 Years Old
+
+* 
+
+- Moxie first developed in <a href="../lists/originCommunities.html#purdueUniversity">Purdue University</a>
+- Moxie on HOPL
+ https://hopl.info/showlanguage.prx?exp=1102
+- Read more about Moxie on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/d3cdda2752ab7898abf54ba7f288f195d7b4e14d 1.
+
+<br>
+
+endColumns
+
+keyboardNav mouse4.html mpgs.html
+
+import ../footer.scroll

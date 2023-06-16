@@ -1,0 +1,69 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title tcsh
+
+title tcsh - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="spir.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="orc-lang.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/tcsh.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://riju.codes/tcsh" class="material-symbols-outlined">terminal</a> <a href="/edit.html?id=tcsh" class="material-symbols-outlined">edit</a></div>
+
+* tcsh is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1983.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1983 1983
+
+dashboard
+ #1220 <span title="TotalRank: 1764 Jobs: 103 Users: 1149 Facts: 675 Links: 986">on PLDB</span>
+ 40 Years Old
+ 0 <span title="tcsh repos on GitHub.">Repos</span>
+
+* Try now: <a href="https://riju.codes/tcsh">Riju</a> · <a href="https://tio.run/#tcsh">TIO</a>
+
+* 
+
+- There are at least 0 tcsh repos on <a href="https://github.com/search?q=language:Tcsh">GitHub</a>
+- file extensions for tcsh include tcsh and csh
+- tcsh on HOPL
+ https://hopl.info/showlanguage.prx?exp=2560
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/shell.py">syntax highlighting</a> for tcsh
+- GitHub supports <a href="https://github.com/atom/language-shellscript" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for tcsh
+
+<br>
+
+codeWithHeader Example from <a href='https://riju.codes/tcsh'>Riju</a>:
+ echo &quot;Hello, world!&quot;
+ 
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/t/TCSH.tcsh'>hello-world</a>:
+ #!/bin/tcsh
+ echo &quot;Hello World&quot;
+ 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token echo
+  Example
+
+keyboardNav spir.html orc-lang.html
+
+import ../footer.scroll

@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title TypeScript Type Declarations
+
+title TypeScript Type Declarations - Header lang
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="cooc.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="explan.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/dts.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=dts" class="material-symbols-outlined">edit</a></div>
+
+* TypeScript Type Declarations is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+headerLang">header lang</a> created in 2012.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+
+dashboard
+ #3081 <span title="TotalRank: 3878 Jobs: 103 Users: 2831 Facts: 2789 Links: 986">on PLDB</span>
+ 11 Years Old
+
+* TypeScript .d.ts files are declaration files that contain only type information. These files don't produce .js outputs; they are only used for typechecking.
+
+- TypeScript Type Declarations first developed in <a href="../lists/originCommunities.html#microsoft">Microsoft</a>
+- file extensions for TypeScript Type Declarations include d.ts
+- See also: (1 related languages)<a href="typescript.html">TypeScript</a>
+- Read more about TypeScript Type Declarations on the web: 1.
+ https://microsoft.github.io/TypeScript-New-Handbook/chapters/type-declarations/ 1.
+
+<br>
+
+endColumns
+
+keyboardNav cooc.html explan.html
+
+import ../footer.scroll

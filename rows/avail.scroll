@@ -1,0 +1,77 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Avail
+
+title Avail - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="salsa.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bare.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/avail.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.availlang.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/AvailLang/Avail" class="material-symbols-outlined">code</a> <a href="/edit.html?id=avail" class="material-symbols-outlined">edit</a></div>
+
+* Avail is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2010 by Mark van Gulik and Todd L. Smith.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2010 2010
+ link ../lists/creators.html#markVanGulik Mark van Gulik
+ link ../lists/creators.html#toddLSmith Todd L. Smith
+
+codeWithHeader Source code:
+ git clone https://github.com/AvailLang/Avail
+
+dashboard
+ #1149 <span title="TotalRank: 1699 Jobs: 103 Users: 1794 Facts: 610 Links: 986">on PLDB</span>
+ 13 Years Old
+
+* Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming.
+
+- Avail website
+ https://www.availlang.org/
+- Avail is developed on <a href="https://github.com/AvailLang/Avail">GitHub</a> and has 48 stars
+- Avail first developed in <a href="../lists/originCommunities.html#theAvailFoundationLlc">The Avail Foundation, LLC</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ Public method &quot;Play Wump the Wumpus with reader_with reporter_&quot; is
+ [
+     reader : []→string,
+     writer : [string]→⊤
+ |
+     /* Set up the game&#39;s I/O. */
+     Wump the Wumpus reader := reader;
+     Wump the Wumpus reporter := writer;
+     /* Create a new game. All references to game objects within the block are
+      * implicitly understood as relative to this new game.
+      */
+     newGame ::= a game of Wump the Wumpus;
+     Use newGame as the implied game and do
+     [
+         Welcome;
+         Look around, having just entered;
+         Until the game is over, do
+         [
+             Give the agent a turn;
+             Give the first swarm a turn;
+             Give the second swarm a turn;
+             Give the wumpus a turn;
+         ];
+         If the agent is alive then
+         [
+             If the wumpus is dead then [Report victory;]
+             else [Report cowardice;];
+         ]
+         else [Report defeat;];
+         Goodbye;
+     ];
+ ] : ⊤;
+
+endColumns
+
+keyboardNav salsa.html bare.html
+
+import ../footer.scroll

@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title PLEASE
+
+title PLEASE - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="nelua.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="rbscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/please.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=please" class="material-symbols-outlined">edit</a></div>
+
+* PLEASE is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1984.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1984 1984
+
+dashboard
+ #2719 <span title="TotalRank: 3393 Jobs: 103 Users: 2831 Facts: 2304 Links: 986">on PLDB</span>
+ 39 Years Old
+
+* 
+
+- PLEASE first developed in <a href="../lists/originCommunities.html#universityOfIllinoisAtUrbanaChampaign">University of Illinois at Urbana-Champaign</a>
+- PLEASE on HOPL
+ https://hopl.info/showlanguage.prx?exp=6976
+- Read more about PLEASE on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/67f0224194a4e35f6602d08ac0a013752b67c85d 1.
+
+<br>
+
+endColumns
+
+keyboardNav nelua.html rbscript.html
+
+import ../footer.scroll

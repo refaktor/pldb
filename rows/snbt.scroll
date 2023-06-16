@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title SNBT
+
+title SNBT - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="smartgameformat.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tab.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/snbt.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://minecraft.fandom.com/wiki/NBT_format" class="material-symbols-outlined">home</a> <a href="/edit.html?id=snbt" class="material-symbols-outlined">edit</a></div>
+
+* SNBT is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2011.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
+
+dashboard
+ #2769 <span title="TotalRank: 3524 Jobs: 103 Users: 2435 Facts: 3865 Links: 986">on PLDB</span>
+ 12 Years Old
+
+* 
+
+- SNBT website
+ https://minecraft.fandom.com/wiki/NBT_format
+- file extensions for SNBT include snbt
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/mcfunction.py">syntax highlighting</a> for SNBT
+
+<br>
+
+endColumns
+
+keyboardNav smartgameformat.html tab.html
+
+import ../footer.scroll

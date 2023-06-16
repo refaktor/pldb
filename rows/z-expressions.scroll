@@ -1,0 +1,88 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Z
+
+title Z - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="haggis.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hodor.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/z-expressions.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://chrisdone.com/z/" class="material-symbols-outlined">home</a> <a href="https://github.com/chrisdone/z" class="material-symbols-outlined">code</a> <a href="/edit.html?id=z-expressions" class="material-symbols-outlined">edit</a></div>
+
+* Z is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2012 by Chris Done.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+ link ../lists/creators.html#chrisDone Chris Done
+
+codeWithHeader Source code:
+ git clone https://github.com/chrisdone/z
+
+dashboard
+ #1229 <span title="TotalRank: 1767 Jobs: 103 Users: 962 Facts: 702 Links: 986">on PLDB</span>
+ 11 Years Old
+
+* A strict, impure, curried, partially applied programming language with rather peculiar syntax. 
+
+- Z website
+ http://chrisdone.com/z/
+- Z is developed on <a href="https://github.com/chrisdone/z">GitHub</a> and has 277 stars
+- file extensions for Z include zz
+- Z is written in <a href="haskell.html">Haskell</a>
+- Read more about Z on the web: 1.
+ https://news.ycombinator.com/item?id=20557363 1.
+
+<br>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token --
+  Example
+   -- A comment
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   "hello world"
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   defun message msg
+         do print : Here's a message
+            print msg
+            print : End of message. 
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   -- A simple function, that is used inside the macro below.
+   defun ap x y
+        ++ x
+           y
+   defmacro : input
+            z:string input
+   -- Example with print:
+   print : Hello, World!
+           What's going on in here? 
+
+keyboardNav haggis.html hodor.html
+
+import ../footer.scroll

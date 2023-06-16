@@ -1,0 +1,57 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title EFL
+
+title EFL - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="blue.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="scl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/efl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=efl" class="material-symbols-outlined">edit</a></div>
+
+* EFL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1979.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1979 1979
+
+dashboard
+ #2274 <span title="TotalRank: 2751 Jobs: 103 Users: 2831 Facts: 1662 Links: 986">on PLDB</span>
+ 44 Years Old
+
+* 
+
+- EFL is a superset of <a href="/rows/ratfor.html">RATFOR</a>
+- EFL first developed in <a href="../lists/originCommunities.html#bellLaboratories">Bell Laboratories</a>
+- EFL on HOPL
+ https://hopl.info/showlanguage.prx?exp=1996
+- Read more about EFL on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/be7e15ab76865c4841a910d157ab5c43627ee7c6 1.
+
+<br>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   'Hello world'
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+
+keyboardNav blue.html scl.html
+
+import ../footer.scroll

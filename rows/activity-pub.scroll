@@ -1,0 +1,55 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title ActivityPub
+
+title ActivityPub - Protocol
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="loglan.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="vml.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/activity-pub.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://activitypub.rocks/" class="material-symbols-outlined">home</a> <a href="https://github.com/w3c/activitypub" class="material-symbols-outlined">code</a> <a href="https://w3c.github.io/activitypub/" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=activity-pub" class="material-symbols-outlined">edit</a></div>
+
+* ActivityPub is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+protocol">protocol</a> created in 2018 by Christine Lemmer-Webber and Jessica Tallon and Erin Shepherd and Amy Guy and Evan Prodromou.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#christineLemmerWebber Christine Lemmer-Webber
+ link ../lists/creators.html#jessicaTallon Jessica Tallon
+ link ../lists/creators.html#erinShepherd Erin Shepherd
+ link ../lists/creators.html#amyGuy Amy Guy
+ link ../lists/creators.html#evanProdromou Evan Prodromou
+
+codeWithHeader Source code:
+ git clone https://github.com/w3c/activitypub
+
+dashboard
+ #776 <span title="TotalRank: 1345 Jobs: 103 Users: 575 Facts: 1306 Links: 667">on PLDB</span>
+ 5 Years Old
+
+openGraphImage https://upload.wikimedia.org/wikipedia/commons/2/20/ActivityPub-tutorial-image.png
+image https://upload.wikimedia.org/wikipedia/commons/2/20/ActivityPub-tutorial-image.png
+ caption A screenshot of the visual language ActivityPub.
+  link /search.html?q=select+type%0D%0Awhere+type+%3D+visual visual language
+
+* ActivityPub is an open, decentralized social networking protocol based on Pump.io's ActivityPump protoco
+
+- ActivityPub website
+ https://activitypub.rocks/
+- ActivityPub is developed on <a href="https://github.com/w3c/activitypub">GitHub</a> and has 771 stars
+- ActivityPub docs
+ https://w3c.github.io/activitypub/
+- ActivityPub first developed in <a href="../lists/originCommunities.html#worldWideWebConsortium">World Wide Web Consortium</a>
+- Read more about ActivityPub on the web: 1.
+ https://w3c.github.io/activitypub/ 1.
+
+<br>
+
+endColumns
+
+keyboardNav loglan.html vml.html
+
+import ../footer.scroll

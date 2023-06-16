@@ -1,0 +1,42 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title mochajs
+
+title mochajs - Library
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="qr-code.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="vcpkg-pm.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/mochajs.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://mochajs.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/mochajs/mocha" class="material-symbols-outlined">code</a> <a href="/edit.html?id=mochajs" class="material-symbols-outlined">edit</a></div>
+
+* mochajs is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+library">library</a> created in 2011.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
+
+codeWithHeader Source code:
+ git clone https://github.com/mochajs/mocha
+
+dashboard
+ #686 on PLDB
+ 12 Years Old
+
+* ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+
+- mochajs website
+ https://mochajs.org/
+- mochajs is developed on <a href="https://github.com/mochajs/mocha">GitHub</a> and has 21,471 stars
+- mochajs first developed in <a href="../lists/originCommunities.html#httpsGithubComMochajs">https://github.com/mochajs</a>
+- <a href="https://mochajs.org/">mochajs.org</a> was registered in 2014
+
+<br>
+
+endColumns
+
+keyboardNav qr-code.html vcpkg-pm.html
+
+import ../footer.scroll

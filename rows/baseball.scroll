@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title BASEBALL
+
+title BASEBALL - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="barrel.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="basel.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/baseball.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=baseball" class="material-symbols-outlined">edit</a></div>
+
+* BASEBALL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1961.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1961 1961
+
+dashboard
+ #4085 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 2912 Links: 986">on PLDB</span>
+ 62 Years Old
+
+* 
+
+- BASEBALL first developed in <a href="../lists/originCommunities.html#massachusettsInstituteOfTechnology">Massachusetts Institute of Technology</a>
+- BASEBALL on HOPL
+ https://hopl.info/showlanguage.prx?exp=2797
+- Read more about BASEBALL on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/89d025804988944d6fa4e95f49bff011b33d1418 1.
+
+<br>
+
+endColumns
+
+keyboardNav barrel.html basel.html
+
+import ../footer.scroll

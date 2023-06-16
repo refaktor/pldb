@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Om
+
+title Om - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="litescript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="aadl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/om.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.om-language.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/sparist/Om" class="material-symbols-outlined">code</a> <a href="/edit.html?id=om" class="material-symbols-outlined">edit</a></div>
+
+* Om is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2012 by Jason Erb.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+ link ../lists/creators.html#jasonErb Jason Erb
+
+codeWithHeader Source code:
+ git clone https://github.com/sparist/Om
+
+dashboard
+ #1793 <span title="TotalRank: 2330 Jobs: 103 Users: 1241 Facts: 1442 Links: 986">on PLDB</span>
+ 11 Years Old
+
+* The Om programming language.
+
+- Om website
+ https://www.om-language.org/
+- Om is developed on <a href="https://github.com/sparist/Om">GitHub</a> and has 145 stars
+- Om first developed in <a href="../lists/originCommunities.html#httpsGithubComSparistOmIssues">https://github.com/sparist/Om/issues</a>
+- Om is written in <a href="cpp.html">C++</a>
+
+<br>
+
+endColumns
+
+keyboardNav litescript.html aadl.html
+
+import ../footer.scroll

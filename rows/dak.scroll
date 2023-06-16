@@ -1,0 +1,100 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Dak
+
+title Dak - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="srecode-template.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="kona.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/dak.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.daklang.com/" class="material-symbols-outlined">home</a> <a href="https://www.daklang.com/tour/functions/" class="material-symbols-outlined">terminal</a> <a href="https://github.com/daaku/dak" class="material-symbols-outlined">code</a> <a href="/edit.html?id=dak" class="material-symbols-outlined">edit</a></div>
+
+* Dak is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2022 by Naitik Shah.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2022 2022
+ link ../lists/creators.html#naitikShah Naitik Shah
+
+codeWithHeader Source code:
+ git clone https://github.com/daaku/dak
+
+dashboard
+ #915 <span title="TotalRank: 1487 Jobs: 103 Users: 1608 Facts: 398 Links: 986">on PLDB</span>
+ 1 Years Old
+
+* Try now: <a href="https://www.daklang.com/tour/functions/">Web</a>
+
+* Dak is a Lisp like language that transpiles to JavaScript.
+
+- Dak website
+ https://www.daklang.com/
+- Dak is developed on <a href="https://github.com/daaku/dak">GitHub</a> and has 70 stars
+- Dak first developed in <a href="../lists/originCommunities.html#httpsGithubComDaakuDakIssues">https://github.com/daaku/dak/issues</a>
+- Dak compiles to <a href="javascript.html">JavaScript</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ ; Functions are varied and colorful.
+ 
+ ; Simple function:
+ (fn add [a b]
+   (+ a b))
+ (prn (add 40 1))
+ 
+ ; Async function:
+ (fn@ add-promises [a b]
+   (+ @a @b))
+ (prn @(add-promises (Promise.resolve 40) (Promise.resolve 2)))
+ 
+ ; Generator function:
+ (fn* powers [n count]
+   (let [current 1]
+     (for [i 0 count]
+       (yield (*= current n)))))
+ (for-of [v (powers 2 5)]
+   (prn v))
+ 
+ ; Async generator function:
+ (fn@* foo [a b]
+   (yield (inc @a))
+   (yield (inc @b)))
+ (for@ [v (foo (Promise.resolve 41) (Promise.resolve -43))]
+   (prn v))
+ 
+ ; Exported function:
+ (fn ^:export plus [a b]
+   (+ a b))
+ 
+ ; Exported default function:
+ (fn ^:export ^:default [a b]
+   (- a b))
+ 
+ ; Declaration syntax:
+ (fn ^:decl TheClass [a]
+   (set this.answer a))
+ (prn (TheClass. 42))
+ 
+ ; Explicit return is available:
+ (fn until [a]
+   (while true
+     (if (= (++ a) 42)
+       (return :boom))))
+ (prn :returned (until 40))
+ 
+ ; Yield &amp; Yield* are available:
+ (fn* it [a]
+   (yield (++ a))
+   (yield* [(++ a) (++ a)]))
+ (for-of [v (it 39)]
+   (prn &quot;it:&quot; v))
+
+endColumns
+
+keyboardNav srecode-template.html kona.html
+
+import ../footer.scroll

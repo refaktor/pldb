@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title skulpt
+
+title skulpt - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="vyper.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="arkscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/skulpt.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.skulpt.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/skulpt/skulpt" class="material-symbols-outlined">code</a> <a href="/edit.html?id=skulpt" class="material-symbols-outlined">edit</a></div>
+
+* skulpt is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2009 by Scott Graham.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
+ link ../lists/creators.html#scottGraham Scott Graham
+
+codeWithHeader Source code:
+ git clone https://github.com/skulpt/skulpt
+
+dashboard
+ #707 <span title="TotalRank: 1272 Jobs: 103 Users: 183 Facts: 1198 Links: 986">on PLDB</span>
+ 14 Years Old
+
+* Skulpt is an entirely in-browser implementation of Python.
+
+- skulpt website
+ http://www.skulpt.org/
+- skulpt is developed on <a href="https://github.com/skulpt/skulpt">GitHub</a> and has 3,164 stars
+- There is 1 <a href="jupyter-notebook.html">Jupyter</a> <a href="https://github.com/Calysto/skulpt_python">Kernel</a> for skulpt
+- <a href="http://www.skulpt.org/">skulpt.org</a> was registered in 2009
+
+<br>
+
+endColumns
+
+keyboardNav vyper.html arkscript.html
+
+import ../footer.scroll

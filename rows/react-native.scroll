@@ -1,0 +1,56 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title React Native
+
+title React Native - Library
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="couchdb.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="txl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/react-native.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.reactnative.com/" class="material-symbols-outlined">home</a> <a href="https://github.com/facebook/react-native" class="material-symbols-outlined">code</a> <a href="/edit.html?id=react-native" class="material-symbols-outlined">edit</a></div>
+
+* React Native is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+library">library</a> created in 2015 by Ben Alpert.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+ link ../lists/creators.html#benAlpert Ben Alpert
+
+codeWithHeader Source code:
+ git clone https://github.com/facebook/react-native
+
+dashboard
+ #482 on PLDB
+ 8 Years Old
+
+* A framework for building native applications using React
+
+- React Native website
+ http://www.reactnative.com/
+- React Native is developed on <a href="https://github.com/facebook/react-native">GitHub</a> and has 103,571 stars
+- React Native first developed in <a href="../lists/originCommunities.html#facebookIncOrTheFacebookInc">Facebook, Inc or TheFacebook, Inc</a>
+- <a href="http://www.reactnative.com/">reactnative.com</a> was registered in 2015
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/r/React Native.js'>hello-world</a>:
+ import React from &quot;react&quot;;
+ import { Text, View } from &quot;react-native&quot;;
+ 
+ export default function HelloWorld() {
+     return (
+         &lt;View&gt;
+             &lt;Text&gt;Hello World&lt;/Text&gt;
+         &lt;/View&gt;
+     );
+ }
+ 
+
+endColumns
+
+keyboardNav couchdb.html txl.html
+
+import ../footer.scroll

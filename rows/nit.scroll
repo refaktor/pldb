@@ -1,0 +1,111 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Nit
+
+title Nit - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="bucklescript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="telnet-protocol.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/nit.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://nitlanguage.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/nitlang/nit" class="material-symbols-outlined">code</a> <a href="/edit.html?id=nit" class="material-symbols-outlined">edit</a></div>
+
+* Nit is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2008 by Jean Privat.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
+ link ../lists/creators.html#jeanPrivat Jean Privat
+
+codeWithHeader Source code:
+ git clone https://github.com/nitlang/nit
+
+dashboard
+ #659 <span title="TotalRank: 1237 Jobs: 103 Users: 690 Facts: 444 Links: 986">on PLDB</span>
+ 15 Years Old
+ 29 <span title="Nit repos on GitHub.">Repos</span>
+
+* Nit language
+
+- Nit website
+ https://nitlanguage.org/
+- Nit is developed on <a href="https://github.com/nitlang/nit">GitHub</a> and has 228 stars
+- There are at least 29 Nit repos on <a href="https://github.com/search?q=language:Nit">GitHub</a>
+- Nit first developed in <a href="../lists/originCommunities.html#httpsGithubComNitlang">https://github.com/nitlang</a>
+- file extensions for Nit include nit
+- The  Google BigQuery Public Dataset GitHub snapshot shows 26 users using Nit in 26 repos on <a href="https://api.github.com/search/repositories?q=language:Nit">GitHub</a>
+- Explore Nit snippets on <a href="http://www.rosettacode.org/wiki/Category:Nit">Rosetta Code</a>
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/nit.py">syntax highlighting</a> for Nit
+- GitHub supports <a href="https://github.com/R4PaSs/Sublime-Nit" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for Nit
+- <a href="https://nitlanguage.org/">nitlanguage.org</a> was registered in 2008
+- Read more about Nit on the web: 1.
+ http://nitlanguage.org/nit.git/ 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ print &quot;Hello, World!&quot;
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/n/Nit.nit'>hello-world</a>:
+ print &quot;Hello World&quot;
+ 
+ 
+
+codeWithHeader Example from <a href='https://github.com/R4PaSs/Sublime-Nit'>Linguist</a>:
+ print &quot;hello world&quot;
+ 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Floats
+  FeatureLink ../features/hasFloats.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Hexadecimals
+  FeatureLink ../features/hasHexadecimals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token print
+  Example
+
+keyboardNav bucklescript.html telnet-protocol.html
+
+import ../footer.scroll

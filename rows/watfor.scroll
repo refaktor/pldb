@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title WATFOR
+
+title WATFOR - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="unql.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="wikitax.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/watfor.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=watfor" class="material-symbols-outlined">edit</a></div>
+
+* WATFOR is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1966.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1966 1966
+
+dashboard
+ #3012 <span title="TotalRank: 3623 Jobs: 103 Users: 2831 Facts: 2534 Links: 986">on PLDB</span>
+ 57 Years Old
+
+* 
+
+- WATFOR on HOPL
+ https://hopl.info/showlanguage.prx?exp=307
+- Read more about WATFOR on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/875772c3e7e35782162b8c03f636b7dd78c43412 1.
+
+<br>
+
+endColumns
+
+keyboardNav unql.html wikitax.html
+
+import ../footer.scroll

@@ -1,0 +1,187 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Bel
+
+title Bel - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="newtonscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="utc-format.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/bel.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://paulgraham.com/bel.html" class="material-symbols-outlined">home</a> <a href="https://sep.yimg.com/ty/cdn/paulgraham/bellanguage.txt?t=1595850613&" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=bel" class="material-symbols-outlined">edit</a></div>
+
+* Bel is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019 by Paul Graham.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+ link ../lists/creators.html#paulGraham Paul Graham
+
+dashboard
+ #599 <span title="TotalRank: 1168 Jobs: 103 Users: 2435 Facts: 398 Links: 667">on PLDB</span>
+ 4 Years Old
+
+* 
+
+- Bel website
+ http://paulgraham.com/bel.html
+- Bel docs
+ https://sep.yimg.com/ty/cdn/paulgraham/bellanguage.txt?t=1595850613&
+- See also: (1 related languages)<a href="arc.html">Arc</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ ; Bel in Bel. 9 October 2019, 9:14 GMT
+ (def no (x)
+   (id x nil))
+ (def atom (x)
+   (no (id (type x) &#39;pair)))
+ (def all (f xs)
+   (if (no xs)      t
+       (f (car xs)) (all f (cdr xs))
+                    nil))
+ (def some (f xs)
+   (if (no xs)      nil
+       (f (car xs)) xs
+                    (some f (cdr xs))))
+ (def reduce (f xs)
+   (if (no (cdr xs))
+       (car xs)
+       (f (car xs) (reduce f (cdr xs)))))
+ (def cons args
+   (reduce join args))
+ (def append args
+   (if (no (cdr args)) (car args)
+       (no (car args)) (apply append (cdr args))
+                       (cons (car (car args))
+                             (apply append (cdr (car args))
+                                           (cdr args)))))
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Macros
+  FeatureLink ../features/hasMacros.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   ; A macro is essentially a function that generates code. I would have 
+   ; liked the first example of a macro to be something simpler, but fn
+   ; is the one we need first. So I'll introduce macros using a simpler 
+   ; macro that isn't part of Bel, then explain fn.
+   ; Here is a very simple macro:
+   (mac nilwith (x)
+     (list 'cons nil x))
+   
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   (\h \e \l \l \o)
+   ; can also be represented as
+   "hello"
+ row
+  Feature Booleans
+  FeatureLink ../features/hasBooleans.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   ; The symbol nil represents falsity as well as the empty list.
+   ; The symbol t is the default representation for truth, but any object other than nil also counts as true. 
+ row
+  Feature Functions
+  FeatureLink ../features/hasFunctions.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   (fn (x) (+ x 1))
+ row
+  Feature Expressions
+  FeatureLink ../features/hasExpressions.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   (+ 1 2)
+ row
+  Feature Streams
+  FeatureLink ../features/hasStreams.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Lists
+  FeatureLink ../features/hasLists.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   ; here is a list of a, b, and c:
+   (a . (b . (c . nil)))
+   ; can be written as
+   (a b c)
+ row
+  Feature Characters
+  FeatureLink ../features/hasCharacters.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   \p
+   ; Characters that aren't letters may have longer names. For example the bell character, after which Bel is named, is
+   \bel
+ row
+  Feature hasSymbols
+  FeatureLink ../features/hasSymbols.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   foo
+ row
+  Feature Pairs
+  FeatureLink ../features/hasPairs.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   (foo . bar)
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token prn
+  Example
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   ; A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token ;
+  Example
+   ; A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Case Insensitive Identifiers
+  FeatureLink ../features/hasCaseInsensitiveIdentifiers.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav newtonscript.html utc-format.html
+
+import ../footer.scroll

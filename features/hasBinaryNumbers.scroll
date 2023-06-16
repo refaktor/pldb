@@ -1,0 +1,111 @@
+import header.scroll
+
+title Binary Literals
+
+title Binary Literals - language feature
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="hasAsyncAwait.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hasBinaryOperators.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+
+startColumns 4
+
+codeWithHeader Example from <a href="../rows/java.html">Java</a>, <a href="../rows/aspectj.html">AspectJ</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>:
+ // 0[bB][01][01_]*[lL]?
+
+codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+ // 0[bB][01]+n?
+ 0b100110100000110011110010010
+
+codeWithHeader Example from <a href="../rows/python.html">Python</a>, <a href="../rows/cython.html">Cython</a>:
+ # 0[bB](?:_?[01])+
+
+codeWithHeader Example from <a href="../rows/perl.html">Perl</a>:
+ # 0b[01]+(_[01]+)*
+
+codeWithHeader Example from <a href="../rows/mysql.html">MySQL</a>:
+ -- b&#39;[01]+&#39;
+
+codeWithHeader Example from <a href="../rows/swift.html">Swift</a>:
+ // 0b[01_]+
+
+codeWithHeader Example from <a href="../rows/haskell.html">Haskell</a>:
+ -- 0[bB]_*[01](_*[01])*
+
+codeWithHeader Example from <a href="../rows/julia.html">Julia</a>:
+ # 0b[01]+((_[01]+)+)?
+
+codeWithHeader Example from <a href="../rows/prolog.html">Prolog</a>, <a href="../rows/clpr.html">CLPR</a>, <a href="../rows/gaea.html">GAEA</a>, <a href="../rows/progol.html">Progol</a>:
+ % 0b[01]+
+
+codeWithHeader Example from <a href="../rows/elixir.html">Elixir</a>:
+ # 0b[01]+
+
+codeWithHeader Example from <a href="../rows/verilog.html">Verilog</a>:
+ // ([0-9]+)|(\&#39;b)[01]+
+
+codeWithHeader Example from <a href="../rows/reason.html">Reason</a>, <a href="../rows/minid.html">MiniD</a>, <a href="../rows/croc.html">Croc</a>:
+ // 0[bB][01][01_]*
+
+codeWithHeader Example from <a href="../rows/f-sharp.html">F#</a>:
+ // 0[bB][01][01_]*[uU]?[yslLn]?
+
+codeWithHeader Example from <a href="../rows/eiffel.html">Eiffel</a>:
+ -- 0[bB][01]+
+
+codeWithHeader Example from <a href="../rows/d.html">D</a>:
+ // 0[Bb][01_]+
+
+codeWithHeader Example from <a href="../rows/vhdl.html">VHDL</a>:
+ -- B&quot;[01_]+&quot;
+
+codeWithHeader Example from <a href="../rows/chapel.html">Chapel</a>:
+ // 0[bB][01]+
+
+codeWithHeader Example from <a href="../rows/monkey.html">Monkey</a>:
+ &#39; \%[10]+
+
+codeWithHeader Example from <a href="../rows/ceylon.html">Ceylon</a>:
+ // \$([01]{4})(_[01]{4})+
+
+codeWithHeader Example from <a href="../rows/systemverilog.html">SystemVerilog</a>:
+ // ([1-9][_0-9]*)?\s*\&#39;[sS]?[bB]\s*[xXzZ?01][_xXzZ?01]*
+
+codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+ 0b110011
+
+codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+ || num = 0b010101
+
+codeWithHeader Example from <a href="../rows/k.html">K</a>:
+ / [01]+b
+
+codeWithHeader Example from <a href="../rows/felix.html">Felix</a>:
+ // 0[Bb][01_]+([tTsSiIlLvV]|ll|LL|([iIuU])(8|16|32|64))?
+
+codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+ 0b0001010101
+
+codeWithHeader Example from <a href="../rows/whiley.html">Whiley</a>:
+ // [01]+b
+
+* Languages *with* Binary Literals include <a href="../rows/java.html">Java</a>, <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/python.html">Python</a>, <a href="../rows/perl.html">Perl</a>, <a href="../rows/mysql.html">MySQL</a>, <a href="../rows/swift.html">Swift</a>, <a href="../rows/haskell.html">Haskell</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/julia.html">Julia</a>, <a href="../rows/prolog.html">Prolog</a>, <a href="../rows/elixir.html">Elixir</a>, <a href="../rows/verilog.html">Verilog</a>, <a href="../rows/reason.html">Reason</a>, <a href="../rows/f-sharp.html">F#</a>, <a href="../rows/eiffel.html">Eiffel</a>, <a href="../rows/ocaml.html">OCaml</a>, <a href="../rows/d.html">D</a>, <a href="../rows/vhdl.html">VHDL</a>, <a href="../rows/chapel.html">Chapel</a>, <a href="../rows/coq.html">Coq</a>, <a href="../rows/monkey.html">Monkey</a>, <a href="../rows/blitzbasic.html">BlitzBasic</a>, <a href="../rows/zig.html">Zig</a>, <a href="../rows/opa.html">Opa</a>, <a href="../rows/ceylon.html">Ceylon</a>, <a href="../rows/fstar.html">F*</a>, <a href="../rows/systemverilog.html">SystemVerilog</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/isabelle.html">Isabelle</a>, <a href="../rows/minid.html">MiniD</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/aspectj.html">AspectJ</a>, <a href="../rows/croc.html">Croc</a>, <a href="../rows/k.html">K</a>, <a href="../rows/futhark.html">Futhark</a>, <a href="../rows/felix.html">Felix</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/blitzmax.html">BlitzMax</a>, <a href="../rows/ooc.html">ooc</a>, <a href="../rows/whiley.html">Whiley</a>, <a href="../rows/logtalk.html">Logtalk</a>, <a href="../rows/earl-grey.html">Earl Grey</a>, <a href="../rows/parasail.html">parasail</a>, <a href="../rows/floscript.html">FloScript</a>, <a href="../rows/savi.html">Savi</a>, <a href="../rows/clpr.html">CLPR</a>, <a href="../rows/nimrod.html">nimrod</a>, <a href="../rows/cddl.html">CBOR data definition language</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/gaea.html">GAEA</a>, <a href="../rows/progol.html">Progol</a>
+
+* Languages *without* Binary Literals include <a href="../rows/progsbase.html">progsbase</a>
+
+* This question asks: Does the language have a type and syntax for binary numbers?
+
+* Read more about Binary Literals on the web: 1.
+ https://en.wikipedia.org/wiki/Binary_number 1.
+
+HTML of this page generated by Features.ts
+ https://github.com/breck7/pldb/blob/main/code/Features.ts Features.ts
+
+endColumns
+
+keyboardNav hasAsyncAwait.html hasBinaryOperators.html
+
+import ../footer.scroll

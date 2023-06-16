@@ -1,0 +1,53 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title funl
+
+title funl - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="dap-fortran.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="texti.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/funl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://programmingfunl.wordpress.com/" class="material-symbols-outlined">home</a> <a href="https://github.com/anssihalmeaho/funl" class="material-symbols-outlined">code</a> <a href="/edit.html?id=funl" class="material-symbols-outlined">edit</a></div>
+
+* funl is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2020 by Anssi Halmeaho.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2020 2020
+ link ../lists/creators.html#anssiHalmeaho Anssi Halmeaho
+
+codeWithHeader Source code:
+ git clone https://github.com/anssihalmeaho/funl
+
+dashboard
+ #1695 <span title="TotalRank: 2208 Jobs: 103 Users: 2101 Facts: 1119 Links: 986">on PLDB</span>
+ 3 Years Old
+
+* FunL programming language
+
+- funl website
+ https://programmingfunl.wordpress.com/
+- funl is developed on <a href="https://github.com/anssihalmeaho/funl">GitHub</a> and has 23 stars
+- funl first developed in <a href="../lists/originCommunities.html#httpsGithubComAnssihalmeahoFunlIssues">https://github.com/anssihalmeaho/funl/issues</a>
+- Read more about funl on the web: 1.
+ https://www.reddit.com/r/ProgrammingLanguages/comments/ghqob0/funl_simple_dynamic_functional_language/ 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ ns main
+ 
+ main = func()
+   &#39;this is return value&#39;
+ end
+ 
+ endns
+
+endColumns
+
+keyboardNav dap-fortran.html texti.html
+
+import ../footer.scroll

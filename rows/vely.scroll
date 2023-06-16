@@ -1,0 +1,69 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Vely
+
+title Vely - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="archieml.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fsl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/vely.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://vely.dev/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=vely" class="material-symbols-outlined">edit</a></div>
+
+* Vely is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2022.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2022 2022
+
+dashboard
+ #1422 <span title="TotalRank: 1949 Jobs: 103 Users: 2435 Facts: 860 Links: 986">on PLDB</span>
+ 1 Years Old
+
+* Vely is an embedded programming language with C as a host language. It's precompiled into C, creating a native executable.
+
+- Vely website
+ https://vely.dev/
+- <a href="https://vely.dev/">vely.dev</a> was registered in 2022
+- Read more about Vely on the web: 1.
+ https://news.ycombinator.com/item?id=32231417 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ void list_employees() {
+     out-header default
+     @&lt;html&gt;&lt;body&gt;
+ 
+     char *header = make_header(); // write any C code
+     p-out header
+ 
+     // Create report in outmsg string and fill it with database query result
+     write-string define outmsg
+         // Get data from the database
+         run-query#get_emp@db=&quot;select name, salary from employees order by name&quot; output name, salary
+             @Name: &lt;&lt;query-result#get_emp, name&gt;&gt;
+             @&lt;br/&gt;
+             @Salary: &lt;&lt;query-result#get_emp, salary&gt;&gt;
+             @&lt;br/&gt;&lt;br/&gt;
+         end-query
+     end-write-string
+ 
+     // Write report to a file and then to the client
+     write-file &quot;employees&quot; from outmsg status define st
+     if (st&lt;0) {
+         @Error in writing file (&lt;&lt;pf-out &quot;%lld&quot;, st&gt;&gt;)
+         exit-request
+     } else {
+         p-out outmsg
+     }
+     @&lt;/body&gt;&lt;/html&gt;
+ }
+
+endColumns
+
+keyboardNav archieml.html fsl.html
+
+import ../footer.scroll

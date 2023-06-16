@@ -1,0 +1,167 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Smalltalk
+
+title Smalltalk - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="doi.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="rest.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/smalltalk.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://riju.codes/smalltalk" class="material-symbols-outlined">terminal</a> <a href="https://www.gnu.org/software/smalltalk/manual/html_node/" class="material-symbols-outlined">menu_book</a> <a href="https://en.wikipedia.org/wiki/Smalltalk"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="98.05px" height="98.05px" viewBox="0 0 98.05 98.05" style="enable-background:new 0 0 98.05 98.05;" xml:space="preserve"><path d="M98.023,17.465l-19.584-0.056c-0.004,0.711-0.006,1.563-0.017,2.121c1.664,0.039,5.922,0.822,7.257,4.327L66.92,67.155 c-0.919-2.149-9.643-21.528-10.639-24.02l9.072-18.818c1.873-2.863,5.455-4.709,8.918-4.843l-0.01-1.968L55.42,17.489 c-0.045,0.499,0.001,1.548-0.068,2.069c5.315,0.144,7.215,1.334,5.941,4.508c-2.102,4.776-6.51,13.824-7.372,15.475 c-2.696-5.635-4.41-9.972-7.345-16.064c-1.266-2.823,1.529-3.922,4.485-4.004v-1.981l-21.82-0.067 c0.016,0.93-0.021,1.451-0.021,2.131c3.041,0.046,6.988,0.371,8.562,3.019c2.087,4.063,9.044,20.194,11.149,24.514 c-2.685,5.153-9.207,17.341-11.544,21.913c-3.348-7.43-15.732-36.689-19.232-44.241c-1.304-3.218,3.732-5.077,6.646-5.213 l0.019-2.148L0,17.398c0.005,0.646,0.027,1.71,0.029,2.187c4.025-0.037,9.908,6.573,11.588,10.683 c7.244,16.811,14.719,33.524,21.928,50.349c0.002,0.029,2.256,0.059,2.281,0.008c4.717-9.653,10.229-19.797,15.206-29.56 L63.588,80.64c0.005,0.004,2.082,0.016,2.093,0.007c7.962-18.196,19.892-46.118,23.794-54.933c1.588-3.767,4.245-6.064,8.543-6.194 l0.032-1.956L98.023,17.465z"/></svg></a> <a href="/edit.html?id=smalltalk" class="material-symbols-outlined">edit</a></div>
+
+* Smalltalk is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1972 by Alan Kay and Dan Ingalls and Adele Goldberg.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1972 1972
+ link ../lists/creators.html#alanKay Alan Kay
+ link ../lists/creators.html#danIngalls Dan Ingalls
+ link ../lists/creators.html#adeleGoldberg Adele Goldberg
+
+dashboard
+ #77 <span title="TotalRank: 264 Jobs: 103 Users: 197 Facts: 144 Links: 17">on PLDB</span>
+ 51 Years Old
+ 9k <span title="Smalltalk repos on GitHub.">Repos</span>
+
+* Try now: <a href="https://riju.codes/smalltalk">Riju</a>
+
+* Smalltalk is an object-oriented, dynamically typed, reflective programming language. Smalltalk was created as the language to underpin the "new world" of computing exemplified by "human–computer symbiosis." It was designed and created in part for educational use, more so for constructionist learning, at the Learning Research Group (LRG) of Xerox PARC by Alan Kay, Dan Ingalls, Adele Goldberg, Ted Kaehler, Scott Wallace, and others during the 1970s. The language was first generally released as Smalltalk-80. Read more on Wikipedia...
+ https://en.wikipedia.org/wiki/Smalltalk Read more on Wikipedia...
+
+- Smalltalk Wikipedia page
+ https://en.wikipedia.org/wiki/Smalltalk
+- Smalltalk docs
+ https://www.gnu.org/software/smalltalk/manual/html_node/
+- There are at least 9,336 Smalltalk repos on <a href="https://github.com/search?q=language:Smalltalk">GitHub</a>
+- file extensions for Smalltalk include st and cs
+- The  Google BigQuery Public Dataset GitHub snapshot shows 5k users using Smalltalk in 6k repos on <a href="https://api.github.com/search/repositories?q=language:Smalltalk">GitHub</a>
+- There are 111 <a href="https://projecteuler.net/language=Smalltalk">Project Euler</a> users using Smalltalk
+- Explore Smalltalk snippets on <a href="http://www.rosettacode.org/wiki/Category:Smalltalk">Rosetta Code</a>
+- Smalltalk on HOPL
+ https://hopl.info/showlanguage.prx?exp=828
+- Smalltalk appears in the <a href="https://www.tiobe.com/tiobe-index/">TIOBE Index</a>
+- Smalltalk Ubuntu package
+ https://packages.ubuntu.com/jammy/gnu-smalltalk
+- <a href="antlr.html">ANTLR</a> <a href="https://github.com/antlr/grammars-v4/tree/master/smalltalk">grammar</a> for Smalltalk
+- <a href="codemirror.html">CodeMirror</a> <a href="https://github.com/codemirror/codemirror5/tree/master/mode/smalltalk">package</a> for syntax highlighting Smalltalk
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/smalltalk.py">syntax highlighting</a> for Smalltalk
+- GitHub supports <a href="https://github.com/tomas-stefano/smalltalk-tmbundle" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for Smalltalk
+- Smalltalk appears in the <a href="https://github.com/mame/quine-relay">Quine Relay</a> project
+- There is a <a href="http://smalltalkhub.com/">central package repository</a> for Smalltalk
+- See also: (42 related languages)<a href="pharo.html">Pharo</a>, <a href="squeak.html">Squeak</a>, <a href="visualworks.html">VisualWorks</a>, <a href="lisp.html">Lisp</a>, <a href="simula.html">Simula</a>, <a href="euler.html">Euler</a>, <a href="imp.html">IMP</a>, <a href="planner.html">PLANNER</a>, <a href="logo.html">Logo</a>, <a href="applescript.html">Applescript</a>, <a href="dart.html">Dart</a>, <a href="dylan.html">Dylan</a>, <a href="erlang.html">Erlang</a>, <a href="etoys.html">Etoys</a>, <a href="falcon.html">Falcon</a>, <a href="go.html">Go</a>, <a href="groovy.html">Groovy</a>, <a href="io.html">Io</a>, <a href="ioke.html">Ioke</a>, <a href="java.html">Java</a>, <a href="lasso.html">Lasso</a>, <a href="lisaac.html">Lisaac</a>, <a href="newtonscript.html">NewtonScript</a>, <a href="object-rexx.html">Object Rexx</a>, <a href="objective-c.html">Objective-C</a>, <a href="php.html">PHP</a>, <a href="perl-6.html">Perl 6</a>, <a href="python.html">Python</a>, <a href="ruby.html">Ruby</a>, <a href="scala.html">Scala</a>, <a href="scratch.html">Scratch</a>, <a href="self.html">Self</a>, <a href="sql.html">SQL</a>, <a href="flavors.html">Flavors</a>, <a href="clos.html">CLOS</a>, <a href="prolog.html">Prolog</a>, <a href="ascii.html">ASCII</a>, <a href="javascript.html">JavaScript</a>, <a href="visual-smalltalk-enterprise.html">Visual Smalltalk Enterprise</a>, <a href="smalltalk-mt.html">Smalltalk MT</a>, <a href="jvm.html">JVM</a>, <a href="strongtalk.html">Strongtalk</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://riju.codes/smalltalk'>Riju</a>:
+ &#39;Hello, world!&#39; displayNl !
+ 
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/s/SmallTalk.sm'>hello-world</a>:
+ Transcript show: &#39;Hello World&#39;.
+ 
+
+codeWithHeader Example from <a href='https://github.com/tomas-stefano/smalltalk-tmbundle'>Linguist</a>:
+ ChartJs
+ dataFunction
+ 	^ &#39;bars&#39;
+
+codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Smalltalk'>Wikipedia</a>:
+ quadMultiply: i1 and: i2
+     &quot;This method multiplies the given numbers by each other and the result by 4.&quot;
+     | mul |
+     mul := i1 * i2.
+     ^mul * 4
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token '
+  Example
+   'Hello world'
+ row
+  Feature Assignment
+  FeatureLink ../features/hasAssignment.html
+  Supported <span class="hasFeature">✓</span>
+  Token :=
+  Example
+ row
+  Feature MultiLine Comments
+  FeatureLink ../features/hasMultiLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   " A comment
+   "
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token displayNl
+  Example
+ row
+  Feature Message Passing
+  FeatureLink ../features/hasMessagePassing.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Operator Overloading
+  FeatureLink ../features/hasOperatorOverloading.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Garbage Collection
+  FeatureLink ../features/hasGarbageCollection.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Multiple Dispatch
+  FeatureLink ../features/hasMultipleDispatch.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Case Insensitive Identifiers
+  FeatureLink ../features/hasCaseInsensitiveIdentifiers.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Macros
+  FeatureLink ../features/hasMacros.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav doi.html rest.html
+
+import ../footer.scroll

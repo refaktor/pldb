@@ -1,0 +1,114 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Djot
+
+title Djot - Text markup language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="xslt.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="asmjs.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/djot.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://djot.net" class="material-symbols-outlined">home</a> <a href="https://djot.net/playground/" class="material-symbols-outlined">terminal</a> <a href="https://github.com/jgm/djot" class="material-symbols-outlined">code</a> <a href="https://github.com/jgm/djot/blob/main/README.md" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=djot" class="material-symbols-outlined">edit</a></div>
+
+* Djot is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+textMarkup">text markup language</a> created in 2022 by John MacFarlane.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2022 2022
+ link ../lists/creators.html#johnMacFarlane John MacFarlane
+
+codeWithHeader Source code:
+ git clone https://github.com/jgm/djot
+
+dashboard
+ #482 <span title="TotalRank: 1012 Jobs: 103 Users: 602 Facts: 307 Links: 986">on PLDB</span>
+ 1 Years Old
+
+* Try now: <a href="https://djot.net/playground/">Web</a>
+
+*  A light markup language
+
+- Djot website
+ https://djot.net
+- Djot is developed on <a href="https://github.com/jgm/djot">GitHub</a> and has 773 stars
+- Djot docs
+ https://github.com/jgm/djot/blob/main/README.md
+- Djot first developed in <a href="../lists/originCommunities.html#httpsGithubComJgmDjotIssues">https://github.com/jgm/djot/issues</a>
+- file extensions for Djot include dj
+- Djot is written in <a href="lua.html">Lua</a>
+- Read more about Djot on the web: 1.
+ https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/syntax.html 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ _italic_
+ *bold*
+ `code`
+ H~2~O
+ 20^th^
+ {=highlighted=}
+ {+underlined+}
+ {-strikethrough-}
+ $`p = mv`
+ 
+ $$`E = K + U`
+ 
+ Start a new paragraph with a blank line.
+ 
+ &gt; A blockquote
+ 
+ {% look like this
+ and can span multiple lines %}
+ 
+ # Horizontal lines:
+ ***
+ ---
+ 
+ Verbatim blocks:
+ 
+ ```
+ $ tree
+ .
+ ├── aa
+ │   └── foo.txt
+ ├── bb
+ │   └── bar.txt
+ └── c.png
+ ```
+ 
+ ```myLang
+ func say-hello(nm) {
+     print(&quot;hello ${nm}!&quot;);
+ }
+ ```
+ 
+ Links:
+ &lt;https://example.com&gt;
+ [read more](https://example.com)
+ [read this too][foo bar]
+ [one more link][]
+ 
+ 
+ ![beautiful skyline](clouds.jpg)
+ ![coastal shores][shore]
+ ![lush forests][]
+ 
+ [shore]: the-beach.jpg
+ [lush forests]: pines.jpg
+ 
+ # Tables
+ 
+ | Name | Size | Color |
+ | --- | --- | --- |
+ | lime | small | green |
+ | orange | medium | orange |
+ | grapefruit | large | yellow or pink |
+
+endColumns
+
+keyboardNav xslt.html asmjs.html
+
+import ../footer.scroll

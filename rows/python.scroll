@@ -1,0 +1,509 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Python
+
+title Python - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="javascript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="c.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/python.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.python.org/" class="material-symbols-outlined">home</a> <a href="https://riju.codes/python" class="material-symbols-outlined">terminal</a> <a href="https://github.com/python/cpython" class="material-symbols-outlined">code</a> <a href="https://docs.python.org/3/" class="material-symbols-outlined">menu_book</a> <a href="https://mail.python.org/mailman/listinfo" class="material-symbols-outlined">mail</a> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="98.05px" height="98.05px" viewBox="0 0 98.05 98.05" style="enable-background:new 0 0 98.05 98.05;" xml:space="preserve"><path d="M98.023,17.465l-19.584-0.056c-0.004,0.711-0.006,1.563-0.017,2.121c1.664,0.039,5.922,0.822,7.257,4.327L66.92,67.155 c-0.919-2.149-9.643-21.528-10.639-24.02l9.072-18.818c1.873-2.863,5.455-4.709,8.918-4.843l-0.01-1.968L55.42,17.489 c-0.045,0.499,0.001,1.548-0.068,2.069c5.315,0.144,7.215,1.334,5.941,4.508c-2.102,4.776-6.51,13.824-7.372,15.475 c-2.696-5.635-4.41-9.972-7.345-16.064c-1.266-2.823,1.529-3.922,4.485-4.004v-1.981l-21.82-0.067 c0.016,0.93-0.021,1.451-0.021,2.131c3.041,0.046,6.988,0.371,8.562,3.019c2.087,4.063,9.044,20.194,11.149,24.514 c-2.685,5.153-9.207,17.341-11.544,21.913c-3.348-7.43-15.732-36.689-19.232-44.241c-1.304-3.218,3.732-5.077,6.646-5.213 l0.019-2.148L0,17.398c0.005,0.646,0.027,1.71,0.029,2.187c4.025-0.037,9.908,6.573,11.588,10.683 c7.244,16.811,14.719,33.524,21.928,50.349c0.002,0.029,2.256,0.059,2.281,0.008c4.717-9.653,10.229-19.797,15.206-29.56 L63.588,80.64c0.005,0.004,2.082,0.016,2.093,0.007c7.962-18.196,19.892-46.118,23.794-54.933c1.588-3.767,4.245-6.064,8.543-6.194 l0.032-1.956L98.023,17.465z"/></svg></a> <a href="https://reddit.com/r/Python"><svg role="img" width="32px" height="32px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M 18.65625 4 C 16.558594 4 15 5.707031 15 7.65625 L 15 11.03125 C 12.242188 11.175781 9.742188 11.90625 7.71875 13.0625 C 6.945313 12.316406 5.914063 12 4.90625 12 C 3.816406 12 2.707031 12.355469 1.9375 13.21875 L 1.9375 13.25 L 1.90625 13.28125 C 1.167969 14.203125 0.867188 15.433594 1.0625 16.65625 C 1.242188 17.777344 1.898438 18.917969 3.03125 19.65625 C 3.023438 19.769531 3 19.882813 3 20 C 3 22.605469 4.574219 24.886719 6.9375 26.46875 C 9.300781 28.050781 12.488281 29 16 29 C 19.511719 29 22.699219 28.050781 25.0625 26.46875 C 27.425781 24.886719 29 22.605469 29 20 C 29 19.882813 28.976563 19.769531 28.96875 19.65625 C 30.101563 18.917969 30.757813 17.777344 30.9375 16.65625 C 31.132813 15.433594 30.832031 14.203125 30.09375 13.28125 L 30.0625 13.25 C 29.292969 12.386719 28.183594 12 27.09375 12 C 26.085938 12 25.054688 12.316406 24.28125 13.0625 C 22.257813 11.90625 19.757813 11.175781 17 11.03125 L 17 7.65625 C 17 6.675781 17.558594 6 18.65625 6 C 19.175781 6 19.820313 6.246094 20.8125 6.59375 C 21.65625 6.890625 22.75 7.21875 24.15625 7.3125 C 24.496094 8.289063 25.414063 9 26.5 9 C 27.875 9 29 7.875 29 6.5 C 29 5.125 27.875 4 26.5 4 C 25.554688 4 24.738281 4.535156 24.3125 5.3125 C 23.113281 5.242188 22.246094 4.992188 21.46875 4.71875 C 20.566406 4.402344 19.734375 4 18.65625 4 Z M 16 13 C 19.152344 13 21.964844 13.867188 23.9375 15.1875 C 25.910156 16.507813 27 18.203125 27 20 C 27 21.796875 25.910156 23.492188 23.9375 24.8125 C 21.964844 26.132813 19.152344 27 16 27 C 12.847656 27 10.035156 26.132813 8.0625 24.8125 C 6.089844 23.492188 5 21.796875 5 20 C 5 18.203125 6.089844 16.507813 8.0625 15.1875 C 10.035156 13.867188 12.847656 13 16 13 Z M 4.90625 14 C 5.285156 14 5.660156 14.09375 5.96875 14.25 C 4.882813 15.160156 4.039063 16.242188 3.53125 17.4375 C 3.277344 17.117188 3.125 16.734375 3.0625 16.34375 C 2.953125 15.671875 3.148438 14.976563 3.46875 14.5625 C 3.472656 14.554688 3.464844 14.539063 3.46875 14.53125 C 3.773438 14.210938 4.3125 14 4.90625 14 Z M 27.09375 14 C 27.6875 14 28.226563 14.210938 28.53125 14.53125 C 28.535156 14.535156 28.527344 14.558594 28.53125 14.5625 C 28.851563 14.976563 29.046875 15.671875 28.9375 16.34375 C 28.875 16.734375 28.722656 17.117188 28.46875 17.4375 C 27.960938 16.242188 27.117188 15.160156 26.03125 14.25 C 26.339844 14.09375 26.714844 14 27.09375 14 Z M 11 16 C 9.894531 16 9 16.894531 9 18 C 9 19.105469 9.894531 20 11 20 C 12.105469 20 13 19.105469 13 18 C 13 16.894531 12.105469 16 11 16 Z M 21 16 C 19.894531 16 19 16.894531 19 18 C 19 19.105469 19.894531 20 21 20 C 22.105469 20 23 19.105469 23 18 C 23 16.894531 22.105469 16 21 16 Z M 21.25 21.53125 C 20.101563 22.597656 18.171875 23.28125 16 23.28125 C 13.828125 23.28125 11.898438 22.589844 10.75 21.65625 C 11.390625 23.390625 13.445313 25 16 25 C 18.554688 25 20.609375 23.398438 21.25 21.53125 Z"/></svg></a> <a href="/edit.html?id=python" class="material-symbols-outlined">edit</a></div>
+
+* Python is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1991 by Guido van Rossum.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1991 1991
+ link ../lists/creators.html#guidoVanRossum Guido van Rossum
+
+codeWithHeader Source code:
+ git clone https://github.com/python/cpython
+
+dashboard
+ #3 <span title="TotalRank: 10 Jobs: 8 Users: 6 Facts: 2 Links: 2">on PLDB</span>
+ 32 Years Old
+ 9m <span title="Python repos on GitHub.">Repos</span>
+
+* Try now: <a href="https://riju.codes/python">Riju</a> · <a href="https://repl.it/languages/python">Replit</a>
+
+monacoEditor python
+ def square(num):
+     return num * num
+ 
+
+* Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991. An interpreted language, Python has a design philosophy that emphasizes code readability (notably using whitespace indentation to delimit code blocks rather than curly brackets or keywords), and a syntax that allows programmers to express concepts in fewer lines of code than might be used in languages such as C++ or Java. It provides constructs that enable clear programming on both small and large scales. Read more on Wikipedia...
+ https://en.wikipedia.org/wiki/Python_(programming_language) Read more on Wikipedia...
+
+- Python website
+ https://www.python.org/
+- Python downloads page
+ https://www.python.org/downloads/
+- Python Wikipedia page
+ https://en.wikipedia.org/wiki/Python_(programming_language)
+- Python is developed on <a href="https://github.com/python/cpython">GitHub</a> and has 51,959 stars
+- Watch the history of <a href="https://www.youtube.com/watch?v=9mput42uZsQ">the Python repo visualized with Gource</a>
+- Python docs
+ https://docs.python.org/3/
+- Python specs
+ https://docs.python.org/3/reference/
+- Python mailing list
+ https://mail.python.org/mailman/listinfo
+- There are at least 9,300,725 Python repos on <a href="https://github.com/search?q=language:Python">GitHub</a>
+- Python first developed in <a href="../lists/originCommunities.html#centrumWiskundeInformatica">Centrum Wiskunde & Informatica</a>
+- PLDB estimates there are currently 47k job openings for Python programmers.
+- file extensions for Python include py, pyc, pyd, pyo, cgi, fcgi, gyp, gypi, lmi, py3, pyde, pyi, pyp, pyt, pyw, rpy, smk, spec, tac, wsgi, xpy, jy, sage, sc, SConstruct, SConscript, bzl, BUCK, BUILD, BUILD.bazel and WORKSPACE
+- The  Google BigQuery Public Dataset GitHub snapshot shows 297k users using Python in 550k repos on <a href="https://api.github.com/search/repositories?q=language:Python">GitHub</a>
+- Check out the 1,964 <a href="https://www.meetup.com/topics/python/">Python meetup groups</a> on Meetup.com.
+- There are 979,629 members in the <a href="https://reddit.com/r/Python">Python subreddit</a>
+- There are 60,791 <a href="https://projecteuler.net/language=Python">Project Euler</a> users using Python
+- In the 2021 StackOverflow <a href="https://insights.stackoverflow.com/survey">developer survey</a> Python programmers reported a median salary of $59,454. 48% of respondents reported using Python. 39,792 programmers reported using Python, and 34,929 said they wanted to use it
+- Explore Python snippets on <a href="http://www.rosettacode.org/wiki/Category:Python">Rosetta Code</a>
+- Python on HOPL
+ https://hopl.info/showlanguage.prx?exp=1658
+- Python ranks #1 in the <a href="https://www.tiobe.com/tiobe-index/">TIOBE Index</a>
+- Python Ubuntu package
+ https://packages.ubuntu.com/jammy/python
+- <a href="antlr.html">ANTLR</a> <a href="https://github.com/antlr/grammars-v4/tree/master/python">grammar</a> for Python
+- Python <a href="language-server-protocol.html">LSP</a> <a href="https://github.com/Microsoft/python-language-server">implementation</a>
+- <a href="codemirror.html">CodeMirror</a> <a href="https://github.com/codemirror/codemirror5/tree/master/mode/python">package</a> for syntax highlighting Python
+- <a href="monaco.html">Monaco</a> <a href="https://github.com/microsoft/monaco-editor/tree/main/src/basic-languages/python">package</a> for syntax highlighting Python
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/python.py">syntax highlighting</a> for Python
+- GitHub supports <a href="https://github.com/tree-sitter/tree-sitter-python" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for Python
+- Python appears in the <a href="https://github.com/mame/quine-relay">Quine Relay</a> project
+- There is a <a href="https://pypi.python.org/pypi">central package repository</a> for Python
+- Annual Reports for Python
+ https://www.python.org/psf-landing/
+- Release Notes for Python
+ https://docs.python.org/3/whatsnew/
+- Events page for Python
+ https://www.python.org/events/
+- Frequently Asked Questions for Python
+ https://docs.python.org/3/faq/
+- Indeed.com has 28,965 matches for <a href="https://www.indeed.com/jobs?q=python engineer">"python engineer"</a>.
+- <a href="https://www.python.org/">python.org</a> was registered in 1995
+- See also: (60 related languages)<a href="jython.html">Jython</a>, <a href="micropython.html">MicroPython</a>, <a href="stackless-python.html">Stackless Python</a>, <a href="cython.html">Cython</a>, <a href="abc.html">ABC</a>, <a href="algol-68.html">ALGOL 68</a>, <a href="c.html">C</a>, <a href="dylan.html">Dylan</a>, <a href="haskell.html">Haskell</a>, <a href="icon.html">Icon</a>, <a href="java.html">Java</a>, <a href="lisp.html">Lisp</a>, <a href="modula-3.html">Modula-3</a>, <a href="perl.html">Perl</a>, <a href="boo.html">Boo</a>, <a href="cobra.html">Cobra</a>, <a href="coffeescript.html">CoffeeScript</a>, <a href="d.html">D</a>, <a href="f-sharp.html">F#</a>, <a href="falcon.html">Falcon</a>, <a href="genie.html">Genie</a>, <a href="go.html">Go</a>, <a href="groovy.html">Groovy</a>, <a href="javascript.html">JavaScript</a>, <a href="julia.html">Julia</a>, <a href="nim.html">Nim</a>, <a href="ruby.html">Ruby</a>, <a href="swift.html">Swift</a>, <a href="setl.html">SETL</a>, <a href="unix.html">Unix</a>, <a href="unicode.html">Unicode</a>, <a href="standard-ml.html">Standard ML</a>, <a href="pascal.html">Pascal</a>, <a href="regex.html">Regular Expressions</a>, <a href="csharp.html">C#</a>, <a href="common-lisp.html">Common Lisp</a>, <a href="scheme.html">Scheme</a>, <a href="objective-c.html">Objective-C</a>, <a href="numpy.html">NumPy</a>, <a href="mime.html">MIME</a>, <a href="http.html">HTTP</a>, <a href="sagemath.html">Sage</a>, <a href="llvmir.html">LLVM IR</a>, <a href="jvm.html">JVM</a>, <a href="java-bytecode.html">Java Bytecode</a>, <a href="cil.html">CIL</a>, <a href="pyrex.html">Pyrex</a>, <a href="mercurial.html">Mercurial</a>, <a href="python-for-s60.html">Python for S60</a>, <a href="qt.html">Qt</a>, <a href="django.html">Django</a>, <a href="scipy.html">SciPy</a>, <a href="matplotlib.html">Matplotlib</a>, <a href="gdb.html">GDB</a>, <a href="freebsd.html">FreeBSD</a>, <a href="ecmascript.html">ECMAScript</a>, <a href="ocaml.html">OCaml</a>, <a href="tcl.html">Tcl</a>, <a href="erlang.html">Erlang</a>, <a href="pandas.html">Pandas</a>
+- Read more about Python on the web: 1.
+ https://www.programiz.com/python-programming/keyword-list 1.
+
+<br>
+
+codeWithHeader Example from <a href='https://godbolt.org/'>Compiler Explorer</a>:
+ def square(num):
+     return num * num
+ 
+
+codeWithHeader Example from <a href='https://riju.codes/python'>Riju</a>:
+ print(&quot;Hello, world!&quot;)
+ 
+
+codeWithHeader Example from <a href='https://github.com/tree-sitter/tree-sitter-python'>Linguist</a>:
+ #!/usr/bin/env python2.4
+ print &quot;Python&quot;
+ 
+
+<div class="keywordsBlock">
+codeWithHeader Python <a href="../lists/keywords.html?filter=python">Keywords</a>
+ and as assert break class continue def del elif else except False finally for from global if import in is lambda None nonlocal not or pass raise return True try while with yield
+</div>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Scientific Notation
+  FeatureLink ../features/hasScientificNotation.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Binary Literals
+  FeatureLink ../features/hasBinaryNumbers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # 0[bB](?:_?[01])+
+ row
+  Feature Floats
+  FeatureLink ../features/hasFloats.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # (\d(?:_?\d)*\.(?:\d(?:_?\d)*)?|(?:\d(?:_?\d)*)?\.\d(?:_?\d)*)([eE][+-]?\d(?:_?\d)*)?
+ row
+  Feature Hexadecimals
+  FeatureLink ../features/hasHexadecimals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # 0[xX](?:_?[a-fA-F0-9])+
+ row
+  Feature Octals
+  FeatureLink ../features/hasOctals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # 0[oO](?:_?[0-7])+
+ row
+  Feature Functions
+  FeatureLink ../features/hasFunctions.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature While Loops
+  FeatureLink ../features/hasWhileLoops.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Case Sensitivity
+  FeatureLink ../features/isCaseSensitive.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token print
+  Example
+ row
+  Feature Threads
+  FeatureLink ../features/hasThreads.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token #
+  Example
+   # A comment
+ row
+  Feature Dispose Blocks Pattern
+  FeatureLink ../features/hasDisposeBlocks.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   with resource_context_manager() as resource:
+      # Perform actions with the resource.
+   # Perform other actions where the resource is guaranteed to be deallocated.
+ row
+  Feature Zero-based numbering
+  FeatureLink ../features/hasZeroBasedNumbering.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   "hello world"
+ row
+  Feature Inheritance
+  FeatureLink ../features/hasInheritance.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   class SumComputer(object):
+      def __init__(self, a, b):
+          self.a = a
+          self.b = b
+      def transform(self, x):
+          raise NotImplementedError
+      def inputs(self):
+          return range(self.a, self.b)
+      def compute(self):
+          return sum(self.transform(value) for value in self.inputs())
+    class SquareSumComputer(SumComputer):
+        def transform(self, x):
+            return x * x
+    class CubeSumComputer(SumComputer):
+        def transform(self, x):
+            return x * x * x
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   class Person (object):
+     def __init__(self, name):
+       self.name = name
+ row
+  Feature Operator Overloading
+  FeatureLink ../features/hasOperatorOverloading.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # Python Program illustrate how  
+   # to overload an binary + operator 
+     
+   class A: 
+       def __init__(self, a): 
+           self.a = a 
+     
+       # adding two objects  
+       def __add__(self, o): 
+           return self.a + o.a  
+   ob1 = A(1) 
+   ob2 = A(2) 
+   ob3 = A("Geeks") 
+   ob4 = A("For") 
+     
+   print(ob1 + ob2) 
+   print(ob3 + ob4)
+ row
+  Feature Multiple Inheritance
+  FeatureLink ../features/hasMultipleInheritance.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   class Base1:
+       pass
+   class Base2:
+       pass
+   class MultiDerived(Base1, Base2):
+       pass
+   # Or multilevel inheritance:
+   class Base:
+       pass
+   class Derived1(Base):
+       pass
+   class Derived2(Derived1):
+       pass
+ row
+  Feature Lists
+  FeatureLink ../features/hasLists.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   myList = [1, 2, 3, 4, 5]
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   pldb = 80766866
+ row
+  Feature Multiline Strings
+  FeatureLink ../features/hasMultilineStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   template = """This is the first line.
+   This is the second line.
+   This is the third line."""
+ row
+  Feature Mixins
+  FeatureLink ../features/hasMixins.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556
+   class EssentialFunctioner(LoggerMixin, object):
+ row
+  Feature Iterators
+  FeatureLink ../features/hasIterators.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   https://www.w3schools.com/python/python_iterators.asp
+ row
+  Feature Infix Notation
+  FeatureLink ../features/hasInfixNotation.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   seven = 3 + 4
+ row
+  Feature File Imports
+  FeatureLink ../features/hasImports.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   import datetime
+   oTime = datetime.datetime.now()
+   from my_pkg import my_funcs
+ row
+  Feature Assignment
+  FeatureLink ../features/hasAssignment.html
+  Supported <span class="hasFeature">✓</span>
+  Token =
+  Example
+   name = "John"
+ row
+  Feature Directives
+  FeatureLink ../features/hasDirectives.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   from __future__ import feature
+   # coding=<encoding name>
+ row
+  Feature Generators
+  FeatureLink ../features/hasGenerators.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   https://wiki.python.org/moin/Generators
+ row
+  Feature Constructors
+  FeatureLink ../features/hasConstructors.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature MultiLine Comments
+  FeatureLink ../features/hasMultiLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token '''
+  Example
+   ''' A comment.
+   '''
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # This is a comment
+ row
+  Feature Conditionals
+  FeatureLink ../features/hasConditionals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   if True:
+    print("Hello world")
+ row
+  Feature Classes
+  FeatureLink ../features/hasClasses.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   class Person (object):
+     def __init__(self, name):
+       self.name = name
+ row
+  Feature Booleans
+  FeatureLink ../features/hasBooleans.html
+  Supported <span class="hasFeature">✓</span>
+  Token True False
+  Example
+ row
+  Feature Dynamic Properties
+  FeatureLink ../features/hasDynamicProperties.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   class Person (object):
+     def __init__(self, name):
+      self.name = name
+   
+   person = Person("John")
+   person.age = 50
+ row
+  Feature Symbol Tables
+  FeatureLink ../features/hasSymbolTables.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1
+ row
+  Feature Shebang
+  FeatureLink ../features/canDoShebang.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   #!/usr/bin/env python
+ row
+  Feature Bitwise Operators
+  FeatureLink ../features/hasBitWiseOperators.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   x << y
+ row
+  Feature Ternary operators
+  FeatureLink ../features/hasTernaryOperators.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   print(1 if 1 else 0)
+ row
+  Feature Single Dispatch
+  FeatureLink ../features/hasSingleDispatch.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Duck Typing
+  FeatureLink ../features/hasDuckTyping.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Disk Output
+  FeatureLink ../features/canWriteToDisk.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   with open('helloworld.txt', 'w') as filehandle:
+    filehandle.write('Hello, world!\n')
+ row
+  Feature Units of Measure
+  FeatureLink ../features/hasUnitsOfMeasure.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Pointers
+  FeatureLink ../features/hasPointers.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Case Insensitive Identifiers
+  FeatureLink ../features/hasCaseInsensitiveIdentifiers.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Regular Expression Syntax Sugar
+  FeatureLink ../features/hasRegularExpressionsSyntaxSugar.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Enums
+  FeatureLink ../features/hasEnums.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+   # Though there is an Enum class in stdlib https://peps.python.org/pep-0435/
+ row
+  Feature Macros
+  FeatureLink ../features/hasMacros.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Variable Substitution Syntax
+  FeatureLink ../features/hasVariableSubstitutionSyntax.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav javascript.html c.html
+
+import ../footer.scroll

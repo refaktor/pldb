@@ -1,0 +1,48 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title starpial
+
+title starpial - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="oopsilon.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="u.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/starpial.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/ColonelJ/Starpial" class="material-symbols-outlined">code</a> <a href="/edit.html?id=starpial" class="material-symbols-outlined">edit</a></div>
+
+* starpial is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2012.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+
+codeWithHeader Source code:
+ git clone https://github.com/ColonelJ/Starpial
+
+dashboard
+ #2080 <span title="TotalRank: 2586 Jobs: 103 Users: 2357 Facts: 1497 Links: 986">on PLDB</span>
+ 11 Years Old
+
+* <a href='https://github.com/ColonelJ/Starpial'>Starpial</a> is a stack-oriented functional logic programming language with OOP, recursive regex, dependent types, refinement types, and automatic parallelization based on transactions.
+
+- starpial is developed on <a href="https://github.com/ColonelJ/Starpial">GitHub</a> and has 7 stars
+
+<br>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Dependent types
+  FeatureLink ../features/hasDependentTypes.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+
+keyboardNav oopsilon.html u.html
+
+import ../footer.scroll

@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title ICETRAN
+
+title ICETRAN - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="ibm-logo.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="icot.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/icetran.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=icetran" class="material-symbols-outlined">edit</a></div>
+
+* ICETRAN is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1965.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1965 1965
+
+dashboard
+ #3759 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3250 Links: 986">on PLDB</span>
+ 58 Years Old
+
+* ENGINEERING PROGRAMS FOR ICES ARE WRITTEN IN ICETRAN AND ARE PROCESSED BY THE ICETRAN PRECOMPILER, WHICH GENERATES AN EQUIVALENT FORTRAN PROGRAM
+
+- ICETRAN first developed in <a href="../lists/originCommunities.html#computerResearchCorporation">Computer Research Corporation</a>
+- ICETRAN compiles to <a href="fortran.html">Fortran</a>
+- ICETRAN on HOPL
+ https://hopl.info/showlanguage.prx?exp=417
+
+<br>
+
+endColumns
+
+keyboardNav ibm-logo.html icot.html
+
+import ../footer.scroll

@@ -1,0 +1,57 @@
+import ../header.scroll
+baseUrl https://pldb.com/rows/
+title Parenscript
+
+title Parenscript - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="kuroko.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="virgil.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/parenscript.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://common-lisp.net/project/parenscript/" class="material-symbols-outlined">home</a> <a href="https://github.com/vsedach/Parenscript" class="material-symbols-outlined">code</a> <a href="/edit.html?id=parenscript" class="material-symbols-outlined">edit</a></div>
+
+* Parenscript is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2009 by Manuel Odendahl and Edward Marco Baringer.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
+ link ../lists/creators.html#manuelOdendahl Manuel Odendahl
+ link ../lists/creators.html#edwardMarcoBaringer Edward Marco Baringer
+
+codeWithHeader Source code:
+ git clone https://github.com/vsedach/Parenscript
+
+dashboard
+ #1470 <span title="TotalRank: 1998 Jobs: 103 Users: 909 Facts: 1198 Links: 986">on PLDB</span>
+ 14 Years Old
+
+* MOVED TO C-L.NET GITLAB. THIS REPOSITORY WILL BE DELETED
+
+- Parenscript website
+ https://common-lisp.net/project/parenscript/
+- Parenscript is developed on <a href="https://github.com/vsedach/Parenscript">GitHub</a> and has 247 stars
+- Parenscript on GitLab
+ https://gitlab.common-lisp.net/parenscript/parenscript
+- Parenscript first developed in <a href="../lists/originCommunities.html#httpsGitlabCommonLispNetParenscriptParenscriptIssues">https://gitlab.common-lisp.net/parenscript/parenscript/-/issues</a>
+- Parenscript compiles to <a href="javascript.html">JavaScript</a>
+- Parenscript is written in <a href="common-lisp.html">Common Lisp</a>
+
+<br>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Lispy
+  FeatureLink ../features/isLisp.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+
+keyboardNav kuroko.html virgil.html
+
+import ../footer.scroll
