@@ -6,7 +6,7 @@ title Kuroko - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="short-code-computer-language.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="lucid-lang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="parenscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/kuroko.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/kuroko-lang/kuroko
 
 dashboard
- #1469 <span title="TotalRank: 1997 Jobs: 103 Users: 908 Facts: 1777 Links: 986">on PLDB</span>
+ #1469 <span title="TotalRank: 1998 Jobs: 103 Users: 908 Facts: 1777 Links: 987">on PLDB</span>
  3 Years Old
 
 * Dialect of Python with explicit variable declaration and block scoping, with a lightweight and easy-to-embed bytecode compiler and interpreter.
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav short-code-computer-language.html parenscript.html
+keyboardNav lucid-lang.html parenscript.html
 
 import ../footer.scroll

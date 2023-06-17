@@ -6,8 +6,8 @@ title Game Maker Language - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="manhood.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="kodu-game-lab.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="web-idl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="opl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/game-maker-language.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1999 1999
 
 dashboard
- #788 <span title="TotalRank: 1350 Jobs: 103 Users: 1149 Facts: 261 Links: 986">on PLDB</span>
+ #791 <span title="TotalRank: 1351 Jobs: 103 Users: 1149 Facts: 261 Links: 987">on PLDB</span>
  24 Years Old
  278 <span title="Game Maker Language repos on GitHub.">Repos</span>
 
@@ -142,6 +142,6 @@ treeTable
   Token 
   Example
 
-keyboardNav manhood.html kodu-game-lab.html
+keyboardNav web-idl.html opl.html
 
 import ../footer.scroll

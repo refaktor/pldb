@@ -7,7 +7,7 @@ title IMP - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="graphics-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="steinhaus-moser-notation.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="xtclang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/imp.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#edgarTIrons Edgar T. Irons
 
 dashboard
- #1772 <span title="TotalRank: 2294 Jobs: 103 Users: 1699 Facts: 1876 Links: 492">on PLDB</span>
+ #1771 <span title="TotalRank: 2294 Jobs: 103 Users: 1699 Facts: 1876 Links: 492">on PLDB</span>
  55 Years Old
 
 * IMP is an early systems programming language that was developed by Edgar T. Irons in the late 1960s through early 1970s. Unlike most other systems programming languages, IMP was an extensible syntax programming language. Read more on Wikipedia...
@@ -38,6 +38,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/IMP_(programm
 
 endColumns
 
-keyboardNav graphics-basic.html steinhaus-moser-notation.html
+keyboardNav graphics-basic.html xtclang.html
 
 import ../footer.scroll

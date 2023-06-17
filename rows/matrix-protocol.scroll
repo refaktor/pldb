@@ -6,7 +6,7 @@ title Matrix protocol - Protocol
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="links-programming-language.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="strongtalk.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="notation3.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/matrix-protocol.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
 
 dashboard
- #1410 <span title="TotalRank: 1944 Jobs: 103 Users: 855 Facts: 3865 Links: 986">on PLDB</span>
+ #1411 <span title="TotalRank: 1945 Jobs: 103 Users: 855 Facts: 3866 Links: 987">on PLDB</span>
  9 Years Old
 
 * 
@@ -32,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav links-programming-language.html notation3.html
+keyboardNav strongtalk.html notation3.html
 
 import ../footer.scroll

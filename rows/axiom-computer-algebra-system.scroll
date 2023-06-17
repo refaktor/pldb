@@ -7,7 +7,7 @@ title Axiom - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="cda.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="phel.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="magma.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/axiom-computer-algebra-system.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1992 1992
 
 dashboard
- #1531 <span title="TotalRank: 2047 Jobs: 103 Users: 958 Facts: 1374 Links: 986">on PLDB</span>
+ #1531 <span title="TotalRank: 2048 Jobs: 103 Users: 958 Facts: 1374 Links: 987">on PLDB</span>
  31 Years Old
 
 * Axiom is a free, general-purpose computer algebra system.  It consists of an interpreter environment, a compiler and a library, which defines a strongly typed, mathematically (mostly) correct type hierarchy.. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav cda.html phel.html
+keyboardNav cda.html magma.html
 
 import ../footer.scroll

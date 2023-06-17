@@ -7,7 +7,7 @@ title winxed - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="roku-brightscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="speakeasy.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="1620sps.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/winxed.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/NotFound/winxed
 
 dashboard
- #867 <span title="TotalRank: 1431 Jobs: 103 Users: 1887 Facts: 342 Links: 986">on PLDB</span>
+ #868 <span title="TotalRank: 1432 Jobs: 103 Users: 1887 Facts: 342 Links: 987">on PLDB</span>
  14 Years Old
 
 * The winxed programming language
@@ -127,6 +127,6 @@ treeTable
   Token 
   Example
 
-keyboardNav roku-brightscript.html speakeasy.html
+keyboardNav roku-brightscript.html 1620sps.html
 
 import ../footer.scroll

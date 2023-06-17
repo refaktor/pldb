@@ -6,8 +6,8 @@ title ThinBasic - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="desmos.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="edgedb.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sizzle.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="desmos.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/thinbasic.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #635 <span title="TotalRank: 1212 Jobs: 103 Users: 1495 Facts: 719 Links: 390">on PLDB</span>
+ #634 <span title="TotalRank: 1212 Jobs: 103 Users: 1495 Facts: 719 Links: 390">on PLDB</span>
  19 Years Old
 
 * thinBasic is a BASIC-like computer programming language interpreter with a central core engine architecture surrounded by many specialized modules. Although originally designed mainly for computer automation, thanks to its modular structure it can be used for wide range of tasks.. Read more on Wikipedia...
@@ -83,6 +83,6 @@ treeTable
   Token 
   Example
 
-keyboardNav desmos.html edgedb.html
+keyboardNav sizzle.html desmos.html
 
 import ../footer.scroll

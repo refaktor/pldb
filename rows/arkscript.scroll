@@ -6,7 +6,7 @@ title ArkScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="skulpt.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="vyper.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="cyclone.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/arkscript.pldb
@@ -25,7 +25,7 @@ codeWithHeader Source code:
  git clone https://github.com/ArkScript-lang/Ark
 
 dashboard
- #708 <span title="TotalRank: 1272 Jobs: 103 Users: 715 Facts: 454 Links: 986">on PLDB</span>
+ #707 <span title="TotalRank: 1272 Jobs: 103 Users: 715 Facts: 454 Links: 987">on PLDB</span>
  4 Years Old
 
 * ArkScript is a small, fast, functional and scripting language for video games.
@@ -113,6 +113,6 @@ treeTable
   Token 
   Example
 
-keyboardNav skulpt.html cyclone.html
+keyboardNav vyper.html cyclone.html
 
 import ../footer.scroll

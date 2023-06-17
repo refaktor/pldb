@@ -7,7 +7,7 @@ title P - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="clist.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="luna-1.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="turbo-assembler.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/p.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/p-org/P
 
 dashboard
- #821 <span title="TotalRank: 1381 Jobs: 103 Users: 292 Facts: 1662 Links: 986">on PLDB</span>
+ #821 <span title="TotalRank: 1382 Jobs: 103 Users: 292 Facts: 1662 Links: 987">on PLDB</span>
  10 Years Old
 
 * P is a state machine based programming language for modeling and specifying complex distributed systems.
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav clist.html luna-1.html
+keyboardNav clist.html turbo-assembler.html
 
 import ../footer.scroll

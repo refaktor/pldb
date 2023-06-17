@@ -7,7 +7,7 @@ title tablam - Query language
 
 html
  <a class="trueBaseThemePreviousItem" href="mythryl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="data-general-business-basic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="upic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/tablam.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/Tablam/TablaM
 
 dashboard
- #1868 <span title="TotalRank: 2391 Jobs: 103 Users: 1302 Facts: 1306 Links: 986">on PLDB</span>
+ #1869 <span title="TotalRank: 2392 Jobs: 103 Users: 1302 Facts: 1306 Links: 987">on PLDB</span>
  3 Years Old
 
 * The practical relational programing language for data-oriented applications
@@ -41,6 +41,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav mythryl.html data-general-business-basic.html
+keyboardNav mythryl.html upic.html
 
 import ../footer.scroll

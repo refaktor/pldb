@@ -7,7 +7,7 @@ title Geany - Editor
 
 html
  <a class="trueBaseThemePreviousItem" href="asdf.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="fen-notation.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="quel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/geany-editor.pldb
 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav asdf.html fen-notation.html
+keyboardNav asdf.html quel.html
 
 import ../footer.scroll

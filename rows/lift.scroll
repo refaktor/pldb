@@ -6,8 +6,8 @@ title lift - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mheg-5.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="chinese-basic.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sequencel.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="basic4android.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lift.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/lift-project/lift
 
 dashboard
- #1589 <span title="TotalRank: 2110 Jobs: 103 Users: 1021 Facts: 1586 Links: 986">on PLDB</span>
+ #1592 <span title="TotalRank: 2111 Jobs: 103 Users: 1021 Facts: 1586 Links: 987">on PLDB</span>
  9 Years Old
 
 * The Lift programming language and compiler
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav mheg-5.html chinese-basic.html
+keyboardNav sequencel.html basic4android.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title GAMS - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="aith.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="runoff.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jsharp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/gams.pldb
 
@@ -71,6 +71,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav aith.html runoff.html
+keyboardNav aith.html jsharp.html
 
 import ../footer.scroll

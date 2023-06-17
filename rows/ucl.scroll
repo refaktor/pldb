@@ -7,7 +7,7 @@ title UCL - Data notation
 
 html
  <a class="trueBaseThemePreviousItem" href="gleam.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gdscript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="penrose.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ucl.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/vstakhov/libucl
 
 dashboard
- #687 <span title="TotalRank: 1259 Jobs: 103 Users: 376 Facts: 780 Links: 986">on PLDB</span>
+ #686 <span title="TotalRank: 1259 Jobs: 103 Users: 376 Facts: 780 Links: 987">on PLDB</span>
  10 Years Old
 
 * Universal configuration library parser
@@ -54,6 +54,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav gleam.html gdscript.html
+keyboardNav gleam.html penrose.html
 
 import ../footer.scroll

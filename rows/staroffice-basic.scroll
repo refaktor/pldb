@@ -6,7 +6,7 @@ title StarOffice Basic - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="observable-lang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="cartocss.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="pop-11.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/staroffice-basic.pldb
@@ -83,6 +83,6 @@ treeTable
   Token 
   Example
 
-keyboardNav observable-lang.html pop-11.html
+keyboardNav cartocss.html pop-11.html
 
 import ../footer.scroll

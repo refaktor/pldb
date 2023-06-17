@@ -7,7 +7,7 @@ title unseemly - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="genexus.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="work-flow-language.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="txtzyme.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/unseemly.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/paulstansifer/unseemly
 
 dashboard
- #1913 <span title="TotalRank: 2414 Jobs: 103 Users: 1325 Facts: 1586 Links: 986">on PLDB</span>
+ #1918 <span title="TotalRank: 2415 Jobs: 103 Users: 1325 Facts: 1586 Links: 987">on PLDB</span>
  7 Years Old
 
 * Macros have types!                  
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav genexus.html work-flow-language.html
+keyboardNav genexus.html txtzyme.html
 
 import ../footer.scroll

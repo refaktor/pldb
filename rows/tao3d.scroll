@@ -6,7 +6,7 @@ title tao3d - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="gorillascript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="plex.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="thue-programming-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/tao3d.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/c3d/tao3D
 
 dashboard
- #1414 <span title="TotalRank: 1949 Jobs: 103 Users: 1198 Facts: 860 Links: 986">on PLDB</span>
+ #1417 <span title="TotalRank: 1950 Jobs: 103 Users: 1198 Facts: 860 Links: 987">on PLDB</span>
  20 Years Old
 
 * Tao3D is a programming language for interactive 3D.
@@ -56,6 +56,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav gorillascript.html thue-programming-language.html
+keyboardNav plex.html thue-programming-language.html
 
 import ../footer.scroll

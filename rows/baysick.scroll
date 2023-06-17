@@ -6,7 +6,7 @@ title baysick - Esoteric programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="plex.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="soy.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="balanced-ternary-notation.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/baysick.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/fogus/baysick
 
 dashboard
- #1428 <span title="TotalRank: 1952 Jobs: 103 Users: 863 Facts: 992 Links: 986">on PLDB</span>
+ #1428 <span title="TotalRank: 1953 Jobs: 103 Users: 863 Facts: 992 Links: 987">on PLDB</span>
  14 Years Old
 
 * An embedded Insane-specific Language for Scala implementing the BASIC programming language
@@ -60,6 +60,6 @@ treeTable
   Token PRINT
   Example
 
-keyboardNav plex.html balanced-ternary-notation.html
+keyboardNav soy.html balanced-ternary-notation.html
 
 import ../footer.scroll

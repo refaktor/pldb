@@ -7,7 +7,7 @@ title pie-lang - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="umka.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="amigabasic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="msx-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/pie-lang.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/the-little-typer/pie
 
 dashboard
- #1185 <span title="TotalRank: 1730 Jobs: 103 Users: 641 Facts: 1251 Links: 986">on PLDB</span>
+ #1187 <span title="TotalRank: 1731 Jobs: 103 Users: 641 Facts: 1251 Links: 987">on PLDB</span>
  5 Years Old
 
 * Pie: A Little Language with Dependent Types. Pie is a Racket language, requiring Racket version 6.5 or newer.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav umka.html amigabasic.html
+keyboardNav umka.html msx-basic.html
 
 import ../footer.scroll

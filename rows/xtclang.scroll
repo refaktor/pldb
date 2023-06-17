@@ -6,8 +6,8 @@ title Ecstasy - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pqq.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="portable-standard-lisp.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="imp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="steinhaus-moser-notation.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/xtclang.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/xtclang/xvm
 
 dashboard
- #1766 <span title="TotalRank: 2293 Jobs: 103 Users: 1204 Facts: 1586 Links: 986">on PLDB</span>
+ #1772 <span title="TotalRank: 2294 Jobs: 103 Users: 1204 Facts: 1586 Links: 987">on PLDB</span>
  8 Years Old
 
 * Ecstasy and XVM
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav pqq.html portable-standard-lisp.html
+keyboardNav imp.html steinhaus-moser-notation.html
 
 import ../footer.scroll

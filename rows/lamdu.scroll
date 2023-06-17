@@ -6,8 +6,8 @@ title Lamdu - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="whois-protocol.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flow9.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="flow9.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cycript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lamdu.pldb
 
@@ -24,7 +24,7 @@ codeWithHeader Source code:
  git clone https://github.com/lamdu/lamdu
 
 dashboard
- #886 <span title="TotalRank: 1451 Jobs: 103 Users: 362 Facts: 1662 Links: 986">on PLDB</span>
+ #887 <span title="TotalRank: 1452 Jobs: 103 Users: 362 Facts: 1662 Links: 987">on PLDB</span>
  12 Years Old
 
 * lamdu - towards the next generation IDE
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav whois-protocol.html flow9.html
+keyboardNav flow9.html cycript.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title UPC - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="clos.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="blackcoffee.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="toffeescript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/unified-parallel-c.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2003 2003
 
 dashboard
- #693 <span title="TotalRank: 1263 Jobs: 103 Users: 834 Facts: 939 Links: 326">on PLDB</span>
+ #692 <span title="TotalRank: 1263 Jobs: 103 Users: 834 Facts: 939 Links: 326">on PLDB</span>
  20 Years Old
  17k <span title="UPC repos on GitHub.">Repos</span>
 
@@ -42,6 +42,6 @@ dashboard
 
 endColumns
 
-keyboardNav clos.html blackcoffee.html
+keyboardNav clos.html toffeescript.html
 
 import ../footer.scroll

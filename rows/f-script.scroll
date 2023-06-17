@@ -6,8 +6,8 @@ title F-Script - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="djangoql.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mochi.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="lisp-machine-lisp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="djangoql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/f-script.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/pmougin/f-script
 
 dashboard
- #1078 <span title="TotalRank: 1637 Jobs: 103 Users: 867 Facts: 992 Links: 667">on PLDB</span>
+ #1077 <span title="TotalRank: 1637 Jobs: 103 Users: 867 Facts: 992 Links: 667">on PLDB</span>
  14 Years Old
 
 * F-Script is an object-oriented scripting programming language for Apple's macOS operating system developed by Philippe Mougin.  F-Script is an interactive language based on Smalltalk, using macOS's native Cocoa API.. Read more on Wikipedia...
@@ -43,6 +43,6 @@ dashboard
 
 endColumns
 
-keyboardNav djangoql.html mochi.html
+keyboardNav lisp-machine-lisp.html djangoql.html
 
 import ../footer.scroll

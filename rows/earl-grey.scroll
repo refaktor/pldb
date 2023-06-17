@@ -6,7 +6,7 @@ title Earl Grey - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lispyscript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="touch.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="dex.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/earl-grey.pldb
@@ -90,6 +90,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: The Earl Grey language – pattern matching, macros, compiles to JS|https://news.ycombinator.com/item?id=8150346|08/07/2014|5|1
 
-keyboardNav lispyscript.html dex.html
+keyboardNav touch.html dex.html
 
 import ../footer.scroll

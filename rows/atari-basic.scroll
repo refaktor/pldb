@@ -6,7 +6,7 @@ title Atari BASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="openscad.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="dm.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="yoptascript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/atari-basic.pldb
@@ -38,6 +38,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Atari_BASIC'>
 
 endColumns
 
-keyboardNav openscad.html yoptascript.html
+keyboardNav dm.html yoptascript.html
 
 import ../footer.scroll

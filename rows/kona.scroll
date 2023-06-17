@@ -6,8 +6,8 @@ title kona - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="dak.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nxc.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="mary.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lux.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/kona.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/kevinlawler/kona
 
 dashboard
- #916 <span title="TotalRank: 1488 Jobs: 103 Users: 399 Facts: 1119 Links: 986">on PLDB</span>
+ #918 <span title="TotalRank: 1489 Jobs: 103 Users: 399 Facts: 1119 Links: 987">on PLDB</span>
  13 Years Old
 
 * Kona is the open-source implementation of the k3 programming language. k is a synthesis of APL and LISP. Although many of the capabilities come from APL, the fundamental data construct is quite different. In APL the construct is a multi-dimensional matrix-like array, where the dimension of the array can range from 0 to some maximum (often 9). In k, like LISP, the fundamental data construct is a list. Also, like LISP, the k language is ASCII-based, so you don't need a special keyboard.
@@ -45,6 +45,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav dak.html nxc.html
+keyboardNav mary.html lux.html
 
 import ../footer.scroll

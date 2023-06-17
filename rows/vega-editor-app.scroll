@@ -6,8 +6,8 @@ title vega-editor-app - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jplace.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="winbatch.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="winbatch.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gist.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/vega-editor-app.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/vega/editor
 
 dashboard
- #1886 on PLDB
+ #1887 on PLDB
  8 Years Old
 
 * Editor/IDE for Vega and Vega-Lite
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav jplace.html winbatch.html
+keyboardNav winbatch.html gist.html
 
 import ../footer.scroll

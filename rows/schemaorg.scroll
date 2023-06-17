@@ -6,8 +6,8 @@ title Schema.org - Data validation language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ella-programming-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="babylonian-numerals.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="nestedtext.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bloop.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/schemaorg.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
 
 dashboard
- #1050 <span title="TotalRank: 1614 Jobs: 103 Users: 624 Facts: 887 Links: 986">on PLDB</span>
+ #1046 <span title="TotalRank: 1614 Jobs: 103 Users: 624 Facts: 887 Links: 987">on PLDB</span>
  12 Years Old
 
 * Schema.org is an initiative launched on 2 June 2011 by Bing, Google and Yahoo! (then operators of the world's largest search engines) to “create and support a common set of schemas for structured data markup on web pages.” In November 2011 Yandex (whose search engine is the largest one in Russia) joined the initiative. They propose using the schema.org vocabulary along with the Microdata, RDFa, or JSON-LD formats to mark up website content with metadata about itself. Such markup can be recognized by search engine spiders and other parsers, thus gaining access to the meaning of the sites (see Semantic Web). Read more on Wikipedia...
@@ -54,6 +54,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Schema.org'>W
 
 endColumns
 
-keyboardNav ella-programming-language.html babylonian-numerals.html
+keyboardNav nestedtext.html bloop.html
 
 import ../footer.scroll

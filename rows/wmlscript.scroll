@@ -6,7 +6,7 @@ title WMLScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="qtscript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="n-triples.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ags-script.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/wmlscript.pldb
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav qtscript.html ags-script.html
+keyboardNav n-triples.html ags-script.html
 
 import ../footer.scroll

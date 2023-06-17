@@ -6,7 +6,7 @@ title Wu - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="bro.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="bamboo.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="lc-3.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/wu.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/wu-lang/wu
 
 dashboard
- #1367 <span title="TotalRank: 1896 Jobs: 103 Users: 807 Facts: 1876 Links: 986">on PLDB</span>
+ #1367 <span title="TotalRank: 1897 Jobs: 103 Users: 807 Facts: 1876 Links: 987">on PLDB</span>
  5 Years Old
 
 * 🐉 A practical game and data language
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav bro.html lc-3.html
+keyboardNav bamboo.html lc-3.html
 
 import ../footer.scroll

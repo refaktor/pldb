@@ -7,7 +7,7 @@ title Pan - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="plot.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mech-lang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spatial.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/pan.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/quattor/pan
 
 dashboard
- #875 <span title="TotalRank: 1442 Jobs: 103 Users: 955 Facts: 384 Links: 986">on PLDB</span>
+ #875 <span title="TotalRank: 1442 Jobs: 103 Users: 955 Facts: 384 Links: 987">on PLDB</span>
  12 Years Old
  41 <span title="Pan repos on GitHub.">Repos</span>
 
@@ -93,6 +93,6 @@ treeTable
   Token 
   Example
 
-keyboardNav plot.html mech-lang.html
+keyboardNav plot.html spatial.html
 
 import ../footer.scroll

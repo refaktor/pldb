@@ -6,7 +6,7 @@ title Lux - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mary.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="kona.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="sinclair-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lux.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/LuxLang/lux/
 
 dashboard
- #919 <span title="TotalRank: 1489 Jobs: 103 Users: 400 Facts: 1662 Links: 986">on PLDB</span>
+ #919 <span title="TotalRank: 1490 Jobs: 103 Users: 400 Facts: 1662 Links: 987">on PLDB</span>
  9 Years Old
 
 * The Lux Programming Language
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav mary.html sinclair-basic.html
+keyboardNav kona.html sinclair-basic.html
 
 import ../footer.scroll

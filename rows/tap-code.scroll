@@ -7,7 +7,7 @@ title Tap code - Notation
 
 html
  <a class="trueBaseThemePreviousItem" href="sweetjs.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="http-2.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="graph-it.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/tap-code.pldb
 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav sweetjs.html http-2.html
+keyboardNav sweetjs.html graph-it.html
 
 import ../footer.scroll

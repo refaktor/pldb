@@ -6,7 +6,7 @@ title SysML - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mu.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="yoix.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="logica.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/sysml.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav mu.html logica.html
+keyboardNav yoix.html logica.html
 
 import ../footer.scroll

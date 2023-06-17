@@ -7,7 +7,7 @@ title Lisp Machine Lisp - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="bloom.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="djangoql.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="f-script.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lisp-machine-lisp.pldb
 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav bloom.html djangoql.html
+keyboardNav bloom.html f-script.html
 
 import ../footer.scroll

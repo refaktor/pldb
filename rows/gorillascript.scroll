@@ -6,8 +6,8 @@ title GorillaScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="strongtalk.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="tao3d.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="notation3.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hytime.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/gorillascript.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/ckknight/gorillascript
 
 dashboard
- #1413 <span title="TotalRank: 1948 Jobs: 103 Users: 859 Facts: 1497 Links: 986">on PLDB</span>
+ #1413 <span title="TotalRank: 1949 Jobs: 103 Users: 859 Facts: 1497 Links: 987">on PLDB</span>
  10 Years Old
 
 * GorillaScript is a compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors.
@@ -45,6 +45,6 @@ codeWithHeader GorillaScript <a href="../lists/keywords.html?filter=gorillascrip
 
 endColumns
 
-keyboardNav strongtalk.html tao3d.html
+keyboardNav notation3.html hytime.html
 
 import ../footer.scroll

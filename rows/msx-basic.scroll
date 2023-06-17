@@ -6,7 +6,7 @@ title MSX BASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="xpl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="pie-lang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tuple-space.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/msx-basic.pldb
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav xpl.html tuple-space.html
+keyboardNav pie-lang.html tuple-space.html
 
 import ../footer.scroll

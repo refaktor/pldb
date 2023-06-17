@@ -7,7 +7,7 @@ title Cesil - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="groff.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="souper.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="srl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/cesil.pldb
 
@@ -80,6 +80,6 @@ treeTable
   Token PRINT
   Example
 
-keyboardNav groff.html souper.html
+keyboardNav groff.html srl.html
 
 import ../footer.scroll

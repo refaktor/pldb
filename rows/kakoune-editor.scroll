@@ -6,8 +6,8 @@ title Kakoune - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="logica.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="xl-lang.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="gold.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bpel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/kakoune-editor.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/mawww/kakoune/
 
 dashboard
- #794 on PLDB
+ #796 on PLDB
  12 Years Old
 
 * mawww's experiment for a better code editor
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav logica.html xl-lang.html
+keyboardNav gold.html bpel.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Karel - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="heap.coffee.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="blackcoffee.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="jsoniq.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/karel.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#richardEPattis Richard E. Pattis
 
 dashboard
- #697 <span title="TotalRank: 1265 Jobs: 103 Users: 777 Facts: 495 Links: 667">on PLDB</span>
+ #696 <span title="TotalRank: 1265 Jobs: 103 Users: 777 Facts: 495 Links: 667">on PLDB</span>
  42 Years Old
 
 * Karel is an educational programming language for beginners, created by Richard E. Pattis in his book Karel The Robot: A Gentle Introduction to the Art of Programming. Pattis used the language in his courses at Stanford University, California. Read more on Wikipedia...
@@ -82,6 +82,6 @@ treeTable
   Token WRITE
   Example
 
-keyboardNav heap.coffee.html jsoniq.html
+keyboardNav blackcoffee.html jsoniq.html
 
 import ../footer.scroll

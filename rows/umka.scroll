@@ -6,7 +6,7 @@ title Umka - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="hal-s.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="xpl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="pie-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/umka.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/vtereshkov/umka-lang
 
 dashboard
- #1184 <span title="TotalRank: 1730 Jobs: 103 Users: 641 Facts: 1876 Links: 986">on PLDB</span>
+ #1186 <span title="TotalRank: 1731 Jobs: 103 Users: 641 Facts: 1876 Links: 987">on PLDB</span>
  3 Years Old
 
 * Umka is a statically typed embeddable scripting language.
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav hal-s.html pie-lang.html
+keyboardNav xpl.html pie-lang.html
 
 import ../footer.scroll

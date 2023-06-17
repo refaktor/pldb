@@ -6,7 +6,7 @@ title Iterm2 - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jmp.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="dojo.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="apex.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/iterm2.pldb
@@ -44,6 +44,6 @@ dashboard
 
 endColumns
 
-keyboardNav jmp.html apex.html
+keyboardNav dojo.html apex.html
 
 import ../footer.scroll

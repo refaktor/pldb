@@ -6,7 +6,7 @@ title PowerBASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="context-diff.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="cranelift-ir.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hyperscript-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/powerbasic.pldb
@@ -73,6 +73,6 @@ treeTable
   Token 
   Example
 
-keyboardNav context-diff.html hyperscript-lang.html
+keyboardNav cranelift-ir.html hyperscript-lang.html
 
 import ../footer.scroll

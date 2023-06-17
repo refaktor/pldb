@@ -6,8 +6,8 @@ title JRuby - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="grammar.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="apex.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ntp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="qmake.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/jruby.pldb
 
@@ -44,6 +44,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/JRuby'>Wikipe
 
 endColumns
 
-keyboardNav grammar.html apex.html
+keyboardNav ntp.html qmake.html
 
 import ../footer.scroll

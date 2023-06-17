@@ -7,7 +7,7 @@ title Links - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="pipelines.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="matrix-protocol.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="strongtalk.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/links-programming-language.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/links-lang/links
 
 dashboard
- #1409 <span title="TotalRank: 1940 Jobs: 103 Users: 851 Facts: 1052 Links: 986">on PLDB</span>
+ #1409 <span title="TotalRank: 1941 Jobs: 103 Users: 851 Facts: 1052 Links: 987">on PLDB</span>
  17 Years Old
 
 * Links: Linking Theory to Practice for the Web
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav pipelines.html matrix-protocol.html
+keyboardNav pipelines.html strongtalk.html
 
 import ../footer.scroll

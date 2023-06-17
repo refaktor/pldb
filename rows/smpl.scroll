@@ -6,8 +6,8 @@ title Semantic Patch Language - Grammar language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="xbrl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="parrot-assembly.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="confluence.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="xbrl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/smpl.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/coccinelle/coccinelle
 
 dashboard
- #1013 <span title="TotalRank: 1578 Jobs: 103 Users: 588 Facts: 887 Links: 986">on PLDB</span>
+ #1012 <span title="TotalRank: 1578 Jobs: 103 Users: 588 Facts: 887 Links: 987">on PLDB</span>
  17 Years Old
  15 <span title="Semantic Patch Language repos on GitHub.">Repos</span>
 
@@ -43,6 +43,6 @@ dashboard
 
 endColumns
 
-keyboardNav xbrl.html parrot-assembly.html
+keyboardNav confluence.html xbrl.html
 
 import ../footer.scroll

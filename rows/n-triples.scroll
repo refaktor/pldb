@@ -6,8 +6,8 @@ title N-Triples - Data notation
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="cone.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="qtscript.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="qtscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="wmlscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/n-triples.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
 
 dashboard
- #1321 <span title="TotalRank: 1866 Jobs: 103 Users: 777 Facts: 1497 Links: 986">on PLDB</span>
+ #1322 <span title="TotalRank: 1867 Jobs: 103 Users: 777 Facts: 1497 Links: 987">on PLDB</span>
  9 Years Old
 
 * N-Triples is a format for storing and transmitting data. It is a line-based, plain text serialisation format for RDF (Resource Description Framework) graphs, and a subset of the Turtle (Terse RDF Triple Language) format. N-Triples should not be confused with Notation3 which is a superset of Turtle. Read more on Wikipedia...
@@ -44,6 +44,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav cone.html qtscript.html
+keyboardNav qtscript.html wmlscript.html
 
 import ../footer.scroll

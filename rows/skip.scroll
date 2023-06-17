@@ -6,7 +6,7 @@ title skip - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="m3db.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="streem.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ibm-gml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/skip.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/skiplang/skip
 
 dashboard
- #725 <span title="TotalRank: 1288 Jobs: 103 Users: 353 Facts: 832 Links: 986">on PLDB</span>
+ #724 <span title="TotalRank: 1288 Jobs: 103 Users: 353 Facts: 832 Links: 987">on PLDB</span>
  5 Years Old
 
 * A programming language to skip the things you have already computed
@@ -59,6 +59,6 @@ treeTable
   Token print_string
   Example
 
-keyboardNav m3db.html ibm-gml.html
+keyboardNav streem.html ibm-gml.html
 
 import ../footer.scroll

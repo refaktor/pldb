@@ -6,8 +6,8 @@ title djangoql - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lisp-machine-lisp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="f-script.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="f-script.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mochi.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/djangoql.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/ivelum/djangoql
 
 dashboard
- #1077 <span title="TotalRank: 1636 Jobs: 103 Users: 547 Facts: 1497 Links: 986">on PLDB</span>
+ #1078 <span title="TotalRank: 1637 Jobs: 103 Users: 547 Facts: 1497 Links: 987">on PLDB</span>
  6 Years Old
 
 * Advanced search language for Django
@@ -41,6 +41,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: DjangoQL – Advanced search language for Django|https://news.ycombinator.com/item?id=14050326|04/06/2017|8|0
 
-keyboardNav lisp-machine-lisp.html f-script.html
+keyboardNav f-script.html mochi.html
 
 import ../footer.scroll

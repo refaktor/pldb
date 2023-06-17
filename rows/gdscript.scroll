@@ -6,8 +6,8 @@ title GDScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ucl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="visual-prolog.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="visual-prolog.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="arexx.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/gdscript.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #688 <span title="TotalRank: 1260 Jobs: 103 Users: 1125 Facts: 171 Links: 986">on PLDB</span>
+ #689 <span title="TotalRank: 1261 Jobs: 103 Users: 1125 Facts: 171 Links: 987">on PLDB</span>
  15 Years Old
  39k <span title="GDScript repos on GitHub.">Repos</span>
 
@@ -183,6 +183,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ucl.html visual-prolog.html
+keyboardNav visual-prolog.html arexx.html
 
 import ../footer.scroll

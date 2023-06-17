@@ -6,7 +6,7 @@ title QUEL - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="comal.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="mdx-lang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="httplang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/quel.pldb
@@ -44,6 +44,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/QUEL_query_la
 
 endColumns
 
-keyboardNav comal.html httplang.html
+keyboardNav mdx-lang.html httplang.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title BlooP - Esoteric programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="nestedtext.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="schemaorg.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tht.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/bloop.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1979 1979
 
 dashboard
- #1046 <span title="TotalRank: 1613 Jobs: 103 Users: 1205 Facts: 524 Links: 986">on PLDB</span>
+ #1047 <span title="TotalRank: 1614 Jobs: 103 Users: 1205 Facts: 524 Links: 987">on PLDB</span>
  44 Years Old
 
 * Try now: <a href="https://repl.it/languages/bloop">Replit</a>
@@ -89,6 +89,6 @@ treeTable
   Token PRINT
   Example
 
-keyboardNav nestedtext.html tht.html
+keyboardNav schemaorg.html tht.html
 
 import ../footer.scroll

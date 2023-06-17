@@ -6,8 +6,8 @@ title Qalb - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="zephyr-asdl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="melody.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="joy.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="component-pascal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/qalb.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/nasser/---
 
 dashboard
- #749 <span title="TotalRank: 1317 Jobs: 103 Users: 539 Facts: 675 Links: 986">on PLDB</span>
+ #747 <span title="TotalRank: 1317 Jobs: 103 Users: 539 Facts: 675 Links: 987">on PLDB</span>
  11 Years Old
 
 * Try now: <a href="https://riju.codes/qalb">Riju</a>
@@ -63,6 +63,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav zephyr-asdl.html melody.html
+keyboardNav joy.html component-pascal.html
 
 import ../footer.scroll

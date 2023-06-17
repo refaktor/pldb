@@ -6,8 +6,8 @@ title MAGMA - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="micro-cpp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="synon.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="axiom-computer-algebra-system.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="phel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/magma.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1993 1993
 
 dashboard
- #1534 <span title="TotalRank: 2052 Jobs: 103 Users: 1282 Facts: 1442 Links: 667">on PLDB</span>
+ #1532 <span title="TotalRank: 2052 Jobs: 103 Users: 1282 Facts: 1442 Links: 667">on PLDB</span>
  30 Years Old
 
 * Magma is a computer algebra system designed to solve problems in algebra, number theory, geometry and combinatorics. It is named after the algebraic structure magma. It runs on Unix-like operating systems, as well as Windows.. Read more on Wikipedia...
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav micro-cpp.html synon.html
+keyboardNav axiom-computer-algebra-system.html phel.html
 
 import ../footer.scroll

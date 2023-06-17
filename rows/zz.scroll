@@ -7,7 +7,7 @@ title zz - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="impala.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="chisel.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="mckeeman-form.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/zz.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/aep/zz
 
 dashboard
- #755 <span title="TotalRank: 1322 Jobs: 103 Users: 387 Facts: 832 Links: 986">on PLDB</span>
+ #754 <span title="TotalRank: 1322 Jobs: 103 Users: 387 Facts: 832 Links: 987">on PLDB</span>
  4 Years Old
 
 * 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
@@ -63,6 +63,6 @@ treeTable
   Token printf
   Example
 
-keyboardNav impala.html chisel.html
+keyboardNav impala.html mckeeman-form.html
 
 import ../footer.scroll

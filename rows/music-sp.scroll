@@ -7,7 +7,7 @@ title MUSIC/SP - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="pact.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="vale.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="oak.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/music-sp.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav pact.html vale.html
+keyboardNav pact.html oak.html
 
 import ../footer.scroll

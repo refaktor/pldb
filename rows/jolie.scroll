@@ -6,8 +6,8 @@ title Jolie - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lobster.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="esterel.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="maxscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lobster.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/jolie.pldb
 
@@ -21,7 +21,7 @@ startColumns 4
  link ../lists/creators.html#fabrizioMontesi Fabrizio Montesi
 
 dashboard
- #928 <span title="TotalRank: 1498 Jobs: 103 Users: 951 Facts: 444 Links: 986">on PLDB</span>
+ #927 <span title="TotalRank: 1498 Jobs: 103 Users: 951 Facts: 444 Links: 987">on PLDB</span>
  17 Years Old
  129 <span title="Jolie repos on GitHub.">Repos</span>
 
@@ -75,6 +75,6 @@ codeWithHeader Example from <a href='https://github.com/fmontesi/language-jolie'
 
 endColumns
 
-keyboardNav lobster.html esterel.html
+keyboardNav maxscript.html lobster.html
 
 import ../footer.scroll

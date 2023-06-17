@@ -6,7 +6,7 @@ title titan - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="rss.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="kal.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="rouge.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/titan.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/titan-lang/titan
 
 dashboard
- #1349 <span title="TotalRank: 1890 Jobs: 103 Users: 801 Facts: 1777 Links: 986">on PLDB</span>
+ #1349 <span title="TotalRank: 1891 Jobs: 103 Users: 801 Facts: 1777 Links: 987">on PLDB</span>
  6 Years Old
 
 * The Titan programming language
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav rss.html rouge.html
+keyboardNav kal.html rouge.html
 
 import ../footer.scroll

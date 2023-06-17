@@ -6,8 +6,8 @@ title MASM - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="dex.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="plb.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="unified-diff.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="miniml-error.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/masm.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/ThomasJaeger/VisualMASM
 
 dashboard
- #961 <span title="TotalRank: 1528 Jobs: 103 Users: 439 Facts: 1442 Links: 986">on PLDB</span>
+ #964 <span title="TotalRank: 1529 Jobs: 103 Users: 439 Facts: 1442 Links: 987">on PLDB</span>
  42 Years Old
 
 * Visual MASM - Assembly IDE for Microsoft MASM
@@ -41,6 +41,6 @@ dashboard
 
 endColumns
 
-keyboardNav dex.html plb.html
+keyboardNav unified-diff.html miniml-error.html
 
 import ../footer.scroll

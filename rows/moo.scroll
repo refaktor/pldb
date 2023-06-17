@@ -6,7 +6,7 @@ title MOO - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="differential-datalog.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="lispyscript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="treelang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/moo.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1993 1993
 
 dashboard
- #954 <span title="TotalRank: 1525 Jobs: 103 Users: 1576 Facts: 436 Links: 986">on PLDB</span>
+ #956 <span title="TotalRank: 1526 Jobs: 103 Users: 1576 Facts: 436 Links: 987">on PLDB</span>
  30 Years Old
  83 <span title="MOO repos on GitHub.">Repos</span>
 
@@ -105,6 +105,6 @@ treeTable
   Token 
   Example
 
-keyboardNav differential-datalog.html treelang.html
+keyboardNav lispyscript.html treelang.html
 
 import ../footer.scroll

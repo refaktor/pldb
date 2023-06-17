@@ -6,7 +6,7 @@ title Li-Chen Wang - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ddfql.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="spir.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="haggis.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/li-chen-wang.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1976 1976
 
 dashboard
- #1227 <span title="TotalRank: 1765 Jobs: 103 Users: 1272 Facts: 2167 Links: 390">on PLDB</span>
+ #1220 <span title="TotalRank: 1765 Jobs: 103 Users: 1272 Facts: 2167 Links: 390">on PLDB</span>
  47 Years Old
 
 * Dr. Li-Chen Wang (born 1935) is an American computer engineer, best known for his Palo Alto Tiny BASIC for Intel 8080-based microcomputers. He was a member of the Homebrew Computer Club and made significant contributions to the software for early microcomputer systems from Tandy Corporation and Cromemco.. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav ddfql.html haggis.html
+keyboardNav spir.html haggis.html
 
 import ../footer.scroll

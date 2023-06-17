@@ -6,8 +6,8 @@ title circle-lang - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sheep-lang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pl360.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="pl360.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="blade.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/circle-lang.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/seanbaxter/circle
 
 dashboard
- #984 <span title="TotalRank: 1544 Jobs: 103 Users: 455 Facts: 1306 Links: 986">on PLDB</span>
+ #985 <span title="TotalRank: 1545 Jobs: 103 Users: 455 Facts: 1306 Links: 987">on PLDB</span>
  4 Years Old
 
 * The C++ Automation Language
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav sheep-lang.html pl360.html
+keyboardNav pl360.html blade.html
 
 import ../footer.scroll

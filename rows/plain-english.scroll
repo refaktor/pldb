@@ -6,8 +6,8 @@ title Plain English - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="angelscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lpc.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ncl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bpel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/plain-english.pldb
 
@@ -21,7 +21,7 @@ startColumns 4
  link ../lists/creators.html#danRzeppa Dan Rzeppa
 
 dashboard
- #567 <span title="TotalRank: 1130 Jobs: 103 Users: 2435 Facts: 41 Links: 986">on PLDB</span>
+ #569 <span title="TotalRank: 1131 Jobs: 103 Users: 2435 Facts: 41 Links: 987">on PLDB</span>
  5 Years Old
 
 * 
@@ -334,6 +334,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav angelscript.html lpc.html
+keyboardNav ncl.html bpel.html
 
 import ../footer.scroll

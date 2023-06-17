@@ -7,7 +7,7 @@ title IP Pascal - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="mvel.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smiles-format.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="hl7.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ip-pascal.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#scottMoore Scott Moore
 
 dashboard
- #882 <span title="TotalRank: 1445 Jobs: 103 Users: 1412 Facts: 675 Links: 667">on PLDB</span>
+ #881 <span title="TotalRank: 1445 Jobs: 103 Users: 1412 Facts: 675 Links: 667">on PLDB</span>
  33 Years Old
 
 * IP Pascal is an implementation of the Pascal programming language using the IP portability platform, a multiple machine, operating system and language implementation system.. Read more on Wikipedia...
@@ -70,6 +70,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/IP_Pascal'>Wi
 
 endColumns
 
-keyboardNav mvel.html smiles-format.html
+keyboardNav mvel.html hl7.html
 
 import ../footer.scroll

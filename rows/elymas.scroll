@@ -6,8 +6,8 @@ title elymas - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="schematron.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="daisy-systems.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="preferred-executable-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="arith-matic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/elymas.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/Drahflow/Elymas
 
 dashboard
- #1670 <span title="TotalRank: 2189 Jobs: 103 Users: 1100 Facts: 1586 Links: 986">on PLDB</span>
+ #1672 <span title="TotalRank: 2190 Jobs: 103 Users: 1100 Facts: 1586 Links: 987">on PLDB</span>
  11 Years Old
 
 * A programming language I can like. Unholy and full of magic.
@@ -40,6 +40,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Self-hosted stack-based programming language|https://news.ycombinator.com/item?id=9795314|06/28/2015|86|23
 
-keyboardNav schematron.html daisy-systems.html
+keyboardNav preferred-executable-format.html arith-matic.html
 
 import ../footer.scroll

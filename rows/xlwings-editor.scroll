@@ -6,7 +6,7 @@ title xlwings-editor - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tap-code.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="laravel-framework.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mvel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/xlwings-editor.pldb
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav tap-code.html mvel.html
+keyboardNav laravel-framework.html mvel.html
 
 import ../footer.scroll

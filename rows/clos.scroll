@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #692 <span title="TotalRank: 1263 Jobs: 103 Users: 1645 Facts: 887 Links: 273">on PLDB</span>
+ #691 <span title="TotalRank: 1263 Jobs: 103 Users: 1645 Facts: 887 Links: 273">on PLDB</span>
  35 Years Old
 
 * The Common Lisp Object System (CLOS) is the facility for object-oriented programming which is part of ANSI Common Lisp. CLOS is a powerful dynamic object system which differs radically from the OOP facilities found in more static languages such as C++ or Java. CLOS was inspired by earlier Lisp object systems such as MIT Flavors and CommonLoops, although it is more general than either. Read more on Wikipedia...

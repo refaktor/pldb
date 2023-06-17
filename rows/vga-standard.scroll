@@ -7,7 +7,7 @@ title Video Graphics Array - Standard
 
 html
  <a class="trueBaseThemePreviousItem" href="gopher-protocol.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="apache-cassandra.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="roy.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/vga-standard.pldb
 
@@ -31,6 +31,6 @@ dashboard
 
 endColumns
 
-keyboardNav gopher-protocol.html apache-cassandra.html
+keyboardNav gopher-protocol.html roy.html
 
 import ../footer.scroll

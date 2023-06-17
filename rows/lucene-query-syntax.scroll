@@ -6,7 +6,7 @@ title Apache Lucene - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="kitten.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="scss.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="jasmin.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lucene-query-syntax.pldb
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav kitten.html jasmin.html
+keyboardNav scss.html jasmin.html
 
 import ../footer.scroll

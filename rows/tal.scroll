@@ -6,8 +6,8 @@ title TAL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="glyph.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="augment.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="charcoal.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="glyph.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/tal.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #1706 <span title="TotalRank: 2215 Jobs: 103 Users: 1445 Facts: 1497 Links: 667">on PLDB</span>
+ #1705 <span title="TotalRank: 2215 Jobs: 103 Users: 1445 Facts: 1497 Links: 667">on PLDB</span>
  15 Years Old
 
 * Transaction Application Language or TAL (originally "Tandem Application Language") is a block-structured, procedural language optimized for use on Tandem hardware. TAL resembles a cross between C and Pascal. It was the original system programming language for the Tandem CISC machines, which had no assembler. Read more on Wikipedia...
@@ -60,6 +60,6 @@ treeTable
   Token 
   Example
 
-keyboardNav glyph.html augment.html
+keyboardNav charcoal.html glyph.html
 
 import ../footer.scroll

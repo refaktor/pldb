@@ -6,7 +6,7 @@ title Business Basic - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="go-bang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="multiaddr.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="javafx-script.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/business-basic.pldb
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav go-bang.html javafx-script.html
+keyboardNav multiaddr.html javafx-script.html
 
 import ../footer.scroll

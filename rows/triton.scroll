@@ -7,7 +7,7 @@ title Triton - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="jsharp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ddml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="runoff.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/triton.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/openai/triton
 
 dashboard
- #555 <span title="TotalRank: 1117 Jobs: 103 Users: 212 Facts: 802 Links: 986">on PLDB</span>
+ #554 <span title="TotalRank: 1117 Jobs: 103 Users: 212 Facts: 802 Links: 987">on PLDB</span>
  2 Years Old
 
 * This is the development repository of Triton, a language and compiler for writing highly efficient custom Deep-Learning primitives. The aim of Triton is to provide an open-source environment to write fast code at higher productivity than CUDA, but also with higher flexibility than other existing DSLs.
@@ -58,6 +58,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav jsharp.html ddml.html
+keyboardNav jsharp.html runoff.html
 
 import ../footer.scroll

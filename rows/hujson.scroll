@@ -6,7 +6,7 @@ title HuJSON - Data notation
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tao-lang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="rss.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="kal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/hujson.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/tailscale/hujson
 
 dashboard
- #1345 <span title="TotalRank: 1888 Jobs: 103 Users: 799 Facts: 1119 Links: 986">on PLDB</span>
+ #1347 <span title="TotalRank: 1889 Jobs: 103 Users: 799 Facts: 1119 Links: 987">on PLDB</span>
  4 Years Old
 
 * HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
@@ -63,6 +63,6 @@ treeTable
   Example
    // A comment
 
-keyboardNav tao-lang.html kal.html
+keyboardNav rss.html kal.html
 
 import ../footer.scroll

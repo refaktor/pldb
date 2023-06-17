@@ -6,7 +6,7 @@ title Gforth - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="hivemind.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="data-general-business-basic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mythryl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/gforth.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1992 1992
 
 dashboard
- #1866 <span title="TotalRank: 2391 Jobs: 103 Users: 1302 Facts: 2304 Links: 986">on PLDB</span>
+ #1867 <span title="TotalRank: 2392 Jobs: 103 Users: 1302 Facts: 2304 Links: 987">on PLDB</span>
  31 Years Old
 
 * Gforth is a free and portable implementation of the Forth programming language for Unix-like systems, Microsoft Windows, and other operating systems. A primary goal of Gforth is to adhere to the ANS Forth standard. Gforth is free software as part of the GNU Project.. Read more on Wikipedia...
@@ -57,6 +57,6 @@ treeTable
   Token 
   Example
 
-keyboardNav hivemind.html mythryl.html
+keyboardNav data-general-business-basic.html mythryl.html
 
 import ../footer.scroll

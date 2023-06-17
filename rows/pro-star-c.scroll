@@ -7,7 +7,7 @@ title Pro*C - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="de-bruijn-index-notation.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="floscript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="atari-microsoft-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/pro-star-c.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1996 1996
 
 dashboard
- #1611 <span title="TotalRank: 2131 Jobs: 103 Users: 1042 Facts: 2167 Links: 986">on PLDB</span>
+ #1611 <span title="TotalRank: 2132 Jobs: 103 Users: 1042 Facts: 2167 Links: 987">on PLDB</span>
  27 Years Old
 
 * Pro*C (also known as Pro*C/C++) is an embedded SQL programming language used by Oracle Database database management systems.  Pro*C uses either C or C++ as its host language.  During compilation, the embedded SQL statements are interpreted by a precompiler and replaced by C or C++ function calls to their respective SQL library. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav de-bruijn-index-notation.html floscript.html
+keyboardNav de-bruijn-index-notation.html atari-microsoft-basic.html
 
 import ../footer.scroll

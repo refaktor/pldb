@@ -6,7 +6,7 @@ title MATHLAB - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tea.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="pic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mqtt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/mathlab.pldb
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav tea.html mqtt.html
+keyboardNav pic.html mqtt.html
 
 import ../footer.scroll

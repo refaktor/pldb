@@ -6,8 +6,8 @@ title Secure Scuttlebutt - Protocol
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jule.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="aith.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="uno.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jule.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ssb.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/ssbc/ssb-server
 
 dashboard
- #550 <span title="TotalRank: 1111 Jobs: 103 Users: 341 Facts: 1876 Links: 667">on PLDB</span>
+ #549 <span title="TotalRank: 1111 Jobs: 103 Users: 341 Facts: 1876 Links: 667">on PLDB</span>
  9 Years Old
 
 * The gossip and replication server for Secure Scuttlebutt - a distributed social network
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav jule.html aith.html
+keyboardNav uno.html jule.html
 
 import ../footer.scroll

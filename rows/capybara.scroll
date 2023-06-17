@@ -6,8 +6,8 @@ title capybara - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="prismjs.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="semver.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="semver.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="karel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/capybara.pldb
 
@@ -24,7 +24,7 @@ codeWithHeader Source code:
  git clone https://github.com/teamcapybara/capybara
 
 dashboard
- #770 on PLDB
+ #771 on PLDB
  14 Years Old
 
 * Acceptance test framework for web applications
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav prismjs.html semver.html
+keyboardNav semver.html karel.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Steinhaus-Moser notation - Notation
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="imp.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="xtclang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="cam.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/steinhaus-moser-notation.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1969 1969
 
 dashboard
- #1773 <span title="TotalRank: 2294 Jobs: 103 Users: 1205 Facts: 2912 Links: 986">on PLDB</span>
+ #1773 <span title="TotalRank: 2295 Jobs: 103 Users: 1205 Facts: 2912 Links: 987">on PLDB</span>
  54 Years Old
 
 * In mathematics, Steinhaus–Moser notation is a notation for expressing certain large numbers. It is an extension of Hugo Steinhaus's polygon notation, devised by Leo Moser.. Read more on Wikipedia...
@@ -32,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav imp.html cam.html
+keyboardNav xtclang.html cam.html
 
 import ../footer.scroll

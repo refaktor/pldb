@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/jsongraph/json-graph-specification
 
 dashboard
- #801 <span title="TotalRank: 1361 Jobs: 103 Users: 763 Facts: 495 Links: 986">on PLDB</span>
+ #801 <span title="TotalRank: 1361 Jobs: 103 Users: 763 Facts: 495 Links: 987">on PLDB</span>
  9 Years Old
 
 * A proposal for representing graph structure (nodes / edges) in JSON.

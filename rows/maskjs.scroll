@@ -6,8 +6,8 @@ title Mask - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="caffeine.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="geo-ml.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="treenotation.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="eclipse-command-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/maskjs.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/atmajs/maskjs
 
 dashboard
- #703 <span title="TotalRank: 1268 Jobs: 103 Users: 947 Facts: 218 Links: 986">on PLDB</span>
+ #701 <span title="TotalRank: 1268 Jobs: 103 Users: 947 Facts: 218 Links: 987">on PLDB</span>
  11 Years Old
  306 <span title="Mask repos on GitHub.">Repos</span>
 
@@ -138,6 +138,6 @@ treeTable
   Token 
   Example
 
-keyboardNav caffeine.html geo-ml.html
+keyboardNav treenotation.html eclipse-command-language.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Mortran - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="lazyml.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ana.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sensetalk.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/mortran.pldb
 
@@ -39,6 +39,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Mortran'>Wiki
 
 endColumns
 
-keyboardNav lazyml.html ana.html
+keyboardNav lazyml.html sensetalk.html
 
 import ../footer.scroll

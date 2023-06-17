@@ -6,7 +6,7 @@ title ARexx - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="toffeescript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="gdscript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="clos.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/arexx.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1987 1987
 
 dashboard
- #691 <span title="TotalRank: 1263 Jobs: 103 Users: 1325 Facts: 887 Links: 273">on PLDB</span>
+ #690 <span title="TotalRank: 1263 Jobs: 103 Users: 1325 Facts: 887 Links: 273">on PLDB</span>
  36 Years Old
 
 * ARexx is an implementation of the Rexx language for the Amiga, written in 1987 by William S. Hawes, with a number of Amiga-specific features beyond standard REXX facilities.  Like most REXX implementations, ARexx is an interpreted language. Read more on Wikipedia...
@@ -71,6 +71,6 @@ treeTable
   Token 
   Example
 
-keyboardNav toffeescript.html clos.html
+keyboardNav gdscript.html clos.html
 
 import ../footer.scroll

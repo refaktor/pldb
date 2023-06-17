@@ -6,8 +6,8 @@ title raptorjit - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="acl2.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="marp.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="noisecraft.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sweave.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/raptorjit.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/raptorjit/raptorjit
 
 dashboard
- #1122 <span title="TotalRank: 1679 Jobs: 103 Users: 590 Facts: 1777 Links: 986">on PLDB</span>
+ #1122 <span title="TotalRank: 1680 Jobs: 103 Users: 590 Facts: 1777 Links: 987">on PLDB</span>
  14 Years Old
 
 * RaptorJIT: A dynamic language for system programming (LuaJIT fork)
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav acl2.html marp.html
+keyboardNav noisecraft.html sweave.html
 
 import ../footer.scroll

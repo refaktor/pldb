@@ -6,7 +6,7 @@ title opam-pm - Package manager
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="google-apps-script.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="llhd.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="whois-protocol.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/opam-pm.pldb
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav google-apps-script.html whois-protocol.html
+keyboardNav llhd.html whois-protocol.html
 
 import ../footer.scroll

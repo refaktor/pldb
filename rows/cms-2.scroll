@@ -6,8 +6,8 @@ title CMS-2 - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="coco.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pikelet.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="newsqueak.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="coco.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/cms-2.pldb
 
@@ -21,7 +21,7 @@ startColumns 4
  link ../lists/creators.html#davidClarkRummler David Clark Rummler
 
 dashboard
- #1233 <span title="TotalRank: 1770 Jobs: 103 Users: 1341 Facts: 1586 Links: 326">on PLDB</span>
+ #1232 <span title="TotalRank: 1770 Jobs: 103 Users: 1341 Facts: 1586 Links: 326">on PLDB</span>
  55 Years Old
 
 * CMS-2 is an embedded systems programming language used by the United States Navy. It was an early attempt to develop a standardized high-level computer programming language intended to improve code portability and reusability. CMS-2 was developed primarily for the US Navy’s tactical data systems (NTDS).CMS-2 was developed by RAND Corporation in the early 1970s and stands for "Compiler Monitor System". Read more on Wikipedia...
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav coco.html pikelet.html
+keyboardNav newsqueak.html coco.html
 
 import ../footer.scroll

@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/hakaru-dev/hakaru
 
 dashboard
- #1289 <span title="TotalRank: 1822 Jobs: 103 Users: 859 Facts: 860 Links: 986">on PLDB</span>
+ #1289 <span title="TotalRank: 1822 Jobs: 103 Users: 859 Facts: 860 Links: 987">on PLDB</span>
  9 Years Old
 
 * Hakaru is a simply-typed probabilistic programming language, designed for easy specification of probabilistic models and inference algorithms. This type of language is useful for the development of machine learning algorithms and stochastic modeling.

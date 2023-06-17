@@ -6,7 +6,7 @@ title Nial - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="neko.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="lookml.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="xproc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/nial.pldb
@@ -71,6 +71,6 @@ treeTable
   Token write
   Example
 
-keyboardNav neko.html xproc.html
+keyboardNav lookml.html xproc.html
 
 import ../footer.scroll

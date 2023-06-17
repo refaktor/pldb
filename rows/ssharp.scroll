@@ -7,7 +7,7 @@ title Script.NET - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="openedge-advanced-business-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="roy.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="shen.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ssharp.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/PetroProtsyk/SSharp
 
 dashboard
- #847 <span title="TotalRank: 1409 Jobs: 103 Users: 886 Facts: 420 Links: 986">on PLDB</span>
+ #845 <span title="TotalRank: 1409 Jobs: 103 Users: 886 Facts: 420 Links: 987">on PLDB</span>
  16 Years Old
 
 * Script.NET or S# is a metaprogramming language that provides scripting functionality in Microsoft .NET applications, allowing runtime execution of custom functionality, similar to VBA in Microsoft Office applications. The syntax of Script.NET is similar to JavaScript. It is designed to be simple and efficient scripting language allowing to customize .NET applications. Read more on Wikipedia...
@@ -100,6 +100,6 @@ treeTable
   Token 
   Example
 
-keyboardNav openedge-advanced-business-language.html roy.html
+keyboardNav openedge-advanced-business-language.html shen.html
 
 import ../footer.scroll

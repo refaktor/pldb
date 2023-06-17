@@ -7,7 +7,7 @@ title Bel - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="newtonscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="utc-format.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pyret.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/bel.pldb
 
@@ -182,6 +182,6 @@ treeTable
   Token 
   Example
 
-keyboardNav newtonscript.html utc-format.html
+keyboardNav newtonscript.html pyret.html
 
 import ../footer.scroll

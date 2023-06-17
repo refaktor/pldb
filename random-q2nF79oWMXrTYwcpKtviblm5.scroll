@@ -18,7 +18,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,840 files and found 65 matches in 0.72s. <span id="publishQuery"></span>
+Searched 4,841 files and found 65 matches in 0.69s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Which programming languages use indentation?
@@ -57,22 +57,22 @@ table  DeLiM
  Curry DeLiM /rows/curry.html DeLiM true DeLiM 562
  Argdown DeLiM /rows/argdown.html DeLiM true DeLiM 604
  beads-lang DeLiM /rows/beads-lang.html DeLiM true DeLiM 641
- Spin DeLiM /rows/spin.html DeLiM true DeLiM 669
- Aldor DeLiM /rows/aldor.html DeLiM true DeLiM 729
- Cobra DeLiM /rows/cobra.html DeLiM true DeLiM 750
+ Spin DeLiM /rows/spin.html DeLiM true DeLiM 671
+ Aldor DeLiM /rows/aldor.html DeLiM true DeLiM 728
+ Cobra DeLiM /rows/cobra.html DeLiM true DeLiM 748
  Tree Notation DeLiM /rows/treenotation.html DeLiM true DeLiM 787
- XL DeLiM /rows/xl-lang.html DeLiM true DeLiM 794
+ XL DeLiM /rows/xl-lang.html DeLiM true DeLiM 793
  mckeeman-form DeLiM /rows/mckeeman-form.html DeLiM true DeLiM 855
- SCSS DeLiM /rows/scss.html DeLiM true DeLiM 874
- bog DeLiM /rows/bog.html DeLiM true DeLiM 1054
+ SCSS DeLiM /rows/scss.html DeLiM true DeLiM 878
+ bog DeLiM /rows/bog.html DeLiM true DeLiM 1055
  Quaint DeLiM /rows/quaint.html DeLiM true DeLiM 1119
  Sheep DeLiM /rows/sheep-lang.html DeLiM true DeLiM 1120
  Cyber DeLiM /rows/cyber.html DeLiM true DeLiM 1164
- Scroll DeLiM /rows/scroll.html DeLiM true DeLiM 1174
- ISWIM DeLiM /rows/iswim.html DeLiM true DeLiM 1247
+ Scroll DeLiM /rows/scroll.html DeLiM true DeLiM 1173
+ ISWIM DeLiM /rows/iswim.html DeLiM true DeLiM 1246
  PROMAL DeLiM /rows/promal.html DeLiM true DeLiM 1293
  I-expressions DeLiM /rows/i-expressions.html DeLiM true DeLiM 1334
- p4p DeLiM /rows/p4p.html DeLiM true DeLiM 1391
+ p4p DeLiM /rows/p4p.html DeLiM true DeLiM 1392
  Z DeLiM /rows/z-expressions.html DeLiM true DeLiM 1429
  Cirru DeLiM /rows/cirru.html DeLiM true DeLiM 1453
  Note DeLiM /rows/note.html DeLiM true DeLiM 1630
@@ -89,8 +89,8 @@ table  DeLiM
  CSL DeLiM /rows/csl.html DeLiM true DeLiM 2846
  converge DeLiM /rows/converge.html DeLiM true DeLiM 3140
  Ordered graph data language DeLiM /rows/ogdl.html DeLiM true DeLiM 3394
- MADCAP VI DeLiM /rows/madcap-vi.html DeLiM true DeLiM 3544
- MADCAP DeLiM /rows/madcap.html DeLiM true DeLiM 3770
+ MADCAP VI DeLiM /rows/madcap-vi.html DeLiM true DeLiM 3545
+ MADCAP DeLiM /rows/madcap.html DeLiM true DeLiM 3771
 
 Results as JSON, CSV, TSV or Tree
  link /search.json?q=title%20Which%20programming%20languages%20use%20indentation%3F%0Aselect%20hasSemanticIndentation%20rank%0AnotMissing%20hasSemanticIndentation%0Awhere%20hasSemanticIndentation%20%3D%20true%0AsortBy%20rank JSON

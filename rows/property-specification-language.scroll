@@ -6,7 +6,7 @@ title Property Specification Language - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="frink.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="jslt.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hal-s.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/property-specification-language.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #1182 <span title="TotalRank: 1729 Jobs: 103 Users: 1236 Facts: 2049 Links: 390">on PLDB</span>
+ #1179 <span title="TotalRank: 1729 Jobs: 103 Users: 1236 Facts: 2049 Links: 390">on PLDB</span>
  19 Years Old
 
 * Property Specification Language (PSL) is a temporal logic extending Linear temporal logic with a range of operators for both ease of expression and enhancement of expressive power. PSL makes an extensive use of regular expressions and syntactic sugaring. It is widely used in the hardware design and verification industry, where formal verification tools (such as model checking) and/or  logic simulation tools are used to prove or refute that a given PSL formula holds on a given design. Read more on Wikipedia...
@@ -37,6 +37,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Property_Spec
 
 endColumns
 
-keyboardNav frink.html hal-s.html
+keyboardNav jslt.html hal-s.html
 
 import ../footer.scroll

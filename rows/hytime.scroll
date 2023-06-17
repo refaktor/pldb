@@ -6,7 +6,7 @@ title HyTime - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="soy.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="gorillascript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="linden-scripting-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/hytime.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1991 1991
 
 dashboard
- #1425 <span title="TotalRank: 1950 Jobs: 103 Users: 1355 Facts: 2167 Links: 492">on PLDB</span>
+ #1414 <span title="TotalRank: 1950 Jobs: 103 Users: 1355 Facts: 2167 Links: 492">on PLDB</span>
  32 Years Old
 
 * HyTime (Hypermedia/Time-based Structuring Language) is a markup language that is an application of SGML. HyTime defines a set of hypertext-oriented element types that, in effect, supplement SGML and allow SGML document authors to build hypertext and multimedia presentations in a standardized way. HyTime is an international standard published by the ISO and IEC. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav soy.html linden-scripting-language.html
+keyboardNav gorillascript.html linden-scripting-language.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Mojo - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="plist.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="scss.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="chuck.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/mojo.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/modularml/mojo
 
 dashboard
- #766 <span title="TotalRank: 1333 Jobs: 103 Users: 398 Facts: 832 Links: 986">on PLDB</span>
+ #766 <span title="TotalRank: 1333 Jobs: 103 Users: 398 Facts: 832 Links: 987">on PLDB</span>
  1 Years Old
 
 * Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
@@ -55,6 +55,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav plist.html scss.html
+keyboardNav plist.html chuck.html
 
 import ../footer.scroll

@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#trevorBlackwell Trevor Blackwell
 
 dashboard
- #3481 <span title="TotalRank: 3920 Jobs: 103 Users: 2831 Facts: 3865 Links: 986">on PLDB</span>
+ #3482 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3866 Links: 987">on PLDB</span>
  3 Years Old
 
 * Yoga is purely functional, meaning that every function takes inputs and returns outputs, without any side effects. Yoga programs have an implicit main loop, which is run every time a hardware sensor reports new values. It then propagates updates through the program like a spreadsheet. Yoga’s lexical syntax is close enough to JavaScript that you can use JavaScript syntax highlighting in your editor.

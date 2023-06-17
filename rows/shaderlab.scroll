@@ -7,7 +7,7 @@ title ShaderLab - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="hasklig.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="tea.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/shaderlab.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
 
 dashboard
- #712 <span title="TotalRank: 1273 Jobs: 103 Users: 1149 Facts: 184 Links: 986">on PLDB</span>
+ #712 <span title="TotalRank: 1274 Jobs: 103 Users: 1149 Facts: 184 Links: 987">on PLDB</span>
  23 Years Old
  59k <span title="ShaderLab repos on GitHub.">Repos</span>
 
@@ -158,6 +158,6 @@ treeTable
   Token 
   Example
 
-keyboardNav hasklig.html pic.html
+keyboardNav hasklig.html tea.html
 
 import ../footer.scroll

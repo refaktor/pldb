@@ -6,8 +6,8 @@ title Vale - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="music-sp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="oak.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="oak.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tsquery.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/vale.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/ValeLang/Vale
 
 dashboard
- #1155 <span title="TotalRank: 1704 Jobs: 103 Users: 615 Facts: 1119 Links: 986">on PLDB</span>
+ #1156 <span title="TotalRank: 1705 Jobs: 103 Users: 615 Facts: 1119 Links: 987">on PLDB</span>
  3 Years Old
 
 * Compiler for the Vale programming language - http://vale.dev/
@@ -53,6 +53,6 @@ treeTable
   Token println
   Example
 
-keyboardNav music-sp.html oak.html
+keyboardNav oak.html tsquery.html
 
 import ../footer.scroll

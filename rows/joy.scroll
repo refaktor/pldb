@@ -7,7 +7,7 @@ title Joy - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="meson.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="component-pascal.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="qalb.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/joy.pldb
 
@@ -64,6 +64,6 @@ treeTable
   Token 
   Example
 
-keyboardNav meson.html component-pascal.html
+keyboardNav meson.html qalb.html
 
 import ../footer.scroll

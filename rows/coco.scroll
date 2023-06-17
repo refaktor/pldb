@@ -6,8 +6,8 @@ title Coco - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="newsqueak.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cms-2.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="cms-2.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pikelet.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/coco.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/satyr/coco/
 
 dashboard
- #1232 <span title="TotalRank: 1769 Jobs: 103 Users: 680 Facts: 1777 Links: 986">on PLDB</span>
+ #1233 <span title="TotalRank: 1770 Jobs: 103 Users: 680 Facts: 1777 Links: 987">on PLDB</span>
  13 Years Old
 
 * Unfancy CoffeeScript
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav newsqueak.html cms-2.html
+keyboardNav cms-2.html pikelet.html
 
 import ../footer.scroll

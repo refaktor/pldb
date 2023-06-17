@@ -6,7 +6,7 @@ title JSON-stat - Json format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pyret.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="utc-format.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="clarion.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/json-stat.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/jsonstat/jsonstat
 
 dashboard
- #602 <span title="TotalRank: 1173 Jobs: 103 Users: 2097 Facts: 84 Links: 986">on PLDB</span>
+ #602 <span title="TotalRank: 1174 Jobs: 103 Users: 2097 Facts: 84 Links: 987">on PLDB</span>
  12 Years Old
 
 * JSON-stat is a simple lightweight JSON dissemination format best suited for data visualization, mobile apps or open data initiatives, that has been designed for all kinds of disseminators.
@@ -210,6 +210,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav pyret.html clarion.html
+keyboardNav utc-format.html clarion.html
 
 import ../footer.scroll

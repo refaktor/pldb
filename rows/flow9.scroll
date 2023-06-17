@@ -6,8 +6,8 @@ title Flow9 - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lamdu.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cycript.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="whois-protocol.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lamdu.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/flow9.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/area9innovation/flow9
 
 dashboard
- #887 <span title="TotalRank: 1451 Jobs: 103 Users: 689 Facts: 659 Links: 986">on PLDB</span>
+ #886 <span title="TotalRank: 1451 Jobs: 103 Users: 689 Facts: 659 Links: 987">on PLDB</span>
  13 Years Old
 
 monacoEditor flow9
@@ -111,6 +111,6 @@ treeTable
   Token "
   Example
 
-keyboardNav lamdu.html cycript.html
+keyboardNav whois-protocol.html lamdu.html
 
 import ../footer.scroll

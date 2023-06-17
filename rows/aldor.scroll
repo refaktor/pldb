@@ -7,7 +7,7 @@ title Aldor - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="xproc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ntp.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="flow-matic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/aldor.pldb
 
@@ -107,6 +107,6 @@ treeTable
   Token 
   Example
 
-keyboardNav xproc.html ntp.html
+keyboardNav xproc.html flow-matic.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title SAM file format - Text data format
 
 html
  <a class="trueBaseThemePreviousItem" href="sqlpl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="fml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="s3.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/sam-format.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav sqlpl.html fml.html
+keyboardNav sqlpl.html s3.html
 
 import ../footer.scroll

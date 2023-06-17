@@ -6,8 +6,8 @@ title m3db - Database
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="streem.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="skip.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ibm-gml.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="saml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/m3db.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/m3db/m3
 
 dashboard
- #724 <span title="TotalRank: 1288 Jobs: 103 Users: 199 Facts: 1306 Links: 986">on PLDB</span>
+ #726 <span title="TotalRank: 1289 Jobs: 103 Users: 199 Facts: 1306 Links: 987">on PLDB</span>
  7 Years Old
 
 * A distributed time series database.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav streem.html skip.html
+keyboardNav ibm-gml.html saml.html
 
 import ../footer.scroll

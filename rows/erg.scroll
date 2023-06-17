@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/erg-lang/erg
 
 dashboard
- #890 <span title="TotalRank: 1453 Jobs: 103 Users: 364 Facts: 1497 Links: 986">on PLDB</span>
+ #890 <span title="TotalRank: 1454 Jobs: 103 Users: 364 Facts: 1497 Links: 987">on PLDB</span>
  1 Years Old
 
 * erg: A Python-compatible statically typed language written in Rust

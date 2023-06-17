@@ -6,8 +6,8 @@ title XML Metadata Interchange - Xml format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="scribble.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="object-rexx.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="livr.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cadence-skill.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/xmi.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
 
 dashboard
- #1137 <span title="TotalRank: 1690 Jobs: 103 Users: 601 Facts: 2698 Links: 986">on PLDB</span>
+ #1140 <span title="TotalRank: 1691 Jobs: 103 Users: 601 Facts: 2698 Links: 987">on PLDB</span>
  8 Years Old
 
 * The XML Metadata Interchange (XMI) is an Object Management Group (OMG) standard for exchanging metadata information via Extensible Markup Language (XML). It can be used for any metadata whose metamodel can be expressed in Meta-Object Facility (MOF). The most common use of XMI is as an interchange format for UML models, although it can also be used for serialization of models of other languages (metamodels).. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav scribble.html object-rexx.html
+keyboardNav livr.html cadence-skill.html
 
 import ../footer.scroll

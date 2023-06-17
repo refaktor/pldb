@@ -6,7 +6,7 @@ title Smiles - Text data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ip-pascal.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="hl7.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="odbc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/smiles-format.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #883 <span title="TotalRank: 1445 Jobs: 103 Users: 356 Facts: 2304 Links: 986">on PLDB</span>
+ #883 <span title="TotalRank: 1446 Jobs: 103 Users: 356 Facts: 2304 Links: 987">on PLDB</span>
  35 Years Old
 
 * The simplified molecular-input line-entry system (SMILES) is a specification in the form of a line notation for describing the structure of chemical species using short ASCII strings. SMILES strings can be imported by most molecule editors for conversion back into two-dimensional drawings or three-dimensional models of the molecules. The original SMILES specification was initiated in the 1980s. Read more on Wikipedia...
@@ -37,6 +37,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav ip-pascal.html odbc.html
+keyboardNav hl7.html odbc.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Lily - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="qmake.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ldap.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="apex.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lily.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/FascinatedBox/lily
 
 dashboard
- #656 <span title="TotalRank: 1234 Jobs: 103 Users: 492 Facts: 639 Links: 986">on PLDB</span>
+ #655 <span title="TotalRank: 1234 Jobs: 103 Users: 492 Facts: 639 Links: 987">on PLDB</span>
  12 Years Old
 
 * Try now: <a href="http://lily-lang.org/intro-sandbox.html">Web</a> · <a href="https://tio.run/#lily">TIO</a>
@@ -75,6 +75,6 @@ treeTable
   Token 
   Example
 
-keyboardNav qmake.html ldap.html
+keyboardNav qmake.html apex.html
 
 import ../footer.scroll

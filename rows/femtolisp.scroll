@@ -6,8 +6,8 @@ title femtolisp - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="xbl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="tap.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="jison-lex.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="swallow.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/femtolisp.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/JeffBezanson/femtolisp
 
 dashboard
- #909 <span title="TotalRank: 1478 Jobs: 103 Users: 389 Facts: 1662 Links: 986">on PLDB</span>
+ #911 <span title="TotalRank: 1479 Jobs: 103 Users: 389 Facts: 1662 Links: 987">on PLDB</span>
  15 Years Old
 
 * a lightweight, robust, scheme-like lisp implementation
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav xbl.html tap.html
+keyboardNav jison-lex.html swallow.html
 
 import ../footer.scroll

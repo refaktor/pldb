@@ -6,8 +6,8 @@ title ColaScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="scss.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="chuck.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="chuck.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="kitten.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/colascript.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/TrigenSoftware/ColaScript
 
 dashboard
- #768 <span title="TotalRank: 1337 Jobs: 103 Users: 248 Facts: 1662 Links: 986">on PLDB</span>
+ #768 <span title="TotalRank: 1338 Jobs: 103 Users: 248 Facts: 1662 Links: 987">on PLDB</span>
  11 Years Old
 
 * ColaScript is the language that compiles into JavaScript. This language is similar to Dart, CoffeeScript, Python, Go and PHP, with some original ideas. Compiler based on UglifyJS2. You can try ColaScript here (stable) or here (dev). Learn more about ColaScript.
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav scss.html chuck.html
+keyboardNav chuck.html kitten.html
 
 import ../footer.scroll

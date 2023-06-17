@@ -6,7 +6,7 @@ title kei - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="exec-2.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="alma-0.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mages.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/kei.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/caotic123/Kei
 
 dashboard
- #1905 <span title="TotalRank: 2408 Jobs: 103 Users: 1319 Facts: 1662 Links: 986">on PLDB</span>
+ #1906 <span title="TotalRank: 2409 Jobs: 103 Users: 1319 Facts: 1662 Links: 987">on PLDB</span>
  4 Years Old
 
 * A small and expressive dependently typed language
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav exec-2.html mages.html
+keyboardNav alma-0.html mages.html
 
 import ../footer.scroll

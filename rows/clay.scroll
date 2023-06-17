@@ -6,8 +6,8 @@ title clay - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="providex.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="dm.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="icedcoffeescript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ucsd-pascal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/clay.pldb
 
@@ -24,7 +24,7 @@ codeWithHeader Source code:
  git clone https://github.com/jckarter/clay
 
 dashboard
- #666 <span title="TotalRank: 1244 Jobs: 103 Users: 757 Facts: 384 Links: 986">on PLDB</span>
+ #666 <span title="TotalRank: 1244 Jobs: 103 Users: 757 Facts: 384 Links: 987">on PLDB</span>
  13 Years Old
 
 * The Clay programming language
@@ -129,6 +129,6 @@ treeTable
   Token println
   Example
 
-keyboardNav providex.html dm.html
+keyboardNav icedcoffeescript.html ucsd-pascal.html
 
 import ../footer.scroll

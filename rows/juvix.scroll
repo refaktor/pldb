@@ -7,7 +7,7 @@ title juvix - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="crmsh.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lucid-lang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="short-code-computer-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/juvix.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/cryptiumlabs/juvix
 
 dashboard
- #1466 <span title="TotalRank: 1992 Jobs: 103 Users: 903 Facts: 1497 Links: 986">on PLDB</span>
+ #1466 <span title="TotalRank: 1993 Jobs: 103 Users: 903 Facts: 1497 Links: 987">on PLDB</span>
  6 Years Old
 
 * Juvix empowers developers to write code in a high-level, functional language, compile it to gas-efficient output VM instructions, and formally verify the safety of their contracts prior to deployment and execution.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav crmsh.html lucid-lang.html
+keyboardNav crmsh.html short-code-computer-language.html
 
 import ../footer.scroll

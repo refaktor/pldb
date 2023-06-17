@@ -6,8 +6,8 @@ title fo - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ngs.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sam-coupe.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sam-coupe.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cyber.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/fo.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/albrow/fo
 
 dashboard
- #1000 <span title="TotalRank: 1567 Jobs: 103 Users: 478 Facts: 1497 Links: 986">on PLDB</span>
+ #1001 <span title="TotalRank: 1568 Jobs: 103 Users: 478 Facts: 1497 Links: 987">on PLDB</span>
  5 Years Old
 
 * An experimental language which adds functional programming features to Go.
@@ -41,6 +41,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Fo: An experimental language which adds generics on top of Go|https://news.ycombinator.com/item?id=17294548|06/12/2018|165|124
 
-keyboardNav ngs.html sam-coupe.html
+keyboardNav sam-coupe.html cyber.html
 
 import ../footer.scroll

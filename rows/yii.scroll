@@ -7,7 +7,7 @@ title Yes It Is - Framework
 
 html
  <a class="trueBaseThemePreviousItem" href="algol-58.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="uno.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="css-doodle.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/yii.pldb
 
@@ -43,6 +43,6 @@ dashboard
 
 endColumns
 
-keyboardNav algol-58.html uno.html
+keyboardNav algol-58.html css-doodle.html
 
 import ../footer.scroll

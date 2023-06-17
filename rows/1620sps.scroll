@@ -6,7 +6,7 @@ title IBM 1620 - Assembly language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="speakeasy.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="winxed.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="glicol.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/1620sps.pldb
@@ -40,6 +40,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/IBM_1620'>Wik
 
 endColumns
 
-keyboardNav speakeasy.html glicol.html
+keyboardNav winxed.html glicol.html
 
 import ../footer.scroll

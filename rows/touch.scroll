@@ -7,7 +7,7 @@ title Touch - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="treelang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="autocode.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="earl-grey.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/touch.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/touchmarine/to
 
 dashboard
- #956 <span title="TotalRank: 1525 Jobs: 103 Users: 2253 Facts: 436 Links: 986">on PLDB</span>
+ #958 <span title="TotalRank: 1526 Jobs: 103 Users: 2253 Facts: 436 Links: 987">on PLDB</span>
  3 Years Old
 
 * 📜 Touch Lightweight Markup Language; Familiar, Extendable, Auto-Formattable
@@ -90,6 +90,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav treelang.html autocode.html
+keyboardNav treelang.html earl-grey.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Kal - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="hujson.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="poplog.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="titan.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/kal.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/rzimmerman/kal
 
 dashboard
- #1346 <span title="TotalRank: 1888 Jobs: 103 Users: 799 Facts: 1052 Links: 986">on PLDB</span>
+ #1348 <span title="TotalRank: 1889 Jobs: 103 Users: 799 Facts: 1052 Links: 987">on PLDB</span>
  11 Years Old
 
 * Kal is a highly readable, easy-to-use language that compiles to JavaScript.
@@ -67,6 +67,6 @@ treeTable
   Token 
   Example
 
-keyboardNav hujson.html poplog.html
+keyboardNav hujson.html titan.html
 
 import ../footer.scroll

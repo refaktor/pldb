@@ -7,7 +7,7 @@ title Large-scale Atomic/Molecular Massively Parallel Simulator Format - Applica
 
 html
  <a class="trueBaseThemePreviousItem" href="doml.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="kitten.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="loglan.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lammps-format.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1995 1995
 
 dashboard
- #998 on PLDB
+ #999 on PLDB
  28 Years Old
 
 * 
@@ -111,6 +111,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav doml.html kitten.html
+keyboardNav doml.html loglan.html
 
 import ../footer.scroll

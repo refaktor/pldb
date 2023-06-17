@@ -6,8 +6,8 @@ title Cadence SKILL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jayfor.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rdf-schema.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="xmi.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jayfor.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/cadence-skill.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1990 1990
 
 dashboard
- #1142 <span title="TotalRank: 1694 Jobs: 103 Users: 1201 Facts: 1968 Links: 390">on PLDB</span>
+ #1141 <span title="TotalRank: 1694 Jobs: 103 Users: 1201 Facts: 1968 Links: 390">on PLDB</span>
  33 Years Old
 
 * SKILL is a Lisp dialect used as a scripting language and PCell (parameterized cells) description language used in many EDA software suites by Cadence Design Systems. It was originally put forth in an IEEE paper in 1990.. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav jayfor.html rdf-schema.html
+keyboardNav xmi.html jayfor.html
 
 import ../footer.scroll

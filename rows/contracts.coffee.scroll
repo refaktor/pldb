@@ -6,8 +6,8 @@ title contracts.coffee - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="bosque.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ante.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ante.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="praat-script.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/contracts.coffee.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/disnet/contracts.coffee
 
 dashboard
- #681 <span title="TotalRank: 1255 Jobs: 103 Users: 166 Facts: 1876 Links: 986">on PLDB</span>
+ #682 <span title="TotalRank: 1256 Jobs: 103 Users: 166 Facts: 1876 Links: 987">on PLDB</span>
  12 Years Old
 
 * 
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav bosque.html ante.html
+keyboardNav ante.html praat-script.html
 
 import ../footer.scroll

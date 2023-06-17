@@ -7,7 +7,7 @@ title TiddlyWiki - Wiki markup
 
 html
  <a class="trueBaseThemePreviousItem" href="ooc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="htmx.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="rascal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/tiddlywiki.pldb
 
@@ -43,6 +43,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/TiddlyWiki'>W
 
 endColumns
 
-keyboardNav ooc.html htmx.html
+keyboardNav ooc.html rascal.html
 
 import ../footer.scroll

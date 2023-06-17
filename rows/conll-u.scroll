@@ -6,7 +6,7 @@ title CoNLL-U - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mal.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="mql.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="displayport-standard.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/conll-u.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
 
 dashboard
- #764 on PLDB
+ #765 on PLDB
  9 Years Old
 
 * 
@@ -157,6 +157,6 @@ codeWithHeader Example from <a href='https://github.com/odanoburu/conllu-linguis
 
 endColumns
 
-keyboardNav mal.html displayport-standard.html
+keyboardNav mql.html displayport-standard.html
 
 import ../footer.scroll

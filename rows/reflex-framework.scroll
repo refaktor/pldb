@@ -6,8 +6,8 @@ title reflex-framework - Framework
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="knitr.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="wireless-markup-language.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="wireless-markup-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ch.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/reflex-framework.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/reflex-frp/reflex
 
 dashboard
- #1280 on PLDB
+ #1281 on PLDB
  8 Years Old
 
 * Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse.
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav knitr.html wireless-markup-language.html
+keyboardNav wireless-markup-language.html ch.html
 
 import ../footer.scroll

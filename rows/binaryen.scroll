@@ -6,8 +6,8 @@ title binaryen - Compiler
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="meson.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="omgrofl.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="htmx.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bbc-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/binaryen.pldb
 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav meson.html omgrofl.html
+keyboardNav htmx.html bbc-basic.html
 
 import ../footer.scroll

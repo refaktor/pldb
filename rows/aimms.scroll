@@ -6,8 +6,8 @@ title AIMMS - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="topshell.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mad.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="lav-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="topshell.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/aimms.pldb
 
@@ -21,7 +21,7 @@ startColumns 4
  link ../lists/creators.html#marcelRoelofs Marcel Roelofs
 
 dashboard
- #1316 <span title="TotalRank: 1852 Jobs: 103 Users: 1082 Facts: 1662 Links: 667">on PLDB</span>
+ #1315 <span title="TotalRank: 1852 Jobs: 103 Users: 1082 Facts: 1662 Links: 667">on PLDB</span>
  30 Years Old
 
 * AIMMS is a prescriptive analytics software company with offices in the Netherlands, United States, China and Singapore. AIMMS has two main product offerings that provide modeling and optimization capabilities across a variety of industries. The AIMMS Prescriptive Analytics Platform is a tool for those with an Operations Research or Analytics background. Read more on Wikipedia...
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav topshell.html mad.html
+keyboardNav lav-format.html topshell.html
 
 import ../footer.scroll

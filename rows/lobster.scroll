@@ -6,8 +6,8 @@ title lobster - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="xc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="jolie.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="jolie.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="esterel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lobster.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/aardappel/lobster
 
 dashboard
- #927 <span title="TotalRank: 1498 Jobs: 103 Users: 409 Facts: 1306 Links: 986">on PLDB</span>
+ #928 <span title="TotalRank: 1499 Jobs: 103 Users: 409 Facts: 1306 Links: 987">on PLDB</span>
  12 Years Old
 
 * The Lobster Programming Language
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav xc.html jolie.html
+keyboardNav jolie.html esterel.html
 
 import ../footer.scroll

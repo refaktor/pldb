@@ -6,8 +6,8 @@ title psyche-c - Compiler
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="business-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="business-process-modeling-language.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="business-process-modeling-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="zope.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/psyche-c.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/ltcmelo/psychec
 
 dashboard
- #1665 on PLDB
+ #1666 on PLDB
  7 Years Old
 
 * <a href='https://github.com/ltcmelo/psychec'>Psyche-c</a> is a compiler for incomplete C code. It features a Hindley/Milner-inspired type inference engine for C.
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav business-basic.html business-process-modeling-language.html
+keyboardNav business-process-modeling-language.html zope.html
 
 import ../footer.scroll

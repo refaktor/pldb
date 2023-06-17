@@ -7,7 +7,7 @@ title ddfql - Query language
 
 html
  <a class="trueBaseThemePreviousItem" href="ligo.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="li-chen-wang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="z-expressions.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/ddfql.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
 
 dashboard
- #1226 <span title="TotalRank: 1764 Jobs: 103 Users: 2831 Facts: 675 Links: 986">on PLDB</span>
+ #1228 <span title="TotalRank: 1765 Jobs: 103 Users: 2831 Facts: 675 Links: 987">on PLDB</span>
  7 Years Old
 
 * 
@@ -93,6 +93,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ligo.html li-chen-wang.html
+keyboardNav ligo.html z-expressions.html
 
 import ../footer.scroll

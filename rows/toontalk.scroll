@@ -7,7 +7,7 @@ title ToonTalk - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="amos.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mdx-lang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="scribe.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/toontalk.pldb
 
@@ -43,6 +43,6 @@ dashboard
 
 endColumns
 
-keyboardNav amos.html mdx-lang.html
+keyboardNav amos.html scribe.html
 
 import ../footer.scroll

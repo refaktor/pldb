@@ -7,7 +7,7 @@ title Angelscript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="sqlalchemy.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="plain-english.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="lpc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/angelscript.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#andreasJonsson Andreas Jönsson
 
 dashboard
- #566 <span title="TotalRank: 1130 Jobs: 103 Users: 886 Facts: 141 Links: 986">on PLDB</span>
+ #566 <span title="TotalRank: 1130 Jobs: 103 Users: 886 Facts: 141 Links: 987">on PLDB</span>
  20 Years Old
  1k <span title="Angelscript repos on GitHub.">Repos</span>
 
@@ -211,6 +211,6 @@ treeTable
   Token 
   Example
 
-keyboardNav sqlalchemy.html plain-english.html
+keyboardNav sqlalchemy.html lpc.html
 
 import ../footer.scroll

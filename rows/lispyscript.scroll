@@ -7,7 +7,7 @@ title lispyscript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="autocode.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="earl-grey.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="moo.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/lispyscript.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/santoshrajan/lispyscript
 
 dashboard
- #958 <span title="TotalRank: 1526 Jobs: 103 Users: 643 Facts: 780 Links: 986">on PLDB</span>
+ #955 <span title="TotalRank: 1526 Jobs: 103 Users: 643 Facts: 780 Links: 987">on PLDB</span>
  11 Years Old
 
 * A javascript With Lispy Syntax And Macros!
@@ -76,6 +76,6 @@ treeTable
   Token 
   Example
 
-keyboardNav autocode.html earl-grey.html
+keyboardNav autocode.html moo.html
 
 import ../footer.scroll

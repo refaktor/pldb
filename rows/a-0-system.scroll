@@ -6,7 +6,7 @@ title A-0 system - Compiler
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="cusip.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="cache-basic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="vml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/a-0-system.pldb
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav cusip.html vml.html
+keyboardNav cache-basic.html vml.html
 
 import ../footer.scroll

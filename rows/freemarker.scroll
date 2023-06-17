@@ -7,7 +7,7 @@ title FreeMarker - Template language
 
 html
  <a class="trueBaseThemePreviousItem" href="turbo-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="edje-data-collection.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="bqn.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/freemarker.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
 
 dashboard
- #803 <span title="TotalRank: 1362 Jobs: 103 Users: 875 Facts: 384 Links: 986">on PLDB</span>
+ #803 <span title="TotalRank: 1362 Jobs: 103 Users: 875 Facts: 384 Links: 987">on PLDB</span>
  23 Years Old
  6k <span title="FreeMarker repos on GitHub.">Repos</span>
 
@@ -121,6 +121,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Apache_FreeMa
 
 endColumns
 
-keyboardNav turbo-basic.html edje-data-collection.html
+keyboardNav turbo-basic.html bqn.html
 
 import ../footer.scroll

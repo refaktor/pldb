@@ -6,7 +6,7 @@ title Smile data interchange format - Binary data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="processor-technology.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="fructure-editor.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="fossil-scm.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/smile.pldb
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav processor-technology.html fossil-scm.html
+keyboardNav fructure-editor.html fossil-scm.html
 
 import ../footer.scroll

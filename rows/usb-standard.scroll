@@ -7,7 +7,7 @@ title USB - Standard
 
 html
  <a class="trueBaseThemePreviousItem" href="fml.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="jai.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="nushell.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/usb-standard.pldb
 
@@ -26,7 +26,7 @@ startColumns 4
  link ../lists/creators.html#nortel Nortel
 
 dashboard
- #711 on PLDB
+ #712 on PLDB
  27 Years Old
 
 * 
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav fml.html jai.html
+keyboardNav fml.html nushell.html
 
 import ../footer.scroll

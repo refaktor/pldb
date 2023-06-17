@@ -7,7 +7,7 @@ title EXEC 2 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="vilnius-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="kei.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="alma-0.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/rows/exec-2.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav vilnius-basic.html kei.html
+keyboardNav vilnius-basic.html alma-0.html
 
 import ../footer.scroll

@@ -1,0 +1,473 @@
+import header.scroll
+
+canonicalLink 
+
+title Which of today's top languages were created in the 1970's?
+ hidden
+
+
+
+html
+ <form method="get" action="/search.html" class="tqlForm">
+ <textarea id="tqlInput" name="q">title Which of today&#039;s top languages were created in the 1970&#039;s?
+ select isLanguage rank type appeared
+ where isLanguage oneOf true
+ where appeared &gt; 1969
+ where appeared &lt; 1980
+ sortBy rank
+ </textarea>
+ <input type="submit" value="Search"></form>
+
+<div id="tqlErrors"></div>
+
+Searched 4,841 files and found 433 matches in 2.70s. <span id="publishQuery"></span>
+ class trueBaseThemeSearchResultsHeader
+
+# Which of today's top languages were created in the 1970's?
+
+
+table  DeLiM 
+ title DeLiM titleLink DeLiM isLanguage DeLiM rank DeLiM type DeLiM appeared
+ C DeLiM /rows/c.html DeLiM true DeLiM 2 DeLiM pl DeLiM 1972
+ SQL DeLiM /rows/sql.html DeLiM true DeLiM 4 DeLiM queryLanguage DeLiM 1974
+ Pascal DeLiM /rows/pascal.html DeLiM true DeLiM 31 DeLiM pl DeLiM 1970
+ SAS DeLiM /rows/sas.html DeLiM true DeLiM 34 DeLiM pl DeLiM 1976
+ Prolog DeLiM /rows/prolog.html DeLiM true DeLiM 40 DeLiM pl DeLiM 1972
+ Scheme DeLiM /rows/scheme.html DeLiM true DeLiM 45 DeLiM pl DeLiM 1970
+ ISBN DeLiM /rows/isbn.html DeLiM true DeLiM 50 DeLiM schema DeLiM 1970
+ Modula-2 DeLiM /rows/modula-2.html DeLiM true DeLiM 55 DeLiM pl DeLiM 1978
+ awk DeLiM /rows/awk.html DeLiM true DeLiM 67 DeLiM pl DeLiM 1977
+ Smalltalk DeLiM /rows/smalltalk.html DeLiM true DeLiM 78 DeLiM pl DeLiM 1972
+ Yacc DeLiM /rows/yacc.html DeLiM true DeLiM 81 DeLiM grammarLanguage DeLiM 1975
+ FTP DeLiM /rows/ftp.html DeLiM true DeLiM 111 DeLiM protocol DeLiM 1971
+ Rexx DeLiM /rows/rexx.html DeLiM true DeLiM 118 DeLiM pl DeLiM 1979
+ X86 DeLiM /rows/x86-isa.html DeLiM true DeLiM 122 DeLiM isa DeLiM 1978
+ TCP DeLiM /rows/tcp.html DeLiM true DeLiM 124 DeLiM protocol DeLiM 1974
+ Forth DeLiM /rows/forth.html DeLiM true DeLiM 132 DeLiM pl DeLiM 1970
+ ML DeLiM /rows/ml.html DeLiM true DeLiM 136 DeLiM pl DeLiM 1973
+ Tex DeLiM /rows/tex.html DeLiM true DeLiM 157 DeLiM pl DeLiM 1978
+ sed DeLiM /rows/sed.html DeLiM true DeLiM 161 DeLiM pl DeLiM 1974
+ GAME DeLiM /rows/game.html DeLiM true DeLiM 201 DeLiM pl DeLiM 1977
+ x86 Assembly DeLiM /rows/x86-assembly.html DeLiM true DeLiM 204 DeLiM assembly DeLiM 1972
+ Makefile DeLiM /rows/makefile.html DeLiM true DeLiM 215 DeLiM pl DeLiM 1976
+ Icon DeLiM /rows/icon.html DeLiM true DeLiM 226 DeLiM pl DeLiM 1977
+ IDL DeLiM /rows/idl.html DeLiM true DeLiM 243 DeLiM pl DeLiM 1977
+ grep DeLiM /rows/grep.html DeLiM true DeLiM 286 DeLiM pl DeLiM 1974
+ S-algol DeLiM /rows/s-algol.html DeLiM true DeLiM 309 DeLiM pl DeLiM 1979
+ Lex DeLiM /rows/lex.html DeLiM true DeLiM 322 DeLiM grammarLanguage DeLiM 1975
+ INTERCAL DeLiM /rows/intercal.html DeLiM true DeLiM 334 DeLiM esolang DeLiM 1972
+ Microsoft BASIC DeLiM /rows/microsoft-basic.html DeLiM true DeLiM 348 DeLiM pl DeLiM 1975
+ CSP DeLiM /rows/csp.html DeLiM true DeLiM 349 DeLiM pl DeLiM 1978
+ SYMBOL DeLiM /rows/symbol.html DeLiM true DeLiM 359 DeLiM pl DeLiM 1971
+ Datalog DeLiM /rows/datalog.html DeLiM true DeLiM 366 DeLiM pl DeLiM 1977
+ M4 DeLiM /rows/m4.html DeLiM true DeLiM 368 DeLiM pl DeLiM 1977
+ Bourne shell DeLiM /rows/bourne-shell.html DeLiM true DeLiM 394 DeLiM pl DeLiM 1977
+ PL/0 DeLiM /rows/pl-0.html DeLiM true DeLiM 419 DeLiM pl DeLiM 1976
+ Z notation DeLiM /rows/z-notation.html DeLiM true DeLiM 421 DeLiM notation DeLiM 1974
+ Dc DeLiM /rows/dc.html DeLiM true DeLiM 441 DeLiM pl DeLiM 1978
+ CLU DeLiM /rows/clu.html DeLiM true DeLiM 444 DeLiM pl DeLiM 1975
+ S DeLiM /rows/s.html DeLiM true DeLiM 459 DeLiM pl DeLiM 1976
+ EML DeLiM /rows/mbox.html DeLiM true DeLiM 485 DeLiM textDataFormat DeLiM 1974
+ Tiny BASIC DeLiM /rows/tiny-basic.html DeLiM true DeLiM 505 DeLiM pl DeLiM 1975
+ Diff DeLiM /rows/diff.html DeLiM true DeLiM 525 DeLiM unixApplication DeLiM 1974
+ HOPE DeLiM /rows/hope.html DeLiM true DeLiM 532 DeLiM pl DeLiM 1978
+ RATFOR DeLiM /rows/ratfor.html DeLiM true DeLiM 571 DeLiM pl DeLiM 1976
+ Altair BASIC DeLiM /rows/altair-basic.html DeLiM true DeLiM 573 DeLiM pl DeLiM 1975
+ PL/M DeLiM /rows/pl-m.html DeLiM true DeLiM 576 DeLiM pl DeLiM 1973
+ Commodore BASIC DeLiM /rows/commodore-basic.html DeLiM true DeLiM 591 DeLiM pl DeLiM 1977
+ EBNF DeLiM /rows/ebnf.html DeLiM true DeLiM 603 DeLiM grammarLanguage DeLiM 1977
+ PIC microcontroller DeLiM /rows/pic-microcontroller.html DeLiM true DeLiM 632 DeLiM pl DeLiM 1975
+ Troff DeLiM /rows/troff.html DeLiM true DeLiM 697 DeLiM textMarkup DeLiM 1973
+ CSV DeLiM /rows/csv.html DeLiM true DeLiM 719 DeLiM dataNotation DeLiM 1972
+ Modula DeLiM /rows/modula.html DeLiM true DeLiM 743 DeLiM pl DeLiM 1975
+ Up-arrow notation DeLiM /rows/up-arrow-notation.html DeLiM true DeLiM 798 DeLiM notation DeLiM 1976
+ ROFF DeLiM /rows/roff.html DeLiM true DeLiM 937 DeLiM textMarkup DeLiM 1971
+ TI-BASIC DeLiM /rows/ti-basic.html DeLiM true DeLiM 948 DeLiM pl DeLiM 1970
+ UCSD Pascal DeLiM /rows/ucsd-pascal.html DeLiM true DeLiM 953 DeLiM pl DeLiM 1978
+ Applesoft BASIC DeLiM /rows/applesoft-basic.html DeLiM true DeLiM 954 DeLiM pl DeLiM 1979
+ Cesil DeLiM /rows/cesil.html DeLiM true DeLiM 974 DeLiM pl DeLiM 1974
+ TI Program DeLiM /rows/ti-basic-assembly.html DeLiM true DeLiM 1028 DeLiM assembly DeLiM 1970
+ Mary DeLiM /rows/mary.html DeLiM true DeLiM 1040 DeLiM pl DeLiM 1970
+ Programming Language for Business DeLiM /rows/plb.html DeLiM true DeLiM 1094 DeLiM pl DeLiM 1972
+ NATURAL DeLiM /rows/natural.html DeLiM true DeLiM 1113 DeLiM pl DeLiM 1971
+ GRASS DeLiM /rows/grass.html DeLiM true DeLiM 1129 DeLiM pl DeLiM 1977
+ FP DeLiM /rows/fp.html DeLiM true DeLiM 1141 DeLiM pl DeLiM 1977
+ PEARL DeLiM /rows/pearl.html DeLiM true DeLiM 1144 DeLiM pl DeLiM 1977
+ WHOIS DeLiM /rows/whois-protocol.html DeLiM true DeLiM 1151 DeLiM protocol DeLiM 1970
+ Molfile DeLiM /rows/molfile-format.html DeLiM true DeLiM 1166 DeLiM textDataFormat DeLiM 1979
+ BlooP DeLiM /rows/bloop.html DeLiM true DeLiM 1197 DeLiM esolang DeLiM 1979
+ ELLA DeLiM /rows/ella-programming-language.html DeLiM true DeLiM 1200 DeLiM pl DeLiM 1979
+ MACRO-10 DeLiM /rows/macro-10.html DeLiM true DeLiM 1219 DeLiM pl DeLiM 1978
+ KRL DeLiM /rows/krl.html DeLiM true DeLiM 1231 DeLiM pl DeLiM 1976
+ Mesa DeLiM /rows/mesa.html DeLiM true DeLiM 1237 DeLiM pl DeLiM 1970
+ Sinclair BASIC DeLiM /rows/sinclair-basic.html DeLiM true DeLiM 1238 DeLiM pl DeLiM 1979
+ Plus DeLiM /rows/plus.html DeLiM true DeLiM 1243 DeLiM pl DeLiM 1976
+ PLZ DeLiM /rows/plz.html DeLiM true DeLiM 1256 DeLiM pl DeLiM 1979
+ CLISP DeLiM /rows/clisp.html DeLiM true DeLiM 1353 DeLiM pl DeLiM 1973
+ BASIC Programming DeLiM /rows/basic-programming.html DeLiM true DeLiM 1364 DeLiM pl DeLiM 1979
+ LUCID DeLiM /rows/lucid.html DeLiM true DeLiM 1379 DeLiM pl DeLiM 1976
+ Integer BASIC DeLiM /rows/integer-basic.html DeLiM true DeLiM 1384 DeLiM pl DeLiM 1977
+ basic calculator DeLiM /rows/bc.html DeLiM true DeLiM 1398 DeLiM pl DeLiM 1975
+ COMAL DeLiM /rows/comal.html DeLiM true DeLiM 1404 DeLiM pl DeLiM 1973
+ Lisp Machine Lisp DeLiM /rows/lisp-machine-lisp.html DeLiM true DeLiM 1434 DeLiM pl DeLiM 1974
+ Mouse DeLiM /rows/mouse.html DeLiM true DeLiM 1479 DeLiM pl DeLiM 1970
+ MACRO DeLiM /rows/macro.html DeLiM true DeLiM 1496 DeLiM pl DeLiM 1979
+ MUSIC/SP DeLiM /rows/music-sp.html DeLiM true DeLiM 1502 DeLiM pl DeLiM 1972
+ C shell DeLiM /rows/c-shell.html DeLiM true DeLiM 1508 DeLiM pl DeLiM 1978
+ HAL/S DeLiM /rows/hal-s.html DeLiM true DeLiM 1561 DeLiM assembly DeLiM 1972
+ CHIP-8 DeLiM /rows/chip-8.html DeLiM true DeLiM 1568 DeLiM pl DeLiM 1970
+ Li-Chen Wang DeLiM /rows/li-chen-wang.html DeLiM true DeLiM 1596 DeLiM pl DeLiM 1976
+ BASIC-PLUS DeLiM /rows/basic-plus.html DeLiM true DeLiM 1600 DeLiM pl DeLiM 1975
+ OPS5 DeLiM /rows/ops5.html DeLiM true DeLiM 1607 DeLiM pl DeLiM 1977
+ RTL/2 DeLiM /rows/rtl-2.html DeLiM true DeLiM 1629 DeLiM pl DeLiM 1972
+ QUEL DeLiM /rows/quel.html DeLiM true DeLiM 1652 DeLiM queryLanguage DeLiM 1976
+ Business Basic DeLiM /rows/business-basic.html DeLiM true DeLiM 1663 DeLiM pl DeLiM 1970
+ z80 DeLiM /rows/z80.html DeLiM true DeLiM 1680 DeLiM assembly DeLiM 1976
+ MDL DeLiM /rows/mdl.html DeLiM true DeLiM 1704 DeLiM pl DeLiM 1971
+ THEOS DeLiM /rows/theos-multi-user-basic.html DeLiM true DeLiM 1730 DeLiM pl DeLiM 1977
+ Model 204 DeLiM /rows/model-204.html DeLiM true DeLiM 1794 DeLiM pl DeLiM 1972
+ PLEX DeLiM /rows/plex.html DeLiM true DeLiM 1814 DeLiM pl DeLiM 1975
+ Processor Technology DeLiM /rows/processor-technology.html DeLiM true DeLiM 1846 DeLiM pl DeLiM 1975
+ Gist DeLiM /rows/gist.html DeLiM true DeLiM 1887 DeLiM pl DeLiM 1977
+ DATABUS DeLiM /rows/databus.html DeLiM true DeLiM 1902 DeLiM pl DeLiM 1972
+ DAP FORTRAN DeLiM /rows/dap-fortran.html DeLiM true DeLiM 1916 DeLiM pl DeLiM 1975
+ Data Communications ALGOL DeLiM /rows/dcalgol.html DeLiM true DeLiM 1922 DeLiM pl DeLiM 1970
+ Euclid DeLiM /rows/euclid.html DeLiM true DeLiM 1933 DeLiM pl DeLiM 1970
+ PL/P DeLiM /rows/pl-p.html DeLiM true DeLiM 1936 DeLiM pl DeLiM 1978
+ DDA DeLiM /rows/dda.html DeLiM true DeLiM 1938 DeLiM pl DeLiM 1979
+ OBJ DeLiM /rows/obj.html DeLiM true DeLiM 1958 DeLiM pl DeLiM 1976
+ MLAB DeLiM /rows/mlab.html DeLiM true DeLiM 1969 DeLiM pl DeLiM 1975
+ XPL0 DeLiM /rows/xpl0.html DeLiM true DeLiM 1993 DeLiM pl DeLiM 1976
+ 2-pak DeLiM /rows/2-pak.html DeLiM true DeLiM 2006 DeLiM pl DeLiM 1975
+ PL/C DeLiM /rows/pl-c.html DeLiM true DeLiM 2013 DeLiM pl DeLiM 1973
+ De Bruijn index DeLiM /rows/de-bruijn-index-notation.html DeLiM true DeLiM 2018 DeLiM notation DeLiM 1972
+ MAI Basic Four DeLiM /rows/mai-basic-four.html DeLiM true DeLiM 2032 DeLiM pl DeLiM 1974
+ ABC 80 DeLiM /rows/abc-80.html DeLiM true DeLiM 2066 DeLiM pl DeLiM 1978
+ Irvine Dataflow DeLiM /rows/id.html DeLiM true DeLiM 2072 DeLiM pl DeLiM 1975
+ ALGOL 68-R DeLiM /rows/algol-68-r.html DeLiM true DeLiM 2074 DeLiM pl DeLiM 1970
+ Augment DeLiM /rows/augment.html DeLiM true DeLiM 2135 DeLiM pl DeLiM 1974
+ MACRO-11 DeLiM /rows/macro-11.html DeLiM true DeLiM 2160 DeLiM pl DeLiM 1974
+ Nord Programming Language DeLiM /rows/nord.html DeLiM true DeLiM 2166 DeLiM pl DeLiM 1974
+ Mortran DeLiM /rows/mortran.html DeLiM true DeLiM 2192 DeLiM pl DeLiM 1973
+ EXEC 2 DeLiM /rows/exec-2.html DeLiM true DeLiM 2193 DeLiM pl DeLiM 1970
+ SP/k DeLiM /rows/sp-k.html DeLiM true DeLiM 2198 DeLiM pl DeLiM 1974
+ Apple BASIC DeLiM /rows/apple-basic.html DeLiM true DeLiM 2216 DeLiM pl DeLiM 1978
+ Refer DeLiM /rows/refer.html DeLiM true DeLiM 2234 DeLiM textMarkup DeLiM 1978
+ Data General Business Basic DeLiM /rows/data-general-business-basic.html DeLiM true DeLiM 2264 DeLiM pl DeLiM 1970
+ Scratchpad DeLiM /rows/scratchpad.html DeLiM true DeLiM 2275 DeLiM pl DeLiM 1971
+ Eurisko DeLiM /rows/eurisko.html DeLiM true DeLiM 2282 DeLiM pl DeLiM 1978
+ Text Executive Programming Language DeLiM /rows/text-executive-programming-language.html DeLiM true DeLiM 2299 DeLiM pl DeLiM 1979
+ Wirth syntax notation DeLiM /rows/wirth-syntax-notation.html DeLiM true DeLiM 2300 DeLiM grammarLanguage DeLiM 1977
+ BASIC09 DeLiM /rows/basic09.html DeLiM true DeLiM 2366 DeLiM pl DeLiM 1978
+ ELAN DeLiM /rows/elan.html DeLiM true DeLiM 2368 DeLiM pl DeLiM 1974
+ Cambridge Algebra System DeLiM /rows/camal.html DeLiM true DeLiM 2377 DeLiM pl DeLiM 1973
+ SPIP DeLiM /rows/spip.html DeLiM true DeLiM 2383 DeLiM pl DeLiM 1977
+ Nomad software DeLiM /rows/nomad-software.html DeLiM true DeLiM 2385 DeLiM pl DeLiM 1976
+ Jet Propulsion Laboratory Display Information System DeLiM /rows/jet-propulsion-laboratory-display-information-system.html DeLiM true DeLiM 2430 DeLiM pl DeLiM 1973
+ Protel DeLiM /rows/protel.html DeLiM true DeLiM 2447 DeLiM pl DeLiM 1975
+ SPITBOL DeLiM /rows/spitbol.html DeLiM true DeLiM 2454 DeLiM pl DeLiM 1971
+ CGOL DeLiM /rows/cgol.html DeLiM true DeLiM 2476 DeLiM pl DeLiM 1973
+ Little Implementation Language DeLiM /rows/lil.html DeLiM true DeLiM 2479 DeLiM pl DeLiM 1974
+ Daplex DeLiM /rows/daplex.html DeLiM true DeLiM 2483 DeLiM pl DeLiM 1979
+ Blue DeLiM /rows/blue-programming-language.html DeLiM true DeLiM 2495 DeLiM pl DeLiM 1977
+ EFL DeLiM /rows/efl.html DeLiM true DeLiM 2519 DeLiM pl DeLiM 1979
+ Rexon DeLiM /rows/rexon.html DeLiM true DeLiM 2528 DeLiM pl DeLiM 1978
+ SYMPL DeLiM /rows/sympl.html DeLiM true DeLiM 2531 DeLiM pl DeLiM 1970
+ AlphaBasic DeLiM /rows/alphabasic.html DeLiM true DeLiM 2536 DeLiM pl DeLiM 1976
+ BASIC-11 DeLiM /rows/basic-11.html DeLiM true DeLiM 2537 DeLiM pl DeLiM 1976
+ PROIV DeLiM /rows/proiv.html DeLiM true DeLiM 2542 DeLiM pl DeLiM 1976
+ DEMOS DeLiM /rows/demos.html DeLiM true DeLiM 2545 DeLiM pl DeLiM 1978
+ SAM76 DeLiM /rows/sam76.html DeLiM true DeLiM 2559 DeLiM pl DeLiM 1970
+ Digital Interactive Business Oriented Language DeLiM /rows/dibol.html DeLiM true DeLiM 2566 DeLiM pl DeLiM 1970
+ BASIC-E DeLiM /rows/basic-e.html DeLiM true DeLiM 2570 DeLiM pl DeLiM 1976
+ SASL DeLiM /rows/sasl-programming-language.html DeLiM true DeLiM 2582 DeLiM pl DeLiM 1972
+ Langage Sans Espoir DeLiM /rows/lse.html DeLiM true DeLiM 2591 DeLiM pl DeLiM 1971
+ Typographical Number Theory DeLiM /rows/typographical-number-theory.html DeLiM true DeLiM 2643 DeLiM notation DeLiM 1979
+ Alpha DeLiM /rows/alpha-programming-language.html DeLiM true DeLiM 2646 DeLiM pl DeLiM 1971
+ Secure Operations Language DeLiM /rows/secure-operations-language.html DeLiM true DeLiM 2649 DeLiM pl DeLiM 1970
+ FLACC DeLiM /rows/flacc.html DeLiM true DeLiM 2658 DeLiM pl DeLiM 1977
+ NPL DeLiM /rows/npl-lang.html DeLiM true DeLiM 2665 DeLiM pl DeLiM 1977
+ IFPS DeLiM /rows/ifps.html DeLiM true DeLiM 2667 DeLiM pl DeLiM 1970
+ Snowball DeLiM /rows/snowball-programming-language.html DeLiM true DeLiM 2673 DeLiM pl DeLiM 1971
+ NorthStar BASIC DeLiM /rows/northstar-basic.html DeLiM true DeLiM 2694 DeLiM pl DeLiM 1977
+ Alphard DeLiM /rows/alphard-programming-language.html DeLiM true DeLiM 2702 DeLiM pl DeLiM 1974
+ Red DeLiM /rows/red-lang.html DeLiM true DeLiM 2732 DeLiM pl DeLiM 1972
+ EUMEL DeLiM /rows/eumel.html DeLiM true DeLiM 2741 DeLiM pl DeLiM 1979
+ muMath DeLiM /rows/mumath.html DeLiM true DeLiM 2744 DeLiM pl DeLiM 1978
+ Ethernet DeLiM /rows/ethernet.html DeLiM true DeLiM 2749 DeLiM protocol DeLiM 1973
+ DATATRIEVE DeLiM /rows/datatrieve.html DeLiM true DeLiM 2814 DeLiM queryLanguage DeLiM 1970
+ PL-11 DeLiM /rows/pl-11.html DeLiM true DeLiM 2816 DeLiM pl DeLiM 1971
+ ZOPL DeLiM /rows/zopl.html DeLiM true DeLiM 2818 DeLiM pl DeLiM 1979
+ PLAIN DeLiM /rows/plain.html DeLiM true DeLiM 2848 DeLiM pl DeLiM 1976
+ ssl-lang DeLiM /rows/ssl-lang.html DeLiM true DeLiM 2851 DeLiM pl DeLiM 1976
+ TACPOL DeLiM /rows/tacpol-programming-language.html DeLiM true DeLiM 2858 DeLiM pl DeLiM 1976
+ Robic DeLiM /rows/robic.html DeLiM true DeLiM 2869 DeLiM pl DeLiM 1975
+ ThingLab DeLiM /rows/thinglab.html DeLiM true DeLiM 2870 DeLiM pl DeLiM 1979
+ Business application language DeLiM /rows/business-application-language.html DeLiM true DeLiM 2877 DeLiM pl DeLiM 1974
+ ed script DeLiM /rows/edscript.html DeLiM true DeLiM 2880 DeLiM diffFormat DeLiM 1973
+ Newton DeLiM /rows/newton.html DeLiM true DeLiM 2912 DeLiM pl DeLiM 1977
+ alfred DeLiM /rows/alfred.html DeLiM true DeLiM 2935 DeLiM pl DeLiM 1972
+ ALOHAnet DeLiM /rows/alohanet.html DeLiM true DeLiM 2964 DeLiM protocol DeLiM 1971
+ Ingres database DeLiM /rows/ingres.html DeLiM true DeLiM 2986 DeLiM database DeLiM 1974
+ nroff DeLiM /rows/nroff.html DeLiM true DeLiM 3010 DeLiM textMarkup DeLiM 1972
+ eqn DeLiM /rows/eqn.html DeLiM true DeLiM 3028 DeLiM textMarkup DeLiM 1974
+ Programming Language for the University of Maryland DeLiM /rows/plum.html DeLiM true DeLiM 3054 DeLiM pl DeLiM 1978
+ CLASS DeLiM /rows/class.html DeLiM true DeLiM 3072 DeLiM pl DeLiM 1970
+ GRIN DeLiM /rows/grin.html DeLiM true DeLiM 3076 DeLiM pl DeLiM 1977
+ SBA DeLiM /rows/sba.html DeLiM true DeLiM 3083 DeLiM pl DeLiM 1977
+ sh DeLiM /rows/sh.html DeLiM true DeLiM 3085 DeLiM pl DeLiM 1971
+ Escapade DeLiM /rows/escapade-programming-language.html DeLiM true DeLiM 3117 DeLiM pl DeLiM 1977
+ Portal langage DeLiM /rows/portal-langage.html DeLiM true DeLiM 3126 DeLiM pl DeLiM 1978
+ EQS DeLiM /rows/eqs.html DeLiM true DeLiM 3157 DeLiM pl DeLiM 1978
+ ABEL DeLiM /rows/abel.html DeLiM true DeLiM 3200 DeLiM pl DeLiM 1979
+ SCROLL DeLiM /rows/scroll-lang.html DeLiM true DeLiM 3215 DeLiM pl DeLiM 1970
+ COPE DeLiM /rows/cope.html DeLiM true DeLiM 3496 DeLiM pl DeLiM 1977
+ SHEEP DeLiM /rows/sheep.html DeLiM true DeLiM 3510 DeLiM pl DeLiM 1978
+ FORTRAN 77 DeLiM /rows/fortran-77.html DeLiM true DeLiM 3525 DeLiM pl DeLiM 1977
+ ETC DeLiM /rows/etc.html DeLiM true DeLiM 3534 DeLiM pl DeLiM 1971
+ GLOSS DeLiM /rows/gloss.html DeLiM true DeLiM 3538 DeLiM pl DeLiM 1971
+ LESK DeLiM /rows/lesk.html DeLiM true DeLiM 3542 DeLiM pl DeLiM 1975
+ MADCAP VI DeLiM /rows/madcap-vi.html DeLiM true DeLiM 3545 DeLiM pl DeLiM 1972
+ PLAN2D DeLiM /rows/plan2d.html DeLiM true DeLiM 3549 DeLiM pl DeLiM 1976
+ RLISP DeLiM /rows/rlisp.html DeLiM true DeLiM 3552 DeLiM pl DeLiM 1970
+ EXPLOR DeLiM /rows/explor.html DeLiM true DeLiM 3573 DeLiM pl DeLiM 1972
+ Lorel DeLiM /rows/lorel-1.html DeLiM true DeLiM 3585 DeLiM pl DeLiM 1974
+ MSL DeLiM /rows/msl.html DeLiM true DeLiM 3588 DeLiM pl DeLiM 1977
+ NODAL DeLiM /rows/nodal.html DeLiM true DeLiM 3590 DeLiM pl DeLiM 1972
+ RATSNO DeLiM /rows/ratsno.html DeLiM true DeLiM 3599 DeLiM pl DeLiM 1977
+ REGULUS DeLiM /rows/regulus.html DeLiM true DeLiM 3605 DeLiM pl DeLiM 1977
+ Rosetta SMALLTALK DeLiM /rows/rosetta-smalltalk.html DeLiM true DeLiM 3608 DeLiM pl DeLiM 1979
+ S-Snobol DeLiM /rows/s-snobol.html DeLiM true DeLiM 3609 DeLiM pl DeLiM 1978
+ ARTSPEAK DeLiM /rows/artspeak.html DeLiM true DeLiM 3625 DeLiM pl DeLiM 1974
+ ASPOL DeLiM /rows/aspol.html DeLiM true DeLiM 3627 DeLiM pl DeLiM 1973
+ CAJOLE DeLiM /rows/cajole.html DeLiM true DeLiM 3652 DeLiM pl DeLiM 1978
+ CLEAR DeLiM /rows/clear.html DeLiM true DeLiM 3657 DeLiM pl DeLiM 1976
+ COMSKEE DeLiM /rows/comskee.html DeLiM true DeLiM 3662 DeLiM pl DeLiM 1973
+ CONSIM DeLiM /rows/consim.html DeLiM true DeLiM 3667 DeLiM pl DeLiM 1977
+ CONSTRAINTS DeLiM /rows/constraints.html DeLiM true DeLiM 3668 DeLiM pl DeLiM 1978
+ CUPID DeLiM /rows/cupid.html DeLiM true DeLiM 3672 DeLiM pl DeLiM 1975
+ DAMN DeLiM /rows/damn.html DeLiM true DeLiM 3673 DeLiM pl DeLiM 1970
+ DEL DeLiM /rows/del.html DeLiM true DeLiM 3676 DeLiM pl DeLiM 1971
+ DIET DeLiM /rows/diet.html DeLiM true DeLiM 3681 DeLiM pl DeLiM 1975
+ EXEL DeLiM /rows/exel.html DeLiM true DeLiM 3694 DeLiM pl DeLiM 1973
+ GERMINAL DeLiM /rows/germinal.html DeLiM true DeLiM 3708 DeLiM pl DeLiM 1974
+ GOSPEL DeLiM /rows/gospel.html DeLiM true DeLiM 3712 DeLiM pl DeLiM 1977
+ Grapheasy DeLiM /rows/grapheasy.html DeLiM true DeLiM 3715 DeLiM pl DeLiM 1975
+ GROOVE DeLiM /rows/groove.html DeLiM true DeLiM 3717 DeLiM pl DeLiM 1970
+ HARVEY DeLiM /rows/harvey.html DeLiM true DeLiM 3719 DeLiM pl DeLiM 1972
+ HyCom DeLiM /rows/hycom.html DeLiM true DeLiM 3726 DeLiM pl DeLiM 1975
+ IMAGE DeLiM /rows/image.html DeLiM true DeLiM 3731 DeLiM pl DeLiM 1975
+ KATE DeLiM /rows/kate.html DeLiM true DeLiM 3745 DeLiM pl DeLiM 1979
+ LOGAL DeLiM /rows/logal.html DeLiM true DeLiM 3761 DeLiM pl DeLiM 1977
+ MARSYAS DeLiM /rows/marsyas.html DeLiM true DeLiM 3775 DeLiM pl DeLiM 1970
+ META/PLUS DeLiM /rows/meta-plus.html DeLiM true DeLiM 3778 DeLiM pl DeLiM 1971
+ MPSX DeLiM /rows/mpsx.html DeLiM true DeLiM 3784 DeLiM pl DeLiM 1978
+ OLIVER DeLiM /rows/oliver.html DeLiM true DeLiM 3798 DeLiM pl DeLiM 1976
+ One-man-language DeLiM /rows/one-man-language.html DeLiM true DeLiM 3801 DeLiM pl DeLiM 1977
+ Pascal-S DeLiM /rows/pascal-s.html DeLiM true DeLiM 3812 DeLiM pl DeLiM 1975
+ PIN DeLiM /rows/pin.html DeLiM true DeLiM 3816 DeLiM pl DeLiM 1975
+ PIXIN DeLiM /rows/pixin.html DeLiM true DeLiM 3818 DeLiM pl DeLiM 1974
+ PL4 DeLiM /rows/pl4.html DeLiM true DeLiM 3821 DeLiM pl DeLiM 1974
+ PROPHET DeLiM /rows/prophet.html DeLiM true DeLiM 3827 DeLiM pl DeLiM 1974
+ QAS DeLiM /rows/qas.html DeLiM true DeLiM 3833 DeLiM pl DeLiM 1978
+ QUADRIL DeLiM /rows/quadril.html DeLiM true DeLiM 3834 DeLiM pl DeLiM 1976
+ QUILT DeLiM /rows/quilt.html DeLiM true DeLiM 3837 DeLiM pl DeLiM 1970
+ REL English DeLiM /rows/rel-english.html DeLiM true DeLiM 3844 DeLiM pl DeLiM 1975
+ ROSCOE DeLiM /rows/roscoe.html DeLiM true DeLiM 3849 DeLiM pl DeLiM 1979
+ RUSSELL DeLiM /rows/russell.html DeLiM true DeLiM 3851 DeLiM pl DeLiM 1970
+ SA DeLiM /rows/sa.html DeLiM true DeLiM 3853 DeLiM pl DeLiM 1977
+ SEARCH DeLiM /rows/search.html DeLiM true DeLiM 3859 DeLiM pl DeLiM 1973
+ SIGMA 76 DeLiM /rows/sigma-76.html DeLiM true DeLiM 3863 DeLiM pl DeLiM 1976
+ ALGOL 68-RT DeLiM /rows/algol-68-rt.html DeLiM true DeLiM 3905 DeLiM pl DeLiM 1979
+ ARTA DeLiM /rows/arta.html DeLiM true DeLiM 3916 DeLiM pl DeLiM 1970
+ ConCurr DeLiM /rows/concurr.html DeLiM true DeLiM 3925 DeLiM pl DeLiM 1979
+ Oracle DeLiM /rows/oracle.html DeLiM true DeLiM 3953 DeLiM database DeLiM 1979
+ IBM Programming Language/Advanced Systems DeLiM /rows/pl-as.html DeLiM true DeLiM 3958 DeLiM pl DeLiM 1976
+ SLPL DeLiM /rows/slpl.html DeLiM true DeLiM 3962 DeLiM pl DeLiM 1976
+ Smalltalk-76 DeLiM /rows/smalltalk-76.html DeLiM true DeLiM 3966 DeLiM pl DeLiM 1976
+ SNOBAT DeLiM /rows/snobat.html DeLiM true DeLiM 3970 DeLiM pl DeLiM 1976
+ SOLMAR DeLiM /rows/solmar.html DeLiM true DeLiM 3972 DeLiM pl DeLiM 1978
+ SPECL DeLiM /rows/specl.html DeLiM true DeLiM 3974 DeLiM pl DeLiM 1973
+ SPIL DeLiM /rows/spil.html DeLiM true DeLiM 3976 DeLiM pl DeLiM 1973
+ STAGE2 DeLiM /rows/stage2.html DeLiM true DeLiM 3982 DeLiM pl DeLiM 1970
+ Standard Lisp DeLiM /rows/standard-lisp.html DeLiM true DeLiM 3983 DeLiM pl DeLiM 1979
+ STAPLE DeLiM /rows/staple.html DeLiM true DeLiM 3984 DeLiM pl DeLiM 1975
+ STRCMACS DeLiM /rows/strcmacs.html DeLiM true DeLiM 3988 DeLiM pl DeLiM 1977
+ STREMA DeLiM /rows/strema.html DeLiM true DeLiM 3989 DeLiM pl DeLiM 1976
+ SYNPROC DeLiM /rows/synproc.html DeLiM true DeLiM 3994 DeLiM pl DeLiM 1970
+ TDMS DeLiM /rows/tdms.html DeLiM true DeLiM 4006 DeLiM pl DeLiM 1970
+ Teradata DeLiM /rows/teradata.html DeLiM true DeLiM 4012 DeLiM database DeLiM 1979
+ TICS DeLiM /rows/tics.html DeLiM true DeLiM 4016 DeLiM pl DeLiM 1973
+ UMTA DeLiM /rows/umta.html DeLiM true DeLiM 4041 DeLiM pl DeLiM 1974
+ UNRAVEL DeLiM /rows/unravel.html DeLiM true DeLiM 4044 DeLiM pl DeLiM 1973
+ Utopia 84 DeLiM /rows/utopia-84.html DeLiM true DeLiM 4046 DeLiM pl DeLiM 1979
+ VARLIST DeLiM /rows/varlist.html DeLiM true DeLiM 4049 DeLiM pl DeLiM 1975
+ VIPTRAN DeLiM /rows/viptran.html DeLiM true DeLiM 4053 DeLiM pl DeLiM 1973
+ WYLBUR DeLiM /rows/wylbur.html DeLiM true DeLiM 4067 DeLiM pl DeLiM 1973
+ XSIM DeLiM /rows/xsim.html DeLiM true DeLiM 4075 DeLiM pl DeLiM 1977
+ ZGRASS DeLiM /rows/zgrass.html DeLiM true DeLiM 4079 DeLiM pl DeLiM 1978
+ 1.pak DeLiM /rows/1-pak.html DeLiM true DeLiM 4080 DeLiM pl DeLiM 1973
+ 3RIP DeLiM /rows/3rip.html DeLiM true DeLiM 4084 DeLiM pl DeLiM 1977
+ ABAL DeLiM /rows/abal.html DeLiM true DeLiM 4085 DeLiM pl DeLiM 1974
+ Abstracto DeLiM /rows/abstracto.html DeLiM true DeLiM 4089 DeLiM pl DeLiM 1979
+ ACL DeLiM /rows/acl.html DeLiM true DeLiM 4091 DeLiM pl DeLiM 1972
+ ACSL DeLiM /rows/acsl.html DeLiM true DeLiM 4095 DeLiM pl DeLiM 1979
+ Actus DeLiM /rows/actus.html DeLiM true DeLiM 4100 DeLiM pl DeLiM 1979
+ AEPL DeLiM /rows/aepl.html DeLiM true DeLiM 4109 DeLiM pl DeLiM 1971
+ AGL DeLiM /rows/agl.html DeLiM true DeLiM 4112 DeLiM pl DeLiM 1975
+ ALADIN DeLiM /rows/aladin.html DeLiM true DeLiM 4115 DeLiM pl DeLiM 1971
+ ALGOL-E DeLiM /rows/algol-e.html DeLiM true DeLiM 4124 DeLiM pl DeLiM 1972
+ AMBIT/L DeLiM /rows/ambit-l.html DeLiM true DeLiM 4133 DeLiM pl DeLiM 1970
+ CONA DeLiM /rows/cona.html DeLiM true DeLiM 4147 DeLiM pl DeLiM 1977
+ english-programming-language DeLiM /rows/english-programming-language.html DeLiM true DeLiM 4157 DeLiM pl DeLiM 1973
+ EXTRAN DeLiM /rows/extran.html DeLiM true DeLiM 4159 DeLiM pl DeLiM 1978
+ filetab-d DeLiM /rows/filetab-d.html DeLiM true DeLiM 4160 DeLiM pl DeLiM 1978
+ ibm-system-38-language DeLiM /rows/ibm-system-38-language.html DeLiM true DeLiM 4170 DeLiM pl DeLiM 1978
+ microPLANNER DeLiM /rows/microplanner.html DeLiM true DeLiM 4180 DeLiM pl DeLiM 1970
+ NJCL DeLiM /rows/njcl.html DeLiM true DeLiM 4184 DeLiM pl DeLiM 1974
+ Navigational User's Language DeLiM /rows/nul-lang.html DeLiM true DeLiM 4185 DeLiM pl DeLiM 1976
+ OMNITAB II DeLiM /rows/omnitab-ii.html DeLiM true DeLiM 4186 DeLiM pl DeLiM 1970
+ PL/S-II DeLiM /rows/pl-s-ii.html DeLiM true DeLiM 4192 DeLiM pl DeLiM 1974
+ Pygmalion DeLiM /rows/pygmalion.html DeLiM true DeLiM 4197 DeLiM visual DeLiM 1974
+ SQUARE DeLiM /rows/square.html DeLiM true DeLiM 4217 DeLiM pl DeLiM 1975
+ Sue DeLiM /rows/sue.html DeLiM true DeLiM 4221 DeLiM pl DeLiM 1971
+ SUPERMAC DeLiM /rows/supermac.html DeLiM true DeLiM 4224 DeLiM pl DeLiM 1979
+ SYMBAL DeLiM /rows/symbal.html DeLiM true DeLiM 4226 DeLiM pl DeLiM 1972
+ SYNTEX DeLiM /rows/syntex.html DeLiM true DeLiM 4228 DeLiM pl DeLiM 1972
+ TACTICS DeLiM /rows/tactics.html DeLiM true DeLiM 4229 DeLiM pl DeLiM 1972
+ TOMAL DeLiM /rows/tomal.html DeLiM true DeLiM 4234 DeLiM pl DeLiM 1975
+ TRANSLANG DeLiM /rows/translang.html DeLiM true DeLiM 4237 DeLiM pl DeLiM 1970
+ TWO-D DeLiM /rows/two-d.html DeLiM true DeLiM 4241 DeLiM pl DeLiM 1971
+ Zed DeLiM /rows/zed.html DeLiM true DeLiM 4250 DeLiM pl DeLiM 1978
+ ABC ALGOL DeLiM /rows/abc-algol.html DeLiM true DeLiM 4254 DeLiM pl DeLiM 1973
+ Actors DeLiM /rows/actors.html DeLiM true DeLiM 4255 DeLiM pl DeLiM 1971
+ AIDS DeLiM /rows/aids.html DeLiM true DeLiM 4259 DeLiM pl DeLiM 1970
+ ALDES DeLiM /rows/aldes.html DeLiM true DeLiM 4260 DeLiM pl DeLiM 1976
+ AMBUSH DeLiM /rows/ambush.html DeLiM true DeLiM 4264 DeLiM pl DeLiM 1971
+ ANS MUMPS DeLiM /rows/ans-mumps.html DeLiM true DeLiM 4270 DeLiM pl DeLiM 1977
+ APL/Z80 DeLiM /rows/apl-z80.html DeLiM true DeLiM 4274 DeLiM pl DeLiM 1979
+ APLGOL-2 DeLiM /rows/aplgol-2.html DeLiM true DeLiM 4275 DeLiM pl DeLiM 1973
+ APLGOL DeLiM /rows/aplgol.html DeLiM true DeLiM 4276 DeLiM pl DeLiM 1972
+ AQL DeLiM /rows/aql.html DeLiM true DeLiM 4281 DeLiM pl DeLiM 1977
+ ASPEN DeLiM /rows/aspen.html DeLiM true DeLiM 4289 DeLiM pl DeLiM 1977
+ associons DeLiM /rows/associons.html DeLiM true DeLiM 4290 DeLiM pl DeLiM 1972
+ ATOL DeLiM /rows/atol.html DeLiM true DeLiM 4293 DeLiM pl DeLiM 1979
+ AUTASIM DeLiM /rows/autasim.html DeLiM true DeLiM 4294 DeLiM pl DeLiM 1974
+ AUTOGRP DeLiM /rows/autogrp.html DeLiM true DeLiM 4296 DeLiM pl DeLiM 1972
+ B4Tran DeLiM /rows/b4tran.html DeLiM true DeLiM 4299 DeLiM pl DeLiM 1975
+ BALG DeLiM /rows/balg.html DeLiM true DeLiM 4300 DeLiM pl DeLiM 1975
+ BASIL DeLiM /rows/basil.html DeLiM true DeLiM 4306 DeLiM pl DeLiM 1979
+ BEDSOCS DeLiM /rows/bedsocs.html DeLiM true DeLiM 4309 DeLiM pl DeLiM 1973
+ BGRAF2 DeLiM /rows/bgraf2.html DeLiM true DeLiM 4312 DeLiM pl DeLiM 1975
+ BIOMOD DeLiM /rows/biomod.html DeLiM true DeLiM 4315 DeLiM pl DeLiM 1970
+ BIOSSIM DeLiM /rows/biossim.html DeLiM true DeLiM 4316 DeLiM pl DeLiM 1978
+ BPL DeLiM /rows/bpl.html DeLiM true DeLiM 4326 DeLiM pl DeLiM 1978
+ C Header Files DeLiM /rows/c-headers.html DeLiM true DeLiM 4334 DeLiM headerLang DeLiM 1972
+ cado-systems-technical-information DeLiM /rows/cado-systems-technical-information.html DeLiM true DeLiM 4337 DeLiM pl DeLiM 1973
+ CAGES DeLiM /rows/cages.html DeLiM true DeLiM 4338 DeLiM pl DeLiM 1973
+ CAISYS DeLiM /rows/caisys.html DeLiM true DeLiM 4339 DeLiM pl DeLiM 1973
+ CAMAC DeLiM /rows/camac.html DeLiM true DeLiM 4340 DeLiM pl DeLiM 1979
+ CAMIL DeLiM /rows/camil.html DeLiM true DeLiM 4341 DeLiM pl DeLiM 1978
+ CAYLEY DeLiM /rows/cayley.html DeLiM true DeLiM 4347 DeLiM pl DeLiM 1975
+ CELLSIM DeLiM /rows/cellsim.html DeLiM true DeLiM 4351 DeLiM pl DeLiM 1973
+ CIMS PL/I DeLiM /rows/cims-pl-i.html DeLiM true DeLiM 4362 DeLiM pl DeLiM 1970
+ CLEOPATRA DeLiM /rows/cleopatra.html DeLiM true DeLiM 4368 DeLiM pl DeLiM 1973
+ CODIL DeLiM /rows/codil.html DeLiM true DeLiM 4373 DeLiM pl DeLiM 1970
+ COMSL DeLiM /rows/comsl.html DeLiM true DeLiM 4379 DeLiM pl DeLiM 1970
+ Concurrent Pascal DeLiM /rows/concurrent-pascal.html DeLiM true DeLiM 4383 DeLiM pl DeLiM 1972
+ CONNIVER DeLiM /rows/conniver.html DeLiM true DeLiM 4386 DeLiM pl DeLiM 1973
+ CSSA DeLiM /rows/cssa.html DeLiM true DeLiM 4400 DeLiM pl DeLiM 1979
+ CypherText DeLiM /rows/cyphertext.html DeLiM true DeLiM 4404 DeLiM pl DeLiM 1970
+ DIGRAF DeLiM /rows/digraf.html DeLiM true DeLiM 4421 DeLiM pl DeLiM 1977
+ Distributed Processes DeLiM /rows/distributed-processes.html DeLiM true DeLiM 4423 DeLiM pl DeLiM 1978
+ DMAP DeLiM /rows/dmap.html DeLiM true DeLiM 4427 DeLiM pl DeLiM 1975
+ DOLPHIN DeLiM /rows/dolphin.html DeLiM true DeLiM 4429 DeLiM pl DeLiM 1970
+ ECT DeLiM /rows/ect.html DeLiM true DeLiM 4440 DeLiM pl DeLiM 1971
+ Edinburgh LCF DeLiM /rows/edinburgh-lcf.html DeLiM true DeLiM 4441 DeLiM pl DeLiM 1979
+ EDSIM DeLiM /rows/edsim.html DeLiM true DeLiM 4443 DeLiM pl DeLiM 1977
+ EL1 DeLiM /rows/el1.html DeLiM true DeLiM 4446 DeLiM pl DeLiM 1970
+ ELMOL DeLiM /rows/elmol.html DeLiM true DeLiM 4448 DeLiM pl DeLiM 1970
+ Etude DeLiM /rows/etude.html DeLiM true DeLiM 4455 DeLiM pl DeLiM 1979
+ FCPU DeLiM /rows/fcpu.html DeLiM true DeLiM 4458 DeLiM pl DeLiM 1970
+ FORAL LP DeLiM /rows/foral-lp.html DeLiM true DeLiM 4464 DeLiM pl DeLiM 1978
+ FORAL DeLiM /rows/foral.html DeLiM true DeLiM 4465 DeLiM pl DeLiM 1975
+ GLIDE DeLiM /rows/glide.html DeLiM true DeLiM 4490 DeLiM pl DeLiM 1977
+ GPDS DeLiM /rows/gpds.html DeLiM true DeLiM 4493 DeLiM pl DeLiM 1970
+ GPGS DeLiM /rows/gpgs.html DeLiM true DeLiM 4494 DeLiM pl DeLiM 1977
+ GPSS FORTRAN DeLiM /rows/gpss-fortran.html DeLiM true DeLiM 4496 DeLiM pl DeLiM 1976
+ GRAPHOS DeLiM /rows/graphos.html DeLiM true DeLiM 4500 DeLiM pl DeLiM 1972
+ Gypsy DeLiM /rows/gypsy.html DeLiM true DeLiM 4506 DeLiM pl DeLiM 1976
+ HYPAC DeLiM /rows/hypac.html DeLiM true DeLiM 4521 DeLiM pl DeLiM 1970
+ Hyperlisp DeLiM /rows/hyperlisp.html DeLiM true DeLiM 4523 DeLiM pl DeLiM 1971
+ IMP72 DeLiM /rows/imp72.html DeLiM true DeLiM 4532 DeLiM pl DeLiM 1972
+ INTERCELLAS DeLiM /rows/intercellas.html DeLiM true DeLiM 4536 DeLiM pl DeLiM 1977
+ IQF DeLiM /rows/iqf.html DeLiM true DeLiM 4540 DeLiM pl DeLiM 1975
+ ISPL DeLiM /rows/ispl.html DeLiM true DeLiM 4544 DeLiM pl DeLiM 1971
+ KAIL DeLiM /rows/kail.html DeLiM true DeLiM 4554 DeLiM pl DeLiM 1976
+ KL-ONE DeLiM /rows/kl-one.html DeLiM true DeLiM 4564 DeLiM pl DeLiM 1977
+ KRL-0 DeLiM /rows/krl-0.html DeLiM true DeLiM 4566 DeLiM pl DeLiM 1977
+ LABTRAN DeLiM /rows/labtran.html DeLiM true DeLiM 4571 DeLiM pl DeLiM 1972
+ LCF DeLiM /rows/lcf.html DeLiM true DeLiM 4574 DeLiM pl DeLiM 1972
+ LEGOL DeLiM /rows/legol.html DeLiM true DeLiM 4577 DeLiM pl DeLiM 1974
+ LPL DeLiM /rows/lpl.html DeLiM true DeLiM 4594 DeLiM pl DeLiM 1973
+ Macro SPITBOL DeLiM /rows/macro-spitbol.html DeLiM true DeLiM 4601 DeLiM pl DeLiM 1971
+ MALUS DeLiM /rows/malus.html DeLiM true DeLiM 4604 DeLiM pl DeLiM 1970
+ Meta-Assembler DeLiM /rows/meta-assembler.html DeLiM true DeLiM 4618 DeLiM assembly DeLiM 1977
+ META/LISP DeLiM /rows/meta-lisp.html DeLiM true DeLiM 4619 DeLiM pl DeLiM 1970
+ METASIM DeLiM /rows/metasim.html DeLiM true DeLiM 4622 DeLiM pl DeLiM 1973
+ MICRODARE DeLiM /rows/microdare.html DeLiM true DeLiM 4625 DeLiM pl DeLiM 1979
+ MINIVITAL DeLiM /rows/minivital.html DeLiM true DeLiM 4630 DeLiM pl DeLiM 1974
+ MIRAGER DeLiM /rows/mirager.html DeLiM true DeLiM 4632 DeLiM pl DeLiM 1971
+ Mizar DeLiM /rows/mizar.html DeLiM true DeLiM 4635 DeLiM pl DeLiM 1973
+ MLISP2 DeLiM /rows/mlisp2.html DeLiM true DeLiM 4636 DeLiM pl DeLiM 1972
+ MODCAP DeLiM /rows/modcap.html DeLiM true DeLiM 4639 DeLiM pl DeLiM 1978
+ MOUSE4 DeLiM /rows/mouse4.html DeLiM true DeLiM 4647 DeLiM pl DeLiM 1978
+ MPGS DeLiM /rows/mpgs.html DeLiM true DeLiM 4649 DeLiM pl DeLiM 1972
+ MRDB DeLiM /rows/mrdb.html DeLiM true DeLiM 4650 DeLiM pl DeLiM 1976
+ MUMS DeLiM /rows/mums.html DeLiM true DeLiM 4656 DeLiM pl DeLiM 1976
+ MuSimp DeLiM /rows/musimp.html DeLiM true DeLiM 4658 DeLiM pl DeLiM 1978
+ Nassi-Shneiderman charts DeLiM /rows/nassi-shneiderman-charts.html DeLiM true DeLiM 4662 DeLiM pl DeLiM 1972
+ Netform DeLiM /rows/netform.html DeLiM true DeLiM 4667 DeLiM pl DeLiM 1974
+ Network Control Language DeLiM /rows/network-control-language.html DeLiM true DeLiM 4668 DeLiM pl DeLiM 1978
+ OPS DeLiM /rows/ops.html DeLiM true DeLiM 4694 DeLiM pl DeLiM 1970
+ OSIRIS DeLiM /rows/osiris.html DeLiM true DeLiM 4697 DeLiM pl DeLiM 1970
+ OSL/2 DeLiM /rows/osl-2.html DeLiM true DeLiM 4698 DeLiM pl DeLiM 1970
+ PACOL DeLiM /rows/pacol.html DeLiM true DeLiM 4705 DeLiM pl DeLiM 1974
+ PADL-1 DeLiM /rows/padl-1.html DeLiM true DeLiM 4706 DeLiM pl DeLiM 1978
+ Pascal Plus DeLiM /rows/pascal-plus.html DeLiM true DeLiM 4716 DeLiM pl DeLiM 1979
+ Path Pascal DeLiM /rows/path-pascal.html DeLiM true DeLiM 4720 DeLiM pl DeLiM 1978
+ PDL DeLiM /rows/pdl.html DeLiM true DeLiM 4726 DeLiM pl DeLiM 1973
+ PFORT DeLiM /rows/pfort.html DeLiM true DeLiM 4730 DeLiM pl DeLiM 1975
+ PHYSICTRAN DeLiM /rows/physictran.html DeLiM true DeLiM 4733 DeLiM pl DeLiM 1971
+ PICTOL DeLiM /rows/pictol.html DeLiM true DeLiM 4735 DeLiM pl DeLiM 1975
+ PL/EXUS DeLiM /rows/pl-exus.html DeLiM true DeLiM 4738 DeLiM pl DeLiM 1973
+ PLANNER-73 DeLiM /rows/planner-73.html DeLiM true DeLiM 4740 DeLiM pl DeLiM 1973
+ POGOL DeLiM /rows/pogol.html DeLiM true DeLiM 4743 DeLiM pl DeLiM 1973
+ POLAC DeLiM /rows/polac.html DeLiM true DeLiM 4744 DeLiM pl DeLiM 1975
+ PORT-ALG DeLiM /rows/port-alg.html DeLiM true DeLiM 4749 DeLiM pl DeLiM 1973
+ Principle of sufficient reason DeLiM /rows/principle-of-sufficient-reason.html DeLiM true DeLiM 4752 DeLiM pl DeLiM 1975
+ PROPLAN DeLiM /rows/proplan.html DeLiM true DeLiM 4762 DeLiM pl DeLiM 1977
+ PSL DeLiM /rows/psl.html DeLiM true DeLiM 4767 DeLiM pl DeLiM 1979
+ PUMPKIN DeLiM /rows/pumpkin.html DeLiM true DeLiM 4769 DeLiM pl DeLiM 1974
+ Q-GERT DeLiM /rows/q-gert.html DeLiM true DeLiM 4770 DeLiM pl DeLiM 1979
+ REF-ARF DeLiM /rows/ref-arf.html DeLiM true DeLiM 4778 DeLiM pl DeLiM 1970
+ REGENT DeLiM /rows/regent.html DeLiM true DeLiM 4780 DeLiM pl DeLiM 1971
+ SCALPEL DeLiM /rows/scalpel.html DeLiM true DeLiM 4798 DeLiM pl DeLiM 1971
+ SEQUEL 2 DeLiM /rows/sequel-2.html DeLiM true DeLiM 4809 DeLiM pl DeLiM 1976
+ Sequential Pascal DeLiM /rows/sequential-pascal.html DeLiM true DeLiM 4810 DeLiM pl DeLiM 1970
+ SESPOOL DeLiM /rows/sespool.html DeLiM true DeLiM 4811 DeLiM pl DeLiM 1977
+ SIML/I DeLiM /rows/siml-i.html DeLiM true DeLiM 4821 DeLiM pl DeLiM 1979
+ SIMUL DeLiM /rows/simul.html DeLiM true DeLiM 4824 DeLiM pl DeLiM 1973
+ SL5 DeLiM /rows/sl5.html DeLiM true DeLiM 4827 DeLiM pl DeLiM 1975
+ Very Tiny Language DeLiM /rows/vtl.html DeLiM true DeLiM 4836 DeLiM pl DeLiM 1976
+ xl DeLiM /rows/xl.html DeLiM true DeLiM 4839 DeLiM pl DeLiM 1977
+
+Results as JSON, CSV, TSV or Tree
+ link /search.json?q=title%20Which%20of%20today's%20top%20languages%20were%20created%20in%20the%201970's%3F%0Aselect%20isLanguage%20rank%20type%20appeared%0Awhere%20isLanguage%20oneOf%20true%0Awhere%20appeared%20%3E%201969%0Awhere%20appeared%20%3C%201980%0AsortBy%20rank%0A JSON
+ link /search.csv?q=title%20Which%20of%20today's%20top%20languages%20were%20created%20in%20the%201970's%3F%0Aselect%20isLanguage%20rank%20type%20appeared%0Awhere%20isLanguage%20oneOf%20true%0Awhere%20appeared%20%3E%201969%0Awhere%20appeared%20%3C%201980%0AsortBy%20rank%0A CSV
+ link /search.tsv?q=title%20Which%20of%20today's%20top%20languages%20were%20created%20in%20the%201970's%3F%0Aselect%20isLanguage%20rank%20type%20appeared%0Awhere%20isLanguage%20oneOf%20true%0Awhere%20appeared%20%3E%201969%0Awhere%20appeared%20%3C%201980%0AsortBy%20rank%0A TSV
+ link /search.tree?q=title%20Which%20of%20today's%20top%20languages%20were%20created%20in%20the%201970's%3F%0Aselect%20isLanguage%20rank%20type%20appeared%0Awhere%20isLanguage%20oneOf%20true%0Awhere%20appeared%20%3E%201969%0Awhere%20appeared%20%3C%201980%0AsortBy%20rank%0A Tree
+
+<script>document.addEventListener("DOMContentLoaded", () => TrueBaseBrowserApp.getApp().render().renderSearchPage())</script>
+
+import footer.scroll
