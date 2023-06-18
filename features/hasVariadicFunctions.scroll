@@ -9,24 +9,24 @@ html
  <a class="trueBaseThemePreviousItem" href="hasVariableSubstitutionSyntax.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasVirtualFunctions.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/tick-c.html">Tick C</a>:
+codeWithHeader Example from <a href="../concepts/c.html">C</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/tick-c.html">Tick C</a>:
  double average(int count, ...)
  {
   //
  }
 
-codeWithHeader Example from <a href="../rows/php.html">PHP</a>:
+codeWithHeader Example from <a href="../concepts/php.html">PHP</a>:
  function sum(...$nums)
  {
      return array_sum($nums);
  }
  echo sum(1, 2, 3); // 6
 
-codeWithHeader Example from <a href="../rows/go.html">Go</a>:
+codeWithHeader Example from <a href="../concepts/go.html">Go</a>:
  // This variadic function takes an arbitrary number of ints as arguments.
  func sum(nums ...int) {
    fmt.Print(&quot;The sum of &quot;, nums) // Also a variadic function.
@@ -37,22 +37,22 @@ codeWithHeader Example from <a href="../rows/go.html">Go</a>:
    fmt.Println(&quot; is&quot;, total) // Also a variadic function.
  }
 
-codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+codeWithHeader Example from <a href="../concepts/c3.html">C3</a>:
  fn void foo_typed(int x, int... arg) { ... }
  fn void foo_untyped(int x, ...arg) 
  ...
  foo_typed(1, 2, 3);
  foo_untyped(1, &quot;hello&quot;, 1.2);
 
-codeWithHeader Example from <a href="../rows/slope.html">Slope</a>:
+codeWithHeader Example from <a href="../concepts/slope.html">Slope</a>:
  (lambda (...) (apply + ...))
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  fn average(x: ...f64): f64 {
      // ...
  }
 
-* Languages *with* Variadic Functions include <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/php.html">PHP</a>, <a href="../rows/go.html">Go</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/slope.html">Slope</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/tick-c.html">Tick C</a>
+* Languages *with* Variadic Functions include <a href="../concepts/c.html">C</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/php.html">PHP</a>, <a href="../concepts/go.html">Go</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/slope.html">Slope</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/tick-c.html">Tick C</a>
 
 * This question asks: Does the language support functions that accept a variable number of parameters?
 

@@ -9,17 +9,17 @@ html
  <a class="trueBaseThemePreviousItem" href="hasBreak.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasCaseInsensitiveIdentifiers.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/slope.html">Slope</a>:
+codeWithHeader Example from <a href="../concepts/slope.html">Slope</a>:
  (regex-match? `[0-9]+` &quot;Hello 12345&quot;)
  (regex-replace `Hello, (\w+)!$` &quot;Hello, world!&quot; &quot;Goodbye, $1!&quot;)
 
-* Languages *with* hasBuiltInRegex include <a href="../rows/slope.html">Slope</a>, <a href="../rows/tql.html">TQL</a>
+* Languages *with* hasBuiltInRegex include <a href="../concepts/slope.html">Slope</a>, <a href="../concepts/tql.html">TQL</a>
 
-* Languages *without* hasBuiltInRegex include <a href="../rows/c3.html">C3</a>, <a href="../rows/c2.html">C2</a>
+* Languages *without* hasBuiltInRegex include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/c2.html">C2</a>
 
 * This question asks: Does the language include/import a regular expression language?
 

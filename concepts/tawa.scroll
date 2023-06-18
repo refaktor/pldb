@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Tawa
+
+title Tawa - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="dreamlisp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sugi.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tawa.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/tawasprache/kompilierer" class="material-symbols-outlined">code</a> <a href="/edit.html?id=tawa" class="material-symbols-outlined">edit</a></div>
+
+* Tawa is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2021 by Jan Blackquill.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2021 2021
+ link ../lists/creators.html#janBlackquill Jan Blackquill
+
+codeWithHeader Source code:
+ git clone https://github.com/tawasprache/kompilierer
+
+dashboard
+ #2484 <span title="TotalRank: 3058 Jobs: 103 Users: 2373 Facts: 1968 Links: 987">on PLDB</span>
+ 2 Years Old
+
+* Einfache funktionale Programmiersprache.
+
+- Tawa is developed on <a href="https://github.com/tawasprache/kompilierer">GitHub</a> and has 5 stars
+
+<br>
+
+endColumns
+
+keyboardNav dreamlisp.html sugi.html
+
+import ../footer.scroll

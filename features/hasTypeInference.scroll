@@ -9,17 +9,17 @@ html
  <a class="trueBaseThemePreviousItem" href="hasTypeAnnotations.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasTypeParameters.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  || x = &quot;Hello&quot;
  || y = FunctionThatReturnsAString() // is now a string
  x = 1 // fails to compile
  y = 2 // fails to compile
 
-* Languages *with* Type Inference include <a href="../rows/go.html">Go</a>, <a href="../rows/swift.html">Swift</a>, <a href="../rows/scala.html">Scala</a>, <a href="../rows/rust.html">Rust</a>, <a href="../rows/kotlin.html">Kotlin</a>, <a href="../rows/haskell.html">Haskell</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/prolog.html">Prolog</a>, <a href="../rows/crystal.html">Crystal</a>, <a href="../rows/f-sharp.html">F#</a>, <a href="../rows/elm.html">Elm</a>, <a href="../rows/ocaml.html">OCaml</a>, <a href="../rows/d.html">D</a>, <a href="../rows/haxe.html">Haxe</a>, <a href="../rows/ml.html">ML</a>, <a href="../rows/rdf.html">RDF</a>, <a href="../rows/standard-ml.html">Standard ML</a>, <a href="../rows/frege.html">Frege</a>, <a href="../rows/nemerle.html">Nemerle</a>, <a href="../rows/opa.html">Opa</a>, <a href="../rows/ceylon.html">Ceylon</a>, <a href="../rows/boo.html">Boo</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/xtend.html">Xtend</a>, <a href="../rows/stan.html">Stan</a>, <a href="../rows/obliq.html">Obliq</a>, <a href="../rows/clpr.html">CLPR</a>, <a href="../rows/gaea.html">GAEA</a>, <a href="../rows/static-typescript.html">Static Typescript</a>, <a href="../rows/progol.html">Progol</a>
+* Languages *with* Type Inference include <a href="../concepts/go.html">Go</a>, <a href="../concepts/swift.html">Swift</a>, <a href="../concepts/scala.html">Scala</a>, <a href="../concepts/rust.html">Rust</a>, <a href="../concepts/kotlin.html">Kotlin</a>, <a href="../concepts/haskell.html">Haskell</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/prolog.html">Prolog</a>, <a href="../concepts/crystal.html">Crystal</a>, <a href="../concepts/f-sharp.html">F#</a>, <a href="../concepts/elm.html">Elm</a>, <a href="../concepts/ocaml.html">OCaml</a>, <a href="../concepts/d.html">D</a>, <a href="../concepts/haxe.html">Haxe</a>, <a href="../concepts/ml.html">ML</a>, <a href="../concepts/rdf.html">RDF</a>, <a href="../concepts/standard-ml.html">Standard ML</a>, <a href="../concepts/frege.html">Frege</a>, <a href="../concepts/nemerle.html">Nemerle</a>, <a href="../concepts/opa.html">Opa</a>, <a href="../concepts/ceylon.html">Ceylon</a>, <a href="../concepts/boo.html">Boo</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/xtend.html">Xtend</a>, <a href="../concepts/stan.html">Stan</a>, <a href="../concepts/obliq.html">Obliq</a>, <a href="../concepts/clpr.html">CLPR</a>, <a href="../concepts/gaea.html">GAEA</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>, <a href="../concepts/progol.html">Progol</a>
 
 * This question asks: Can the parser infer the type of a variable at compile time without an annotation?
 

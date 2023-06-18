@@ -1,0 +1,42 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title a Lisp Environment
+
+title a Lisp Environment - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="mlatu.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sbcl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ale.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.ale-lang.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/kode4food/ale" class="material-symbols-outlined">code</a> <a href="/edit.html?id=ale" class="material-symbols-outlined">edit</a></div>
+
+* a Lisp Environment, aka a Lisp Environment, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019 by Thomas Bradford.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+ link ../lists/creators.html#thomasBradford Thomas Bradford
+
+codeWithHeader Source code:
+ git clone https://github.com/kode4food/ale
+
+dashboard
+ #1789 <span title="TotalRank: 2322 Jobs: 103 Users: 1232 Facts: 1586 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* Ale is a Lisp Environment for Go applications
+
+- a Lisp Environment website
+ https://www.ale-lang.org/
+- a Lisp Environment is developed on <a href="https://github.com/kode4food/ale">GitHub</a> and has 152 stars
+- <a href="https://www.ale-lang.org/">ale-lang.org</a> was registered in 2019
+
+<br>
+
+endColumns
+
+keyboardNav mlatu.html sbcl.html
+
+import ../footer.scroll

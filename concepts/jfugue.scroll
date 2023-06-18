@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title JFugue
+
+title JFugue - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="jbc.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jmsl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jfugue.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=jfugue" class="material-symbols-outlined">edit</a></div>
+
+* JFugue is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2002.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
+
+dashboard
+ #3778 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3251 Links: 987">on PLDB</span>
+ 21 Years Old
+
+* 
+
+- JFugue first developed in <a href="../lists/originCommunities.html#httpsGithubComDmkoelleJfugueIssues">https://github.com/dmkoelle/jfugue/issues</a>
+- JFugue on HOPL
+ https://hopl.info/showlanguage.prx?exp=6394
+- Read more about JFugue on the web: 1.
+ https://en.wikipedia.org/wiki/JFugue 1.
+
+<br>
+
+endColumns
+
+keyboardNav jbc.html jmsl.html
+
+import ../footer.scroll

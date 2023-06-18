@@ -1,0 +1,46 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title sile
+
+title sile - Text markup language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="isq.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="natural.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sile.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://sile-typesetter.org" class="material-symbols-outlined">home</a> <a href="https://github.com/sile-typesetter/sile" class="material-symbols-outlined">code</a> <a href="/edit.html?id=sile" class="material-symbols-outlined">edit</a></div>
+
+* sile is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+textMarkup">text markup language</a> created in 2012.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+
+codeWithHeader Source code:
+ git clone https://github.com/sile-typesetter/sile
+
+dashboard
+ #972 <span title="TotalRank: 1534 Jobs: 103 Users: 444 Facts: 1198 Links: 987">on PLDB</span>
+ 11 Years Old
+
+* SILE is a typesetting system. Its job is to produce beautiful printed documents from raw content.
+
+- sile website
+ https://sile-typesetter.org
+- sile is developed on <a href="https://github.com/sile-typesetter/sile">GitHub</a> and has 1,217 stars
+- sile first developed in <a href="../lists/originCommunities.html#worldviewCenterForInterculturalStudies">Worldview Center for Intercultural Studies</a>
+- <a href="https://sile-typesetter.org">sile-typesetter.org</a> was registered in 2014
+- See also: (1 related languages)<a href="latex.html">LaTeX</a>
+- Read more about sile on the web: 1. 2.
+ https://tug.org/TUGboat/tb38-1/tb118cozens.pdf 1.
+ https://news.ycombinator.com/item?id=22393099 2.
+
+<br>
+
+endColumns
+
+keyboardNav isq.html natural.html
+
+import ../footer.scroll

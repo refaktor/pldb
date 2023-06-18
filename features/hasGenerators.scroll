@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasGarbageCollection.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasGenerics.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  function* fibonacci(limit) {
      let [prev, curr] = [0, 1];
      while (!limit || curr &lt;= limit) {
@@ -44,10 +44,10 @@ codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a
      if (n &gt; 10000) break;
  }
 
-codeWithHeader Example from <a href="../rows/python.html">Python</a>, <a href="../rows/cython.html">Cython</a>:
+codeWithHeader Example from <a href="../concepts/python.html">Python</a>, <a href="../concepts/cython.html">Cython</a>:
  https://wiki.python.org/moin/Generators
 
-codeWithHeader Example from <a href="../rows/ruby.html">Ruby</a>:
+codeWithHeader Example from <a href="../concepts/ruby.html">Ruby</a>:
  # Generator from an Enumerator object
  chars = Enumerator.new([&#39;A&#39;, &#39;B&#39;, &#39;C&#39;, &#39;Z&#39;])
  
@@ -61,7 +61,7 @@ codeWithHeader Example from <a href="../rows/ruby.html">Ruby</a>:
  
  100.times { puts count.next }
 
-codeWithHeader Example from <a href="../rows/csharp.html">C#</a>:
+codeWithHeader Example from <a href="../concepts/csharp.html">C#</a>:
  // Method that takes an iterable input (possibly an array)
  // and returns all even numbers.
  public static IEnumerable&lt;int&gt; GetEven(IEnumerable&lt;int&gt; numbers) {
@@ -72,7 +72,7 @@ codeWithHeader Example from <a href="../rows/csharp.html">C#</a>:
      }
  }
 
-* Languages *with* Generators include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/python.html">Python</a>, <a href="../rows/ruby.html">Ruby</a>, <a href="../rows/csharp.html">C#</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/cython.html">Cython</a>
+* Languages *with* Generators include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/python.html">Python</a>, <a href="../concepts/ruby.html">Ruby</a>, <a href="../concepts/csharp.html">C#</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/cython.html">Cython</a>
 
 * This question asks: Does the language have a concept of loops that yield?
 

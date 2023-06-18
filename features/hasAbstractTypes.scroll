@@ -9,17 +9,17 @@ html
  <a class="trueBaseThemePreviousItem" href="canWriteToDisk.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasAccessModifiers.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/static-typescript.html">Static Typescript</a>:
+codeWithHeader Example from <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>:
  abstract class Animal {}
  class Dog extends Animal
 
-* Languages *with* Abstract Types include <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/static-typescript.html">Static Typescript</a>
+* Languages *with* Abstract Types include <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>
 
-* Languages *without* Abstract Types include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/c3.html">C3</a>
+* Languages *without* Abstract Types include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/c3.html">C3</a>
 
 * This question asks: Does this language have a keyword for abstract classes or types?
 

@@ -9,18 +9,18 @@ html
  <a class="trueBaseThemePreviousItem" href="hasArraySlicingSyntax.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasAssignment.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/java.html">Java</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>:
+codeWithHeader Example from <a href="../concepts/java.html">Java</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>:
  // By default, assertions are disabled
  // java –enableassertions Test
  int score = 10;
  assert score &gt;= 10 : &quot; Below&quot;;
  System.out.println(&quot;score is &quot;+score);
 
-codeWithHeader Example from <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/tick-c.html">Tick C</a>:
+codeWithHeader Example from <a href="../concepts/c.html">C</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/tick-c.html">Tick C</a>:
  #include &lt;assert.h&gt;
  int i, a[10];
  for (i = 0; i &lt; 10; ++i)
@@ -35,11 +35,11 @@ codeWithHeader Example from <a href="../rows/c.html">C</a>, <a href="../rows/cpp
    a[a[i]] = a[i];
    }
 
-codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+codeWithHeader Example from <a href="../concepts/c3.html">C3</a>:
  assert(a &gt; 0, &quot;Expected a positive number&quot;);
  $assert(Foo.sizeof == 8, &quot;Foo sizecheck at compile time failed&quot;);
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  class Person
   |int| age
   setter age
@@ -53,7 +53,7 @@ codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
   if !stderr.ok
    &quot;Oof we got some errors&quot;
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  use std::debug
  use std::debug::assert::{assert}
  
@@ -63,9 +63,9 @@ codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
      assert(x &lt; 200)
  }
 
-* Languages *with* Assert Statements include <a href="../rows/java.html">Java</a>, <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/tick-c.html">Tick C</a>
+* Languages *with* Assert Statements include <a href="../concepts/java.html">Java</a>, <a href="../concepts/c.html">C</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/tick-c.html">Tick C</a>
 
-* Languages *without* Assert Statements include <a href="../rows/progsbase.html">progsbase</a>
+* Languages *without* Assert Statements include <a href="../concepts/progsbase.html">progsbase</a>
 
 * This question asks: Does the language have built in assert statements?
 

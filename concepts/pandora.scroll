@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Pandora
+
+title Pandora - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="newton.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="psi.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pandora.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=pandora" class="material-symbols-outlined">edit</a></div>
+
+* Pandora is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1989.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1989 1989
+
+dashboard
+ #2651 <span title="TotalRank: 3257 Jobs: 103 Users: 2831 Facts: 2167 Links: 987">on PLDB</span>
+ 34 Years Old
+
+* 
+
+- Pandora first developed in <a href="../lists/originCommunities.html#imperialCollegeLondon">Imperial College London</a>
+- Pandora on HOPL
+ https://hopl.info/showlanguage.prx?exp=1511
+- Read more about Pandora on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/0d886a743ec66f491f34c3f053fdff9a59bde8c9 1.
+
+<br>
+
+endColumns
+
+keyboardNav newton.html psi.html
+
+import ../footer.scroll

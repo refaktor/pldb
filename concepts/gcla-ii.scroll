@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title GCLA II
+
+title GCLA II - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="galileo.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gem.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gcla-ii.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=gcla-ii" class="material-symbols-outlined">edit</a></div>
+
+* GCLA II is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1992.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1992 1992
+
+dashboard
+ #4150 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 2912 Links: 987">on PLDB</span>
+ 31 Years Old
+
+* 
+
+- GCLA II first developed in <a href="../lists/originCommunities.html#swedishInstituteOfComputerScience">Swedish Institute of Computer Science</a>
+- GCLA II on HOPL
+ https://hopl.info/showlanguage.prx?exp=5528
+- Read more about GCLA II on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/55db53abba68018652aff12b709915276fb76cf3 1.
+
+<br>
+
+endColumns
+
+keyboardNav galileo.html gem.html
+
+import ../footer.scroll

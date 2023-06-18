@@ -1,0 +1,72 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Marp
+
+title Marp - Text markup language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="rc.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bitbake.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/marp.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://marp.app/" class="material-symbols-outlined">home</a> <a href="https://github.com/marp-team/marp-core" class="material-symbols-outlined">code</a> <a href="/edit.html?id=marp" class="material-symbols-outlined">edit</a></div>
+
+* Marp is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+textMarkup">text markup language</a> created in 2018.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+
+codeWithHeader Source code:
+ git clone https://github.com/marp-team/marp-core
+
+dashboard
+ #1126 <span title="TotalRank: 1682 Jobs: 103 Users: 592 Facts: 1198 Links: 987">on PLDB</span>
+ 5 Years Old
+
+* Presentations in markdown
+
+- Marp website
+ https://marp.app/
+- Marp is developed on <a href="https://github.com/marp-team/marp-core">GitHub</a> and has 526 stars
+- Marp is a superset of <a href="/concepts/markdown.html">Markdown</a>
+- Marp first developed in <a href="../lists/originCommunities.html#httpsGithubComMarpTeam">https://github.com/marp-team</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ ---
+ theme: gaia
+ size: 4:3
+ ---
+ 
+ # A traditional 4:3 slide
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Booleans
+  FeatureLink ../features/hasBooleans.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav rc.html bitbake.html
+
+import ../footer.scroll

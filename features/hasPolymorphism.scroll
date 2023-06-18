@@ -9,29 +9,29 @@ html
  <a class="trueBaseThemePreviousItem" href="hasPointers.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasPostfixNotation.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  &quot;a&quot; + &quot;b&quot;; 1 + 2
 
-codeWithHeader Example from <a href="../rows/elixir.html">Elixir</a>:
+codeWithHeader Example from <a href="../concepts/elixir.html">Elixir</a>:
  https://hexdocs.pm/elixir/Protocol.html
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  |object| x = somefunction()
  || y = x.render // returns a string by calling the virtual func &quot;render&quot;
 
-codeWithHeader Example from <a href="../rows/felix.html">Felix</a>:
+codeWithHeader Example from <a href="../concepts/felix.html">Felix</a>:
  // overloads
  fun f (x:double) =&gt; x +42.1;
  fun f (x:int) =&gt;  x + 1;
  fun f (x:string) =&gt; x + &quot;!&quot;;
 
-* Languages *with* Polymorphism include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/pascal.html">Pascal</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/elixir.html">Elixir</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/felix.html">Felix</a>, <a href="../rows/adlib.html">ADLIB</a>, <a href="../rows/extended-pascal.html">Extended Pascal</a>
+* Languages *with* Polymorphism include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/pascal.html">Pascal</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/elixir.html">Elixir</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/felix.html">Felix</a>, <a href="../concepts/adlib.html">ADLIB</a>, <a href="../concepts/extended-pascal.html">Extended Pascal</a>
 
-* Languages *without* Polymorphism include <a href="../rows/jule.html">Jule</a>
+* Languages *without* Polymorphism include <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language have polymorphism?
 

@@ -1,0 +1,46 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title tablam
+
+title tablam - Query language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="mythryl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="upic.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tablam.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.tablam.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/Tablam/TablaM" class="material-symbols-outlined">code</a> <a href="/edit.html?id=tablam" class="material-symbols-outlined">edit</a></div>
+
+* tablam is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 2020 by Mario Montoya.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2020 2020
+ link ../lists/creators.html#marioMontoya Mario Montoya
+
+codeWithHeader Source code:
+ git clone https://github.com/Tablam/TablaM
+
+dashboard
+ #1869 <span title="TotalRank: 2392 Jobs: 103 Users: 1302 Facts: 1306 Links: 987">on PLDB</span>
+ 3 Years Old
+
+* The practical relational programing language for data-oriented applications
+
+- tablam website
+ http://www.tablam.org/
+- tablam is developed on <a href="https://github.com/Tablam/TablaM">GitHub</a> and has 132 stars
+- <a href="http://www.tablam.org/">tablam.org</a> was registered in 2014
+
+<br>
+
+codeWithHeader Example from the web:
+ city ?where .population &gt; 100_000 ?select .name, .country
+ points ?sort .x
+
+endColumns
+
+keyboardNav mythryl.html upic.html
+
+import ../footer.scroll

@@ -2,11 +2,11 @@ import header.scroll
 title SITE_NAME Stats
 
 dashboard
- 356 Columns
- 4,841 Rows
+ 4,841 Concepts
+ 356 Questions
  148,571 Filled
  1,574,825 Missing
- 9,760 Row links
+ 9,760 Concept links
  10,280 URLs
  9 Queries
  7,335,643 Bytes
@@ -18,7 +18,7 @@ startColumns 1
 <center>
 <div id="modelVis"></div>
 </center>
-The image above has a pixel for each column and row in the database. The top left pixel represents the column with the most observations. The pixels then flow left to right, then top down, showing the observation count for the column with the next most observations. After a pixel for each column is shown then a pixel is shown for each row.
+The image above has a pixel for each concept and question in the database. The top left pixel represents the questions with the most answers. The pixels then flow left to right, then top down, showing the answer count for the question with the next most answers. After a pixel for each question is shown then a pixel is shown for each concept.
 endColumns
 
 <script>document.addEventListener("DOMContentLoaded", () => TrueBaseBrowserApp.getApp().fetchAndVisualizeDb())</script>

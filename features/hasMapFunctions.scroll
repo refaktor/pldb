@@ -9,19 +9,19 @@ html
  <a class="trueBaseThemePreviousItem" href="hasManualMemoryManagement.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasMaps.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  [1,2.1].map(Math.round)
 
-codeWithHeader Example from <a href="../rows/haskell.html">Haskell</a>:
+codeWithHeader Example from <a href="../concepts/haskell.html">Haskell</a>:
  class Functor f where
     fmap :: (a -&gt; b) -&gt; f a -&gt; f b
     (&lt;$) :: a -&gt; f b -&gt; f a
 
-* Languages *with* Map Functions include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/haskell.html">Haskell</a>, <a href="../rows/typescript.html">TypeScript</a>
+* Languages *with* Map Functions include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/haskell.html">Haskell</a>, <a href="../concepts/typescript.html">TypeScript</a>
 
 * This question asks: Does the language support running map over a list?
 

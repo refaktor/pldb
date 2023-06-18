@@ -9,14 +9,14 @@ html
  <a class="trueBaseThemePreviousItem" href="hasContinue.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasDefaultParameters.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  12345
 
-codeWithHeader Example from <a href="../rows/ion.html">Ion</a>:
+codeWithHeader Example from <a href="../concepts/ion.html">Ion</a>:
  null.decimal      // A null decimal value
  0.123             // Type is decimal
  -0.12d4           // Type is decimal
@@ -24,7 +24,7 @@ codeWithHeader Example from <a href="../rows/ion.html">Ion</a>:
  -0d-1             // Decimal maintains precision: -0. != -0.0
  -0d0              // Negative zero decimal (distinct from positive zero)
 
-* Languages *with* Decimals include <a href="../rows/ion.html">Ion</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* Decimals include <a href="../concepts/ion.html">Ion</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language have a decimal data type?
 

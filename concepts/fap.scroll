@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title FORTRAN assembly program
+
+title FORTRAN assembly program - Assembly language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="explor.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="far.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fap.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=fap" class="material-symbols-outlined">edit</a></div>
+
+* FORTRAN assembly program, aka FORTRAN assembly program, is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+assembly">assembly language</a> created in 1959.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1959 1959
+
+dashboard
+ #3085 <span title="TotalRank: 3879 Jobs: 103 Users: 2831 Facts: 2789 Links: 987">on PLDB</span>
+ 64 Years Old
+
+* 
+
+- FORTRAN assembly program first developed in <a href="../lists/originCommunities.html#ibm">IBM</a>
+- FORTRAN assembly program on HOPL
+ https://hopl.info/showlanguage.prx?exp=3357
+- Read more about FORTRAN assembly program on the web: 1.
+ http://bitsavers.org/pdf/ibm/7090/C28-6235-2_7090_FAP.pdf 1.
+
+<br>
+
+endColumns
+
+keyboardNav explor.html far.html
+
+import ../footer.scroll

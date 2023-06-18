@@ -2,24207 +2,24207 @@ var autocompleteJs = [
   {
     "label": "05AB1E",
     "id": "05ab1e",
-    "url": "/rows/05ab1e.html"
+    "url": "/concepts/05ab1e.html"
   },
   {
     "label": "1.pak",
     "id": "1-pak",
-    "url": "/rows/1-pak.html"
+    "url": "/concepts/1-pak.html"
   },
   {
     "label": "IBM 1620",
     "id": "1620sps",
-    "url": "/rows/1620sps.html"
+    "url": "/concepts/1620sps.html"
   },
   {
     "label": "1C Enterprise Script",
     "id": "1c-enterprise",
-    "url": "/rows/1c-enterprise.html"
+    "url": "/concepts/1c-enterprise.html"
   },
   {
     "label": "2-pak",
     "id": "2-pak",
-    "url": "/rows/2-pak.html"
+    "url": "/concepts/2-pak.html"
   },
   {
     "label": "20-GATE",
     "id": "20-gate",
-    "url": "/rows/20-gate.html"
+    "url": "/concepts/20-gate.html"
   },
   {
     "label": "2lisp",
     "id": "2lisp",
-    "url": "/rows/2lisp.html"
+    "url": "/concepts/2lisp.html"
   },
   {
     "label": "2OBJ",
     "id": "2obj",
-    "url": "/rows/2obj.html"
+    "url": "/concepts/2obj.html"
   },
   {
     "label": "3-LISP",
     "id": "3-lisp",
-    "url": "/rows/3-lisp.html"
+    "url": "/concepts/3-lisp.html"
   },
   {
     "label": "3APL",
     "id": "3apl",
-    "url": "/rows/3apl.html"
+    "url": "/concepts/3apl.html"
   },
   {
     "label": "3D Logo",
     "id": "3d-logo",
-    "url": "/rows/3d-logo.html"
+    "url": "/concepts/3d-logo.html"
   },
   {
     "label": "3DComposer",
     "id": "3dcomposer",
-    "url": "/rows/3dcomposer.html"
+    "url": "/concepts/3dcomposer.html"
   },
   {
     "label": "3DS",
     "id": "3ds",
-    "url": "/rows/3ds.html"
+    "url": "/concepts/3ds.html"
   },
   {
     "label": "3D Manufacturing Format",
     "id": "3mf",
-    "url": "/rows/3mf.html"
+    "url": "/concepts/3mf.html"
   },
   {
     "label": "3RIP",
     "id": "3rip",
-    "url": "/rows/3rip.html"
+    "url": "/concepts/3rip.html"
   },
   {
     "label": "4G",
     "id": "4g-standard",
-    "url": "/rows/4g-standard.html"
+    "url": "/concepts/4g-standard.html"
   },
   {
     "label": "4th Dimension",
     "id": "4th-dimension",
-    "url": "/rows/4th-dimension.html"
+    "url": "/concepts/4th-dimension.html"
   },
   {
     "label": "51forth",
     "id": "51forth",
-    "url": "/rows/51forth.html"
+    "url": "/concepts/51forth.html"
   },
   {
     "label": "6gunz",
     "id": "6gunz",
-    "url": "/rows/6gunz.html"
+    "url": "/concepts/6gunz.html"
   },
   {
     "label": "8th",
     "id": "8th",
-    "url": "/rows/8th.html"
+    "url": "/concepts/8th.html"
   },
   {
     "label": "A-0 system",
     "id": "a-0-system",
-    "url": "/rows/a-0-system.html"
+    "url": "/concepts/a-0-system.html"
   },
   {
     "label": "A#",
     "id": "a-sharp",
-    "url": "/rows/a-sharp.html"
+    "url": "/concepts/a-sharp.html"
   },
   {
     "label": "A51 Assembly",
     "id": "a51",
-    "url": "/rows/a51.html"
+    "url": "/concepts/a51.html"
   },
   {
     "label": "Avionics Architecture Design Language",
     "id": "aadl",
-    "url": "/rows/aadl.html"
+    "url": "/concepts/aadl.html"
   },
   {
     "label": "Advanced Authoring Format",
     "id": "aaf",
-    "url": "/rows/aaf.html"
+    "url": "/concepts/aaf.html"
   },
   {
     "label": "AArch64",
     "id": "aarch64",
-    "url": "/rows/aarch64.html"
+    "url": "/concepts/aarch64.html"
   },
   {
     "label": "Aardappel",
     "id": "aardappel",
-    "url": "/rows/aardappel.html"
+    "url": "/concepts/aardappel.html"
   },
   {
     "label": "Aardvark",
     "id": "aardvark",
-    "url": "/rows/aardvark.html"
+    "url": "/concepts/aardvark.html"
   },
   {
     "label": "Abacus",
     "id": "abacus-machine",
-    "url": "/rows/abacus-machine.html"
+    "url": "/concepts/abacus-machine.html"
   },
   {
     "label": "ABAL",
     "id": "abal",
-    "url": "/rows/abal.html"
+    "url": "/concepts/abal.html"
   },
   {
     "label": "ABAP",
     "id": "abap",
-    "url": "/rows/abap.html"
+    "url": "/concepts/abap.html"
   },
   {
     "label": "Abbreviated Test Language for All Systems",
     "id": "abbreviated-test-language-for-all-systems",
-    "url": "/rows/abbreviated-test-language-for-all-systems.html"
+    "url": "/concepts/abbreviated-test-language-for-all-systems.html"
   },
   {
     "label": "ABC 80",
     "id": "abc-80",
-    "url": "/rows/abc-80.html"
+    "url": "/concepts/abc-80.html"
   },
   {
     "label": "ABC ALGOL",
     "id": "abc-algol",
-    "url": "/rows/abc-algol.html"
+    "url": "/concepts/abc-algol.html"
   },
   {
     "label": "ABC",
     "id": "abc",
-    "url": "/rows/abc.html"
+    "url": "/concepts/abc.html"
   },
   {
     "label": "ABCL/c+",
     "id": "abcl-cp",
-    "url": "/rows/abcl-cp.html"
+    "url": "/concepts/abcl-cp.html"
   },
   {
     "label": "ABCL/f",
     "id": "abcl-f",
-    "url": "/rows/abcl-f.html"
+    "url": "/concepts/abcl-f.html"
   },
   {
     "label": "Armed Bear Common Lisp",
     "id": "abcl-lang",
-    "url": "/rows/abcl-lang.html"
+    "url": "/concepts/abcl-lang.html"
   },
   {
     "label": "Actor-Based Concurrent Language",
     "id": "abcl",
-    "url": "/rows/abcl.html"
+    "url": "/concepts/abcl.html"
   },
   {
     "label": "ABC++",
     "id": "abcpp",
-    "url": "/rows/abcpp.html"
+    "url": "/concepts/abcpp.html"
   },
   {
     "label": "ABEL",
     "id": "abel",
-    "url": "/rows/abel.html"
+    "url": "/concepts/abel.html"
   },
   {
     "label": "ABLE",
     "id": "able",
-    "url": "/rows/able.html"
+    "url": "/concepts/able.html"
   },
   {
     "label": "Augmented Backus-Naur Form",
     "id": "abnf",
-    "url": "/rows/abnf.html"
+    "url": "/concepts/abnf.html"
   },
   {
     "label": "abs",
     "id": "abs",
-    "url": "/rows/abs.html"
+    "url": "/concepts/abs.html"
   },
   {
     "label": "ABSET",
     "id": "abset",
-    "url": "/rows/abset.html"
+    "url": "/concepts/abset.html"
   },
   {
     "label": "Abstract State Machine Language",
     "id": "abstract-state-machine-language",
-    "url": "/rows/abstract-state-machine-language.html"
+    "url": "/concepts/abstract-state-machine-language.html"
   },
   {
     "label": "Abstracto",
     "id": "abstracto",
-    "url": "/rows/abstracto.html"
+    "url": "/concepts/abstracto.html"
   },
   {
     "label": "ABSYS",
     "id": "absys",
-    "url": "/rows/absys.html"
+    "url": "/concepts/absys.html"
   },
   {
     "label": "AC Toolbox",
     "id": "ac-toolbox",
-    "url": "/rows/ac-toolbox.html"
+    "url": "/concepts/ac-toolbox.html"
   },
   {
     "label": "ACCENT",
     "id": "accent",
-    "url": "/rows/accent.html"
+    "url": "/concepts/accent.html"
   },
   {
     "label": "Ace Editor",
     "id": "ace",
-    "url": "/rows/ace.html"
+    "url": "/concepts/ace.html"
   },
   {
     "label": "ACL",
     "id": "acl",
-    "url": "/rows/acl.html"
+    "url": "/concepts/acl.html"
   },
   {
     "label": "ACL2",
     "id": "acl2",
-    "url": "/rows/acl2.html"
+    "url": "/concepts/acl2.html"
   },
   {
     "label": "Acme",
     "id": "acme",
-    "url": "/rows/acme.html"
+    "url": "/concepts/acme.html"
   },
   {
     "label": "Acore",
     "id": "acore",
-    "url": "/rows/acore.html"
+    "url": "/concepts/acore.html"
   },
   {
     "label": "Acorn Atom",
     "id": "acorn-atom",
-    "url": "/rows/acorn-atom.html"
+    "url": "/concepts/acorn-atom.html"
   },
   {
     "label": "acorn-lang",
     "id": "acorn-lang",
-    "url": "/rows/acorn-lang.html"
+    "url": "/concepts/acorn-lang.html"
   },
   {
     "label": "ACORN",
     "id": "acorn",
-    "url": "/rows/acorn.html"
+    "url": "/concepts/acorn.html"
   },
   {
     "label": "Acornsoft Logo",
     "id": "acornsoft-logo",
-    "url": "/rows/acornsoft-logo.html"
+    "url": "/concepts/acornsoft-logo.html"
   },
   {
     "label": "ACOS",
     "id": "acos",
-    "url": "/rows/acos.html"
+    "url": "/concepts/acos.html"
   },
   {
     "label": "ACSI-Matic",
     "id": "acsi-matic",
-    "url": "/rows/acsi-matic.html"
+    "url": "/concepts/acsi-matic.html"
   },
   {
     "label": "ACSL",
     "id": "acsl",
-    "url": "/rows/acsl.html"
+    "url": "/concepts/acsl.html"
   },
   {
     "label": "ACT-III",
     "id": "act-iii",
-    "url": "/rows/act-iii.html"
+    "url": "/concepts/act-iii.html"
   },
   {
     "label": "ACT ONE",
     "id": "act-one",
-    "url": "/rows/act-one.html"
+    "url": "/concepts/act-one.html"
   },
   {
     "label": "Actalk",
     "id": "actalk",
-    "url": "/rows/actalk.html"
+    "url": "/concepts/actalk.html"
   },
   {
     "label": "Action Code Script",
     "id": "action-code-script",
-    "url": "/rows/action-code-script.html"
+    "url": "/concepts/action-code-script.html"
   },
   {
     "label": "Action!",
     "id": "action",
-    "url": "/rows/action.html"
+    "url": "/concepts/action.html"
   },
   {
     "label": "ActionScript",
     "id": "actionscript",
-    "url": "/rows/actionscript.html"
+    "url": "/concepts/actionscript.html"
   },
   {
     "label": "Active Language I",
     "id": "active-language-i",
-    "url": "/rows/active-language-i.html"
+    "url": "/concepts/active-language-i.html"
   },
   {
     "label": "Active-U-Datalog",
     "id": "active-u-datalog",
-    "url": "/rows/active-u-datalog.html"
+    "url": "/concepts/active-u-datalog.html"
   },
   {
     "label": "ActiveVFP",
     "id": "activevfp",
-    "url": "/rows/activevfp.html"
+    "url": "/concepts/activevfp.html"
   },
   {
     "label": "ActivityPub",
     "id": "activity-pub",
-    "url": "/rows/activity-pub.html"
+    "url": "/concepts/activity-pub.html"
   },
   {
     "label": "Actor",
     "id": "actor",
-    "url": "/rows/actor.html"
+    "url": "/concepts/actor.html"
   },
   {
     "label": "Actors",
     "id": "actors",
-    "url": "/rows/actors.html"
+    "url": "/concepts/actors.html"
   },
   {
     "label": "Actus",
     "id": "actus",
-    "url": "/rows/actus.html"
+    "url": "/concepts/actus.html"
   },
   {
     "label": "Ad-hoc",
     "id": "ad-hoc",
-    "url": "/rows/ad-hoc.html"
+    "url": "/concepts/ad-hoc.html"
   },
   {
     "label": "Ada 95",
     "id": "ada-95",
-    "url": "/rows/ada-95.html"
+    "url": "/concepts/ada-95.html"
   },
   {
     "label": "Ada 9X",
     "id": "ada-9x",
-    "url": "/rows/ada-9x.html"
+    "url": "/concepts/ada-9x.html"
   },
   {
     "label": "Ada/TL",
     "id": "ada-tl",
-    "url": "/rows/ada-tl.html"
+    "url": "/concepts/ada-tl.html"
   },
   {
     "label": "Ada",
     "id": "ada",
-    "url": "/rows/ada.html"
+    "url": "/concepts/ada.html"
   },
   {
     "label": "ADABTPL",
     "id": "adabtpl",
-    "url": "/rows/adabtpl.html"
+    "url": "/concepts/adabtpl.html"
   },
   {
     "label": "Adagio",
     "id": "adagio",
-    "url": "/rows/adagio.html"
+    "url": "/concepts/adagio.html"
   },
   {
     "label": "adam-standard",
     "id": "adam-standard",
-    "url": "/rows/adam-standard.html"
+    "url": "/concepts/adam-standard.html"
   },
   {
     "label": "ADAM",
     "id": "adam",
-    "url": "/rows/adam.html"
+    "url": "/concepts/adam.html"
   },
   {
     "label": "adamant",
     "id": "adamant",
-    "url": "/rows/adamant.html"
+    "url": "/concepts/adamant.html"
   },
   {
     "label": "Adaplex",
     "id": "adaplex",
-    "url": "/rows/adaplex.html"
+    "url": "/concepts/adaplex.html"
   },
   {
     "label": "Address",
     "id": "address",
-    "url": "/rows/address.html"
+    "url": "/concepts/address.html"
   },
   {
     "label": "Adenine",
     "id": "adenine-programming-language",
-    "url": "/rows/adenine-programming-language.html"
+    "url": "/concepts/adenine-programming-language.html"
   },
   {
     "label": "Adept",
     "id": "adept",
-    "url": "/rows/adept.html"
+    "url": "/concepts/adept.html"
   },
   {
     "label": "ADES II",
     "id": "ades-ii",
-    "url": "/rows/ades-ii.html"
+    "url": "/concepts/ades-ii.html"
   },
   {
     "label": "ADES",
     "id": "ades",
-    "url": "/rows/ades.html"
+    "url": "/concepts/ades.html"
   },
   {
     "label": "Aditi",
     "id": "aditi",
-    "url": "/rows/aditi.html"
+    "url": "/concepts/aditi.html"
   },
   {
     "label": "ADLIB",
     "id": "adlib",
-    "url": "/rows/adlib.html"
+    "url": "/concepts/adlib.html"
   },
   {
     "label": "Adobe Font Metrics",
     "id": "adobe-font-metrics",
-    "url": "/rows/adobe-font-metrics.html"
+    "url": "/concepts/adobe-font-metrics.html"
   },
   {
     "label": "ADS-B",
     "id": "ads-b-standard",
-    "url": "/rows/ads-b-standard.html"
+    "url": "/concepts/ads-b-standard.html"
   },
   {
     "label": "Advanced Continuous Simulation Language",
     "id": "advanced-continuous-simulation-language",
-    "url": "/rows/advanced-continuous-simulation-language.html"
+    "url": "/concepts/advanced-continuous-simulation-language.html"
   },
   {
     "label": "Advice Taker",
     "id": "advice-taker",
-    "url": "/rows/advice-taker.html"
+    "url": "/concepts/advice-taker.html"
   },
   {
     "label": "AED",
     "id": "aed",
-    "url": "/rows/aed.html"
+    "url": "/concepts/aed.html"
   },
   {
     "label": "AEPL",
     "id": "aepl",
-    "url": "/rows/aepl.html"
+    "url": "/concepts/aepl.html"
   },
   {
     "label": "AESOP",
     "id": "aesop",
-    "url": "/rows/aesop.html"
+    "url": "/concepts/aesop.html"
   },
   {
     "label": "Afnix",
     "id": "afnix",
-    "url": "/rows/afnix.html"
+    "url": "/concepts/afnix.html"
   },
   {
     "label": "AFS",
     "id": "afs",
-    "url": "/rows/afs.html"
+    "url": "/concepts/afs.html"
   },
   {
     "label": "Agda",
     "id": "agda",
-    "url": "/rows/agda.html"
+    "url": "/concepts/agda.html"
   },
   {
     "label": "Agent-K",
     "id": "agent-k",
-    "url": "/rows/agent-k.html"
+    "url": "/concepts/agent-k.html"
   },
   {
     "label": "AgentSpeak",
     "id": "agentspeak",
-    "url": "/rows/agentspeak.html"
+    "url": "/concepts/agentspeak.html"
   },
   {
     "label": "AGL",
     "id": "agl",
-    "url": "/rows/agl.html"
+    "url": "/concepts/agl.html"
   },
   {
     "label": "Agora",
     "id": "agora",
-    "url": "/rows/agora.html"
+    "url": "/concepts/agora.html"
   },
   {
     "label": "Adventure Game Studio Script",
     "id": "ags-script",
-    "url": "/rows/ags-script.html"
+    "url": "/concepts/ags-script.html"
   },
   {
     "label": "Aheui",
     "id": "aheui",
-    "url": "/rows/aheui.html"
+    "url": "/concepts/aheui.html"
   },
   {
     "label": "AIDA",
     "id": "aida",
-    "url": "/rows/aida.html"
+    "url": "/concepts/aida.html"
   },
   {
     "label": "AIDS",
     "id": "aids",
-    "url": "/rows/aids.html"
+    "url": "/concepts/aids.html"
   },
   {
     "label": "AIL",
     "id": "ail",
-    "url": "/rows/ail.html"
+    "url": "/concepts/ail.html"
   },
   {
     "label": "Aime",
     "id": "aime",
-    "url": "/rows/aime.html"
+    "url": "/concepts/aime.html"
   },
   {
     "label": "AIML",
     "id": "aiml",
-    "url": "/rows/aiml.html"
+    "url": "/concepts/aiml.html"
   },
   {
     "label": "AIMMS",
     "id": "aimms",
-    "url": "/rows/aimms.html"
+    "url": "/concepts/aimms.html"
   },
   {
     "label": "AIR",
     "id": "air",
-    "url": "/rows/air.html"
+    "url": "/concepts/air.html"
   },
   {
     "label": "Airtable",
     "id": "airtable-app",
-    "url": "/rows/airtable-app.html"
+    "url": "/concepts/airtable-app.html"
   },
   {
     "label": "Alternate Instruction Set",
     "id": "ais",
-    "url": "/rows/ais.html"
+    "url": "/concepts/ais.html"
   },
   {
     "label": "Aith",
     "id": "aith",
-    "url": "/rows/aith.html"
+    "url": "/concepts/aith.html"
   },
   {
     "label": "AKL",
     "id": "akl",
-    "url": "/rows/akl.html"
+    "url": "/concepts/akl.html"
   },
   {
     "label": "AL",
     "id": "al",
-    "url": "/rows/al.html"
+    "url": "/concepts/al.html"
   },
   {
     "label": "ALADIN",
     "id": "aladin",
-    "url": "/rows/aladin.html"
+    "url": "/concepts/aladin.html"
   },
   {
     "label": "Alambik",
     "id": "alambik",
-    "url": "/rows/alambik.html"
+    "url": "/concepts/alambik.html"
   },
   {
     "label": "alan",
     "id": "alan",
-    "url": "/rows/alan.html"
+    "url": "/concepts/alan.html"
   },
   {
     "label": "ALBA",
     "id": "alba",
-    "url": "/rows/alba.html"
+    "url": "/concepts/alba.html"
   },
   {
     "label": "albatross",
     "id": "albatross",
-    "url": "/rows/albatross.html"
+    "url": "/concepts/albatross.html"
   },
   {
     "label": "ALCOR",
     "id": "alcor",
-    "url": "/rows/alcor.html"
+    "url": "/concepts/alcor.html"
   },
   {
     "label": "Aldat",
     "id": "aldat",
-    "url": "/rows/aldat.html"
+    "url": "/concepts/aldat.html"
   },
   {
     "label": "ALDES",
     "id": "aldes",
-    "url": "/rows/aldes.html"
+    "url": "/concepts/aldes.html"
   },
   {
     "label": "Aldor",
     "id": "aldor",
-    "url": "/rows/aldor.html"
+    "url": "/concepts/aldor.html"
   },
   {
     "label": "Aldwych",
     "id": "aldwych",
-    "url": "/rows/aldwych.html"
+    "url": "/concepts/aldwych.html"
   },
   {
     "label": "a Lisp Environment",
     "id": "ale",
-    "url": "/rows/ale.html"
+    "url": "/concepts/ale.html"
   },
   {
     "label": "ALEC",
     "id": "alec",
-    "url": "/rows/alec.html"
+    "url": "/concepts/alec.html"
   },
   {
     "label": "ALEF",
     "id": "alef",
-    "url": "/rows/alef.html"
+    "url": "/concepts/alef.html"
   },
   {
     "label": "ALEPH",
     "id": "aleph",
-    "url": "/rows/aleph.html"
+    "url": "/concepts/aleph.html"
   },
   {
     "label": "Algebraic Logic Functional",
     "id": "alf",
-    "url": "/rows/alf.html"
+    "url": "/concepts/alf.html"
   },
   {
     "label": "alfred",
     "id": "alfred",
-    "url": "/rows/alfred.html"
+    "url": "/concepts/alfred.html"
   },
   {
     "label": "Algae",
     "id": "algae",
-    "url": "/rows/algae.html"
+    "url": "/concepts/algae.html"
   },
   {
     "label": "Algebraic Compiler",
     "id": "algebraic-compiler",
-    "url": "/rows/algebraic-compiler.html"
+    "url": "/concepts/algebraic-compiler.html"
   },
   {
     "label": "Algebraic modeling language",
     "id": "algebraic-modeling-language",
-    "url": "/rows/algebraic-modeling-language.html"
+    "url": "/concepts/algebraic-modeling-language.html"
   },
   {
     "label": "ALGEM",
     "id": "algem",
-    "url": "/rows/algem.html"
+    "url": "/concepts/algem.html"
   },
   {
     "label": "ALGERNON",
     "id": "algernon",
-    "url": "/rows/algernon.html"
+    "url": "/concepts/algernon.html"
   },
   {
     "label": "ALGO",
     "id": "algo",
-    "url": "/rows/algo.html"
+    "url": "/concepts/algo.html"
   },
   {
     "label": "algobox",
     "id": "algobox",
-    "url": "/rows/algobox.html"
+    "url": "/concepts/algobox.html"
   },
   {
     "label": "ALGOL 58",
     "id": "algol-58",
-    "url": "/rows/algol-58.html"
+    "url": "/concepts/algol-58.html"
   },
   {
     "label": "ALGOL 60",
     "id": "algol-60",
-    "url": "/rows/algol-60.html"
+    "url": "/concepts/algol-60.html"
   },
   {
     "label": "ALGOL 68-R",
     "id": "algol-68-r",
-    "url": "/rows/algol-68-r.html"
+    "url": "/concepts/algol-68-r.html"
   },
   {
     "label": "ALGOL 68-RT",
     "id": "algol-68-rt",
-    "url": "/rows/algol-68-rt.html"
+    "url": "/concepts/algol-68-rt.html"
   },
   {
     "label": "ALGOL 68",
     "id": "algol-68",
-    "url": "/rows/algol-68.html"
+    "url": "/concepts/algol-68.html"
   },
   {
     "label": "ALGOL-E",
     "id": "algol-e",
-    "url": "/rows/algol-e.html"
+    "url": "/concepts/algol-e.html"
   },
   {
     "label": "ALGOL N",
     "id": "algol-n",
-    "url": "/rows/algol-n.html"
+    "url": "/concepts/algol-n.html"
   },
   {
     "label": "ALGOL W",
     "id": "algol-w",
-    "url": "/rows/algol-w.html"
+    "url": "/concepts/algol-w.html"
   },
   {
     "label": "ALGOL X",
     "id": "algol-x",
-    "url": "/rows/algol-x.html"
+    "url": "/concepts/algol-x.html"
   },
   {
     "label": "Algol",
     "id": "algol",
-    "url": "/rows/algol.html"
+    "url": "/concepts/algol.html"
   },
   {
     "label": "ALGY",
     "id": "algy",
-    "url": "/rows/algy.html"
+    "url": "/concepts/algy.html"
   },
   {
     "label": "Alice",
     "id": "alice",
-    "url": "/rows/alice.html"
+    "url": "/concepts/alice.html"
   },
   {
     "label": "ALJABR",
     "id": "aljabr",
-    "url": "/rows/aljabr.html"
+    "url": "/concepts/aljabr.html"
   },
   {
     "label": "Allegro Common Lisp",
     "id": "allegro-common-lisp",
-    "url": "/rows/allegro-common-lisp.html"
+    "url": "/concepts/allegro-common-lisp.html"
   },
   {
     "label": "ALLO",
     "id": "allo",
-    "url": "/rows/allo.html"
+    "url": "/concepts/allo.html"
   },
   {
     "label": "Alloy",
     "id": "alloy",
-    "url": "/rows/alloy.html"
+    "url": "/concepts/alloy.html"
   },
   {
     "label": "Alma-0",
     "id": "alma-0",
-    "url": "/rows/alma-0.html"
+    "url": "/concepts/alma-0.html"
   },
   {
     "label": "Alma",
     "id": "alma-007",
-    "url": "/rows/alma-007.html"
+    "url": "/concepts/alma-007.html"
   },
   {
     "label": "Alma-O",
     "id": "alma-o",
-    "url": "/rows/alma-o.html"
+    "url": "/concepts/alma-o.html"
   },
   {
     "label": "Alma",
     "id": "alma",
-    "url": "/rows/alma.html"
+    "url": "/concepts/alma.html"
   },
   {
     "label": "ALMIR",
     "id": "almir",
-    "url": "/rows/almir.html"
+    "url": "/concepts/almir.html"
   },
   {
     "label": "Almquist shell",
     "id": "almquist-shell",
-    "url": "/rows/almquist-shell.html"
+    "url": "/concepts/almquist-shell.html"
   },
   {
     "label": "ALOHAnet",
     "id": "alohanet",
-    "url": "/rows/alohanet.html"
+    "url": "/concepts/alohanet.html"
   },
   {
     "label": "Alonzo",
     "id": "alonzo",
-    "url": "/rows/alonzo.html"
+    "url": "/concepts/alonzo.html"
   },
   {
     "label": "Alpaca",
     "id": "alpaca",
-    "url": "/rows/alpaca.html"
+    "url": "/concepts/alpaca.html"
   },
   {
     "label": "ALPAK",
     "id": "alpak",
-    "url": "/rows/alpak.html"
+    "url": "/concepts/alpak.html"
   },
   {
     "label": "Alpha",
     "id": "alpha-programming-language",
-    "url": "/rows/alpha-programming-language.html"
+    "url": "/concepts/alpha-programming-language.html"
   },
   {
     "label": "AlphaBasic",
     "id": "alphabasic",
-    "url": "/rows/alphabasic.html"
+    "url": "/concepts/alphabasic.html"
   },
   {
     "label": "AlphaPop",
     "id": "alphapop",
-    "url": "/rows/alphapop.html"
+    "url": "/concepts/alphapop.html"
   },
   {
     "label": "Alphard",
     "id": "alphard-programming-language",
-    "url": "/rows/alphard-programming-language.html"
+    "url": "/concepts/alphard-programming-language.html"
   },
   {
     "label": "AlpHard",
     "id": "alphard",
-    "url": "/rows/alphard.html"
+    "url": "/concepts/alphard.html"
   },
   {
     "label": "Alpine Abuild",
     "id": "alpine-abuild",
-    "url": "/rows/alpine-abuild.html"
+    "url": "/concepts/alpine-abuild.html"
   },
   {
     "label": "ALPS",
     "id": "alps",
-    "url": "/rows/alps.html"
+    "url": "/concepts/alps.html"
   },
   {
     "label": "ALTAC",
     "id": "altac",
-    "url": "/rows/altac.html"
+    "url": "/concepts/altac.html"
   },
   {
     "label": "Altair BASIC",
     "id": "altair-basic",
-    "url": "/rows/altair-basic.html"
+    "url": "/concepts/altair-basic.html"
   },
   {
     "label": "Altibase",
     "id": "altibase",
-    "url": "/rows/altibase.html"
+    "url": "/concepts/altibase.html"
   },
   {
     "label": "ALTRAN",
     "id": "altran",
-    "url": "/rows/altran.html"
+    "url": "/concepts/altran.html"
   },
   {
     "label": "Alumina",
     "id": "alumina",
-    "url": "/rows/alumina.html"
+    "url": "/concepts/alumina.html"
   },
   {
     "label": "amalthea",
     "id": "amalthea",
-    "url": "/rows/amalthea.html"
+    "url": "/concepts/amalthea.html"
   },
   {
     "label": "Amanda",
     "id": "amanda",
-    "url": "/rows/amanda.html"
+    "url": "/concepts/amanda.html"
   },
   {
     "label": "Amazon DynamoDB",
     "id": "amazon-dynamodb",
-    "url": "/rows/amazon-dynamodb.html"
+    "url": "/concepts/amazon-dynamodb.html"
   },
   {
     "label": "Amazon RDS",
     "id": "amazon-rds",
-    "url": "/rows/amazon-rds.html"
+    "url": "/concepts/amazon-rds.html"
   },
   {
     "label": "Amber",
     "id": "amber",
-    "url": "/rows/amber.html"
+    "url": "/concepts/amber.html"
   },
   {
     "label": "AmbientTalk",
     "id": "ambienttalk",
-    "url": "/rows/ambienttalk.html"
+    "url": "/concepts/ambienttalk.html"
   },
   {
     "label": "AMBIT/G",
     "id": "ambit-g",
-    "url": "/rows/ambit-g.html"
+    "url": "/concepts/ambit-g.html"
   },
   {
     "label": "AMBIT/L",
     "id": "ambit-l",
-    "url": "/rows/ambit-l.html"
+    "url": "/concepts/ambit-l.html"
   },
   {
     "label": "AMBIT",
     "id": "ambit",
-    "url": "/rows/ambit.html"
+    "url": "/concepts/ambit.html"
   },
   {
     "label": "AMBUSH",
     "id": "ambush",
-    "url": "/rows/ambush.html"
+    "url": "/concepts/ambush.html"
   },
   {
     "label": "Amiga E",
     "id": "amiga-e",
-    "url": "/rows/amiga-e.html"
+    "url": "/concepts/amiga-e.html"
   },
   {
     "label": "Amigas",
     "id": "amiga-programming-languages",
-    "url": "/rows/amiga-programming-languages.html"
+    "url": "/concepts/amiga-programming-languages.html"
   },
   {
     "label": "AmigaBASIC",
     "id": "amigabasic",
-    "url": "/rows/amigabasic.html"
+    "url": "/concepts/amigabasic.html"
   },
   {
     "label": "AMOS",
     "id": "amos",
-    "url": "/rows/amos.html"
+    "url": "/concepts/amos.html"
   },
   {
     "label": "Ampère's Circuital Equation",
     "id": "amperes-circuital-equation",
-    "url": "/rows/amperes-circuital-equation.html"
+    "url": "/concepts/amperes-circuital-equation.html"
   },
   {
     "label": "AMPL",
     "id": "ampl",
-    "url": "/rows/ampl.html"
+    "url": "/concepts/ampl.html"
   },
   {
     "label": "AMPPL-I",
     "id": "amppl-i",
-    "url": "/rows/amppl-i.html"
+    "url": "/concepts/amppl-i.html"
   },
   {
     "label": "AMPPL-II",
     "id": "amppl-ii",
-    "url": "/rows/amppl-ii.html"
+    "url": "/concepts/amppl-ii.html"
   },
   {
     "label": "Advanced Message Queuing Protocol",
     "id": "amqp",
-    "url": "/rows/amqp.html"
+    "url": "/concepts/amqp.html"
   },
   {
     "label": "AMTRAN 70",
     "id": "amtran-70",
-    "url": "/rows/amtran-70.html"
+    "url": "/concepts/amtran-70.html"
   },
   {
     "label": "AMTRAN",
     "id": "amtran",
-    "url": "/rows/amtran.html"
+    "url": "/concepts/amtran.html"
   },
   {
     "label": "Amulet",
     "id": "amulet",
-    "url": "/rows/amulet.html"
+    "url": "/concepts/amulet.html"
   },
   {
     "label": "ana",
     "id": "ana",
-    "url": "/rows/ana.html"
+    "url": "/concepts/ana.html"
   },
   {
     "label": "Analytical engine",
     "id": "analytical-engine-machine",
-    "url": "/rows/analytical-engine-machine.html"
+    "url": "/concepts/analytical-engine-machine.html"
   },
   {
     "label": "And/Or",
     "id": "and-or",
-    "url": "/rows/and-or.html"
+    "url": "/concepts/and-or.html"
   },
   {
     "label": "Andante",
     "id": "andante",
-    "url": "/rows/andante.html"
+    "url": "/concepts/andante.html"
   },
   {
     "label": "Andorra-I",
     "id": "andorra-i",
-    "url": "/rows/andorra-i.html"
+    "url": "/concepts/andorra-i.html"
   },
   {
     "label": "Andorra",
     "id": "andorra",
-    "url": "/rows/andorra.html"
+    "url": "/concepts/andorra.html"
   },
   {
     "label": "Android",
     "id": "android",
-    "url": "/rows/android.html"
+    "url": "/concepts/android.html"
   },
   {
     "label": "Angelscript",
     "id": "angelscript",
-    "url": "/rows/angelscript.html"
+    "url": "/concepts/angelscript.html"
   },
   {
     "label": "angr",
     "id": "angr",
-    "url": "/rows/angr.html"
+    "url": "/concepts/angr.html"
   },
   {
     "label": "ANNA",
     "id": "anna",
-    "url": "/rows/anna.html"
+    "url": "/concepts/anna.html"
   },
   {
     "label": "ANS MUMPS",
     "id": "ans-mumps",
-    "url": "/rows/ans-mumps.html"
+    "url": "/concepts/ans-mumps.html"
   },
   {
     "label": "ANSI BASIC",
     "id": "ansi-basic",
-    "url": "/rows/ansi-basic.html"
+    "url": "/concepts/ansi-basic.html"
   },
   {
     "label": "Ant Build System",
     "id": "ant-build-system",
-    "url": "/rows/ant-build-system.html"
+    "url": "/concepts/ant-build-system.html"
   },
   {
     "label": "Ante",
     "id": "ante-esolang",
-    "url": "/rows/ante-esolang.html"
+    "url": "/concepts/ante-esolang.html"
   },
   {
     "label": "Ante",
     "id": "ante",
-    "url": "/rows/ante.html"
+    "url": "/concepts/ante.html"
   },
   {
     "label": "antha",
     "id": "antha",
-    "url": "/rows/antha.html"
+    "url": "/concepts/antha.html"
   },
   {
     "label": "ANTLR",
     "id": "antlr",
-    "url": "/rows/antlr.html"
+    "url": "/concepts/antlr.html"
   },
   {
     "label": "Apache Cassandra",
     "id": "apache-cassandra",
-    "url": "/rows/apache-cassandra.html"
+    "url": "/concepts/apache-cassandra.html"
   },
   {
     "label": "Apache Derby",
     "id": "apache-derby",
-    "url": "/rows/apache-derby.html"
+    "url": "/concepts/apache-derby.html"
   },
   {
     "label": "Apache Hbase",
     "id": "apache-hbase",
-    "url": "/rows/apache-hbase.html"
+    "url": "/concepts/apache-hbase.html"
   },
   {
     "label": "Apache Phoenix",
     "id": "apache-phoenix",
-    "url": "/rows/apache-phoenix.html"
+    "url": "/concepts/apache-phoenix.html"
   },
   {
     "label": "Velocity",
     "id": "apache-velocity",
-    "url": "/rows/apache-velocity.html"
+    "url": "/concepts/apache-velocity.html"
   },
   {
     "label": "APACHE",
     "id": "apache",
-    "url": "/rows/apache.html"
+    "url": "/concepts/apache.html"
   },
   {
     "label": "ApacheConf",
     "id": "apacheconf",
-    "url": "/rows/apacheconf.html"
+    "url": "/concepts/apacheconf.html"
   },
   {
     "label": "APAR",
     "id": "apar",
-    "url": "/rows/apar.html"
+    "url": "/concepts/apar.html"
   },
   {
     "label": "APAREL",
     "id": "aparel",
-    "url": "/rows/aparel.html"
+    "url": "/concepts/aparel.html"
   },
   {
     "label": "APE100",
     "id": "ape100",
-    "url": "/rows/ape100.html"
+    "url": "/concepts/ape100.html"
   },
   {
     "label": "ApeScript",
     "id": "apescript",
-    "url": "/rows/apescript.html"
+    "url": "/concepts/apescript.html"
   },
   {
     "label": "Apex",
     "id": "apex",
-    "url": "/rows/apex.html"
+    "url": "/concepts/apex.html"
   },
   {
     "label": "API Blueprint",
     "id": "api-blueprint",
-    "url": "/rows/api-blueprint.html"
+    "url": "/concepts/api-blueprint.html"
   },
   {
     "label": "APL-GPSS",
     "id": "apl-gpss",
-    "url": "/rows/apl-gpss.html"
+    "url": "/concepts/apl-gpss.html"
   },
   {
     "label": "APL/HP",
     "id": "apl-hp",
-    "url": "/rows/apl-hp.html"
+    "url": "/concepts/apl-hp.html"
   },
   {
     "label": "APL/Z80",
     "id": "apl-z80",
-    "url": "/rows/apl-z80.html"
+    "url": "/concepts/apl-z80.html"
   },
   {
     "label": "APL",
     "id": "apl",
-    "url": "/rows/apl.html"
+    "url": "/concepts/apl.html"
   },
   {
     "label": "APL2",
     "id": "apl2",
-    "url": "/rows/apl2.html"
+    "url": "/concepts/apl2.html"
   },
   {
     "label": "aplette",
     "id": "aplette",
-    "url": "/rows/aplette.html"
+    "url": "/concepts/aplette.html"
   },
   {
     "label": "APLGOL-2",
     "id": "aplgol-2",
-    "url": "/rows/aplgol-2.html"
+    "url": "/concepts/aplgol-2.html"
   },
   {
     "label": "APLGOL",
     "id": "aplgol",
-    "url": "/rows/aplgol.html"
+    "url": "/concepts/aplgol.html"
   },
   {
     "label": "APLO",
     "id": "aplo",
-    "url": "/rows/aplo.html"
+    "url": "/concepts/aplo.html"
   },
   {
     "label": "A+",
     "id": "aplus",
-    "url": "/rows/aplus.html"
+    "url": "/concepts/aplus.html"
   },
   {
     "label": "A++",
     "id": "aplusplus",
-    "url": "/rows/aplusplus.html"
+    "url": "/concepts/aplusplus.html"
   },
   {
     "label": "APLX",
     "id": "aplx",
-    "url": "/rows/aplx.html"
+    "url": "/concepts/aplx.html"
   },
   {
     "label": "AGC",
     "id": "apollo-guidance-computer",
-    "url": "/rows/apollo-guidance-computer.html"
+    "url": "/concepts/apollo-guidance-computer.html"
   },
   {
     "label": "APOSTLE",
     "id": "apostle",
-    "url": "/rows/apostle.html"
+    "url": "/concepts/apostle.html"
   },
   {
     "label": "appcode-editor",
     "id": "appcode-editor",
-    "url": "/rows/appcode-editor.html"
+    "url": "/concepts/appcode-editor.html"
   },
   {
     "label": "APPL/A",
     "id": "appl-a",
-    "url": "/rows/appl-a.html"
+    "url": "/concepts/appl-a.html"
   },
   {
     "label": "Apple I",
     "id": "apple-1-machine",
-    "url": "/rows/apple-1-machine.html"
+    "url": "/concepts/apple-1-machine.html"
   },
   {
     "label": "Apple BASIC",
     "id": "apple-basic",
-    "url": "/rows/apple-basic.html"
+    "url": "/concepts/apple-basic.html"
   },
   {
     "label": "Apple ProDOS",
     "id": "apple-prodos",
-    "url": "/rows/apple-prodos.html"
+    "url": "/concepts/apple-prodos.html"
   },
   {
     "label": "Applescript",
     "id": "applescript",
-    "url": "/rows/applescript.html"
+    "url": "/concepts/applescript.html"
   },
   {
     "label": "Applesoft BASIC",
     "id": "applesoft-basic",
-    "url": "/rows/applesoft-basic.html"
+    "url": "/concepts/applesoft-basic.html"
   },
   {
     "label": "APPLOG",
     "id": "applog",
-    "url": "/rows/applog.html"
+    "url": "/concepts/applog.html"
   },
   {
     "label": "april",
     "id": "april",
-    "url": "/rows/april.html"
+    "url": "/concepts/april.html"
   },
   {
     "label": "APROL",
     "id": "aprol",
-    "url": "/rows/aprol.html"
+    "url": "/concepts/aprol.html"
   },
   {
     "label": "APSE",
     "id": "apse",
-    "url": "/rows/apse.html"
+    "url": "/concepts/apse.html"
   },
   {
     "label": "APT Debian",
     "id": "apt-pm",
-    "url": "/rows/apt-pm.html"
+    "url": "/concepts/apt-pm.html"
   },
   {
     "label": "Automatically Programmed Tool",
     "id": "apt",
-    "url": "/rows/apt.html"
+    "url": "/concepts/apt.html"
   },
   {
     "label": "aQasm",
     "id": "aqasm",
-    "url": "/rows/aqasm.html"
+    "url": "/concepts/aqasm.html"
   },
   {
     "label": "AQL",
     "id": "aql",
-    "url": "/rows/aql.html"
+    "url": "/concepts/aql.html"
   },
   {
     "label": "Aquarius Prolog",
     "id": "aquarius-prolog",
-    "url": "/rows/aquarius-prolog.html"
+    "url": "/concepts/aquarius-prolog.html"
   },
   {
     "label": "Hindu-Arabic numeral system",
     "id": "arabic-numerals",
-    "url": "/rows/arabic-numerals.html"
+    "url": "/concepts/arabic-numerals.html"
   },
   {
     "label": "ARABLAN",
     "id": "arablan",
-    "url": "/rows/arablan.html"
+    "url": "/concepts/arablan.html"
   },
   {
     "label": "ArangoDB",
     "id": "arango-db",
-    "url": "/rows/arango-db.html"
+    "url": "/concepts/arango-db.html"
   },
   {
     "label": "arbortext-command-language",
     "id": "arbortext-command-language",
-    "url": "/rows/arbortext-command-language.html"
+    "url": "/concepts/arbortext-command-language.html"
   },
   {
     "label": "Arc Assembly",
     "id": "arc-assembly",
-    "url": "/rows/arc-assembly.html"
+    "url": "/concepts/arc-assembly.html"
   },
   {
     "label": "ARC processor",
     "id": "arc-isa",
-    "url": "/rows/arc-isa.html"
+    "url": "/concepts/arc-isa.html"
   },
   {
     "label": "Arc",
     "id": "arc",
-    "url": "/rows/arc.html"
+    "url": "/concepts/arc.html"
   },
   {
     "label": "ARCHI",
     "id": "archi",
-    "url": "/rows/archi.html"
+    "url": "/concepts/archi.html"
   },
   {
     "label": "ArchieML",
     "id": "archieml",
-    "url": "/rows/archieml.html"
+    "url": "/concepts/archieml.html"
   },
   {
     "label": "Arctic",
     "id": "arctic",
-    "url": "/rows/arctic.html"
+    "url": "/concepts/arctic.html"
   },
   {
     "label": "Arden syntax",
     "id": "arden-syntax",
-    "url": "/rows/arden-syntax.html"
+    "url": "/concepts/arden-syntax.html"
   },
   {
     "label": "Arduino Programming Language",
     "id": "arduino",
-    "url": "/rows/arduino.html"
+    "url": "/concepts/arduino.html"
   },
   {
     "label": "arend",
     "id": "arend",
-    "url": "/rows/arend.html"
+    "url": "/concepts/arend.html"
   },
   {
     "label": "aretext",
     "id": "aretext",
-    "url": "/rows/aretext.html"
+    "url": "/concepts/aretext.html"
   },
   {
     "label": "ARexx",
     "id": "arexx",
-    "url": "/rows/arexx.html"
+    "url": "/concepts/arexx.html"
   },
   {
     "label": "arezzo-notation",
     "id": "arezzo-notation",
-    "url": "/rows/arezzo-notation.html"
+    "url": "/concepts/arezzo-notation.html"
   },
   {
     "label": "Argdown",
     "id": "argdown",
-    "url": "/rows/argdown.html"
+    "url": "/concepts/argdown.html"
   },
   {
     "label": "Argon",
     "id": "argon",
-    "url": "/rows/argon.html"
+    "url": "/concepts/argon.html"
   },
   {
     "label": "Argos",
     "id": "argos",
-    "url": "/rows/argos.html"
+    "url": "/concepts/argos.html"
   },
   {
     "label": "Argus",
     "id": "argus",
-    "url": "/rows/argus.html"
+    "url": "/concepts/argus.html"
   },
   {
     "label": "ARITH-MATIC",
     "id": "arith-matic",
-    "url": "/rows/arith-matic.html"
+    "url": "/concepts/arith-matic.html"
   },
   {
     "label": "Arjuna",
     "id": "arjuna",
-    "url": "/rows/arjuna.html"
+    "url": "/concepts/arjuna.html"
   },
   {
     "label": "Ark",
     "id": "ark-lang",
-    "url": "/rows/ark-lang.html"
+    "url": "/concepts/ark-lang.html"
   },
   {
     "label": "ARK",
     "id": "ark",
-    "url": "/rows/ark.html"
+    "url": "/concepts/ark.html"
   },
   {
     "label": "ArkScript",
     "id": "arkscript",
-    "url": "/rows/arkscript.html"
+    "url": "/concepts/arkscript.html"
   },
   {
     "label": "ARM Templates",
     "id": "arm-templates",
-    "url": "/rows/arm-templates.html"
+    "url": "/concepts/arm-templates.html"
   },
   {
     "label": "ARM",
     "id": "arm",
-    "url": "/rows/arm.html"
+    "url": "/concepts/arm.html"
   },
   {
     "label": "Armani",
     "id": "armani",
-    "url": "/rows/armani.html"
+    "url": "/concepts/armani.html"
   },
   {
     "label": "arret",
     "id": "arret",
-    "url": "/rows/arret.html"
+    "url": "/concepts/arret.html"
   },
   {
     "label": "Apache Arrow",
     "id": "arrow-format",
-    "url": "/rows/arrow-format.html"
+    "url": "/concepts/arrow-format.html"
   },
   {
     "label": "arrow",
     "id": "arrow",
-    "url": "/rows/arrow.html"
+    "url": "/concepts/arrow.html"
   },
   {
     "label": "ARTA",
     "id": "arta",
-    "url": "/rows/arta.html"
+    "url": "/concepts/arta.html"
   },
   {
     "label": "ARTSPEAK",
     "id": "artspeak",
-    "url": "/rows/artspeak.html"
+    "url": "/concepts/artspeak.html"
   },
   {
     "label": "Arturo",
     "id": "arturo",
-    "url": "/rows/arturo.html"
+    "url": "/concepts/arturo.html"
   },
   {
     "label": "arvelie-format",
     "id": "arvelie-format",
-    "url": "/rows/arvelie-format.html"
+    "url": "/concepts/arvelie-format.html"
   },
   {
     "label": "ASCII Armor",
     "id": "ascii-armor",
-    "url": "/rows/ascii-armor.html"
+    "url": "/concepts/ascii-armor.html"
   },
   {
     "label": "ASCII",
     "id": "ascii",
-    "url": "/rows/ascii.html"
+    "url": "/concepts/ascii.html"
   },
   {
     "label": "AsciiDoc",
     "id": "asciidoc",
-    "url": "/rows/asciidoc.html"
+    "url": "/concepts/asciidoc.html"
   },
   {
     "label": "AsciiDots",
     "id": "asciidots",
-    "url": "/rows/asciidots.html"
+    "url": "/concepts/asciidots.html"
   },
   {
     "label": "AsciiMath",
     "id": "asciimath",
-    "url": "/rows/asciimath.html"
+    "url": "/concepts/asciimath.html"
   },
   {
     "label": "ASDF",
     "id": "asdf",
-    "url": "/rows/asdf.html"
+    "url": "/concepts/asdf.html"
   },
   {
     "label": "ASF+SDF",
     "id": "asf-sdf",
-    "url": "/rows/asf-sdf.html"
+    "url": "/concepts/asf-sdf.html"
   },
   {
     "label": "ASHMEDAI",
     "id": "ashmedai",
-    "url": "/rows/ashmedai.html"
+    "url": "/concepts/ashmedai.html"
   },
   {
     "label": "ASIC",
     "id": "asic-programming-language",
-    "url": "/rows/asic-programming-language.html"
+    "url": "/concepts/asic-programming-language.html"
   },
   {
     "label": "Asm.js",
     "id": "asmjs",
-    "url": "/rows/asmjs.html"
+    "url": "/concepts/asmjs.html"
   },
   {
     "label": "ASN.1",
     "id": "asn-1",
-    "url": "/rows/asn-1.html"
+    "url": "/concepts/asn-1.html"
   },
   {
     "label": "ASP.NET",
     "id": "asp.net",
-    "url": "/rows/asp.net.html"
+    "url": "/concepts/asp.net.html"
   },
   {
     "label": "ASP",
     "id": "asp",
-    "url": "/rows/asp.html"
+    "url": "/concepts/asp.html"
   },
   {
     "label": "AspectC++",
     "id": "aspectcpp",
-    "url": "/rows/aspectcpp.html"
+    "url": "/concepts/aspectcpp.html"
   },
   {
     "label": "AspectJ",
     "id": "aspectj",
-    "url": "/rows/aspectj.html"
+    "url": "/concepts/aspectj.html"
   },
   {
     "label": "ASPEN",
     "id": "aspen",
-    "url": "/rows/aspen.html"
+    "url": "/concepts/aspen.html"
   },
   {
     "label": "ASPOL",
     "id": "aspol",
-    "url": "/rows/aspol.html"
+    "url": "/concepts/aspol.html"
   },
   {
     "label": "Assembly language",
     "id": "assembly-language",
-    "url": "/rows/assembly-language.html"
+    "url": "/concepts/assembly-language.html"
   },
   {
     "label": "AssemblyScript",
     "id": "assemblyscript",
-    "url": "/rows/assemblyscript.html"
+    "url": "/concepts/assemblyscript.html"
   },
   {
     "label": "associons",
     "id": "associons",
-    "url": "/rows/associons.html"
+    "url": "/concepts/associons.html"
   },
   {
     "label": "Asspegique",
     "id": "asspegique",
-    "url": "/rows/asspegique.html"
+    "url": "/concepts/asspegique.html"
   },
   {
     "label": "Astatine",
     "id": "astatine",
-    "url": "/rows/astatine.html"
+    "url": "/concepts/astatine.html"
   },
   {
     "label": "Asterisk",
     "id": "asterisk",
-    "url": "/rows/asterisk.html"
+    "url": "/concepts/asterisk.html"
   },
   {
     "label": "asterius-compiler",
     "id": "asterius-compiler",
-    "url": "/rows/asterius-compiler.html"
+    "url": "/concepts/asterius-compiler.html"
   },
   {
     "label": "ASTLOG",
     "id": "astlog",
-    "url": "/rows/astlog.html"
+    "url": "/concepts/astlog.html"
   },
   {
     "label": "astro",
     "id": "astro",
-    "url": "/rows/astro.html"
+    "url": "/concepts/astro.html"
   },
   {
     "label": "astroml",
     "id": "astroml",
-    "url": "/rows/astroml.html"
+    "url": "/concepts/astroml.html"
   },
   {
     "label": "Asymptote",
     "id": "asymptote",
-    "url": "/rows/asymptote.html"
+    "url": "/concepts/asymptote.html"
   },
   {
     "label": "Atari BASIC",
     "id": "atari-basic",
-    "url": "/rows/atari-basic.html"
+    "url": "/concepts/atari-basic.html"
   },
   {
     "label": "Atari Microsoft BASIC",
     "id": "atari-microsoft-basic",
-    "url": "/rows/atari-microsoft-basic.html"
+    "url": "/concepts/atari-microsoft-basic.html"
   },
   {
     "label": "Atari ST BASIC",
     "id": "atari-st-basic",
-    "url": "/rows/atari-st-basic.html"
+    "url": "/concepts/atari-st-basic.html"
   },
   {
     "label": "Atlas Autocode",
     "id": "atlas-autocode",
-    "url": "/rows/atlas-autocode.html"
+    "url": "/concepts/atlas-autocode.html"
   },
   {
     "label": "ATLAS Transformation Language",
     "id": "atlas",
-    "url": "/rows/atlas.html"
+    "url": "/concepts/atlas.html"
   },
   {
     "label": "Atmel AVR",
     "id": "atmel-avr",
-    "url": "/rows/atmel-avr.html"
+    "url": "/concepts/atmel-avr.html"
   },
   {
     "label": "ATOL",
     "id": "atol",
-    "url": "/rows/atol.html"
+    "url": "/concepts/atol.html"
   },
   {
     "label": "Atom",
     "id": "atom-editor",
-    "url": "/rows/atom-editor.html"
+    "url": "/concepts/atom-editor.html"
   },
   {
     "label": "Atom",
     "id": "atom",
-    "url": "/rows/atom.html"
+    "url": "/concepts/atom.html"
   },
   {
     "label": "Atomese",
     "id": "atomese",
-    "url": "/rows/atomese.html"
+    "url": "/concepts/atomese.html"
   },
   {
     "label": "atomo",
     "id": "atomo",
-    "url": "/rows/atomo.html"
+    "url": "/concepts/atomo.html"
   },
   {
     "label": "Atomos",
     "id": "atomos",
-    "url": "/rows/atomos.html"
+    "url": "/concepts/atomos.html"
   },
   {
     "label": "atomspace",
     "id": "atomspace",
-    "url": "/rows/atomspace.html"
+    "url": "/concepts/atomspace.html"
   },
   {
     "label": "ATS",
     "id": "ats",
-    "url": "/rows/ats.html"
+    "url": "/concepts/ats.html"
   },
   {
     "label": "Attic numerals",
     "id": "attic-numerals",
-    "url": "/rows/attic-numerals.html"
+    "url": "/concepts/attic-numerals.html"
   },
   {
     "label": "attoparsec",
     "id": "attoparsec",
-    "url": "/rows/attoparsec.html"
+    "url": "/concepts/attoparsec.html"
   },
   {
     "label": "atx",
     "id": "atx",
-    "url": "/rows/atx.html"
+    "url": "/concepts/atx.html"
   },
   {
     "label": "aubit-4gl",
     "id": "aubit-4gl",
-    "url": "/rows/aubit-4gl.html"
+    "url": "/concepts/aubit-4gl.html"
   },
   {
     "label": "Augeas",
     "id": "augeas",
-    "url": "/rows/augeas.html"
+    "url": "/concepts/augeas.html"
   },
   {
     "label": "Augment",
     "id": "augment",
-    "url": "/rows/augment.html"
+    "url": "/concepts/augment.html"
   },
   {
     "label": "AUI",
     "id": "aui",
-    "url": "/rows/aui.html"
+    "url": "/concepts/aui.html"
   },
   {
     "label": "AUR",
     "id": "aur-pm",
-    "url": "/rows/aur-pm.html"
+    "url": "/concepts/aur-pm.html"
   },
   {
     "label": "Aurora",
     "id": "aurora",
-    "url": "/rows/aurora.html"
+    "url": "/concepts/aurora.html"
   },
   {
     "label": "Austral",
     "id": "austral",
-    "url": "/rows/austral.html"
+    "url": "/concepts/austral.html"
   },
   {
     "label": "AUTASIM",
     "id": "autasim",
-    "url": "/rows/autasim.html"
+    "url": "/concepts/autasim.html"
   },
   {
     "label": "AUTOCAD",
     "id": "autocad-app",
-    "url": "/rows/autocad-app.html"
+    "url": "/concepts/autocad-app.html"
   },
   {
     "label": "Autocode",
     "id": "autocode",
-    "url": "/rows/autocode.html"
+    "url": "/concepts/autocode.html"
   },
   {
     "label": "AUTOCODER II",
     "id": "autocoder-ii",
-    "url": "/rows/autocoder-ii.html"
+    "url": "/concepts/autocoder-ii.html"
   },
   {
     "label": "AUTOCODER III",
     "id": "autocoder-iii",
-    "url": "/rows/autocoder-iii.html"
+    "url": "/concepts/autocoder-iii.html"
   },
   {
     "label": "AUTOCODER",
     "id": "autocoder",
-    "url": "/rows/autocoder.html"
+    "url": "/concepts/autocoder.html"
   },
   {
     "label": "Autoconf",
     "id": "autoconf",
-    "url": "/rows/autoconf.html"
+    "url": "/concepts/autoconf.html"
   },
   {
     "label": "AUTODRAFT",
     "id": "autodraft",
-    "url": "/rows/autodraft.html"
+    "url": "/concepts/autodraft.html"
   },
   {
     "label": "AUTOGRP",
     "id": "autogrp",
-    "url": "/rows/autogrp.html"
+    "url": "/concepts/autogrp.html"
   },
   {
     "label": "AutoHotkey",
     "id": "autohotkey",
-    "url": "/rows/autohotkey.html"
+    "url": "/concepts/autohotkey.html"
   },
   {
     "label": "AutoIt",
     "id": "autoit",
-    "url": "/rows/autoit.html"
+    "url": "/concepts/autoit.html"
   },
   {
     "label": "AutoLISP",
     "id": "autolisp",
-    "url": "/rows/autolisp.html"
+    "url": "/concepts/autolisp.html"
   },
   {
     "label": "AUTOLOFT",
     "id": "autoloft",
-    "url": "/rows/autoloft.html"
+    "url": "/concepts/autoloft.html"
   },
   {
     "label": "AUTOMAST",
     "id": "automast",
-    "url": "/rows/automast.html"
+    "url": "/concepts/automast.html"
   },
   {
     "label": "Automator",
     "id": "automator",
-    "url": "/rows/automator.html"
+    "url": "/concepts/automator.html"
   },
   {
     "label": "AUTOmatic PROgramming of Machine Tools",
     "id": "autopromt",
-    "url": "/rows/autopromt.html"
+    "url": "/concepts/autopromt.html"
   },
   {
     "label": "Avail",
     "id": "avail",
-    "url": "/rows/avail.html"
+    "url": "/concepts/avail.html"
   },
   {
     "label": "Avalon/Common LISP",
     "id": "avalon-common-lisp",
-    "url": "/rows/avalon-common-lisp.html"
+    "url": "/concepts/avalon-common-lisp.html"
   },
   {
     "label": "Averest",
     "id": "averest",
-    "url": "/rows/averest.html"
+    "url": "/concepts/averest.html"
   },
   {
     "label": "AviSynth",
     "id": "avi-synth",
-    "url": "/rows/avi-synth.html"
+    "url": "/concepts/avi-synth.html"
   },
   {
     "label": "Atmel AVR instruction set",
     "id": "avr",
-    "url": "/rows/avr.html"
+    "url": "/concepts/avr.html"
   },
   {
     "label": "avro",
     "id": "avro",
-    "url": "/rows/avro.html"
+    "url": "/concepts/avro.html"
   },
   {
     "label": "awk",
     "id": "awk",
-    "url": "/rows/awk.html"
+    "url": "/concepts/awk.html"
   },
   {
     "label": "awl",
     "id": "awl",
-    "url": "/rows/awl.html"
+    "url": "/concepts/awl.html"
   },
   {
     "label": "AWS",
     "id": "aws",
-    "url": "/rows/aws.html"
+    "url": "/concepts/aws.html"
   },
   {
     "label": "axcess",
     "id": "axcess",
-    "url": "/rows/axcess.html"
+    "url": "/concepts/axcess.html"
   },
   {
     "label": "Axiom",
     "id": "axiom-computer-algebra-system",
-    "url": "/rows/axiom-computer-algebra-system.html"
+    "url": "/concepts/axiom-computer-algebra-system.html"
   },
   {
     "label": "AXIOM",
     "id": "axiom",
-    "url": "/rows/axiom.html"
+    "url": "/concepts/axiom.html"
   },
   {
     "label": "axt-format",
     "id": "axt-format",
-    "url": "/rows/axt-format.html"
+    "url": "/concepts/axt-format.html"
   },
   {
     "label": "Aztec C",
     "id": "aztec-c",
-    "url": "/rows/aztec-c.html"
+    "url": "/concepts/aztec-c.html"
   },
   {
     "label": "Microsoft Azure",
     "id": "azure",
-    "url": "/rows/azure.html"
+    "url": "/concepts/azure.html"
   },
   {
     "label": "B-LINE",
     "id": "b-line",
-    "url": "/rows/b-line.html"
+    "url": "/concepts/b-line.html"
   },
   {
     "label": "B",
     "id": "b",
-    "url": "/rows/b.html"
+    "url": "/concepts/b.html"
   },
   {
     "label": "B3 IR",
     "id": "b3-ir",
-    "url": "/rows/b3-ir.html"
+    "url": "/concepts/b3-ir.html"
   },
   {
     "label": "B32 Business Basic",
     "id": "b32-business-basic",
-    "url": "/rows/b32-business-basic.html"
+    "url": "/concepts/b32-business-basic.html"
   },
   {
     "label": "B4Tran",
     "id": "b4tran",
-    "url": "/rows/b4tran.html"
+    "url": "/concepts/b4tran.html"
   },
   {
     "label": "BABEL",
     "id": "babel",
-    "url": "/rows/babel.html"
+    "url": "/concepts/babel.html"
   },
   {
     "label": "Baby modula-3",
     "id": "baby-modula-3",
-    "url": "/rows/baby-modula-3.html"
+    "url": "/concepts/baby-modula-3.html"
   },
   {
     "label": "Babylonian numerals",
     "id": "babylonian-numerals",
-    "url": "/rows/babylonian-numerals.html"
+    "url": "/concepts/babylonian-numerals.html"
   },
   {
     "label": "BACK",
     "id": "back",
-    "url": "/rows/back.html"
+    "url": "/concepts/back.html"
   },
   {
     "label": "badlanguage",
     "id": "badlanguage",
-    "url": "/rows/badlanguage.html"
+    "url": "/concepts/badlanguage.html"
   },
   {
     "label": "bag-format",
     "id": "bag-format",
-    "url": "/rows/bag-format.html"
+    "url": "/concepts/bag-format.html"
   },
   {
     "label": "Balanced ternary",
     "id": "balanced-ternary-notation",
-    "url": "/rows/balanced-ternary-notation.html"
+    "url": "/concepts/balanced-ternary-notation.html"
   },
   {
     "label": "BALG",
     "id": "balg",
-    "url": "/rows/balg.html"
+    "url": "/concepts/balg.html"
   },
   {
     "label": "BALGOL",
     "id": "balgol",
-    "url": "/rows/balgol.html"
+    "url": "/concepts/balgol.html"
   },
   {
     "label": "BaLinda Lisp",
     "id": "balinda-lisp",
-    "url": "/rows/balinda-lisp.html"
+    "url": "/concepts/balinda-lisp.html"
   },
   {
     "label": "ballerina-central-pm",
     "id": "ballerina-central-pm",
-    "url": "/rows/ballerina-central-pm.html"
+    "url": "/concepts/ballerina-central-pm.html"
   },
   {
     "label": "Ballerina",
     "id": "ballerina",
-    "url": "/rows/ballerina.html"
+    "url": "/concepts/ballerina.html"
   },
   {
     "label": "BALM",
     "id": "balm",
-    "url": "/rows/balm.html"
+    "url": "/concepts/balm.html"
   },
   {
     "label": "BALSA",
     "id": "balsa",
-    "url": "/rows/balsa.html"
+    "url": "/concepts/balsa.html"
   },
   {
     "label": "baltazar",
     "id": "baltazar",
-    "url": "/rows/baltazar.html"
+    "url": "/concepts/baltazar.html"
   },
   {
     "label": "Baltík",
     "id": "baltik",
-    "url": "/rows/baltik.html"
+    "url": "/concepts/baltik.html"
   },
   {
     "label": "Binary Alignment Map",
     "id": "bam-format",
-    "url": "/rows/bam-format.html"
+    "url": "/concepts/bam-format.html"
   },
   {
     "label": "bamboo",
     "id": "bamboo",
-    "url": "/rows/bamboo.html"
+    "url": "/concepts/bamboo.html"
   },
   {
     "label": "BANCStar",
     "id": "bancstar-programming-language",
-    "url": "/rows/bancstar-programming-language.html"
+    "url": "/concepts/bancstar-programming-language.html"
   },
   {
     "label": "BARE",
     "id": "bare",
-    "url": "/rows/bare.html"
+    "url": "/concepts/bare.html"
   },
   {
     "label": "Barrel",
     "id": "barrel",
-    "url": "/rows/barrel.html"
+    "url": "/concepts/barrel.html"
   },
   {
     "label": "Bartok",
     "id": "bartok",
-    "url": "/rows/bartok.html"
+    "url": "/concepts/bartok.html"
   },
   {
     "label": "Base64",
     "id": "base64",
-    "url": "/rows/base64.html"
+    "url": "/concepts/base64.html"
   },
   {
     "label": "BASEBALL",
     "id": "baseball",
-    "url": "/rows/baseball.html"
+    "url": "/concepts/baseball.html"
   },
   {
     "label": "BASEL",
     "id": "basel",
-    "url": "/rows/basel.html"
+    "url": "/concepts/basel.html"
   },
   {
     "label": "Bash",
     "id": "bash",
-    "url": "/rows/bash.html"
+    "url": "/concepts/bash.html"
   },
   {
     "label": "BASIC-11",
     "id": "basic-11",
-    "url": "/rows/basic-11.html"
+    "url": "/concepts/basic-11.html"
   },
   {
     "label": "Basic-256",
     "id": "basic-256",
-    "url": "/rows/basic-256.html"
+    "url": "/concepts/basic-256.html"
   },
   {
     "label": "BASIC A+",
     "id": "basic-ap",
-    "url": "/rows/basic-ap.html"
+    "url": "/concepts/basic-ap.html"
   },
   {
     "label": "BASIC-E",
     "id": "basic-e",
-    "url": "/rows/basic-e.html"
+    "url": "/concepts/basic-e.html"
   },
   {
     "label": "Basic PDP-1 Lisp",
     "id": "basic-pdp-1-lisp",
-    "url": "/rows/basic-pdp-1-lisp.html"
+    "url": "/concepts/basic-pdp-1-lisp.html"
   },
   {
     "label": "BASIC-PLUS",
     "id": "basic-plus",
-    "url": "/rows/basic-plus.html"
+    "url": "/concepts/basic-plus.html"
   },
   {
     "label": "BASIC Programming",
     "id": "basic-programming",
-    "url": "/rows/basic-programming.html"
+    "url": "/concepts/basic-programming.html"
   },
   {
     "label": "BASIC Stamp",
     "id": "basic-stamp",
-    "url": "/rows/basic-stamp.html"
+    "url": "/concepts/basic-stamp.html"
   },
   {
     "label": "BASIC",
     "id": "basic",
-    "url": "/rows/basic.html"
+    "url": "/concepts/basic.html"
   },
   {
     "label": "BASIC09",
     "id": "basic09",
-    "url": "/rows/basic09.html"
+    "url": "/concepts/basic09.html"
   },
   {
     "label": "Basic4android",
     "id": "basic4android",
-    "url": "/rows/basic4android.html"
+    "url": "/concepts/basic4android.html"
   },
   {
     "label": "Basic4GL",
     "id": "basic4gl",
-    "url": "/rows/basic4gl.html"
+    "url": "/concepts/basic4gl.html"
   },
   {
     "label": "Basic4ppc",
     "id": "basic4ppc",
-    "url": "/rows/basic4ppc.html"
+    "url": "/concepts/basic4ppc.html"
   },
   {
     "label": "BASICODE",
     "id": "basicode",
-    "url": "/rows/basicode.html"
+    "url": "/concepts/basicode.html"
   },
   {
     "label": "BasicX",
     "id": "basicx",
-    "url": "/rows/basicx.html"
+    "url": "/concepts/basicx.html"
   },
   {
     "label": "BASIL",
     "id": "basil",
-    "url": "/rows/basil.html"
+    "url": "/concepts/basil.html"
   },
   {
     "label": "Basis Codec",
     "id": "basis-universal-format",
-    "url": "/rows/basis-universal-format.html"
+    "url": "/concepts/basis-universal-format.html"
   },
   {
     "label": "Batari Basic",
     "id": "batari-basic",
-    "url": "/rows/batari-basic.html"
+    "url": "/concepts/batari-basic.html"
   },
   {
     "label": "Batchfile",
     "id": "batch",
-    "url": "/rows/batch.html"
+    "url": "/concepts/batch.html"
   },
   {
     "label": "Battlestar",
     "id": "battlestar",
-    "url": "/rows/battlestar.html"
+    "url": "/concepts/battlestar.html"
   },
   {
     "label": "bawk",
     "id": "bawk",
-    "url": "/rows/bawk.html"
+    "url": "/concepts/bawk.html"
   },
   {
     "label": "Bayer Expressions",
     "id": "bayer-expressions",
-    "url": "/rows/bayer-expressions.html"
+    "url": "/concepts/bayer-expressions.html"
   },
   {
     "label": "Bayes' Equation",
     "id": "bayes-equation",
-    "url": "/rows/bayes-equation.html"
+    "url": "/concepts/bayes-equation.html"
   },
   {
     "label": "baysick",
     "id": "baysick",
-    "url": "/rows/baysick.html"
+    "url": "/concepts/baysick.html"
   },
   {
     "label": "Bazel",
     "id": "bazel",
-    "url": "/rows/bazel.html"
+    "url": "/concepts/bazel.html"
   },
   {
     "label": "BBC BASIC",
     "id": "bbc-basic",
-    "url": "/rows/bbc-basic.html"
+    "url": "/concepts/bbc-basic.html"
   },
   {
     "label": "BBCode",
     "id": "bbcode",
-    "url": "/rows/bbcode.html"
+    "url": "/concepts/bbcode.html"
   },
   {
     "label": "BBj",
     "id": "bbj",
-    "url": "/rows/bbj.html"
+    "url": "/concepts/bbj.html"
   },
   {
     "label": "BBN-LISP",
     "id": "bbn-lisp",
-    "url": "/rows/bbn-lisp.html"
+    "url": "/concepts/bbn-lisp.html"
   },
   {
     "label": "BBx",
     "id": "bbx",
-    "url": "/rows/bbx.html"
+    "url": "/concepts/bbx.html"
   },
   {
     "label": "BC NELIAC",
     "id": "bc-neliac",
-    "url": "/rows/bc-neliac.html"
+    "url": "/concepts/bc-neliac.html"
   },
   {
     "label": "basic calculator",
     "id": "bc",
-    "url": "/rows/bc.html"
+    "url": "/concepts/bc.html"
   },
   {
     "label": "BCPL",
     "id": "bcpl",
-    "url": "/rows/bcpl.html"
+    "url": "/concepts/bcpl.html"
   },
   {
     "label": "BCX",
     "id": "bcx",
-    "url": "/rows/bcx.html"
+    "url": "/concepts/bcx.html"
   },
   {
     "label": "BDL",
     "id": "bdl",
-    "url": "/rows/bdl.html"
+    "url": "/concepts/bdl.html"
   },
   {
     "label": "beads-lang",
     "id": "beads-lang",
-    "url": "/rows/beads-lang.html"
+    "url": "/concepts/beads-lang.html"
   },
   {
     "label": "beagle",
     "id": "beagle",
-    "url": "/rows/beagle.html"
+    "url": "/concepts/beagle.html"
   },
   {
     "label": "BEAM Bytecode",
     "id": "beam-bytecode",
-    "url": "/rows/beam-bytecode.html"
+    "url": "/concepts/beam-bytecode.html"
   },
   {
     "label": "BEAM Erlang virtual machine",
     "id": "beam-vm",
-    "url": "/rows/beam-vm.html"
+    "url": "/concepts/beam-vm.html"
   },
   {
     "label": "BeanShell",
     "id": "beanshell",
-    "url": "/rows/beanshell.html"
+    "url": "/concepts/beanshell.html"
   },
   {
     "label": "Beatnik",
     "id": "beatnik",
-    "url": "/rows/beatnik.html"
+    "url": "/concepts/beatnik.html"
   },
   {
     "label": "beautiful-report-language",
     "id": "beautiful-report-language",
-    "url": "/rows/beautiful-report-language.html"
+    "url": "/concepts/beautiful-report-language.html"
   },
   {
     "label": "BeBasic",
     "id": "bebasic",
-    "url": "/rows/bebasic.html"
+    "url": "/concepts/bebasic.html"
   },
   {
     "label": "Browser Extensible Data Format",
     "id": "bed-format",
-    "url": "/rows/bed-format.html"
+    "url": "/concepts/bed-format.html"
   },
   {
     "label": "BEDSOCS",
     "id": "bedsocs",
-    "url": "/rows/bedsocs.html"
+    "url": "/concepts/bedsocs.html"
   },
   {
     "label": "bee",
     "id": "bee",
-    "url": "/rows/bee.html"
+    "url": "/concepts/bee.html"
   },
   {
     "label": "BeeBasic",
     "id": "beebasic",
-    "url": "/rows/beebasic.html"
+    "url": "/concepts/beebasic.html"
   },
   {
     "label": "BEEF",
     "id": "beef-lang",
-    "url": "/rows/beef-lang.html"
+    "url": "/concepts/beef-lang.html"
   },
   {
     "label": "beef-lang",
     "id": "beef",
-    "url": "/rows/beef.html"
+    "url": "/concepts/beef.html"
   },
   {
     "label": "BEFLIX",
     "id": "beflix",
-    "url": "/rows/beflix.html"
+    "url": "/concepts/beflix.html"
   },
   {
     "label": "Befunge",
     "id": "befunge",
-    "url": "/rows/befunge.html"
+    "url": "/concepts/befunge.html"
   },
   {
     "label": "BML",
     "id": "behavior-markup-language",
-    "url": "/rows/behavior-markup-language.html"
+    "url": "/concepts/behavior-markup-language.html"
   },
   {
     "label": "Biological Expression Language",
     "id": "bel-lang",
-    "url": "/rows/bel-lang.html"
+    "url": "/concepts/bel-lang.html"
   },
   {
     "label": "Bel",
     "id": "bel",
-    "url": "/rows/bel.html"
+    "url": "/concepts/bel.html"
   },
   {
     "label": "BER",
     "id": "ber",
-    "url": "/rows/ber.html"
+    "url": "/concepts/ber.html"
   },
   {
     "label": "Berkeley DB",
     "id": "berkeley-db-lib",
-    "url": "/rows/berkeley-db-lib.html"
+    "url": "/concepts/berkeley-db-lib.html"
   },
   {
     "label": "Berkeley DB",
     "id": "berkeleydb",
-    "url": "/rows/berkeleydb.html"
+    "url": "/concepts/berkeleydb.html"
   },
   {
     "label": "Berry",
     "id": "berry",
-    "url": "/rows/berry.html"
+    "url": "/concepts/berry.html"
   },
   {
     "label": "BESYS",
     "id": "besys",
-    "url": "/rows/besys.html"
+    "url": "/concepts/besys.html"
   },
   {
     "label": "Beta BASIC",
     "id": "beta-basic",
-    "url": "/rows/beta-basic.html"
+    "url": "/concepts/beta-basic.html"
   },
   {
     "label": "BETA Project",
     "id": "beta-project",
-    "url": "/rows/beta-project.html"
+    "url": "/concepts/beta-project.html"
   },
   {
     "label": "Beta-Prolog",
     "id": "beta-prolog",
-    "url": "/rows/beta-prolog.html"
+    "url": "/concepts/beta-prolog.html"
   },
   {
     "label": "BETA",
     "id": "beta",
-    "url": "/rows/beta.html"
+    "url": "/concepts/beta.html"
   },
   {
     "label": "BGRAF2",
     "id": "bgraf2",
-    "url": "/rows/bgraf2.html"
+    "url": "/concepts/bgraf2.html"
   },
   {
     "label": "BHSL",
     "id": "bhsl",
-    "url": "/rows/bhsl.html"
+    "url": "/concepts/bhsl.html"
   },
   {
     "label": "BibTeX",
     "id": "bibtex",
-    "url": "/rows/bibtex.html"
+    "url": "/concepts/bibtex.html"
   },
   {
     "label": "Bicep",
     "id": "bicep",
-    "url": "/rows/bicep.html"
+    "url": "/concepts/bicep.html"
   },
   {
     "label": "Biferno",
     "id": "biferno",
-    "url": "/rows/biferno.html"
+    "url": "/concepts/biferno.html"
   },
   {
     "label": "Bigloo",
     "id": "bigloo",
-    "url": "/rows/bigloo.html"
+    "url": "/concepts/bigloo.html"
   },
   {
     "label": "BIGMAC",
     "id": "bigmac",
-    "url": "/rows/bigmac.html"
+    "url": "/concepts/bigmac.html"
   },
   {
     "label": "bigWig format",
     "id": "bigwig-format",
-    "url": "/rows/bigwig-format.html"
+    "url": "/concepts/bigwig-format.html"
   },
   {
     "label": "Bigwig Programming Language",
     "id": "bigwig-programming-language",
-    "url": "/rows/bigwig-programming-language.html"
+    "url": "/concepts/bigwig-programming-language.html"
   },
   {
     "label": "BIGWIG",
     "id": "bigwig",
-    "url": "/rows/bigwig.html"
+    "url": "/concepts/bigwig.html"
   },
   {
     "label": "Binary Equation",
     "id": "binary-equation",
-    "url": "/rows/binary-equation.html"
+    "url": "/concepts/binary-equation.html"
   },
   {
     "label": "Binary Ninja",
     "id": "binary-ninja",
-    "url": "/rows/binary-ninja.html"
+    "url": "/concepts/binary-ninja.html"
   },
   {
     "label": "Binary notation",
     "id": "binary-notation",
-    "url": "/rows/binary-notation.html"
+    "url": "/concepts/binary-notation.html"
   },
   {
     "label": "binaryen",
     "id": "binaryen",
-    "url": "/rows/binaryen.html"
+    "url": "/concepts/binaryen.html"
   },
   {
     "label": "BIND",
     "id": "bind-app",
-    "url": "/rows/bind-app.html"
+    "url": "/concepts/bind-app.html"
   },
   {
     "label": "Bioconductor",
     "id": "bioconductor-pm",
-    "url": "/rows/bioconductor-pm.html"
+    "url": "/concepts/bioconductor-pm.html"
   },
   {
     "label": "BIOMOD",
     "id": "biomod",
-    "url": "/rows/biomod.html"
+    "url": "/concepts/biomod.html"
   },
   {
     "label": "bioscript",
     "id": "bioscript",
-    "url": "/rows/bioscript.html"
+    "url": "/concepts/bioscript.html"
   },
   {
     "label": "BIOSSIM",
     "id": "biossim",
-    "url": "/rows/biossim.html"
+    "url": "/concepts/biossim.html"
   },
   {
     "label": "BIPLAN",
     "id": "biplan",
-    "url": "/rows/biplan.html"
+    "url": "/concepts/biplan.html"
   },
   {
     "label": "BIRD",
     "id": "bird",
-    "url": "/rows/bird.html"
+    "url": "/concepts/bird.html"
   },
   {
     "label": "Birkbeck Assembly",
     "id": "birkbeck-assembly",
-    "url": "/rows/birkbeck-assembly.html"
+    "url": "/concepts/birkbeck-assembly.html"
   },
   {
     "label": "Bison",
     "id": "bison",
-    "url": "/rows/bison.html"
+    "url": "/concepts/bison.html"
   },
   {
     "label": "Bison++",
     "id": "bisonpp",
-    "url": "/rows/bisonpp.html"
+    "url": "/concepts/bisonpp.html"
   },
   {
     "label": "Bistro",
     "id": "bistro-programming-language",
-    "url": "/rows/bistro-programming-language.html"
+    "url": "/concepts/bistro-programming-language.html"
   },
   {
     "label": "Bit array",
     "id": "bitarray",
-    "url": "/rows/bitarray.html"
+    "url": "/concepts/bitarray.html"
   },
   {
     "label": "BitBake",
     "id": "bitbake",
-    "url": "/rows/bitbake.html"
+    "url": "/concepts/bitbake.html"
   },
   {
     "label": "BitC",
     "id": "bitc",
-    "url": "/rows/bitc.html"
+    "url": "/concepts/bitc.html"
   },
   {
     "label": "Bizubee",
     "id": "bizubee",
-    "url": "/rows/bizubee.html"
+    "url": "/concepts/bizubee.html"
   },
   {
     "label": "bjou",
     "id": "bjou",
-    "url": "/rows/bjou.html"
+    "url": "/concepts/bjou.html"
   },
   {
     "label": "Bla",
     "id": "bla",
-    "url": "/rows/bla.html"
+    "url": "/concepts/bla.html"
   },
   {
     "label": "BlackCoffee",
     "id": "blackcoffee",
-    "url": "/rows/blackcoffee.html"
+    "url": "/concepts/blackcoffee.html"
   },
   {
     "label": "Blacklight",
     "id": "blacklight",
-    "url": "/rows/blacklight.html"
+    "url": "/concepts/blacklight.html"
   },
   {
     "label": "Blade",
     "id": "blade-lang",
-    "url": "/rows/blade-lang.html"
+    "url": "/concepts/blade-lang.html"
   },
   {
     "label": "Blade",
     "id": "blade",
-    "url": "/rows/blade.html"
+    "url": "/concepts/blade.html"
   },
   {
     "label": "BLAKE",
     "id": "blake-hash-function",
-    "url": "/rows/blake-hash-function.html"
+    "url": "/concepts/blake-hash-function.html"
   },
   {
     "label": "blank",
     "id": "blank",
-    "url": "/rows/blank.html"
+    "url": "/concepts/blank.html"
   },
   {
     "label": "BLAZE 2",
     "id": "blaze-2",
-    "url": "/rows/blaze-2.html"
+    "url": "/concepts/blaze-2.html"
   },
   {
     "label": "BLAZE",
     "id": "blaze",
-    "url": "/rows/blaze.html"
+    "url": "/concepts/blaze.html"
   },
   {
     "label": "BlazeX",
     "id": "blazex",
-    "url": "/rows/blazex.html"
+    "url": "/concepts/blazex.html"
   },
   {
     "label": "Binary Lambda Calculus",
     "id": "blc",
-    "url": "/rows/blc.html"
+    "url": "/concepts/blc.html"
   },
   {
     "label": "Blender",
     "id": "blender-app",
-    "url": "/rows/blender-app.html"
+    "url": "/concepts/blender-app.html"
   },
   {
     "label": "BLISS",
     "id": "bliss",
-    "url": "/rows/bliss.html"
+    "url": "/concepts/bliss.html"
   },
   {
     "label": "Blitz3D",
     "id": "blitz3d",
-    "url": "/rows/blitz3d.html"
+    "url": "/concepts/blitz3d.html"
   },
   {
     "label": "BlitzBasic",
     "id": "blitzbasic",
-    "url": "/rows/blitzbasic.html"
+    "url": "/concepts/blitzbasic.html"
   },
   {
     "label": "BlitzMax",
     "id": "blitzmax",
-    "url": "/rows/blitzmax.html"
+    "url": "/concepts/blitzmax.html"
   },
   {
     "label": "BlitzPlus",
     "id": "blitzplus",
-    "url": "/rows/blitzplus.html"
+    "url": "/concepts/blitzplus.html"
   },
   {
     "label": "Blockly",
     "id": "blockly",
-    "url": "/rows/blockly.html"
+    "url": "/concepts/blockly.html"
   },
   {
     "label": "blockml",
     "id": "blockml",
-    "url": "/rows/blockml.html"
+    "url": "/concepts/blockml.html"
   },
   {
     "label": "bloom",
     "id": "bloom",
-    "url": "/rows/bloom.html"
+    "url": "/concepts/bloom.html"
   },
   {
     "label": "BLOOMS",
     "id": "blooms",
-    "url": "/rows/blooms.html"
+    "url": "/concepts/blooms.html"
   },
   {
     "label": "BlooP",
     "id": "bloop",
-    "url": "/rows/bloop.html"
+    "url": "/concepts/bloop.html"
   },
   {
     "label": "Blox",
     "id": "blox",
-    "url": "/rows/blox.html"
+    "url": "/concepts/blox.html"
   },
   {
     "label": "Blue",
     "id": "blue-programming-language",
-    "url": "/rows/blue-programming-language.html"
+    "url": "/concepts/blue-programming-language.html"
   },
   {
     "label": "blue",
     "id": "blue",
-    "url": "/rows/blue.html"
+    "url": "/concepts/blue.html"
   },
   {
     "label": "Blueprints",
     "id": "blueprints",
-    "url": "/rows/blueprints.html"
+    "url": "/concepts/blueprints.html"
   },
   {
     "label": "Bluespec",
     "id": "bluespec",
-    "url": "/rows/bluespec.html"
+    "url": "/concepts/bluespec.html"
   },
   {
     "label": "blur-markup-language",
     "id": "blur-markup-language",
-    "url": "/rows/blur-markup-language.html"
+    "url": "/concepts/blur-markup-language.html"
   },
   {
     "label": "blz",
     "id": "blz",
-    "url": "/rows/blz.html"
+    "url": "/concepts/blz.html"
   },
   {
     "label": "BMD",
     "id": "bmd",
-    "url": "/rows/bmd.html"
+    "url": "/concepts/bmd.html"
   },
   {
     "label": "bml",
     "id": "bml",
-    "url": "/rows/bml.html"
+    "url": "/concepts/bml.html"
   },
   {
     "label": "BMP file format",
     "id": "bmp-format",
-    "url": "/rows/bmp-format.html"
+    "url": "/concepts/bmp-format.html"
   },
   {
     "label": "BNF",
     "id": "bnf",
-    "url": "/rows/bnf.html"
+    "url": "/concepts/bnf.html"
   },
   {
     "label": "boa",
     "id": "boa",
-    "url": "/rows/boa.html"
+    "url": "/concepts/boa.html"
   },
   {
     "label": "Bob",
     "id": "bob",
-    "url": "/rows/bob.html"
+    "url": "/concepts/bob.html"
   },
   {
     "label": "bog",
     "id": "bog",
-    "url": "/rows/bog.html"
+    "url": "/concepts/bog.html"
   },
   {
     "label": "BOIL",
     "id": "boil",
-    "url": "/rows/boil.html"
+    "url": "/concepts/boil.html"
   },
   {
     "label": "Bolin",
     "id": "bolin",
-    "url": "/rows/bolin.html"
+    "url": "/concepts/bolin.html"
   },
   {
     "label": "BOLT",
     "id": "bolt",
-    "url": "/rows/bolt.html"
+    "url": "/concepts/bolt.html"
   },
   {
     "label": "Bon",
     "id": "bon-programming-language",
-    "url": "/rows/bon-programming-language.html"
+    "url": "/concepts/bon-programming-language.html"
   },
   {
     "label": "Boo",
     "id": "boo",
-    "url": "/rows/boo.html"
+    "url": "/concepts/boo.html"
   },
   {
     "label": "Boogie",
     "id": "boogie",
-    "url": "/rows/boogie.html"
+    "url": "/concepts/boogie.html"
   },
   {
     "label": "Boomerang Decompiler",
     "id": "boomerang-decompiler",
-    "url": "/rows/boomerang-decompiler.html"
+    "url": "/concepts/boomerang-decompiler.html"
   },
   {
     "label": "Boost C++ libraries",
     "id": "boost-lib",
-    "url": "/rows/boost-lib.html"
+    "url": "/concepts/boost-lib.html"
   },
   {
     "label": "Booster",
     "id": "booster",
-    "url": "/rows/booster.html"
+    "url": "/concepts/booster.html"
   },
   {
     "label": "Borneo",
     "id": "borneo",
-    "url": "/rows/borneo.html"
+    "url": "/concepts/borneo.html"
   },
   {
     "label": "Boron",
     "id": "boron",
-    "url": "/rows/boron.html"
+    "url": "/concepts/boron.html"
   },
   {
     "label": "bosque",
     "id": "bosque",
-    "url": "/rows/bosque.html"
+    "url": "/concepts/bosque.html"
   },
   {
     "label": "Bossam Rule Language",
     "id": "bossam",
-    "url": "/rows/bossam.html"
+    "url": "/concepts/bossam.html"
   },
   {
     "label": "Bounce",
     "id": "bounce-lang",
-    "url": "/rows/bounce-lang.html"
+    "url": "/concepts/bounce-lang.html"
   },
   {
     "label": "Bounce",
     "id": "bounce",
-    "url": "/rows/bounce.html"
+    "url": "/concepts/bounce.html"
   },
   {
     "label": "Bourne shell",
     "id": "bourne-shell",
-    "url": "/rows/bourne-shell.html"
+    "url": "/concepts/bourne-shell.html"
   },
   {
     "label": "Boxer",
     "id": "boxer",
-    "url": "/rows/boxer.html"
+    "url": "/concepts/boxer.html"
   },
   {
     "label": "Boxx",
     "id": "boxx",
-    "url": "/rows/boxx.html"
+    "url": "/concepts/boxx.html"
   },
   {
     "label": "BPEL",
     "id": "bpel",
-    "url": "/rows/bpel.html"
+    "url": "/concepts/bpel.html"
   },
   {
     "label": "bpkg-pm",
     "id": "bpkg-pm",
-    "url": "/rows/bpkg-pm.html"
+    "url": "/concepts/bpkg-pm.html"
   },
   {
     "label": "BPL",
     "id": "bpl",
-    "url": "/rows/bpl.html"
+    "url": "/concepts/bpl.html"
   },
   {
     "label": "BPMN",
     "id": "bpmn",
-    "url": "/rows/bpmn.html"
+    "url": "/concepts/bpmn.html"
   },
   {
     "label": "Basic Petri Net Programming Notation",
     "id": "bpn2",
-    "url": "/rows/bpn2.html"
+    "url": "/concepts/bpn2.html"
   },
   {
     "label": "BQN",
     "id": "bqn",
-    "url": "/rows/bqn.html"
+    "url": "/concepts/bqn.html"
   },
   {
     "label": "brackets-editor",
     "id": "brackets-editor",
-    "url": "/rows/brackets-editor.html"
+    "url": "/concepts/brackets-editor.html"
   },
   {
     "label": "Brain-Flak",
     "id": "brain-flak",
-    "url": "/rows/brain-flak.html"
+    "url": "/concepts/brain-flak.html"
   },
   {
     "label": "Brainfuck",
     "id": "brainfuck",
-    "url": "/rows/brainfuck.html"
+    "url": "/concepts/brainfuck.html"
   },
   {
     "label": "Breccia",
     "id": "breccia",
-    "url": "/rows/breccia.html"
+    "url": "/concepts/breccia.html"
   },
   {
     "label": "BridgeTalk",
     "id": "bridgetalk",
-    "url": "/rows/bridgetalk.html"
+    "url": "/concepts/bridgetalk.html"
   },
   {
     "label": "BrightScript",
     "id": "brightscript-lang",
-    "url": "/rows/brightscript-lang.html"
+    "url": "/concepts/brightscript-lang.html"
   },
   {
     "label": "Brisk",
     "id": "brisk",
-    "url": "/rows/brisk.html"
+    "url": "/concepts/brisk.html"
   },
   {
     "label": "BRL",
     "id": "brl",
-    "url": "/rows/brl.html"
+    "url": "/concepts/brl.html"
   },
   {
     "label": "Bro",
     "id": "bro",
-    "url": "/rows/bro.html"
+    "url": "/concepts/bro.html"
   },
   {
     "label": "Broccoli",
     "id": "broccoli-1",
-    "url": "/rows/broccoli-1.html"
+    "url": "/concepts/broccoli-1.html"
   },
   {
     "label": "Broccoli",
     "id": "broccoli-2",
-    "url": "/rows/broccoli-2.html"
+    "url": "/concepts/broccoli-2.html"
   },
   {
     "label": "Broccoli",
     "id": "broccoli",
-    "url": "/rows/broccoli.html"
+    "url": "/concepts/broccoli.html"
   },
   {
     "label": "brooks-programming-language",
     "id": "brooks-programming-language",
-    "url": "/rows/brooks-programming-language.html"
+    "url": "/concepts/brooks-programming-language.html"
   },
   {
     "label": "BrouHaHa",
     "id": "brouhaha",
-    "url": "/rows/brouhaha.html"
+    "url": "/concepts/brouhaha.html"
   },
   {
     "label": "BRUIN",
     "id": "brown-university-interactive-language",
-    "url": "/rows/brown-university-interactive-language.html"
+    "url": "/concepts/brown-university-interactive-language.html"
   },
   {
     "label": "bscript-interpreter",
     "id": "bscript-interpreter",
-    "url": "/rows/bscript-interpreter.html"
+    "url": "/concepts/bscript-interpreter.html"
   },
   {
     "label": "BScript",
     "id": "bscript",
-    "url": "/rows/bscript.html"
+    "url": "/concepts/bscript.html"
   },
   {
     "label": "BSML",
     "id": "bsml",
-    "url": "/rows/bsml.html"
+    "url": "/concepts/bsml.html"
   },
   {
     "label": "BSP",
     "id": "bsp",
-    "url": "/rows/bsp.html"
+    "url": "/concepts/bsp.html"
   },
   {
     "label": "Bucardo",
     "id": "bucardo",
-    "url": "/rows/bucardo.html"
+    "url": "/concepts/bucardo.html"
   },
   {
     "label": "Bucklescript",
     "id": "bucklescript",
-    "url": "/rows/bucklescript.html"
+    "url": "/concepts/bucklescript.html"
   },
   {
     "label": "BuddyScript",
     "id": "buddyscript",
-    "url": "/rows/buddyscript.html"
+    "url": "/concepts/buddyscript.html"
   },
   {
     "label": "BUGSYS",
     "id": "bugsys",
-    "url": "/rows/bugsys.html"
+    "url": "/concepts/bugsys.html"
   },
   {
     "label": "BullFrog",
     "id": "bullfrog",
-    "url": "/rows/bullfrog.html"
+    "url": "/concepts/bullfrog.html"
   },
   {
     "label": "Bun",
     "id": "bun",
-    "url": "/rows/bun.html"
+    "url": "/concepts/bun.html"
   },
   {
     "label": "BUSH",
     "id": "bush",
-    "url": "/rows/bush.html"
+    "url": "/concepts/bush.html"
   },
   {
     "label": "Business application language",
     "id": "business-application-language",
-    "url": "/rows/business-application-language.html"
+    "url": "/concepts/business-application-language.html"
   },
   {
     "label": "Business Basic",
     "id": "business-basic",
-    "url": "/rows/business-basic.html"
+    "url": "/concepts/business-basic.html"
   },
   {
     "label": "Business Object Notation",
     "id": "business-object-notation",
-    "url": "/rows/business-object-notation.html"
+    "url": "/concepts/business-object-notation.html"
   },
   {
     "label": "BPML",
     "id": "business-process-modeling-language",
-    "url": "/rows/business-process-modeling-language.html"
+    "url": "/concepts/business-process-modeling-language.html"
   },
   {
     "label": "business-rule-language",
     "id": "business-rule-language",
-    "url": "/rows/business-rule-language.html"
+    "url": "/concepts/business-rule-language.html"
   },
   {
     "label": "Butterfly Common LISP",
     "id": "butterfly-common-lisp",
-    "url": "/rows/butterfly-common-lisp.html"
+    "url": "/concepts/butterfly-common-lisp.html"
   },
   {
     "label": "buzz",
     "id": "buzz",
-    "url": "/rows/buzz.html"
+    "url": "/concepts/buzz.html"
   },
   {
     "label": "bx",
     "id": "bx",
-    "url": "/rows/bx.html"
+    "url": "/concepts/bx.html"
   },
   {
     "label": "bytecode-modeling-language",
     "id": "bytecode-modeling-language",
-    "url": "/rows/bytecode-modeling-language.html"
+    "url": "/concepts/bytecode-modeling-language.html"
   },
   {
     "label": "ByteLisp",
     "id": "bytelisp",
-    "url": "/rows/bytelisp.html"
+    "url": "/concepts/bytelisp.html"
   },
   {
     "label": "Bython",
     "id": "bython",
-    "url": "/rows/bython.html"
+    "url": "/concepts/bython.html"
   },
   {
     "label": "Bywater BASIC",
     "id": "bywater-basic",
-    "url": "/rows/bywater-basic.html"
+    "url": "/concepts/bywater-basic.html"
   },
   {
     "label": "C--",
     "id": "c--",
-    "url": "/rows/c--.html"
+    "url": "/concepts/c--.html"
   },
   {
     "label": "C/AL",
     "id": "c-al",
-    "url": "/rows/c-al.html"
+    "url": "/concepts/c-al.html"
   },
   {
     "label": "C^3",
     "id": "c-cubed",
-    "url": "/rows/c-cubed.html"
+    "url": "/concepts/c-cubed.html"
   },
   {
     "label": "C flat",
     "id": "c-flat",
-    "url": "/rows/c-flat.html"
+    "url": "/concepts/c-flat.html"
   },
   {
     "label": "C∀",
     "id": "c-for-all",
-    "url": "/rows/c-for-all.html"
+    "url": "/concepts/c-for-all.html"
   },
   {
     "label": "C Header Files",
     "id": "c-headers",
-    "url": "/rows/c-headers.html"
+    "url": "/concepts/c-headers.html"
   },
   {
     "label": "C shell",
     "id": "c-shell",
-    "url": "/rows/c-shell.html"
+    "url": "/concepts/c-shell.html"
   },
   {
     "label": "c-smile",
     "id": "c-smile",
-    "url": "/rows/c-smile.html"
+    "url": "/concepts/c-smile.html"
   },
   {
     "label": "c-talk",
     "id": "c-talk",
-    "url": "/rows/c-talk.html"
+    "url": "/concepts/c-talk.html"
   },
   {
     "label": "C",
     "id": "c",
-    "url": "/rows/c.html"
+    "url": "/concepts/c.html"
   },
   {
     "label": "C2",
     "id": "c2",
-    "url": "/rows/c2.html"
+    "url": "/concepts/c2.html"
   },
   {
     "label": "C3",
     "id": "c3",
-    "url": "/rows/c3.html"
+    "url": "/concepts/c3.html"
   },
   {
     "label": "CA-Realizer",
     "id": "ca-realizer",
-    "url": "/rows/ca-realizer.html"
+    "url": "/concepts/ca-realizer.html"
   },
   {
     "label": "CA-Telon",
     "id": "ca-telon",
-    "url": "/rows/ca-telon.html"
+    "url": "/concepts/ca-telon.html"
   },
   {
     "label": "ca65 Assembly",
     "id": "ca65-assembly",
-    "url": "/rows/ca65-assembly.html"
+    "url": "/concepts/ca65-assembly.html"
   },
   {
     "label": "CABAL",
     "id": "cabal",
-    "url": "/rows/cabal.html"
+    "url": "/concepts/cabal.html"
   },
   {
     "label": "Caché Basic",
     "id": "cache-basic",
-    "url": "/rows/cache-basic.html"
+    "url": "/concepts/cache-basic.html"
   },
   {
     "label": "Caché ObjectScript",
     "id": "cache-objectscript",
-    "url": "/rows/cache-objectscript.html"
+    "url": "/concepts/cache-objectscript.html"
   },
   {
     "label": "Cactus",
     "id": "cactus",
-    "url": "/rows/cactus.html"
+    "url": "/concepts/cactus.html"
   },
   {
     "label": "Cadence SKILL",
     "id": "cadence-skill",
-    "url": "/rows/cadence-skill.html"
+    "url": "/concepts/cadence-skill.html"
   },
   {
     "label": "cado-systems-technical-information",
     "id": "cado-systems-technical-information",
-    "url": "/rows/cado-systems-technical-information.html"
+    "url": "/concepts/cado-systems-technical-information.html"
   },
   {
     "label": "CafeObj",
     "id": "cafeobj",
-    "url": "/rows/cafeobj.html"
+    "url": "/concepts/cafeobj.html"
   },
   {
     "label": "Caffeine",
     "id": "caffeine",
-    "url": "/rows/caffeine.html"
+    "url": "/concepts/caffeine.html"
   },
   {
     "label": "CAGES",
     "id": "cages",
-    "url": "/rows/cages.html"
+    "url": "/concepts/cages.html"
   },
   {
     "label": "CAISYS",
     "id": "caisys",
-    "url": "/rows/caisys.html"
+    "url": "/concepts/caisys.html"
   },
   {
     "label": "CAJOLE",
     "id": "cajole",
-    "url": "/rows/cajole.html"
+    "url": "/concepts/cajole.html"
   },
   {
     "label": "CAL Actor Language",
     "id": "cal",
-    "url": "/rows/cal.html"
+    "url": "/concepts/cal.html"
   },
   {
     "label": "calc_var",
     "id": "calc-var",
-    "url": "/rows/calc-var.html"
+    "url": "/concepts/calc-var.html"
   },
   {
     "label": "calc",
     "id": "calc",
-    "url": "/rows/calc.html"
+    "url": "/concepts/calc.html"
   },
   {
     "label": "Calc4",
     "id": "calc4",
-    "url": "/rows/calc4.html"
+    "url": "/concepts/calc4.html"
   },
   {
     "label": "Cali-Lang",
     "id": "cali-lang",
-    "url": "/rows/cali-lang.html"
+    "url": "/concepts/cali-lang.html"
   },
   {
     "label": "Caltech Intermediate Form",
     "id": "caltech-intermediate-form",
-    "url": "/rows/caltech-intermediate-form.html"
+    "url": "/concepts/caltech-intermediate-form.html"
   },
   {
     "label": "Calypso",
     "id": "calypso",
-    "url": "/rows/calypso.html"
+    "url": "/concepts/calypso.html"
   },
   {
     "label": "Content Assembly Mechanism",
     "id": "cam",
-    "url": "/rows/cam.html"
+    "url": "/concepts/cam.html"
   },
   {
     "label": "CAMAC",
     "id": "camac",
-    "url": "/rows/camac.html"
+    "url": "/concepts/camac.html"
   },
   {
     "label": "Cambridge Algebra System",
     "id": "camal",
-    "url": "/rows/camal.html"
+    "url": "/concepts/camal.html"
   },
   {
     "label": "CAMIL",
     "id": "camil",
-    "url": "/rows/camil.html"
+    "url": "/concepts/camil.html"
   },
   {
     "label": "Caml",
     "id": "caml",
-    "url": "/rows/caml.html"
+    "url": "/concepts/caml.html"
   },
   {
     "label": "candor",
     "id": "candor",
-    "url": "/rows/candor.html"
+    "url": "/concepts/candor.html"
   },
   {
     "label": "Candy Codes",
     "id": "candy-codes",
-    "url": "/rows/candy-codes.html"
+    "url": "/concepts/candy-codes.html"
   },
   {
     "label": "Candy",
     "id": "candy",
-    "url": "/rows/candy.html"
+    "url": "/concepts/candy.html"
   },
   {
     "label": "Cane",
     "id": "cane",
-    "url": "/rows/cane.html"
+    "url": "/concepts/cane.html"
   },
   {
     "label": "CaPSL",
     "id": "canon-capsl",
-    "url": "/rows/canon-capsl.html"
+    "url": "/concepts/canon-capsl.html"
   },
   {
     "label": "Cantor",
     "id": "cantor",
-    "url": "/rows/cantor.html"
+    "url": "/concepts/cantor.html"
   },
   {
     "label": "Cap'n Proto",
     "id": "capn-proto",
-    "url": "/rows/capn-proto.html"
+    "url": "/concepts/capn-proto.html"
   },
   {
     "label": "Common Authentication Protocol Specification Language",
     "id": "capsl",
-    "url": "/rows/capsl.html"
+    "url": "/concepts/capsl.html"
   },
   {
     "label": "Capsule",
     "id": "capsule",
-    "url": "/rows/capsule.html"
+    "url": "/concepts/capsule.html"
   },
   {
     "label": "capybara",
     "id": "capybara",
-    "url": "/rows/capybara.html"
+    "url": "/concepts/capybara.html"
   },
   {
     "label": "Caramel",
     "id": "caramel",
-    "url": "/rows/caramel.html"
+    "url": "/concepts/caramel.html"
   },
   {
     "label": "Carbon",
     "id": "carbon",
-    "url": "/rows/carbon.html"
+    "url": "/concepts/carbon.html"
   },
   {
     "label": "carp",
     "id": "carp",
-    "url": "/rows/carp.html"
+    "url": "/concepts/carp.html"
   },
   {
     "label": "Carpet",
     "id": "carpet",
-    "url": "/rows/carpet.html"
+    "url": "/concepts/carpet.html"
   },
   {
     "label": "carth",
     "id": "carth",
-    "url": "/rows/carth.html"
+    "url": "/concepts/carth.html"
   },
   {
     "label": "CartoCSS",
     "id": "cartocss",
-    "url": "/rows/cartocss.html"
+    "url": "/concepts/cartocss.html"
   },
   {
     "label": "Casio BASIC",
     "id": "casio-basic",
-    "url": "/rows/casio-basic.html"
+    "url": "/concepts/casio-basic.html"
   },
   {
     "label": "CASSANDRE",
     "id": "cassandre",
-    "url": "/rows/cassandre.html"
+    "url": "/concepts/cassandre.html"
   },
   {
     "label": "cat",
     "id": "cat",
-    "url": "/rows/cat.html"
+    "url": "/concepts/cat.html"
   },
   {
     "label": "Catala",
     "id": "catala",
-    "url": "/rows/catala.html"
+    "url": "/concepts/catala.html"
   },
   {
     "label": "Catalysis",
     "id": "catalysis",
-    "url": "/rows/catalysis.html"
+    "url": "/concepts/catalysis.html"
   },
   {
     "label": "categorical-query-language",
     "id": "categorical-query-language",
-    "url": "/rows/categorical-query-language.html"
+    "url": "/concepts/categorical-query-language.html"
   },
   {
     "label": "Cayenne",
     "id": "cayenne",
-    "url": "/rows/cayenne.html"
+    "url": "/concepts/cayenne.html"
   },
   {
     "label": "CAYLEY",
     "id": "cayley",
-    "url": "/rows/cayley.html"
+    "url": "/concepts/cayley.html"
   },
   {
     "label": "CBASIC",
     "id": "cbasic",
-    "url": "/rows/cbasic.html"
+    "url": "/concepts/cbasic.html"
   },
   {
     "label": "CBOR",
     "id": "cbor",
-    "url": "/rows/cbor.html"
+    "url": "/concepts/cbor.html"
   },
   {
     "label": "CCal",
     "id": "ccal",
-    "url": "/rows/ccal.html"
+    "url": "/concepts/ccal.html"
   },
   {
     "label": "Continuity of Care Document",
     "id": "ccd",
-    "url": "/rows/ccd.html"
+    "url": "/concepts/ccd.html"
   },
   {
     "label": "CCEL",
     "id": "ccel",
-    "url": "/rows/ccel.html"
+    "url": "/concepts/ccel.html"
   },
   {
     "label": "Continuity of Care Record",
     "id": "ccr",
-    "url": "/rows/ccr.html"
+    "url": "/concepts/ccr.html"
   },
   {
     "label": "CCS",
     "id": "ccs",
-    "url": "/rows/ccs.html"
+    "url": "/concepts/ccs.html"
   },
   {
     "label": "Clinical Document Architecture",
     "id": "cda",
-    "url": "/rows/cda.html"
+    "url": "/concepts/cda.html"
   },
   {
     "label": "CBOR data definition language",
     "id": "cddl",
-    "url": "/rows/cddl.html"
+    "url": "/concepts/cddl.html"
   },
   {
     "label": "Common Data Format",
     "id": "cdf",
-    "url": "/rows/cdf.html"
+    "url": "/concepts/cdf.html"
   },
   {
     "label": "CDL",
     "id": "cdl",
-    "url": "/rows/cdl.html"
+    "url": "/concepts/cdl.html"
   },
   {
     "label": "CDL++",
     "id": "cdlpp",
-    "url": "/rows/cdlpp.html"
+    "url": "/concepts/cdlpp.html"
   },
   {
     "label": "CECIL",
     "id": "cecil",
-    "url": "/rows/cecil.html"
+    "url": "/concepts/cecil.html"
   },
   {
     "label": "Cedar Fortran",
     "id": "cedar-fortran",
-    "url": "/rows/cedar-fortran.html"
+    "url": "/concepts/cedar-fortran.html"
   },
   {
     "label": "Cedar",
     "id": "cedar",
-    "url": "/rows/cedar.html"
+    "url": "/concepts/cedar.html"
   },
   {
     "label": "CEEMAC",
     "id": "ceemac",
-    "url": "/rows/ceemac.html"
+    "url": "/concepts/ceemac.html"
   },
   {
     "label": "CELIP",
     "id": "celip",
-    "url": "/rows/celip.html"
+    "url": "/concepts/celip.html"
   },
   {
     "label": "Cell",
     "id": "cell",
-    "url": "/rows/cell.html"
+    "url": "/concepts/cell.html"
   },
   {
     "label": "CELLSIM",
     "id": "cellsim",
-    "url": "/rows/cellsim.html"
+    "url": "/concepts/cellsim.html"
   },
   {
     "label": "Celsius WebScript",
     "id": "celsius-webscript",
-    "url": "/rows/celsius-webscript.html"
+    "url": "/concepts/celsius-webscript.html"
   },
   {
     "label": "Ceprol",
     "id": "ceprol",
-    "url": "/rows/ceprol.html"
+    "url": "/concepts/ceprol.html"
   },
   {
     "label": "Cesil",
     "id": "cesil",
-    "url": "/rows/cesil.html"
+    "url": "/concepts/cesil.html"
   },
   {
     "label": "Céu",
     "id": "ceu",
-    "url": "/rows/ceu.html"
+    "url": "/concepts/ceu.html"
   },
   {
     "label": "Ceylon",
     "id": "ceylon",
-    "url": "/rows/ceylon.html"
+    "url": "/concepts/ceylon.html"
   },
   {
     "label": "CFEngine",
     "id": "cfengine",
-    "url": "/rows/cfengine.html"
+    "url": "/concepts/cfengine.html"
   },
   {
     "label": "CFML",
     "id": "cfml",
-    "url": "/rows/cfml.html"
+    "url": "/concepts/cfml.html"
   },
   {
     "label": "CFScript",
     "id": "cfscript",
-    "url": "/rows/cfscript.html"
+    "url": "/concepts/cfscript.html"
   },
   {
     "label": "Cg",
     "id": "cg",
-    "url": "/rows/cg.html"
+    "url": "/concepts/cg.html"
   },
   {
     "label": "CGOL",
     "id": "cgol",
-    "url": "/rows/cgol.html"
+    "url": "/concepts/cgol.html"
   },
   {
     "label": "Ch computer programming",
     "id": "ch",
-    "url": "/rows/ch.html"
+    "url": "/concepts/ch.html"
   },
   {
     "label": "chain-format",
     "id": "chain-format",
-    "url": "/rows/chain-format.html"
+    "url": "/concepts/chain-format.html"
   },
   {
     "label": "CHAIN",
     "id": "chain-programming-language",
-    "url": "/rows/chain-programming-language.html"
+    "url": "/concepts/chain-programming-language.html"
   },
   {
     "label": "Conway chained arrow notation",
     "id": "chained-arrow-notation",
-    "url": "/rows/chained-arrow-notation.html"
+    "url": "/concepts/chained-arrow-notation.html"
   },
   {
     "label": "chaiscript",
     "id": "chaiscript",
-    "url": "/rows/chaiscript.html"
+    "url": "/concepts/chaiscript.html"
   },
   {
     "label": "CHAMP",
     "id": "champ",
-    "url": "/rows/champ.html"
+    "url": "/concepts/champ.html"
   },
   {
     "label": "chaos-lang",
     "id": "chaos-lang",
-    "url": "/rows/chaos-lang.html"
+    "url": "/concepts/chaos-lang.html"
   },
   {
     "label": "Chapel",
     "id": "chapel",
-    "url": "/rows/chapel.html"
+    "url": "/concepts/chapel.html"
   },
   {
     "label": "chappe-code",
     "id": "chappe-code",
-    "url": "/rows/chappe-code.html"
+    "url": "/concepts/chappe-code.html"
   },
   {
     "label": "Charcoal",
     "id": "charcoal",
-    "url": "/rows/charcoal.html"
+    "url": "/concepts/charcoal.html"
   },
   {
     "label": "Charity",
     "id": "charity",
-    "url": "/rows/charity.html"
+    "url": "/concepts/charity.html"
   },
   {
     "label": "charly",
     "id": "charly",
-    "url": "/rows/charly.html"
+    "url": "/concepts/charly.html"
   },
   {
     "label": "CHARM++",
     "id": "charmpp",
-    "url": "/rows/charmpp.html"
+    "url": "/concepts/charmpp.html"
   },
   {
     "label": "Charrette Ada",
     "id": "charrette-ada",
-    "url": "/rows/charrette-ada.html"
+    "url": "/concepts/charrette-ada.html"
   },
   {
     "label": "chartio-app",
     "id": "chartio-app",
-    "url": "/rows/chartio-app.html"
+    "url": "/concepts/chartio-app.html"
   },
   {
     "label": "CHARYBDIS",
     "id": "charybdis",
-    "url": "/rows/charybdis.html"
+    "url": "/concepts/charybdis.html"
   },
   {
     "label": "chatterbot",
     "id": "chatterbot",
-    "url": "/rows/chatterbot.html"
+    "url": "/concepts/chatterbot.html"
   },
   {
     "label": "checked-c",
     "id": "checked-c",
-    "url": "/rows/checked-c.html"
+    "url": "/concepts/checked-c.html"
   },
   {
     "label": "checkout",
     "id": "checkout",
-    "url": "/rows/checkout.html"
+    "url": "/concepts/checkout.html"
   },
   {
     "label": "CheetahTemplate",
     "id": "cheetah",
-    "url": "/rows/cheetah.html"
+    "url": "/concepts/cheetah.html"
   },
   {
     "label": "chef",
     "id": "chef",
-    "url": "/rows/chef.html"
+    "url": "/concepts/chef.html"
   },
   {
     "label": "ChemTrains",
     "id": "chemtrains",
-    "url": "/rows/chemtrains.html"
+    "url": "/concepts/chemtrains.html"
   },
   {
     "label": "Cheri",
     "id": "cheri",
-    "url": "/rows/cheri.html"
+    "url": "/concepts/cheri.html"
   },
   {
     "label": "chevrotain",
     "id": "chevrotain",
-    "url": "/rows/chevrotain.html"
+    "url": "/concepts/chevrotain.html"
   },
   {
     "label": "chibicc",
     "id": "chibicc",
-    "url": "/rows/chibicc.html"
+    "url": "/concepts/chibicc.html"
   },
   {
     "label": "chicken-lang",
     "id": "chicken-lang",
-    "url": "/rows/chicken-lang.html"
+    "url": "/concepts/chicken-lang.html"
   },
   {
     "label": "CHICKEN",
     "id": "chicken",
-    "url": "/rows/chicken.html"
+    "url": "/concepts/chicken.html"
   },
   {
     "label": "Chicon",
     "id": "chicon",
-    "url": "/rows/chicon.html"
+    "url": "/concepts/chicon.html"
   },
   {
     "label": "Chika",
     "id": "chika",
-    "url": "/rows/chika.html"
+    "url": "/concepts/chika.html"
   },
   {
     "label": "CHILL",
     "id": "chill",
-    "url": "/rows/chill.html"
+    "url": "/concepts/chill.html"
   },
   {
     "label": "Chimera",
     "id": "chimera",
-    "url": "/rows/chimera.html"
+    "url": "/concepts/chimera.html"
   },
   {
     "label": "Chinese BASIC",
     "id": "chinese-basic",
-    "url": "/rows/chinese-basic.html"
+    "url": "/concepts/chinese-basic.html"
   },
   {
     "label": "CHIP-8",
     "id": "chip-8",
-    "url": "/rows/chip-8.html"
+    "url": "/concepts/chip-8.html"
   },
   {
     "label": "CHIP",
     "id": "chip-programming-language",
-    "url": "/rows/chip-programming-language.html"
+    "url": "/concepts/chip-programming-language.html"
   },
   {
     "label": "Chipmunk Basic",
     "id": "chipmunk-basic",
-    "url": "/rows/chipmunk-basic.html"
+    "url": "/concepts/chipmunk-basic.html"
   },
   {
     "label": "chirp",
     "id": "chirp",
-    "url": "/rows/chirp.html"
+    "url": "/concepts/chirp.html"
   },
   {
     "label": "chisel",
     "id": "chisel",
-    "url": "/rows/chisel.html"
+    "url": "/concepts/chisel.html"
   },
   {
     "label": "chocolatey-pm",
     "id": "chocolatey-pm",
-    "url": "/rows/chocolatey-pm.html"
+    "url": "/concepts/chocolatey-pm.html"
   },
   {
     "label": "Chomski",
     "id": "chomski",
-    "url": "/rows/chomski.html"
+    "url": "/concepts/chomski.html"
   },
   {
     "label": "Chrome",
     "id": "chrome-programming-language",
-    "url": "/rows/chrome-programming-language.html"
+    "url": "/concepts/chrome-programming-language.html"
   },
   {
     "label": "Chronolog",
     "id": "chronolog",
-    "url": "/rows/chronolog.html"
+    "url": "/concepts/chronolog.html"
   },
   {
     "label": "ChronologMC",
     "id": "chronologmc",
-    "url": "/rows/chronologmc.html"
+    "url": "/concepts/chronologmc.html"
   },
   {
     "label": "ChronologZ",
     "id": "chronologz",
-    "url": "/rows/chronologz.html"
+    "url": "/concepts/chronologz.html"
   },
   {
     "label": "chrysaLisp",
     "id": "chrysalisp",
-    "url": "/rows/chrysalisp.html"
+    "url": "/concepts/chrysalisp.html"
   },
   {
     "label": "Ch",
     "id": "chuck",
-    "url": "/rows/chuck.html"
+    "url": "/concepts/chuck.html"
   },
   {
     "label": "Ciao",
     "id": "ciao-programming-language",
-    "url": "/rows/ciao-programming-language.html"
+    "url": "/concepts/ciao-programming-language.html"
   },
   {
     "label": "Ciel",
     "id": "ciel",
-    "url": "/rows/ciel.html"
+    "url": "/concepts/ciel.html"
   },
   {
     "label": "Crystallographic Information File",
     "id": "cif",
-    "url": "/rows/cif.html"
+    "url": "/concepts/cif.html"
   },
   {
     "label": "Cigale",
     "id": "cigale",
-    "url": "/rows/cigale.html"
+    "url": "/concepts/cigale.html"
   },
   {
     "label": "CIL",
     "id": "cil",
-    "url": "/rows/cil.html"
+    "url": "/concepts/cil.html"
   },
   {
     "label": "CIL",
     "id": "cilk",
-    "url": "/rows/cilk.html"
+    "url": "/concepts/cilk.html"
   },
   {
     "label": "cimfast",
     "id": "cimfast",
-    "url": "/rows/cimfast.html"
+    "url": "/concepts/cimfast.html"
   },
   {
     "label": "CIMS PL/I",
     "id": "cims-pl-i",
-    "url": "/rows/cims-pl-i.html"
+    "url": "/concepts/cims-pl-i.html"
   },
   {
     "label": "CIR",
     "id": "cir",
-    "url": "/rows/cir.html"
+    "url": "/concepts/cir.html"
   },
   {
     "label": "circa",
     "id": "circa",
-    "url": "/rows/circa.html"
+    "url": "/concepts/circa.html"
   },
   {
     "label": "CIRCAL",
     "id": "circal",
-    "url": "/rows/circal.html"
+    "url": "/concepts/circal.html"
   },
   {
     "label": "circle-lang",
     "id": "circle-lang",
-    "url": "/rows/circle-lang.html"
+    "url": "/concepts/circle-lang.html"
   },
   {
     "label": "Cirru",
     "id": "cirru",
-    "url": "/rows/cirru.html"
+    "url": "/concepts/cirru.html"
   },
   {
     "label": "Cish",
     "id": "cish",
-    "url": "/rows/cish.html"
+    "url": "/concepts/cish.html"
   },
   {
     "label": "Ć",
     "id": "cito",
-    "url": "/rows/cito.html"
+    "url": "/concepts/cito.html"
   },
   {
     "label": "Citrine",
     "id": "citrine",
-    "url": "/rows/citrine.html"
+    "url": "/concepts/citrine.html"
   },
   {
     "label": "cityhash-hash-function",
     "id": "cityhash-hash-function",
-    "url": "/rows/cityhash-hash-function.html"
+    "url": "/concepts/cityhash-hash-function.html"
   },
   {
     "label": "cixl",
     "id": "cixl",
-    "url": "/rows/cixl.html"
+    "url": "/concepts/cixl.html"
   },
   {
     "label": "CL-I",
     "id": "cl-i",
-    "url": "/rows/cl-i.html"
+    "url": "/concepts/cl-i.html"
   },
   {
     "label": "CLAIRE",
     "id": "claire",
-    "url": "/rows/claire.html"
+    "url": "/concepts/claire.html"
   },
   {
     "label": "Common Lisp with Arc Macros and Procedures",
     "id": "clamp",
-    "url": "/rows/clamp.html"
+    "url": "/concepts/clamp.html"
   },
   {
     "label": "CLANGER",
     "id": "clanger",
-    "url": "/rows/clanger.html"
+    "url": "/concepts/clanger.html"
   },
   {
     "label": "Clarion",
     "id": "clarion",
-    "url": "/rows/clarion.html"
+    "url": "/concepts/clarion.html"
   },
   {
     "label": "clarity",
     "id": "clarity",
-    "url": "/rows/clarity.html"
+    "url": "/concepts/clarity.html"
   },
   {
     "label": "Claro",
     "id": "claro",
-    "url": "/rows/claro.html"
+    "url": "/concepts/claro.html"
   },
   {
     "label": "Clascal",
     "id": "clascal",
-    "url": "/rows/clascal.html"
+    "url": "/concepts/clascal.html"
   },
   {
     "label": "clash",
     "id": "clash",
-    "url": "/rows/clash.html"
+    "url": "/concepts/clash.html"
   },
   {
     "label": "CLASS",
     "id": "class",
-    "url": "/rows/class.html"
+    "url": "/concepts/class.html"
   },
   {
     "label": "Classic-Ada",
     "id": "classic-ada",
-    "url": "/rows/classic-ada.html"
+    "url": "/concepts/classic-ada.html"
   },
   {
     "label": "ClassiC",
     "id": "classic",
-    "url": "/rows/classic.html"
+    "url": "/concepts/classic.html"
   },
   {
     "label": "Clausal Language",
     "id": "clausal-lang",
-    "url": "/rows/clausal-lang.html"
+    "url": "/concepts/clausal-lang.html"
   },
   {
     "label": "clay",
     "id": "clay",
-    "url": "/rows/clay.html"
+    "url": "/concepts/clay.html"
   },
   {
     "label": "Clean",
     "id": "clean",
-    "url": "/rows/clean.html"
+    "url": "/concepts/clean.html"
   },
   {
     "label": "cleanlang",
     "id": "cleanlang",
-    "url": "/rows/cleanlang.html"
+    "url": "/concepts/cleanlang.html"
   },
   {
     "label": "CLEAR",
     "id": "clear",
-    "url": "/rows/clear.html"
+    "url": "/concepts/clear.html"
   },
   {
     "label": "Clear Language for Expressing Orders",
     "id": "cleo",
-    "url": "/rows/cleo.html"
+    "url": "/concepts/cleo.html"
   },
   {
     "label": "CLeogo",
     "id": "cleogo",
-    "url": "/rows/cleogo.html"
+    "url": "/concepts/cleogo.html"
   },
   {
     "label": "CLEOPATRA",
     "id": "cleopatra",
-    "url": "/rows/cleopatra.html"
+    "url": "/concepts/cleopatra.html"
   },
   {
     "label": "Assembly CLI",
     "id": "cli-assembly",
-    "url": "/rows/cli-assembly.html"
+    "url": "/concepts/cli-assembly.html"
   },
   {
     "label": "Click",
     "id": "click",
-    "url": "/rows/click.html"
+    "url": "/concepts/click.html"
   },
   {
     "label": "clickpath",
     "id": "clickpath",
-    "url": "/rows/clickpath.html"
+    "url": "/concepts/clickpath.html"
   },
   {
     "label": "clike",
     "id": "clike",
-    "url": "/rows/clike.html"
+    "url": "/concepts/clike.html"
   },
   {
     "label": "clion-editor",
     "id": "clion-editor",
-    "url": "/rows/clion-editor.html"
+    "url": "/concepts/clion-editor.html"
   },
   {
     "label": "Clipper",
     "id": "clipper",
-    "url": "/rows/clipper.html"
+    "url": "/concepts/clipper.html"
   },
   {
     "label": "CLIPS",
     "id": "clips",
-    "url": "/rows/clips.html"
+    "url": "/concepts/clips.html"
   },
   {
     "label": "CLISP",
     "id": "clisp",
-    "url": "/rows/clisp.html"
+    "url": "/concepts/clisp.html"
   },
   {
     "label": "CLIST",
     "id": "clist",
-    "url": "/rows/clist.html"
+    "url": "/concepts/clist.html"
   },
   {
     "label": "CLiX markup",
     "id": "clix",
-    "url": "/rows/clix.html"
+    "url": "/concepts/clix.html"
   },
   {
     "label": "cloc",
     "id": "cloc",
-    "url": "/rows/cloc.html"
+    "url": "/concepts/cloc.html"
   },
   {
     "label": "cloe",
     "id": "cloe",
-    "url": "/rows/cloe.html"
+    "url": "/concepts/cloe.html"
   },
   {
     "label": "clojars-pm",
     "id": "clojars-pm",
-    "url": "/rows/clojars-pm.html"
+    "url": "/concepts/clojars-pm.html"
   },
   {
     "label": "Clojure",
     "id": "clojure",
-    "url": "/rows/clojure.html"
+    "url": "/concepts/clojure.html"
   },
   {
     "label": "ClojureScript",
     "id": "clojurescript",
-    "url": "/rows/clojurescript.html"
+    "url": "/concepts/clojurescript.html"
   },
   {
     "label": "CLOS",
     "id": "clos",
-    "url": "/rows/clos.html"
+    "url": "/concepts/clos.html"
   },
   {
     "label": "Closure Templates",
     "id": "closure-templates",
-    "url": "/rows/closure-templates.html"
+    "url": "/concepts/closure-templates.html"
   },
   {
     "label": "Cloud Firestore Security Rules",
     "id": "cloud-firestore-security-rules",
-    "url": "/rows/cloud-firestore-security-rules.html"
+    "url": "/concepts/cloud-firestore-security-rules.html"
   },
   {
     "label": "CLOVER",
     "id": "clover",
-    "url": "/rows/clover.html"
+    "url": "/concepts/clover.html"
   },
   {
     "label": "clox",
     "id": "clox",
-    "url": "/rows/clox.html"
+    "url": "/concepts/clox.html"
   },
   {
     "label": "CLP*",
     "id": "clp-star",
-    "url": "/rows/clp-star.html"
+    "url": "/concepts/clp-star.html"
   },
   {
     "label": "CLPR",
     "id": "clpr",
-    "url": "/rows/clpr.html"
+    "url": "/concepts/clpr.html"
   },
   {
     "label": "CLU",
     "id": "clu",
-    "url": "/rows/clu.html"
+    "url": "/concepts/clu.html"
   },
   {
     "label": "CLX",
     "id": "clx",
-    "url": "/rows/clx.html"
+    "url": "/concepts/clx.html"
   },
   {
     "label": "CMake",
     "id": "cmake",
-    "url": "/rows/cmake.html"
+    "url": "/concepts/cmake.html"
   },
   {
     "label": "CMIX",
     "id": "cmix",
-    "url": "/rows/cmix.html"
+    "url": "/concepts/cmix.html"
   },
   {
     "label": "CMN",
     "id": "cmn",
-    "url": "/rows/cmn.html"
+    "url": "/concepts/cmn.html"
   },
   {
     "label": "CMS-2",
     "id": "cms-2",
-    "url": "/rows/cms-2.html"
+    "url": "/concepts/cms-2.html"
   },
   {
     "label": "EXEC",
     "id": "cms-exec",
-    "url": "/rows/cms-exec.html"
+    "url": "/concepts/cms-exec.html"
   },
   {
     "label": "CMS Pipelines",
     "id": "cms-pipelines",
-    "url": "/rows/cms-pipelines.html"
+    "url": "/concepts/cms-pipelines.html"
   },
   {
     "label": "CMU Common Lisp",
     "id": "cmu-common-lisp",
-    "url": "/rows/cmu-common-lisp.html"
+    "url": "/concepts/cmu-common-lisp.html"
   },
   {
     "label": "co-dfns",
     "id": "co-dfns",
-    "url": "/rows/co-dfns.html"
+    "url": "/concepts/co-dfns.html"
   },
   {
     "label": "co2",
     "id": "co2",
-    "url": "/rows/co2.html"
+    "url": "/concepts/co2.html"
   },
   {
     "label": "COBLOC",
     "id": "cobloc",
-    "url": "/rows/cobloc.html"
+    "url": "/concepts/cobloc.html"
   },
   {
     "label": "Cobol.NET",
     "id": "cobol-net",
-    "url": "/rows/cobol-net.html"
+    "url": "/concepts/cobol-net.html"
   },
   {
     "label": "COBOL",
     "id": "cobol",
-    "url": "/rows/cobol.html"
+    "url": "/concepts/cobol.html"
   },
   {
     "label": "CobolScript",
     "id": "cobolscript",
-    "url": "/rows/cobolscript.html"
+    "url": "/concepts/cobolscript.html"
   },
   {
     "label": "Cobra",
     "id": "cobra",
-    "url": "/rows/cobra.html"
+    "url": "/concepts/cobra.html"
   },
   {
     "label": "Coco/R",
     "id": "coco-r",
-    "url": "/rows/coco-r.html"
+    "url": "/concepts/coco-r.html"
   },
   {
     "label": "Coco",
     "id": "coco",
-    "url": "/rows/coco.html"
+    "url": "/concepts/coco.html"
   },
   {
     "label": "cocoapods-pm",
     "id": "cocoapods-pm",
-    "url": "/rows/cocoapods-pm.html"
+    "url": "/concepts/cocoapods-pm.html"
   },
   {
     "label": "Coconut",
     "id": "coconut",
-    "url": "/rows/coconut.html"
+    "url": "/concepts/coconut.html"
   },
   {
     "label": "Coda web development software",
     "id": "coda-editor",
-    "url": "/rows/coda-editor.html"
+    "url": "/concepts/coda-editor.html"
   },
   {
     "label": "code-blocks-editor",
     "id": "code-blocks-editor",
-    "url": "/rows/code-blocks-editor.html"
+    "url": "/concepts/code-blocks-editor.html"
   },
   {
     "label": "codecept",
     "id": "codecept",
-    "url": "/rows/codecept.html"
+    "url": "/concepts/codecept.html"
   },
   {
     "label": "codeflow",
     "id": "codeflow",
-    "url": "/rows/codeflow.html"
+    "url": "/concepts/codeflow.html"
   },
   {
     "label": "CodeGear Delphi",
     "id": "codegear-delphi",
-    "url": "/rows/codegear-delphi.html"
+    "url": "/concepts/codegear-delphi.html"
   },
   {
     "label": "codelite-editor",
     "id": "codelite-editor",
-    "url": "/rows/codelite-editor.html"
+    "url": "/concepts/codelite-editor.html"
   },
   {
     "label": "CodeMirror",
     "id": "codemirror",
-    "url": "/rows/codemirror.html"
+    "url": "/concepts/codemirror.html"
   },
   {
     "label": "CodeQL",
     "id": "codeql",
-    "url": "/rows/codeql.html"
+    "url": "/concepts/codeql.html"
   },
   {
     "label": "CODIL",
     "id": "codil",
-    "url": "/rows/codil.html"
+    "url": "/concepts/codil.html"
   },
   {
     "label": "Common Object File Format",
     "id": "coff",
-    "url": "/rows/coff.html"
+    "url": "/concepts/coff.html"
   },
   {
     "label": "COFFEE Cinema 4D",
     "id": "coffee-cinema-4d",
-    "url": "/rows/coffee-cinema-4d.html"
+    "url": "/concepts/coffee-cinema-4d.html"
   },
   {
     "label": "coffeepp",
     "id": "coffeepp",
-    "url": "/rows/coffeepp.html"
+    "url": "/concepts/coffeepp.html"
   },
   {
     "label": "CoffeeScript",
     "id": "coffeescript",
-    "url": "/rows/coffeescript.html"
+    "url": "/concepts/coffeescript.html"
   },
   {
     "label": "CogMap",
     "id": "cogmap",
-    "url": "/rows/cogmap.html"
+    "url": "/concepts/cogmap.html"
   },
   {
     "label": "COGO",
     "id": "cogo",
-    "url": "/rows/cogo.html"
+    "url": "/concepts/cogo.html"
   },
   {
     "label": "coherence",
     "id": "coherence",
-    "url": "/rows/coherence.html"
+    "url": "/concepts/coherence.html"
   },
   {
     "label": "Coherent Parallel C",
     "id": "coherent-parallel-c",
-    "url": "/rows/coherent-parallel-c.html"
+    "url": "/concepts/coherent-parallel-c.html"
   },
   {
     "label": "coi-protocol",
     "id": "coi-protocol",
-    "url": "/rows/coi-protocol.html"
+    "url": "/concepts/coi-protocol.html"
   },
   {
     "label": "CokeScript",
     "id": "cokescript",
-    "url": "/rows/cokescript.html"
+    "url": "/concepts/cokescript.html"
   },
   {
     "label": "COL",
     "id": "col",
-    "url": "/rows/col.html"
+    "url": "/concepts/col.html"
   },
   {
     "label": "ColaScript",
     "id": "colascript",
-    "url": "/rows/colascript.html"
+    "url": "/concepts/colascript.html"
   },
   {
     "label": "COLASL",
     "id": "colasl",
-    "url": "/rows/colasl.html"
+    "url": "/concepts/colasl.html"
   },
   {
     "label": "COLD-K",
     "id": "cold-k",
-    "url": "/rows/cold-k.html"
+    "url": "/concepts/cold-k.html"
   },
   {
     "label": "ColdFusion Components",
     "id": "coldfusion-components",
-    "url": "/rows/coldfusion-components.html"
+    "url": "/concepts/coldfusion-components.html"
   },
   {
     "label": "ColdFusion",
     "id": "coldfusion",
-    "url": "/rows/coldfusion.html"
+    "url": "/concepts/coldfusion.html"
   },
   {
     "label": "COLLADA",
     "id": "collada",
-    "url": "/rows/collada.html"
+    "url": "/concepts/collada.html"
   },
   {
     "label": "Color BASIC",
     "id": "color-basic",
-    "url": "/rows/color-basic.html"
+    "url": "/concepts/color-basic.html"
   },
   {
     "label": "ColorForth",
     "id": "colorforth",
-    "url": "/rows/colorforth.html"
+    "url": "/concepts/colorforth.html"
   },
   {
     "label": "COMAL",
     "id": "comal",
-    "url": "/rows/comal.html"
+    "url": "/concepts/comal.html"
   },
   {
     "label": "Combined Log Format",
     "id": "combined-log-format",
-    "url": "/rows/combined-log-format.html"
+    "url": "/concepts/combined-log-format.html"
   },
   {
     "label": "comby",
     "id": "comby",
-    "url": "/rows/comby.html"
+    "url": "/concepts/comby.html"
   },
   {
     "label": "COMFY",
     "id": "comfy",
-    "url": "/rows/comfy.html"
+    "url": "/concepts/comfy.html"
   },
   {
     "label": "COMIT",
     "id": "comit",
-    "url": "/rows/comit.html"
+    "url": "/concepts/comit.html"
   },
   {
     "label": "comm",
     "id": "comm",
-    "url": "/rows/comm.html"
+    "url": "/concepts/comm.html"
   },
   {
     "label": "COMMEN",
     "id": "commen",
-    "url": "/rows/commen.html"
+    "url": "/concepts/commen.html"
   },
   {
     "label": "Commodore BASIC",
     "id": "commodore-basic",
-    "url": "/rows/commodore-basic.html"
+    "url": "/concepts/commodore-basic.html"
   },
   {
     "label": "Common Lisp",
     "id": "common-lisp",
-    "url": "/rows/common-lisp.html"
+    "url": "/concepts/common-lisp.html"
   },
   {
     "label": "Common Log Format",
     "id": "common-log-format",
-    "url": "/rows/common-log-format.html"
+    "url": "/concepts/common-log-format.html"
   },
   {
     "label": "CWL",
     "id": "common-workflow-language",
-    "url": "/rows/common-workflow-language.html"
+    "url": "/concepts/common-workflow-language.html"
   },
   {
     "label": "CommonLoops",
     "id": "commonloops",
-    "url": "/rows/commonloops.html"
+    "url": "/concepts/commonloops.html"
   },
   {
     "label": "commonmark",
     "id": "commonmark",
-    "url": "/rows/commonmark.html"
+    "url": "/concepts/commonmark.html"
   },
   {
     "label": "Compact Application Solution Language",
     "id": "compact-application-solution-language",
-    "url": "/rows/compact-application-solution-language.html"
+    "url": "/concepts/compact-application-solution-language.html"
   },
   {
     "label": "Compiler-Compiler",
     "id": "compiler-compiler",
-    "url": "/rows/compiler-compiler.html"
+    "url": "/concepts/compiler-compiler.html"
   },
   {
     "label": "Complex-Prolog",
     "id": "complex-prolog",
-    "url": "/rows/complex-prolog.html"
+    "url": "/concepts/complex-prolog.html"
   },
   {
     "label": "COMPONENT PASCAL",
     "id": "component-pascal",
-    "url": "/rows/component-pascal.html"
+    "url": "/concepts/component-pascal.html"
   },
   {
     "label": "Computer Compiler",
     "id": "computer-compiler",
-    "url": "/rows/computer-compiler.html"
+    "url": "/concepts/computer-compiler.html"
   },
   {
     "label": "COMPUTEST",
     "id": "computest",
-    "url": "/rows/computest.html"
+    "url": "/concepts/computest.html"
   },
   {
     "label": "COMSKEE",
     "id": "comskee",
-    "url": "/rows/comskee.html"
+    "url": "/concepts/comskee.html"
   },
   {
     "label": "COMSL",
     "id": "comsl",
-    "url": "/rows/comsl.html"
+    "url": "/concepts/comsl.html"
   },
   {
     "label": "COMSOL Script",
     "id": "comsol-script",
-    "url": "/rows/comsol-script.html"
+    "url": "/concepts/comsol-script.html"
   },
   {
     "label": "COMTRAN",
     "id": "comtran",
-    "url": "/rows/comtran.html"
+    "url": "/concepts/comtran.html"
   },
   {
     "label": "CONA",
     "id": "cona",
-    "url": "/rows/cona.html"
+    "url": "/concepts/cona.html"
   },
   {
     "label": "Conan Center",
     "id": "conan-center-pm",
-    "url": "/rows/conan-center-pm.html"
+    "url": "/concepts/conan-center-pm.html"
   },
   {
     "label": "Conan",
     "id": "conan-pm",
-    "url": "/rows/conan-pm.html"
+    "url": "/concepts/conan-pm.html"
   },
   {
     "label": "ConC",
     "id": "conc",
-    "url": "/rows/conc.html"
+    "url": "/concepts/conc.html"
   },
   {
     "label": "concept-script",
     "id": "concept-script",
-    "url": "/rows/concept-script.html"
+    "url": "/concepts/concept-script.html"
   },
   {
     "label": "Conceptual",
     "id": "conceptual",
-    "url": "/rows/conceptual.html"
+    "url": "/concepts/conceptual.html"
   },
   {
     "label": "Concert/C",
     "id": "concert-c",
-    "url": "/rows/concert-c.html"
+    "url": "/concepts/concert-c.html"
   },
   {
     "label": "Concise Encoding",
     "id": "concise-encoding",
-    "url": "/rows/concise-encoding.html"
+    "url": "/concepts/concise-encoding.html"
   },
   {
     "label": "concordance",
     "id": "concordance",
-    "url": "/rows/concordance.html"
+    "url": "/concepts/concordance.html"
   },
   {
     "label": "CONCUR",
     "id": "concur",
-    "url": "/rows/concur.html"
+    "url": "/concepts/concur.html"
   },
   {
     "label": "concurnas",
     "id": "concurnas",
-    "url": "/rows/concurnas.html"
+    "url": "/concepts/concurnas.html"
   },
   {
     "label": "ConCurr",
     "id": "concurr",
-    "url": "/rows/concurr.html"
+    "url": "/concepts/concurr.html"
   },
   {
     "label": "Concurrent C++",
     "id": "concurrent-cpp",
-    "url": "/rows/concurrent-cpp.html"
+    "url": "/concepts/concurrent-cpp.html"
   },
   {
     "label": "Concurrent METATEM",
     "id": "concurrent-metatem",
-    "url": "/rows/concurrent-metatem.html"
+    "url": "/concepts/concurrent-metatem.html"
   },
   {
     "label": "Concurrent ML",
     "id": "concurrent-ml",
-    "url": "/rows/concurrent-ml.html"
+    "url": "/concepts/concurrent-ml.html"
   },
   {
     "label": "Concurrent Pascal",
     "id": "concurrent-pascal",
-    "url": "/rows/concurrent-pascal.html"
+    "url": "/concepts/concurrent-pascal.html"
   },
   {
     "label": "Concurrent Prolog",
     "id": "concurrent-prolog",
-    "url": "/rows/concurrent-prolog.html"
+    "url": "/concepts/concurrent-prolog.html"
   },
   {
     "label": "Cone",
     "id": "cone",
-    "url": "/rows/cone.html"
+    "url": "/concepts/cone.html"
   },
   {
     "label": "Confluence",
     "id": "confluence",
-    "url": "/rows/confluence.html"
+    "url": "/concepts/confluence.html"
   },
   {
     "label": "conGolog",
     "id": "congolog",
-    "url": "/rows/congolog.html"
+    "url": "/concepts/congolog.html"
   },
   {
     "label": "CONLAN",
     "id": "conlan",
-    "url": "/rows/conlan.html"
+    "url": "/concepts/conlan.html"
   },
   {
     "label": "CoNLL-U",
     "id": "conll-u",
-    "url": "/rows/conll-u.html"
+    "url": "/concepts/conll-u.html"
   },
   {
     "label": "ConMan",
     "id": "conman",
-    "url": "/rows/conman.html"
+    "url": "/concepts/conman.html"
   },
   {
     "label": "Connection Machine LISP",
     "id": "connection-machine-lisp",
-    "url": "/rows/connection-machine-lisp.html"
+    "url": "/concepts/connection-machine-lisp.html"
   },
   {
     "label": "Connection Machine",
     "id": "connection-machine",
-    "url": "/rows/connection-machine.html"
+    "url": "/concepts/connection-machine.html"
   },
   {
     "label": "CONNIVER",
     "id": "conniver",
-    "url": "/rows/conniver.html"
+    "url": "/concepts/conniver.html"
   },
   {
     "label": "CONSIM",
     "id": "consim",
-    "url": "/rows/consim.html"
+    "url": "/concepts/consim.html"
   },
   {
     "label": "ConstraintLisp",
     "id": "constraintlisp",
-    "url": "/rows/constraintlisp.html"
+    "url": "/concepts/constraintlisp.html"
   },
   {
     "label": "CONSTRAINTS",
     "id": "constraints",
-    "url": "/rows/constraints.html"
+    "url": "/concepts/constraints.html"
   },
   {
     "label": "Consul",
     "id": "consul",
-    "url": "/rows/consul.html"
+    "url": "/concepts/consul.html"
   },
   {
     "label": "Context Diff",
     "id": "context-diff",
-    "url": "/rows/context-diff.html"
+    "url": "/concepts/context-diff.html"
   },
   {
     "label": "contracts.coffee",
     "id": "contracts.coffee",
-    "url": "/rows/contracts.coffee.html"
+    "url": "/concepts/contracts.coffee.html"
   },
   {
     "label": "CONTRANS",
     "id": "contrans",
-    "url": "/rows/contrans.html"
+    "url": "/concepts/contrans.html"
   },
   {
     "label": "converge",
     "id": "converge",
-    "url": "/rows/converge.html"
+    "url": "/concepts/converge.html"
   },
   {
     "label": "CONVERT",
     "id": "convert",
-    "url": "/rows/convert.html"
+    "url": "/concepts/convert.html"
   },
   {
     "label": "cooC",
     "id": "cooc",
-    "url": "/rows/cooc.html"
+    "url": "/concepts/cooc.html"
   },
   {
     "label": "Classroom Object Oriented Language",
     "id": "cool",
-    "url": "/rows/cool.html"
+    "url": "/concepts/cool.html"
   },
   {
     "label": "Matrix Market Coordinate Format",
     "id": "coordinate-format",
-    "url": "/rows/coordinate-format.html"
+    "url": "/concepts/coordinate-format.html"
   },
   {
     "label": "COPAS",
     "id": "copas",
-    "url": "/rows/copas.html"
+    "url": "/concepts/copas.html"
   },
   {
     "label": "COPE",
     "id": "cope",
-    "url": "/rows/cope.html"
+    "url": "/concepts/cope.html"
   },
   {
     "label": "Copilot",
     "id": "copilot",
-    "url": "/rows/copilot.html"
+    "url": "/concepts/copilot.html"
   },
   {
     "label": "Coq",
     "id": "coq",
-    "url": "/rows/coq.html"
+    "url": "/concepts/coq.html"
   },
   {
     "label": "cor",
     "id": "cor",
-    "url": "/rows/cor.html"
+    "url": "/concepts/cor.html"
   },
   {
     "label": "CORAL 64",
     "id": "coral-64",
-    "url": "/rows/coral-64.html"
+    "url": "/concepts/coral-64.html"
   },
   {
     "label": "Coral",
     "id": "coral-lang",
-    "url": "/rows/coral-lang.html"
+    "url": "/concepts/coral-lang.html"
   },
   {
     "label": "CORAL",
     "id": "coral",
-    "url": "/rows/coral.html"
+    "url": "/concepts/coral.html"
   },
   {
     "label": "Coral++",
     "id": "coralpp",
-    "url": "/rows/coralpp.html"
+    "url": "/concepts/coralpp.html"
   },
   {
     "label": "CorbaScript",
     "id": "corbascript",
-    "url": "/rows/corbascript.html"
+    "url": "/concepts/corbascript.html"
   },
   {
     "label": "CORC",
     "id": "corc",
-    "url": "/rows/corc.html"
+    "url": "/concepts/corc.html"
   },
   {
     "label": "CorelScript",
     "id": "corelscript",
-    "url": "/rows/corelscript.html"
+    "url": "/concepts/corelscript.html"
   },
   {
     "label": "corescript",
     "id": "corescript",
-    "url": "/rows/corescript.html"
+    "url": "/concepts/corescript.html"
   },
   {
     "label": "Corman Common Lisp",
     "id": "corman-common-lisp",
-    "url": "/rows/corman-common-lisp.html"
+    "url": "/concepts/corman-common-lisp.html"
   },
   {
     "label": "Cornell University Programming Language",
     "id": "cornell-university-programming-language",
-    "url": "/rows/cornell-university-programming-language.html"
+    "url": "/concepts/cornell-university-programming-language.html"
   },
   {
     "label": "CorVision",
     "id": "corvision",
-    "url": "/rows/corvision.html"
+    "url": "/concepts/corvision.html"
   },
   {
     "label": "cosh",
     "id": "cosh",
-    "url": "/rows/cosh.html"
+    "url": "/concepts/cosh.html"
   },
   {
     "label": "CosmicOS",
     "id": "cosmicos",
-    "url": "/rows/cosmicos.html"
+    "url": "/concepts/cosmicos.html"
   },
   {
     "label": "COSMO",
     "id": "cosmo",
-    "url": "/rows/cosmo.html"
+    "url": "/concepts/cosmo.html"
   },
   {
     "label": "Cosmos",
     "id": "cosmos",
-    "url": "/rows/cosmos.html"
+    "url": "/concepts/cosmos.html"
   },
   {
     "label": "Cotton",
     "id": "cotton",
-    "url": "/rows/cotton.html"
+    "url": "/concepts/cotton.html"
   },
   {
     "label": "Couchbase Mobile",
     "id": "couchbase-mobile",
-    "url": "/rows/couchbase-mobile.html"
+    "url": "/concepts/couchbase-mobile.html"
   },
   {
     "label": "Couchbase",
     "id": "couchbase",
-    "url": "/rows/couchbase.html"
+    "url": "/concepts/couchbase.html"
   },
   {
     "label": "CouchDB",
     "id": "couchdb",
-    "url": "/rows/couchdb.html"
+    "url": "/concepts/couchdb.html"
   },
   {
     "label": "Coulomb's Equation",
     "id": "coulombs-equation",
-    "url": "/rows/coulombs-equation.html"
+    "url": "/concepts/coulombs-equation.html"
   },
   {
     "label": "COWSEL",
     "id": "cowsel",
-    "url": "/rows/cowsel.html"
+    "url": "/concepts/cowsel.html"
   },
   {
     "label": "CP",
     "id": "cp",
-    "url": "/rows/cp.html"
+    "url": "/concepts/cp.html"
   },
   {
     "label": "cpan-pm",
     "id": "cpan-pm",
-    "url": "/rows/cpan-pm.html"
+    "url": "/concepts/cpan-pm.html"
   },
   {
     "label": "cperl",
     "id": "cperl",
-    "url": "/rows/cperl.html"
+    "url": "/concepts/cperl.html"
   },
   {
     "label": "CPL",
     "id": "cpl",
-    "url": "/rows/cpl.html"
+    "url": "/concepts/cpl.html"
   },
   {
     "label": "C++",
     "id": "cpp",
-    "url": "/rows/cpp.html"
+    "url": "/concepts/cpp.html"
   },
   {
     "label": "cql",
     "id": "cql",
-    "url": "/rows/cql.html"
+    "url": "/concepts/cql.html"
   },
   {
     "label": "CQLF",
     "id": "cqlf",
-    "url": "/rows/cqlf.html"
+    "url": "/concepts/cqlf.html"
   },
   {
     "label": "CQL++",
     "id": "cqlpp",
-    "url": "/rows/cqlpp.html"
+    "url": "/concepts/cqlpp.html"
   },
   {
     "label": "crack",
     "id": "crack",
-    "url": "/rows/crack.html"
+    "url": "/concepts/crack.html"
   },
   {
     "label": "CRAM file format",
     "id": "cram-format",
-    "url": "/rows/cram-format.html"
+    "url": "/concepts/cram-format.html"
   },
   {
     "label": "cran-pm",
     "id": "cran-pm",
-    "url": "/rows/cran-pm.html"
+    "url": "/concepts/cran-pm.html"
   },
   {
     "label": "Cranelift",
     "id": "cranelift-ir",
-    "url": "/rows/cranelift-ir.html"
+    "url": "/concepts/cranelift-ir.html"
   },
   {
     "label": "crates-pm",
     "id": "crates-pm",
-    "url": "/rows/crates-pm.html"
+    "url": "/concepts/crates-pm.html"
   },
   {
     "label": "Creative Basic",
     "id": "creative-basic",
-    "url": "/rows/creative-basic.html"
+    "url": "/concepts/creative-basic.html"
   },
   {
     "label": "Crema",
     "id": "crema",
-    "url": "/rows/crema.html"
+    "url": "/concepts/crema.html"
   },
   {
     "label": "Creole",
     "id": "creole",
-    "url": "/rows/creole.html"
+    "url": "/concepts/creole.html"
   },
   {
     "label": "crmsh",
     "id": "crmsh",
-    "url": "/rows/crmsh.html"
+    "url": "/concepts/crmsh.html"
   },
   {
     "label": "Croc",
     "id": "croc",
-    "url": "/rows/croc.html"
+    "url": "/concepts/croc.html"
   },
   {
     "label": "Croma",
     "id": "croma",
-    "url": "/rows/croma.html"
+    "url": "/concepts/croma.html"
   },
   {
     "label": "crush",
     "id": "crush",
-    "url": "/rows/crush.html"
+    "url": "/concepts/crush.html"
   },
   {
     "label": "Cryptol",
     "id": "cryptol",
-    "url": "/rows/cryptol.html"
+    "url": "/concepts/cryptol.html"
   },
   {
     "label": "Crystal",
     "id": "crystal",
-    "url": "/rows/crystal.html"
+    "url": "/concepts/crystal.html"
   },
   {
     "label": "CS-Script",
     "id": "cs-script",
-    "url": "/rows/cs-script.html"
+    "url": "/concepts/cs-script.html"
   },
   {
     "label": "CodeStudAssembler",
     "id": "csa",
-    "url": "/rows/csa.html"
+    "url": "/concepts/csa.html"
   },
   {
     "label": "C#",
     "id": "csharp",
-    "url": "/rows/csharp.html"
+    "url": "/concepts/csharp.html"
   },
   {
     "label": "CSL",
     "id": "csl",
-    "url": "/rows/csl.html"
+    "url": "/concepts/csl.html"
   },
   {
     "label": "CSMP",
     "id": "csmp",
-    "url": "/rows/csmp.html"
+    "url": "/concepts/csmp.html"
   },
   {
     "label": "CSON",
     "id": "cson",
-    "url": "/rows/cson.html"
+    "url": "/concepts/cson.html"
   },
   {
     "label": "Csound",
     "id": "csound",
-    "url": "/rows/csound.html"
+    "url": "/concepts/csound.html"
   },
   {
     "label": "CSP-OZ-DC",
     "id": "csp-oz-dc",
-    "url": "/rows/csp-oz-dc.html"
+    "url": "/concepts/csp-oz-dc.html"
   },
   {
     "label": "CSP-OZ",
     "id": "csp-oz",
-    "url": "/rows/csp-oz.html"
+    "url": "/concepts/csp-oz.html"
   },
   {
     "label": "CSP",
     "id": "csp",
-    "url": "/rows/csp.html"
+    "url": "/concepts/csp.html"
   },
   {
     "label": "CSpydr",
     "id": "cspydr",
-    "url": "/rows/cspydr.html"
+    "url": "/concepts/cspydr.html"
   },
   {
     "label": "CSS Doodle",
     "id": "css-doodle",
-    "url": "/rows/css-doodle.html"
+    "url": "/concepts/css-doodle.html"
   },
   {
     "label": "CSS",
     "id": "css",
-    "url": "/rows/css.html"
+    "url": "/concepts/css.html"
   },
   {
     "label": "CSSA",
     "id": "cssa",
-    "url": "/rows/cssa.html"
+    "url": "/concepts/cssa.html"
   },
   {
     "label": "CST",
     "id": "cst",
-    "url": "/rows/cst.html"
+    "url": "/concepts/cst.html"
   },
   {
     "label": "CSV",
     "id": "csv",
-    "url": "/rows/csv.html"
+    "url": "/concepts/csv.html"
   },
   {
     "label": "CSV++",
     "id": "csvpp",
-    "url": "/rows/csvpp.html"
+    "url": "/concepts/csvpp.html"
   },
   {
     "label": "CSVw",
     "id": "csvw",
-    "url": "/rows/csvw.html"
+    "url": "/concepts/csvw.html"
   },
   {
     "label": "cT",
     "id": "ct",
-    "url": "/rows/ct.html"
+    "url": "/concepts/ct.html"
   },
   {
     "label": "ctalk-lang",
     "id": "ctalk-lang",
-    "url": "/rows/ctalk-lang.html"
+    "url": "/concepts/ctalk-lang.html"
   },
   {
     "label": "ctalk",
     "id": "ctalk",
-    "url": "/rows/ctalk.html"
+    "url": "/concepts/ctalk.html"
   },
   {
     "label": "ctan-pm",
     "id": "ctan-pm",
-    "url": "/rows/ctan-pm.html"
+    "url": "/concepts/ctan-pm.html"
   },
   {
     "label": "ctr",
     "id": "ctr",
-    "url": "/rows/ctr.html"
+    "url": "/concepts/ctr.html"
   },
   {
     "label": "Steinberg Cubase",
     "id": "cubase",
-    "url": "/rows/cubase.html"
+    "url": "/concepts/cubase.html"
   },
   {
     "label": "CUBE",
     "id": "cube",
-    "url": "/rows/cube.html"
+    "url": "/concepts/cube.html"
   },
   {
     "label": "CUDA",
     "id": "cuda",
-    "url": "/rows/cuda.html"
+    "url": "/concepts/cuda.html"
   },
   {
     "label": "CueCat",
     "id": "cuecat",
-    "url": "/rows/cuecat.html"
+    "url": "/concepts/cuecat.html"
   },
   {
     "label": "Cue",
     "id": "cuelang",
-    "url": "/rows/cuelang.html"
+    "url": "/concepts/cuelang.html"
   },
   {
     "label": "Culler-Fried System",
     "id": "culler-fried-system",
-    "url": "/rows/culler-fried-system.html"
+    "url": "/concepts/culler-fried-system.html"
   },
   {
     "label": "Cullinet",
     "id": "cullinet",
-    "url": "/rows/cullinet.html"
+    "url": "/concepts/cullinet.html"
   },
   {
     "label": "cuneiform",
     "id": "cuneiform",
-    "url": "/rows/cuneiform.html"
+    "url": "/concepts/cuneiform.html"
   },
   {
     "label": "CUPID",
     "id": "cupid",
-    "url": "/rows/cupid.html"
+    "url": "/concepts/cupid.html"
   },
   {
     "label": "CuPit-2",
     "id": "cupit-2",
-    "url": "/rows/cupit-2.html"
+    "url": "/concepts/cupit-2.html"
   },
   {
     "label": "Curl",
     "id": "curl",
-    "url": "/rows/curl.html"
+    "url": "/concepts/curl.html"
   },
   {
     "label": "Curly",
     "id": "curly",
-    "url": "/rows/curly.html"
+    "url": "/concepts/curly.html"
   },
   {
     "label": "Curry",
     "id": "curry",
-    "url": "/rows/curry.html"
+    "url": "/concepts/curry.html"
   },
   {
     "label": "curv",
     "id": "curv",
-    "url": "/rows/curv.html"
+    "url": "/concepts/curv.html"
   },
   {
     "label": "cuscus",
     "id": "cuscus",
-    "url": "/rows/cuscus.html"
+    "url": "/concepts/cuscus.html"
   },
   {
     "label": "Committee on Uniform Security Identification Procedures",
     "id": "cusip",
-    "url": "/rows/cusip.html"
+    "url": "/concepts/cusip.html"
   },
   {
     "label": "CVL",
     "id": "cvl",
-    "url": "/rows/cvl.html"
+    "url": "/concepts/cvl.html"
   },
   {
     "label": "CWEB",
     "id": "cweb",
-    "url": "/rows/cweb.html"
+    "url": "/concepts/cweb.html"
   },
   {
     "label": "cx",
     "id": "cx",
-    "url": "/rows/cx.html"
+    "url": "/concepts/cx.html"
   },
   {
     "label": "Cyber",
     "id": "cyber",
-    "url": "/rows/cyber.html"
+    "url": "/concepts/cyber.html"
   },
   {
     "label": "CYBIL",
     "id": "cybil",
-    "url": "/rows/cybil.html"
+    "url": "/concepts/cybil.html"
   },
   {
     "label": "CYCL",
     "id": "cycl",
-    "url": "/rows/cycl.html"
+    "url": "/concepts/cycl.html"
   },
   {
     "label": "Cyclone",
     "id": "cyclone",
-    "url": "/rows/cyclone.html"
+    "url": "/concepts/cyclone.html"
   },
   {
     "label": "Cycript",
     "id": "cycript",
-    "url": "/rows/cycript.html"
+    "url": "/concepts/cycript.html"
   },
   {
     "label": "Cymbal",
     "id": "cymbal",
-    "url": "/rows/cymbal.html"
+    "url": "/concepts/cymbal.html"
   },
   {
     "label": "Cypher Query Language",
     "id": "cypher",
-    "url": "/rows/cypher.html"
+    "url": "/concepts/cypher.html"
   },
   {
     "label": "CypherText",
     "id": "cyphertext",
-    "url": "/rows/cyphertext.html"
+    "url": "/concepts/cyphertext.html"
   },
   {
     "label": "Cython",
     "id": "cython",
-    "url": "/rows/cython.html"
+    "url": "/concepts/cython.html"
   },
   {
     "label": "cytosol",
     "id": "cytosol",
-    "url": "/rows/cytosol.html"
+    "url": "/concepts/cytosol.html"
   },
   {
     "label": "D data language specification",
     "id": "d-data-language-specification",
-    "url": "/rows/d-data-language-specification.html"
+    "url": "/concepts/d-data-language-specification.html"
   },
   {
     "label": "D",
     "id": "d",
-    "url": "/rows/d.html"
+    "url": "/concepts/d.html"
   },
   {
     "label": "D2",
     "id": "d2",
-    "url": "/rows/d2.html"
+    "url": "/concepts/d2.html"
   },
   {
     "label": "D3.js",
     "id": "d3",
-    "url": "/rows/d3.html"
+    "url": "/concepts/d3.html"
   },
   {
     "label": "D4",
     "id": "d4-programming-language",
-    "url": "/rows/d4-programming-language.html"
+    "url": "/concepts/d4-programming-language.html"
   },
   {
     "label": "D4",
     "id": "d4",
-    "url": "/rows/d4.html"
+    "url": "/concepts/d4.html"
   },
   {
     "label": "DAD",
     "id": "dad",
-    "url": "/rows/dad.html"
+    "url": "/concepts/dad.html"
   },
   {
     "label": "Dafny",
     "id": "dafny",
-    "url": "/rows/dafny.html"
+    "url": "/concepts/dafny.html"
   },
   {
     "label": "DAG",
     "id": "dag",
-    "url": "/rows/dag.html"
+    "url": "/concepts/dag.html"
   },
   {
     "label": "Daisy Systems",
     "id": "daisy-systems",
-    "url": "/rows/daisy-systems.html"
+    "url": "/concepts/daisy-systems.html"
   },
   {
     "label": "Dak",
     "id": "dak",
-    "url": "/rows/dak.html"
+    "url": "/concepts/dak.html"
   },
   {
     "label": "Dale",
     "id": "dale",
-    "url": "/rows/dale.html"
+    "url": "/concepts/dale.html"
   },
   {
     "label": "dalvik-bytecode",
     "id": "dalvik-bytecode",
-    "url": "/rows/dalvik-bytecode.html"
+    "url": "/concepts/dalvik-bytecode.html"
   },
   {
     "label": "DAML+OIL",
     "id": "daml-oil",
-    "url": "/rows/daml-oil.html"
+    "url": "/concepts/daml-oil.html"
   },
   {
     "label": "DARPA Agent Markup Language",
     "id": "daml",
-    "url": "/rows/daml.html"
+    "url": "/concepts/daml.html"
   },
   {
     "label": "DAMN",
     "id": "damn",
-    "url": "/rows/damn.html"
+    "url": "/concepts/damn.html"
   },
   {
     "label": "daonode",
     "id": "daonode",
-    "url": "/rows/daonode.html"
+    "url": "/concepts/daonode.html"
   },
   {
     "label": "DAP-Algol",
     "id": "dap-algol",
-    "url": "/rows/dap-algol.html"
+    "url": "/concepts/dap-algol.html"
   },
   {
     "label": "DAP FORTRAN",
     "id": "dap-fortran",
-    "url": "/rows/dap-fortran.html"
+    "url": "/concepts/dap-fortran.html"
   },
   {
     "label": "Daplex",
     "id": "daplex",
-    "url": "/rows/daplex.html"
+    "url": "/concepts/daplex.html"
   },
   {
     "label": "Darcs Advanced Revision Control System",
     "id": "darcs-patch",
-    "url": "/rows/darcs-patch.html"
+    "url": "/concepts/darcs-patch.html"
   },
   {
     "label": "DarkBASIC",
     "id": "darkbasic",
-    "url": "/rows/darkbasic.html"
+    "url": "/concepts/darkbasic.html"
   },
   {
     "label": "darklang",
     "id": "darklang",
-    "url": "/rows/darklang.html"
+    "url": "/concepts/darklang.html"
   },
   {
     "label": "dart-pm",
     "id": "dart-pm",
-    "url": "/rows/dart-pm.html"
+    "url": "/concepts/dart-pm.html"
   },
   {
     "label": "Dart",
     "id": "dart",
-    "url": "/rows/dart.html"
+    "url": "/concepts/dart.html"
   },
   {
     "label": "DartCVL",
     "id": "dartcvl",
-    "url": "/rows/dartcvl.html"
+    "url": "/concepts/dartcvl.html"
   },
   {
     "label": "Dartmouth BASIC",
     "id": "dartmouth-basic",
-    "url": "/rows/dartmouth-basic.html"
+    "url": "/concepts/dartmouth-basic.html"
   },
   {
     "label": "DAS",
     "id": "das",
-    "url": "/rows/das.html"
+    "url": "/concepts/das.html"
   },
   {
     "label": "Dashrep",
     "id": "dashrep",
-    "url": "/rows/dashrep.html"
+    "url": "/concepts/dashrep.html"
   },
   {
     "label": "Distributed Application Specification Language",
     "id": "dasl",
-    "url": "/rows/dasl.html"
+    "url": "/concepts/dasl.html"
   },
   {
     "label": "Dasm",
     "id": "dasm",
-    "url": "/rows/dasm.html"
+    "url": "/concepts/dasm.html"
   },
   {
     "label": "dat-protocol",
     "id": "dat-protocol",
-    "url": "/rows/dat-protocol.html"
+    "url": "/concepts/dat-protocol.html"
   },
   {
     "label": "Data Access Language",
     "id": "data-access-language",
-    "url": "/rows/data-access-language.html"
+    "url": "/concepts/data-access-language.html"
   },
   {
     "label": "Data General Business Basic",
     "id": "data-general-business-basic",
-    "url": "/rows/data-general-business-basic.html"
+    "url": "/concepts/data-general-business-basic.html"
   },
   {
     "label": "DATA-TEXT",
     "id": "data-text",
-    "url": "/rows/data-text.html"
+    "url": "/concepts/data-text.html"
   },
   {
     "label": "DATABUS",
     "id": "databus",
-    "url": "/rows/databus.html"
+    "url": "/concepts/databus.html"
   },
   {
     "label": "Dataflex",
     "id": "dataflex",
-    "url": "/rows/dataflex.html"
+    "url": "/concepts/dataflex.html"
   },
   {
     "label": "datafun",
     "id": "datafun",
-    "url": "/rows/datafun.html"
+    "url": "/concepts/datafun.html"
   },
   {
     "label": "Datalisp",
     "id": "datalisp",
-    "url": "/rows/datalisp.html"
+    "url": "/concepts/datalisp.html"
   },
   {
     "label": "Datalog",
     "id": "datalog",
-    "url": "/rows/datalog.html"
+    "url": "/concepts/datalog.html"
   },
   {
     "label": "DATAN",
     "id": "datan",
-    "url": "/rows/datan.html"
+    "url": "/concepts/datan.html"
   },
   {
     "label": "Data Package",
     "id": "datapackage",
-    "url": "/rows/datapackage.html"
+    "url": "/concepts/datapackage.html"
   },
   {
     "label": "Datapoint's Advanced Systems Language",
     "id": "datapoint-dasl",
-    "url": "/rows/datapoint-dasl.html"
+    "url": "/concepts/datapoint-dasl.html"
   },
   {
     "label": "datascript",
     "id": "datascript",
-    "url": "/rows/datascript.html"
+    "url": "/concepts/datascript.html"
   },
   {
     "label": "DATATRIEVE",
     "id": "datatrieve",
-    "url": "/rows/datatrieve.html"
+    "url": "/concepts/datatrieve.html"
   },
   {
     "label": "DataWeave",
     "id": "dataweave",
-    "url": "/rows/dataweave.html"
+    "url": "/concepts/dataweave.html"
   },
   {
     "label": "datev",
     "id": "datev",
-    "url": "/rows/datev.html"
+    "url": "/concepts/datev.html"
   },
   {
     "label": "Datomic",
     "id": "datomic",
-    "url": "/rows/datomic.html"
+    "url": "/concepts/datomic.html"
   },
   {
     "label": "DAX",
     "id": "dax",
-    "url": "/rows/dax.html"
+    "url": "/concepts/dax.html"
   },
   {
     "label": "DBase",
     "id": "dbase",
-    "url": "/rows/dbase.html"
+    "url": "/concepts/dbase.html"
   },
   {
     "label": "dbml",
     "id": "dbml",
-    "url": "/rows/dbml.html"
+    "url": "/concepts/dbml.html"
   },
   {
     "label": "Dc",
     "id": "dc",
-    "url": "/rows/dc.html"
+    "url": "/concepts/dc.html"
   },
   {
     "label": "Data Communications ALGOL",
     "id": "dcalgol",
-    "url": "/rows/dcalgol.html"
+    "url": "/concepts/dcalgol.html"
   },
   {
     "label": "Data Catalog Vocabulary",
     "id": "dcat",
-    "url": "/rows/dcat.html"
+    "url": "/concepts/dcat.html"
   },
   {
     "label": "DDA",
     "id": "dda",
-    "url": "/rows/dda.html"
+    "url": "/concepts/dda.html"
   },
   {
     "label": "DDF",
     "id": "ddfcsv",
-    "url": "/rows/ddfcsv.html"
+    "url": "/concepts/ddfcsv.html"
   },
   {
     "label": "ddfql",
     "id": "ddfql",
-    "url": "/rows/ddfql.html"
+    "url": "/concepts/ddfql.html"
   },
   {
     "label": "DDML",
     "id": "ddml",
-    "url": "/rows/ddml.html"
+    "url": "/concepts/ddml.html"
   },
   {
     "label": "De Bruijn index",
     "id": "de-bruijn-index-notation",
-    "url": "/rows/de-bruijn-index-notation.html"
+    "url": "/concepts/de-bruijn-index-notation.html"
   },
   {
     "label": "DEACON",
     "id": "deacon",
-    "url": "/rows/deacon.html"
+    "url": "/concepts/deacon.html"
   },
   {
     "label": "Deb file format",
     "id": "deb",
-    "url": "/rows/deb.html"
+    "url": "/concepts/deb.html"
   },
   {
     "label": "DEBL",
     "id": "debl",
-    "url": "/rows/debl.html"
+    "url": "/concepts/debl.html"
   },
   {
     "label": "DeBuMa",
     "id": "debuma",
-    "url": "/rows/debuma.html"
+    "url": "/concepts/debuma.html"
   },
   {
     "label": "dec64",
     "id": "dec64",
-    "url": "/rows/dec64.html"
+    "url": "/concepts/dec64.html"
   },
   {
     "label": "Decision Model & Notation",
     "id": "decision-model-notation",
-    "url": "/rows/decision-model-notation.html"
+    "url": "/concepts/decision-model-notation.html"
   },
   {
     "label": "DECLARE",
     "id": "declare",
-    "url": "/rows/declare.html"
+    "url": "/concepts/declare.html"
   },
   {
     "label": "dedukti",
     "id": "dedukti",
-    "url": "/rows/dedukti.html"
+    "url": "/concepts/dedukti.html"
   },
   {
     "label": "Deesel",
     "id": "deesel",
-    "url": "/rows/deesel.html"
+    "url": "/concepts/deesel.html"
   },
   {
     "label": "Definite clause grammar",
     "id": "definite-clause-grammar-notation",
-    "url": "/rows/definite-clause-grammar-notation.html"
+    "url": "/concepts/definite-clause-grammar-notation.html"
   },
   {
     "label": "DEL",
     "id": "del",
-    "url": "/rows/del.html"
+    "url": "/concepts/del.html"
   },
   {
     "label": "Delirium",
     "id": "delirium",
-    "url": "/rows/delirium.html"
+    "url": "/concepts/delirium.html"
   },
   {
     "label": "Delphi",
     "id": "delphi",
-    "url": "/rows/delphi.html"
+    "url": "/concepts/delphi.html"
   },
   {
     "label": "Delta Prolog",
     "id": "delta-prolog",
-    "url": "/rows/delta-prolog.html"
+    "url": "/concepts/delta-prolog.html"
   },
   {
     "label": "DEM",
     "id": "dem",
-    "url": "/rows/dem.html"
+    "url": "/concepts/dem.html"
   },
   {
     "label": "DEMETER",
     "id": "demeter",
-    "url": "/rows/demeter.html"
+    "url": "/concepts/demeter.html"
   },
   {
     "label": "DEMOS",
     "id": "demos",
-    "url": "/rows/demos.html"
+    "url": "/concepts/demos.html"
   },
   {
     "label": "Dendral",
     "id": "dendral",
-    "url": "/rows/dendral.html"
+    "url": "/concepts/dendral.html"
   },
   {
     "label": "Deno",
     "id": "deno",
-    "url": "/rows/deno.html"
+    "url": "/concepts/deno.html"
   },
   {
     "label": "DML",
     "id": "dependent-ml",
-    "url": "/rows/dependent-ml.html"
+    "url": "/concepts/dependent-ml.html"
   },
   {
     "label": "Dern",
     "id": "dern",
-    "url": "/rows/dern.html"
+    "url": "/concepts/dern.html"
   },
   {
     "label": "Descartes",
     "id": "descartes",
-    "url": "/rows/descartes.html"
+    "url": "/concepts/descartes.html"
   },
   {
     "label": "Descript",
     "id": "descript",
-    "url": "/rows/descript.html"
+    "url": "/concepts/descript.html"
   },
   {
     "label": "DESCRIPTRAN",
     "id": "descriptran",
-    "url": "/rows/descriptran.html"
+    "url": "/concepts/descriptran.html"
   },
   {
     "label": "desktop",
     "id": "desktop",
-    "url": "/rows/desktop.html"
+    "url": "/concepts/desktop.html"
   },
   {
     "label": "Desmos",
     "id": "desmos",
-    "url": "/rows/desmos.html"
+    "url": "/concepts/desmos.html"
   },
   {
     "label": "DETAB/65",
     "id": "detab-65",
-    "url": "/rows/detab-65.html"
+    "url": "/concepts/detab-65.html"
   },
   {
     "label": "DETAB-X",
     "id": "detab-x",
-    "url": "/rows/detab-x.html"
+    "url": "/concepts/detab-x.html"
   },
   {
     "label": "DETAP",
     "id": "detap",
-    "url": "/rows/detap.html"
+    "url": "/concepts/detap.html"
   },
   {
     "label": "Deva",
     "id": "deva",
-    "url": "/rows/deva.html"
+    "url": "/concepts/deva.html"
   },
   {
     "label": "Device independent file format",
     "id": "device-independent-file-format",
-    "url": "/rows/device-independent-file-format.html"
+    "url": "/concepts/device-independent-file-format.html"
   },
   {
     "label": "Devicetree",
     "id": "devicetree",
-    "url": "/rows/devicetree.html"
+    "url": "/concepts/devicetree.html"
   },
   {
     "label": "DEVIL",
     "id": "devil",
-    "url": "/rows/devil.html"
+    "url": "/concepts/devil.html"
   },
   {
     "label": "dex",
     "id": "dex",
-    "url": "/rows/dex.html"
+    "url": "/concepts/dex.html"
   },
   {
     "label": "Dexterity",
     "id": "dexterity",
-    "url": "/rows/dexterity.html"
+    "url": "/concepts/dexterity.html"
   },
   {
     "label": "dexvis",
     "id": "dexvis",
-    "url": "/rows/dexvis.html"
+    "url": "/concepts/dexvis.html"
   },
   {
     "label": "DFL",
     "id": "dfl",
-    "url": "/rows/dfl.html"
+    "url": "/concepts/dfl.html"
   },
   {
     "label": "dfns",
     "id": "dfns",
-    "url": "/rows/dfns.html"
+    "url": "/concepts/dfns.html"
   },
   {
     "label": "dgraph",
     "id": "dgraph",
-    "url": "/rows/dgraph.html"
+    "url": "/concepts/dgraph.html"
   },
   {
     "label": "Dhall",
     "id": "dhall",
-    "url": "/rows/dhall.html"
+    "url": "/concepts/dhall.html"
   },
   {
     "label": "DIAGRAM",
     "id": "diagram",
-    "url": "/rows/diagram.html"
+    "url": "/concepts/diagram.html"
   },
   {
     "label": "DIALOG",
     "id": "dialog",
-    "url": "/rows/dialog.html"
+    "url": "/concepts/dialog.html"
   },
   {
     "label": "DIAMAG",
     "id": "diamag",
-    "url": "/rows/diamag.html"
+    "url": "/concepts/diamag.html"
   },
   {
     "label": "DIANA",
     "id": "diana",
-    "url": "/rows/diana.html"
+    "url": "/concepts/diana.html"
   },
   {
     "label": "Digital Interactive Business Oriented Language",
     "id": "dibol",
-    "url": "/rows/dibol.html"
+    "url": "/concepts/dibol.html"
   },
   {
     "label": "DICE",
     "id": "dice",
-    "url": "/rows/dice.html"
+    "url": "/concepts/dice.html"
   },
   {
     "label": "DIET",
     "id": "diet",
-    "url": "/rows/diet.html"
+    "url": "/concepts/diet.html"
   },
   {
     "label": "Diff",
     "id": "diff",
-    "url": "/rows/diff.html"
+    "url": "/concepts/diff.html"
   },
   {
     "label": "Differential Datalog",
     "id": "differential-datalog",
-    "url": "/rows/differential-datalog.html"
+    "url": "/concepts/differential-datalog.html"
   },
   {
     "label": "DIGITAL Command Language",
     "id": "digital-command-language",
-    "url": "/rows/digital-command-language.html"
+    "url": "/concepts/digital-command-language.html"
   },
   {
     "label": "DIGRAF",
     "id": "digraf",
-    "url": "/rows/digraf.html"
+    "url": "/concepts/digraf.html"
   },
   {
     "label": "Dink Smallwood",
     "id": "dinkc",
-    "url": "/rows/dinkc.html"
+    "url": "/concepts/dinkc.html"
   },
   {
     "label": "DinnerBell",
     "id": "dinnerbell",
-    "url": "/rows/dinnerbell.html"
+    "url": "/concepts/dinnerbell.html"
   },
   {
     "label": "DINO",
     "id": "dino",
-    "url": "/rows/dino.html"
+    "url": "/concepts/dino.html"
   },
   {
     "label": "dio",
     "id": "dio",
-    "url": "/rows/dio.html"
+    "url": "/concepts/dio.html"
   },
   {
     "label": "Dipe-R",
     "id": "dipe-r",
-    "url": "/rows/dipe-r.html"
+    "url": "/concepts/dipe-r.html"
   },
   {
     "label": "Diplans",
     "id": "diplans",
-    "url": "/rows/diplans.html"
+    "url": "/concepts/diplans.html"
   },
   {
     "label": "DISC",
     "id": "disc",
-    "url": "/rows/disc.html"
+    "url": "/concepts/disc.html"
   },
   {
     "label": "DISPEL",
     "id": "dispel",
-    "url": "/rows/dispel.html"
+    "url": "/concepts/dispel.html"
   },
   {
     "label": "DisplayPort",
     "id": "displayport-standard",
-    "url": "/rows/displayport-standard.html"
+    "url": "/concepts/displayport-standard.html"
   },
   {
     "label": "Distributed Processes",
     "id": "distributed-processes",
-    "url": "/rows/distributed-processes.html"
+    "url": "/concepts/distributed-processes.html"
   },
   {
     "label": "Distributed Smalltalk",
     "id": "distributed-smalltalk",
-    "url": "/rows/distributed-smalltalk.html"
+    "url": "/concepts/distributed-smalltalk.html"
   },
   {
     "label": "DITRAN",
     "id": "ditran",
-    "url": "/rows/ditran.html"
+    "url": "/concepts/ditran.html"
   },
   {
     "label": "DITROFF/FFORTID",
     "id": "ditroff-ffortid",
-    "url": "/rows/ditroff-ffortid.html"
+    "url": "/concepts/ditroff-ffortid.html"
   },
   {
     "label": "DITROFF",
     "id": "ditroff",
-    "url": "/rows/ditroff.html"
+    "url": "/concepts/ditroff.html"
   },
   {
     "label": "Dixy",
     "id": "dixy",
-    "url": "/rows/dixy.html"
+    "url": "/concepts/dixy.html"
   },
   {
     "label": "Django",
     "id": "django",
-    "url": "/rows/django.html"
+    "url": "/concepts/django.html"
   },
   {
     "label": "djangoql",
     "id": "djangoql",
-    "url": "/rows/djangoql.html"
+    "url": "/concepts/djangoql.html"
   },
   {
     "label": "Djot",
     "id": "djot",
-    "url": "/rows/djot.html"
+    "url": "/concepts/djot.html"
   },
   {
     "label": "DomainKeys Identified Mail",
     "id": "dkim-standard",
-    "url": "/rows/dkim-standard.html"
+    "url": "/concepts/dkim-standard.html"
   },
   {
     "label": "dllup",
     "id": "dllup",
-    "url": "/rows/dllup.html"
+    "url": "/concepts/dllup.html"
   },
   {
     "label": "DLP",
     "id": "dlp",
-    "url": "/rows/dlp.html"
+    "url": "/concepts/dlp.html"
   },
   {
     "label": "dlvm",
     "id": "dlvm",
-    "url": "/rows/dlvm.html"
+    "url": "/concepts/dlvm.html"
   },
   {
     "label": "DM-1",
     "id": "dm-1",
-    "url": "/rows/dm-1.html"
+    "url": "/concepts/dm-1.html"
   },
   {
     "label": "DM",
     "id": "dm",
-    "url": "/rows/dm.html"
+    "url": "/concepts/dm.html"
   },
   {
     "label": "DMAP",
     "id": "dmap",
-    "url": "/rows/dmap.html"
+    "url": "/concepts/dmap.html"
   },
   {
     "label": "DML",
     "id": "dml",
-    "url": "/rows/dml.html"
+    "url": "/concepts/dml.html"
   },
   {
     "label": "DNA",
     "id": "dna",
-    "url": "/rows/dna.html"
+    "url": "/concepts/dna.html"
   },
   {
     "label": "DNS",
     "id": "dns",
-    "url": "/rows/dns.html"
+    "url": "/concepts/dns.html"
   },
   {
     "label": "Docker",
     "id": "docker",
-    "url": "/rows/docker.html"
+    "url": "/concepts/docker.html"
   },
   {
     "label": "Dockerfile",
     "id": "dockerfile",
-    "url": "/rows/dockerfile.html"
+    "url": "/concepts/dockerfile.html"
   },
   {
     "label": "docopt",
     "id": "docopt",
-    "url": "/rows/docopt.html"
+    "url": "/concepts/docopt.html"
   },
   {
     "label": "DOE Macsyma",
     "id": "doe-macsyma",
-    "url": "/rows/doe-macsyma.html"
+    "url": "/concepts/doe-macsyma.html"
   },
   {
     "label": "The Dog Programming Language",
     "id": "dog",
-    "url": "/rows/dog.html"
+    "url": "/concepts/dog.html"
   },
   {
     "label": "Dogescript",
     "id": "dogescript",
-    "url": "/rows/dogescript.html"
+    "url": "/concepts/dogescript.html"
   },
   {
     "label": "DNS over HTTPS",
     "id": "doh",
-    "url": "/rows/doh.html"
+    "url": "/concepts/doh.html"
   },
   {
     "label": "DOI",
     "id": "doi",
-    "url": "/rows/doi.html"
+    "url": "/concepts/doi.html"
   },
   {
     "label": "Dojo",
     "id": "dojo",
-    "url": "/rows/dojo.html"
+    "url": "/concepts/dojo.html"
   },
   {
     "label": "DokuWiki",
     "id": "dokuwiki",
-    "url": "/rows/dokuwiki.html"
+    "url": "/concepts/dokuwiki.html"
   },
   {
     "label": "Dolittle",
     "id": "dolittle",
-    "url": "/rows/dolittle.html"
+    "url": "/concepts/dolittle.html"
   },
   {
     "label": "$",
     "id": "dollar-sign",
-    "url": "/rows/dollar-sign.html"
+    "url": "/concepts/dollar-sign.html"
   },
   {
     "label": "DOLPHIN",
     "id": "dolphin",
-    "url": "/rows/dolphin.html"
+    "url": "/concepts/dolphin.html"
   },
   {
     "label": "domino",
     "id": "domino",
-    "url": "/rows/domino.html"
+    "url": "/concepts/domino.html"
   },
   {
     "label": "DOML",
     "id": "doml",
-    "url": "/rows/doml.html"
+    "url": "/concepts/doml.html"
   },
   {
     "label": "DOODLE",
     "id": "doodle",
-    "url": "/rows/doodle.html"
+    "url": "/concepts/doodle.html"
   },
   {
     "label": "DOPL",
     "id": "dopl",
-    "url": "/rows/dopl.html"
+    "url": "/concepts/dopl.html"
   },
   {
     "label": "Dot Product Equation",
     "id": "dot-product-equation",
-    "url": "/rows/dot-product-equation.html"
+    "url": "/concepts/dot-product-equation.html"
   },
   {
     "label": ".QL",
     "id": "dot-ql",
-    "url": "/rows/dot-ql.html"
+    "url": "/concepts/dot-ql.html"
   },
   {
     "label": "DOT",
     "id": "dot",
-    "url": "/rows/dot.html"
+    "url": "/concepts/dot.html"
   },
   {
     "label": "DOWL",
     "id": "dowl",
-    "url": "/rows/dowl.html"
+    "url": "/concepts/dowl.html"
   },
   {
     "label": "D++",
     "id": "dpp",
-    "url": "/rows/dpp.html"
+    "url": "/concepts/dpp.html"
   },
   {
     "label": "DPRL",
     "id": "dprl",
-    "url": "/rows/dprl.html"
+    "url": "/concepts/dprl.html"
   },
   {
     "label": "Draco",
     "id": "draco-programming-language",
-    "url": "/rows/draco-programming-language.html"
+    "url": "/concepts/draco-programming-language.html"
   },
   {
     "label": "draconian",
     "id": "draconian",
-    "url": "/rows/draconian.html"
+    "url": "/concepts/draconian.html"
   },
   {
     "label": "DragonBASIC",
     "id": "dragonbasic",
-    "url": "/rows/dragonbasic.html"
+    "url": "/concepts/dragonbasic.html"
   },
   {
     "label": "DRAGOON",
     "id": "dragoon",
-    "url": "/rows/dragoon.html"
+    "url": "/concepts/dragoon.html"
   },
   {
     "label": "DRAKON",
     "id": "drakon",
-    "url": "/rows/drakon.html"
+    "url": "/concepts/drakon.html"
   },
   {
     "label": "dreamlisp",
     "id": "dreamlisp",
-    "url": "/rows/dreamlisp.html"
+    "url": "/concepts/dreamlisp.html"
   },
   {
     "label": "Dribble",
     "id": "dribble",
-    "url": "/rows/dribble.html"
+    "url": "/concepts/dribble.html"
   },
   {
     "label": "DRL",
     "id": "drl",
-    "url": "/rows/drl.html"
+    "url": "/concepts/drl.html"
   },
   {
     "label": "DROL",
     "id": "drol",
-    "url": "/rows/drol.html"
+    "url": "/concepts/drol.html"
   },
   {
     "label": "Drupal",
     "id": "drupal",
-    "url": "/rows/drupal.html"
+    "url": "/concepts/drupal.html"
   },
   {
     "label": "Dimensional Script",
     "id": "dscript",
-    "url": "/rows/dscript.html"
+    "url": "/concepts/dscript.html"
   },
   {
     "label": "Document Structure Description",
     "id": "dsd",
-    "url": "/rows/dsd.html"
+    "url": "/concepts/dsd.html"
   },
   {
     "label": "DSL/90",
     "id": "dsl-90",
-    "url": "/rows/dsl-90.html"
+    "url": "/concepts/dsl-90.html"
   },
   {
     "label": "dslx",
     "id": "dslx",
-    "url": "/rows/dslx.html"
+    "url": "/concepts/dslx.html"
   },
   {
     "label": "dss",
     "id": "dss",
-    "url": "/rows/dss.html"
+    "url": "/concepts/dss.html"
   },
   {
     "label": "dsym",
     "id": "dsym",
-    "url": "/rows/dsym.html"
+    "url": "/concepts/dsym.html"
   },
   {
     "label": "DTD",
     "id": "dtd",
-    "url": "/rows/dtd.html"
+    "url": "/concepts/dtd.html"
   },
   {
     "label": "DTrace",
     "id": "dtrace",
-    "url": "/rows/dtrace.html"
+    "url": "/concepts/dtrace.html"
   },
   {
     "label": "TypeScript Type Declarations",
     "id": "dts",
-    "url": "/rows/dts.html"
+    "url": "/concepts/dts.html"
   },
   {
     "label": "DUAL",
     "id": "dual",
-    "url": "/rows/dual.html"
+    "url": "/concepts/dual.html"
   },
   {
     "label": "dub-pm",
     "id": "dub-pm",
-    "url": "/rows/dub-pm.html"
+    "url": "/concepts/dub-pm.html"
   },
   {
     "label": "DUEL",
     "id": "duel",
-    "url": "/rows/duel.html"
+    "url": "/concepts/duel.html"
   },
   {
     "label": "duro",
     "id": "duro",
-    "url": "/rows/duro.html"
+    "url": "/concepts/duro.html"
   },
   {
     "label": "Durra",
     "id": "durra",
-    "url": "/rows/durra.html"
+    "url": "/concepts/durra.html"
   },
   {
     "label": "Digital Visual Interface",
     "id": "dvi-standard",
-    "url": "/rows/dvi-standard.html"
+    "url": "/concepts/dvi-standard.html"
   },
   {
     "label": ".dwg",
     "id": "dwg",
-    "url": "/rows/dwg.html"
+    "url": "/concepts/dwg.html"
   },
   {
     "label": "AutoCAD DXF",
     "id": "dxf",
-    "url": "/rows/dxf.html"
+    "url": "/concepts/dxf.html"
   },
   {
     "label": "Dylan",
     "id": "dylan",
-    "url": "/rows/dylan.html"
+    "url": "/concepts/dylan.html"
   },
   {
     "label": "dynamo-pm",
     "id": "dynamo-pm",
-    "url": "/rows/dynamo-pm.html"
+    "url": "/concepts/dynamo-pm.html"
   },
   {
     "label": "Dynamo",
     "id": "dynamo-visual-language",
-    "url": "/rows/dynamo-visual-language.html"
+    "url": "/concepts/dynamo-visual-language.html"
   },
   {
     "label": "DYNAMO",
     "id": "dynamo",
-    "url": "/rows/dynamo.html"
+    "url": "/concepts/dynamo.html"
   },
   {
     "label": "DYSTAL",
     "id": "dystal",
-    "url": "/rows/dystal.html"
+    "url": "/concepts/dystal.html"
   },
   {
     "label": "dyvil",
     "id": "dyvil",
-    "url": "/rows/dyvil.html"
+    "url": "/concepts/dyvil.html"
   },
   {
     "label": "E",
     "id": "e",
-    "url": "/rows/e.html"
+    "url": "/concepts/e.html"
   },
   {
     "label": "Eagle",
     "id": "eagle",
-    "url": "/rows/eagle.html"
+    "url": "/concepts/eagle.html"
   },
   {
     "label": "Earl Grey",
     "id": "earl-grey",
-    "url": "/rows/earl-grey.html"
+    "url": "/concepts/earl-grey.html"
   },
   {
     "label": "EAS-E",
     "id": "eas-e",
-    "url": "/rows/eas-e.html"
+    "url": "/concepts/eas-e.html"
   },
   {
     "label": "Ease",
     "id": "ease",
-    "url": "/rows/ease.html"
+    "url": "/concepts/ease.html"
   },
   {
     "label": "EASL",
     "id": "easl",
-    "url": "/rows/easl.html"
+    "url": "/concepts/easl.html"
   },
   {
     "label": "EASY ENGLISH",
     "id": "easy-english",
-    "url": "/rows/easy-english.html"
+    "url": "/concepts/easy-english.html"
   },
   {
     "label": "Easy Programming Language",
     "id": "easy",
-    "url": "/rows/easy.html"
+    "url": "/concepts/easy.html"
   },
   {
     "label": "Easybuild",
     "id": "easybuild",
-    "url": "/rows/easybuild.html"
+    "url": "/concepts/easybuild.html"
   },
   {
     "label": "EasyLanguage",
     "id": "easylanguage",
-    "url": "/rows/easylanguage.html"
+    "url": "/concepts/easylanguage.html"
   },
   {
     "label": "Easytrieve",
     "id": "easytrieve",
-    "url": "/rows/easytrieve.html"
+    "url": "/concepts/easytrieve.html"
   },
   {
     "label": "ebg",
     "id": "ebg",
-    "url": "/rows/ebg.html"
+    "url": "/concepts/ebg.html"
   },
   {
     "label": "EBNF",
     "id": "ebnf",
-    "url": "/rows/ebnf.html"
+    "url": "/concepts/ebnf.html"
   },
   {
     "label": "eC",
     "id": "ec",
-    "url": "/rows/ec.html"
+    "url": "/concepts/ec.html"
   },
   {
     "label": "ECL",
     "id": "ecl",
-    "url": "/rows/ecl.html"
+    "url": "/concepts/ecl.html"
   },
   {
     "label": "Eclectic CSP",
     "id": "eclectic-csp",
-    "url": "/rows/eclectic-csp.html"
+    "url": "/concepts/eclectic-csp.html"
   },
   {
     "label": "Eclipse Command Language",
     "id": "eclipse-command-language",
-    "url": "/rows/eclipse-command-language.html"
+    "url": "/concepts/eclipse-command-language.html"
   },
   {
     "label": "Eclipse",
     "id": "eclipse-editor",
-    "url": "/rows/eclipse-editor.html"
+    "url": "/concepts/eclipse-editor.html"
   },
   {
     "label": "ECMAScript",
     "id": "ecmascript",
-    "url": "/rows/ecmascript.html"
+    "url": "/concepts/ecmascript.html"
   },
   {
     "label": "eco-editor",
     "id": "eco-editor",
-    "url": "/rows/eco-editor.html"
+    "url": "/concepts/eco-editor.html"
   },
   {
     "label": "Ecological Metadata Language",
     "id": "ecological-metadata-language",
-    "url": "/rows/ecological-metadata-language.html"
+    "url": "/concepts/ecological-metadata-language.html"
   },
   {
     "label": "Embedded Crystal",
     "id": "ecr",
-    "url": "/rows/ecr.html"
+    "url": "/concepts/ecr.html"
   },
   {
     "label": "ecsharp",
     "id": "ecsharp",
-    "url": "/rows/ecsharp.html"
+    "url": "/concepts/ecsharp.html"
   },
   {
     "label": "ECT",
     "id": "ect",
-    "url": "/rows/ect.html"
+    "url": "/concepts/ect.html"
   },
   {
     "label": "ed",
     "id": "ed-editor",
-    "url": "/rows/ed-editor.html"
+    "url": "/concepts/ed-editor.html"
   },
   {
     "label": "Eden",
     "id": "eden",
-    "url": "/rows/eden.html"
+    "url": "/concepts/eden.html"
   },
   {
     "label": "Edge Side Includes",
     "id": "edge-side-includes",
-    "url": "/rows/edge-side-includes.html"
+    "url": "/concepts/edge-side-includes.html"
   },
   {
     "label": "edgedb",
     "id": "edgedb",
-    "url": "/rows/edgedb.html"
+    "url": "/concepts/edgedb.html"
   },
   {
     "label": "edgelisp",
     "id": "edgelisp",
-    "url": "/rows/edgelisp.html"
+    "url": "/concepts/edgelisp.html"
   },
   {
     "label": "edgeql",
     "id": "edgeql",
-    "url": "/rows/edgeql.html"
+    "url": "/concepts/edgeql.html"
   },
   {
     "label": "Đ",
     "id": "edh",
-    "url": "/rows/edh.html"
+    "url": "/concepts/edh.html"
   },
   {
     "label": "Edina",
     "id": "edina",
-    "url": "/rows/edina.html"
+    "url": "/concepts/edina.html"
   },
   {
     "label": "Edinburgh IMP",
     "id": "edinburgh-imp",
-    "url": "/rows/edinburgh-imp.html"
+    "url": "/concepts/edinburgh-imp.html"
   },
   {
     "label": "Edinburgh LCF",
     "id": "edinburgh-lcf",
-    "url": "/rows/edinburgh-lcf.html"
+    "url": "/concepts/edinburgh-lcf.html"
   },
   {
     "label": "Edison",
     "id": "edison",
-    "url": "/rows/edison.html"
+    "url": "/concepts/edison.html"
   },
   {
     "label": "Edje Data Collection",
     "id": "edje-data-collection",
-    "url": "/rows/edje-data-collection.html"
+    "url": "/concepts/edje-data-collection.html"
   },
   {
     "label": "EDN",
     "id": "edn",
-    "url": "/rows/edn.html"
+    "url": "/concepts/edn.html"
   },
   {
     "label": "EDSAC Initial Orders",
     "id": "edsac-initial-orders",
-    "url": "/rows/edsac-initial-orders.html"
+    "url": "/concepts/edsac-initial-orders.html"
   },
   {
     "label": "ed script",
     "id": "edscript",
-    "url": "/rows/edscript.html"
+    "url": "/concepts/edscript.html"
   },
   {
     "label": "EDSIM",
     "id": "edsim",
-    "url": "/rows/edsim.html"
+    "url": "/concepts/edsim.html"
   },
   {
     "label": "EDUCE*",
     "id": "educe-star",
-    "url": "/rows/educe-star.html"
+    "url": "/concepts/educe-star.html"
   },
   {
     "label": "EDUCE",
     "id": "educe",
-    "url": "/rows/educe.html"
+    "url": "/concepts/educe.html"
   },
   {
     "label": "EEX",
     "id": "eex",
-    "url": "/rows/eex.html"
+    "url": "/concepts/eex.html"
   },
   {
     "label": "eff",
     "id": "eff",
-    "url": "/rows/eff.html"
+    "url": "/concepts/eff.html"
   },
   {
     "label": "EFL",
     "id": "efl",
-    "url": "/rows/efl.html"
+    "url": "/concepts/efl.html"
   },
   {
     "label": "egel",
     "id": "egel",
-    "url": "/rows/egel.html"
+    "url": "/concepts/egel.html"
   },
   {
     "label": "Egison",
     "id": "egison",
-    "url": "/rows/egison.html"
+    "url": "/concepts/egison.html"
   },
   {
     "label": "EGL",
     "id": "egl",
-    "url": "/rows/egl.html"
+    "url": "/concepts/egl.html"
   },
   {
     "label": "EGS4",
     "id": "egs4",
-    "url": "/rows/egs4.html"
+    "url": "/concepts/egs4.html"
   },
   {
     "label": "Eiffel",
     "id": "eiffel",
-    "url": "/rows/eiffel.html"
+    "url": "/concepts/eiffel.html"
   },
   {
     "label": "EJS",
     "id": "ejs",
-    "url": "/rows/ejs.html"
+    "url": "/concepts/ejs.html"
   },
   {
     "label": "EL1",
     "id": "el1",
-    "url": "/rows/el1.html"
+    "url": "/concepts/el1.html"
   },
   {
     "label": "ELAN",
     "id": "elan",
-    "url": "/rows/elan.html"
+    "url": "/concepts/elan.html"
   },
   {
     "label": "Elasticsearch Query DSL",
     "id": "elastic-query-dsl",
-    "url": "/rows/elastic-query-dsl.html"
+    "url": "/concepts/elastic-query-dsl.html"
   },
   {
     "label": "Election Markup Language",
     "id": "election-markup-language",
-    "url": "/rows/election-markup-language.html"
+    "url": "/concepts/election-markup-language.html"
   },
   {
     "label": "Electre",
     "id": "electre",
-    "url": "/rows/electre.html"
+    "url": "/concepts/electre.html"
   },
   {
     "label": "elegance",
     "id": "elegance",
-    "url": "/rows/elegance.html"
+    "url": "/concepts/elegance.html"
   },
   {
     "label": "Elegant",
     "id": "elegant",
-    "url": "/rows/elegant.html"
+    "url": "/concepts/elegant.html"
   },
   {
     "label": "elena",
     "id": "elena",
-    "url": "/rows/elena.html"
+    "url": "/concepts/elena.html"
   },
   {
     "label": "Extensible Linking Format",
     "id": "elf",
-    "url": "/rows/elf.html"
+    "url": "/concepts/elf.html"
   },
   {
     "label": "ELFE",
     "id": "elfe",
-    "url": "/rows/elfe.html"
+    "url": "/concepts/elfe.html"
   },
   {
     "label": "Elixir",
     "id": "elixir",
-    "url": "/rows/elixir.html"
+    "url": "/concepts/elixir.html"
   },
   {
     "label": "ELLA",
     "id": "ella-programming-language",
-    "url": "/rows/ella-programming-language.html"
+    "url": "/concepts/ella-programming-language.html"
   },
   {
     "label": "Ellie",
     "id": "ellie",
-    "url": "/rows/ellie.html"
+    "url": "/concepts/ellie.html"
   },
   {
     "label": "Elliott ALGOL",
     "id": "elliott-algol",
-    "url": "/rows/elliott-algol.html"
+    "url": "/concepts/elliott-algol.html"
   },
   {
     "label": "ELLPACK",
     "id": "ellpack",
-    "url": "/rows/ellpack.html"
+    "url": "/concepts/ellpack.html"
   },
   {
     "label": "Elm Packages",
     "id": "elm-packages-pm",
-    "url": "/rows/elm-packages-pm.html"
+    "url": "/concepts/elm-packages-pm.html"
   },
   {
     "label": "Elm",
     "id": "elm",
-    "url": "/rows/elm.html"
+    "url": "/concepts/elm.html"
   },
   {
     "label": "ELMOL",
     "id": "elmol",
-    "url": "/rows/elmol.html"
+    "url": "/concepts/elmol.html"
   },
   {
     "label": "Emacs Lisp Package Archive",
     "id": "elpa-pm",
-    "url": "/rows/elpa-pm.html"
+    "url": "/concepts/elpa-pm.html"
   },
   {
     "label": "Elpi",
     "id": "elpi",
-    "url": "/rows/elpi.html"
+    "url": "/concepts/elpi.html"
   },
   {
     "label": "Elvish",
     "id": "elvish",
-    "url": "/rows/elvish.html"
+    "url": "/concepts/elvish.html"
   },
   {
     "label": "elymas",
     "id": "elymas",
-    "url": "/rows/elymas.html"
+    "url": "/concepts/elymas.html"
   },
   {
     "label": "Em",
     "id": "em",
-    "url": "/rows/em.html"
+    "url": "/concepts/em.html"
   },
   {
     "label": "Emacs",
     "id": "emacs-editor",
-    "url": "/rows/emacs-editor.html"
+    "url": "/concepts/emacs-editor.html"
   },
   {
     "label": "Emacs Lisp",
     "id": "emacs-lisp",
-    "url": "/rows/emacs-lisp.html"
+    "url": "/concepts/emacs-lisp.html"
   },
   {
     "label": "emberjs-framework",
     "id": "emberjs-framework",
-    "url": "/rows/emberjs-framework.html"
+    "url": "/concepts/emberjs-framework.html"
   },
   {
     "label": "EmberScript",
     "id": "emberscript",
-    "url": "/rows/emberscript.html"
+    "url": "/concepts/emberscript.html"
   },
   {
     "label": "emerald-lang",
     "id": "emerald-lang",
-    "url": "/rows/emerald-lang.html"
+    "url": "/concepts/emerald-lang.html"
   },
   {
     "label": "Emerald",
     "id": "emerald",
-    "url": "/rows/emerald.html"
+    "url": "/concepts/emerald.html"
   },
   {
     "label": "emesh",
     "id": "emesh",
-    "url": "/rows/emesh.html"
+    "url": "/concepts/emesh.html"
   },
   {
     "label": "emfatic",
     "id": "emfatic",
-    "url": "/rows/emfatic.html"
+    "url": "/concepts/emfatic.html"
   },
   {
     "label": "Emily",
     "id": "emily",
-    "url": "/rows/emily.html"
+    "url": "/concepts/emily.html"
   },
   {
     "label": "EMMA",
     "id": "emma",
-    "url": "/rows/emma.html"
+    "url": "/concepts/emma.html"
   },
   {
     "label": "Emojicode",
     "id": "emojicode",
-    "url": "/rows/emojicode.html"
+    "url": "/concepts/emojicode.html"
   },
   {
     "label": "emoticon",
     "id": "emoticon",
-    "url": "/rows/emoticon.html"
+    "url": "/concepts/emoticon.html"
   },
   {
     "label": "empirical",
     "id": "empirical",
-    "url": "/rows/empirical.html"
+    "url": "/concepts/empirical.html"
   },
   {
     "label": "emu",
     "id": "emu",
-    "url": "/rows/emu.html"
+    "url": "/concepts/emu.html"
   },
   {
     "label": "Encore",
     "id": "encore",
-    "url": "/rows/encore.html"
+    "url": "/concepts/encore.html"
   },
   {
     "label": "Energy Systems Language",
     "id": "energese-notation",
-    "url": "/rows/energese-notation.html"
+    "url": "/concepts/energese-notation.html"
   },
   {
     "label": "Energy Momentum Equation",
     "id": "energy-momentum-equation",
-    "url": "/rows/energy-momentum-equation.html"
+    "url": "/concepts/energy-momentum-equation.html"
   },
   {
     "label": "english-programming-language",
     "id": "english-programming-language",
-    "url": "/rows/english-programming-language.html"
+    "url": "/concepts/english-programming-language.html"
   },
   {
     "label": "eno",
     "id": "eno",
-    "url": "/rows/eno.html"
+    "url": "/concepts/eno.html"
   },
   {
     "label": "enso",
     "id": "enso-lang",
-    "url": "/rows/enso-lang.html"
+    "url": "/concepts/enso-lang.html"
   },
   {
     "label": "Enso",
     "id": "enso",
-    "url": "/rows/enso.html"
+    "url": "/concepts/enso.html"
   },
   {
     "label": "Enterprise Mashup Markup Language",
     "id": "enterprise-mashup-markup-language",
-    "url": "/rows/enterprise-mashup-markup-language.html"
+    "url": "/concepts/enterprise-mashup-markup-language.html"
   },
   {
     "label": "Entropy",
     "id": "entropy",
-    "url": "/rows/entropy.html"
+    "url": "/concepts/entropy.html"
   },
   {
     "label": "envoy-app",
     "id": "envoy-app",
-    "url": "/rows/envoy-app.html"
+    "url": "/concepts/envoy-app.html"
   },
   {
     "label": "Epigram",
     "id": "epigram",
-    "url": "/rows/epigram.html"
+    "url": "/concepts/epigram.html"
   },
   {
     "label": "EPILOG",
     "id": "epilog",
-    "url": "/rows/epilog.html"
+    "url": "/concepts/epilog.html"
   },
   {
     "label": "epsilon",
     "id": "epsilon",
-    "url": "/rows/epsilon.html"
+    "url": "/concepts/epsilon.html"
   },
   {
     "label": "EqL",
     "id": "eql",
-    "url": "/rows/eql.html"
+    "url": "/concepts/eql.html"
   },
   {
     "label": "EQLog",
     "id": "eqlog",
-    "url": "/rows/eqlog.html"
+    "url": "/concepts/eqlog.html"
   },
   {
     "label": "eqn",
     "id": "eqn",
-    "url": "/rows/eqn.html"
+    "url": "/concepts/eqn.html"
   },
   {
     "label": "EQS",
     "id": "eqs",
-    "url": "/rows/eqs.html"
+    "url": "/concepts/eqs.html"
   },
   {
     "label": "EQUATE",
     "id": "equate",
-    "url": "/rows/equate.html"
+    "url": "/concepts/equate.html"
   },
   {
     "label": "ERB",
     "id": "erb",
-    "url": "/rows/erb.html"
+    "url": "/concepts/erb.html"
   },
   {
     "label": "erg",
     "id": "erg",
-    "url": "/rows/erg.html"
+    "url": "/concepts/erg.html"
   },
   {
     "label": "Erlang",
     "id": "erlang",
-    "url": "/rows/erlang.html"
+    "url": "/concepts/erlang.html"
   },
   {
     "label": "ERROL",
     "id": "errol",
-    "url": "/rows/errol.html"
+    "url": "/concepts/errol.html"
   },
   {
     "label": "ESC/P",
     "id": "esc-p",
-    "url": "/rows/esc-p.html"
+    "url": "/concepts/esc-p.html"
   },
   {
     "label": "Escapade",
     "id": "escapade-programming-language",
-    "url": "/rows/escapade-programming-language.html"
+    "url": "/concepts/escapade-programming-language.html"
   },
   {
     "label": "eskew",
     "id": "eskew",
-    "url": "/rows/eskew.html"
+    "url": "/concepts/eskew.html"
   },
   {
     "label": "Esoteric Reaction",
     "id": "esoteric-reaction",
-    "url": "/rows/esoteric-reaction.html"
+    "url": "/concepts/esoteric-reaction.html"
   },
   {
     "label": "ESP",
     "id": "esp",
-    "url": "/rows/esp.html"
+    "url": "/concepts/esp.html"
   },
   {
     "label": "Executive Systems Problem Oriented Language",
     "id": "espol",
-    "url": "/rows/espol.html"
+    "url": "/concepts/espol.html"
   },
   {
     "label": "Esterel",
     "id": "esterel",
-    "url": "/rows/esterel.html"
+    "url": "/concepts/esterel.html"
   },
   {
     "label": "eta",
     "id": "eta",
-    "url": "/rows/eta.html"
+    "url": "/concepts/eta.html"
   },
   {
     "label": "ETC",
     "id": "etc",
-    "url": "/rows/etc.html"
+    "url": "/concepts/etc.html"
   },
   {
     "label": "Ethereum Virtual Machine",
     "id": "ethereum-vm",
-    "url": "/rows/ethereum-vm.html"
+    "url": "/concepts/ethereum-vm.html"
   },
   {
     "label": "Ethernet",
     "id": "ethernet",
-    "url": "/rows/ethernet.html"
+    "url": "/concepts/ethernet.html"
   },
   {
     "label": "Etoys",
     "id": "etoys",
-    "url": "/rows/etoys.html"
+    "url": "/concepts/etoys.html"
   },
   {
     "label": "Etruscan numerals",
     "id": "etruscan-numerals",
-    "url": "/rows/etruscan-numerals.html"
+    "url": "/concepts/etruscan-numerals.html"
   },
   {
     "label": "Etude",
     "id": "etude",
-    "url": "/rows/etude.html"
+    "url": "/concepts/etude.html"
   },
   {
     "label": "euboea",
     "id": "euboea",
-    "url": "/rows/euboea.html"
+    "url": "/concepts/euboea.html"
   },
   {
     "label": "Euclid",
     "id": "euclid",
-    "url": "/rows/euclid.html"
+    "url": "/concepts/euclid.html"
   },
   {
     "label": "Euclidean geometry",
     "id": "euclidean-geometry",
-    "url": "/rows/euclidean-geometry.html"
+    "url": "/concepts/euclidean-geometry.html"
   },
   {
     "label": "Euler",
     "id": "euler",
-    "url": "/rows/euler.html"
+    "url": "/concepts/euler.html"
   },
   {
     "label": "Euler's Equation",
     "id": "eulers-equation",
-    "url": "/rows/eulers-equation.html"
+    "url": "/concepts/eulers-equation.html"
   },
   {
     "label": "EuLisp",
     "id": "eulisp",
-    "url": "/rows/eulisp.html"
+    "url": "/concepts/eulisp.html"
   },
   {
     "label": "EUMEL",
     "id": "eumel",
-    "url": "/rows/eumel.html"
+    "url": "/concepts/eumel.html"
   },
   {
     "label": "Euphoria",
     "id": "euphoria",
-    "url": "/rows/euphoria.html"
+    "url": "/concepts/euphoria.html"
   },
   {
     "label": "Eurisko",
     "id": "eurisko",
-    "url": "/rows/eurisko.html"
+    "url": "/concepts/eurisko.html"
   },
   {
     "label": "Eva",
     "id": "eva",
-    "url": "/rows/eva.html"
+    "url": "/concepts/eva.html"
   },
   {
     "label": "Eve",
     "id": "eve",
-    "url": "/rows/eve.html"
+    "url": "/concepts/eve.html"
   },
   {
     "label": "EverParse3D",
     "id": "everparse3d",
-    "url": "/rows/everparse3d.html"
+    "url": "/concepts/everparse3d.html"
   },
   {
     "label": "ex",
     "id": "ex-editor",
-    "url": "/rows/ex-editor.html"
+    "url": "/concepts/ex-editor.html"
   },
   {
     "label": "EXAPT",
     "id": "exapt",
-    "url": "/rows/exapt.html"
+    "url": "/concepts/exapt.html"
   },
   {
     "label": "Microsoft Excel",
     "id": "excel-app",
-    "url": "/rows/excel-app.html"
+    "url": "/concepts/excel-app.html"
   },
   {
     "label": "EXEC 2",
     "id": "exec-2",
-    "url": "/rows/exec-2.html"
+    "url": "/concepts/exec-2.html"
   },
   {
     "label": "Executable JSON",
     "id": "executable-json",
-    "url": "/rows/executable-json.html"
+    "url": "/concepts/executable-json.html"
   },
   {
     "label": "EXEL",
     "id": "exel",
-    "url": "/rows/exel.html"
+    "url": "/concepts/exel.html"
   },
   {
     "label": "ExFAT",
     "id": "exfat",
-    "url": "/rows/exfat.html"
+    "url": "/concepts/exfat.html"
   },
   {
     "label": "exkited",
     "id": "exkited",
-    "url": "/rows/exkited.html"
+    "url": "/concepts/exkited.html"
   },
   {
     "label": "Expect",
     "id": "expect",
-    "url": "/rows/expect.html"
+    "url": "/concepts/expect.html"
   },
   {
     "label": "EXPLAN",
     "id": "explan",
-    "url": "/rows/explan.html"
+    "url": "/concepts/explan.html"
   },
   {
     "label": "EXPLOR",
     "id": "explor",
-    "url": "/rows/explor.html"
+    "url": "/concepts/explor.html"
   },
   {
     "label": "Explorer",
     "id": "explorer",
-    "url": "/rows/explorer.html"
+    "url": "/concepts/explorer.html"
   },
   {
     "label": "EXPRESS",
     "id": "express",
-    "url": "/rows/express.html"
+    "url": "/concepts/express.html"
   },
   {
     "label": "expresso",
     "id": "expresso",
-    "url": "/rows/expresso.html"
+    "url": "/concepts/expresso.html"
   },
   {
     "label": "Extended file system",
     "id": "ext",
-    "url": "/rows/ext.html"
+    "url": "/concepts/ext.html"
   },
   {
     "label": "Ext2",
     "id": "ext2",
-    "url": "/rows/ext2.html"
+    "url": "/concepts/ext2.html"
   },
   {
     "label": "Ext3",
     "id": "ext3",
-    "url": "/rows/ext3.html"
+    "url": "/concepts/ext3.html"
   },
   {
     "label": "Ext4",
     "id": "ext4",
-    "url": "/rows/ext4.html"
+    "url": "/concepts/ext4.html"
   },
   {
     "label": "Extempore",
     "id": "extempore",
-    "url": "/rows/extempore.html"
+    "url": "/concepts/extempore.html"
   },
   {
     "label": "Extended ML",
     "id": "extended-ml",
-    "url": "/rows/extended-ml.html"
+    "url": "/concepts/extended-ml.html"
   },
   {
     "label": "Extended Pascal",
     "id": "extended-pascal",
-    "url": "/rows/extended-pascal.html"
+    "url": "/concepts/extended-pascal.html"
   },
   {
     "label": "Extensible Embeddable Language",
     "id": "extensible-embeddable-language",
-    "url": "/rows/extensible-embeddable-language.html"
+    "url": "/concepts/extensible-embeddable-language.html"
   },
   {
     "label": "EXTRAN",
     "id": "extran",
-    "url": "/rows/extran.html"
+    "url": "/concepts/extran.html"
   },
   {
     "label": "EZ",
     "id": "ez",
-    "url": "/rows/ez.html"
+    "url": "/concepts/ez.html"
   },
   {
     "label": "Ezhil",
     "id": "ezhil",
-    "url": "/rows/ezhil.html"
+    "url": "/concepts/ezhil.html"
   },
   {
     "label": "F Prime",
     "id": "f-prime",
-    "url": "/rows/f-prime.html"
+    "url": "/concepts/f-prime.html"
   },
   {
     "label": "F-Script",
     "id": "f-script",
-    "url": "/rows/f-script.html"
+    "url": "/concepts/f-script.html"
   },
   {
     "label": "F#",
     "id": "f-sharp",
-    "url": "/rows/f-sharp.html"
+    "url": "/concepts/f-sharp.html"
   },
   {
     "label": "F",
     "id": "f",
-    "url": "/rows/f.html"
+    "url": "/concepts/f.html"
   },
   {
     "label": "Fable",
     "id": "fable-lang",
-    "url": "/rows/fable-lang.html"
+    "url": "/concepts/fable-lang.html"
   },
   {
     "label": "Fable",
     "id": "fable",
-    "url": "/rows/fable.html"
+    "url": "/concepts/fable.html"
   },
   {
     "label": "FAC",
     "id": "fac",
-    "url": "/rows/fac.html"
+    "url": "/concepts/fac.html"
   },
   {
     "label": "Facelets",
     "id": "facelets",
-    "url": "/rows/facelets.html"
+    "url": "/concepts/facelets.html"
   },
   {
     "label": "FaCT",
     "id": "fact-lang",
-    "url": "/rows/fact-lang.html"
+    "url": "/concepts/fact-lang.html"
   },
   {
     "label": "Fully Automated Compiling Technique",
     "id": "fact",
-    "url": "/rows/fact.html"
+    "url": "/concepts/fact.html"
   },
   {
     "label": "Factor",
     "id": "factor",
-    "url": "/rows/factor.html"
+    "url": "/concepts/factor.html"
   },
   {
     "label": "FAD",
     "id": "fad",
-    "url": "/rows/fad.html"
+    "url": "/concepts/fad.html"
   },
   {
     "label": "Falcon",
     "id": "falcon",
-    "url": "/rows/falcon.html"
+    "url": "/concepts/falcon.html"
   },
   {
     "label": "False",
     "id": "false",
-    "url": "/rows/false.html"
+    "url": "/concepts/false.html"
   },
   {
     "label": "Family BASIC",
     "id": "family-basic",
-    "url": "/rows/family-basic.html"
+    "url": "/concepts/family-basic.html"
   },
   {
     "label": "Fancy",
     "id": "fancy",
-    "url": "/rows/fancy.html"
+    "url": "/concepts/fancy.html"
   },
   {
     "label": "Fantom",
     "id": "fantom",
-    "url": "/rows/fantom.html"
+    "url": "/concepts/fantom.html"
   },
   {
     "label": "FORTRAN assembly program",
     "id": "fap",
-    "url": "/rows/fap.html"
+    "url": "/concepts/fap.html"
   },
   {
     "label": "FAR",
     "id": "far",
-    "url": "/rows/far.html"
+    "url": "/concepts/far.html"
   },
   {
     "label": "Faraday's Induction Equation",
     "id": "faradays-induction-equation",
-    "url": "/rows/faradays-induction-equation.html"
+    "url": "/concepts/faradays-induction-equation.html"
   },
   {
     "label": "Farcaster",
     "id": "farcaster",
-    "url": "/rows/farcaster.html"
+    "url": "/concepts/farcaster.html"
   },
   {
     "label": "Fardlang",
     "id": "fardlang",
-    "url": "/rows/fardlang.html"
+    "url": "/concepts/fardlang.html"
   },
   {
     "label": "Fast Fourier Transform Equation",
     "id": "fast-fourier-transform-equation",
-    "url": "/rows/fast-fourier-transform-equation.html"
+    "url": "/concepts/fast-fourier-transform-equation.html"
   },
   {
     "label": "FASTA",
     "id": "fasta-format",
-    "url": "/rows/fasta-format.html"
+    "url": "/concepts/fasta-format.html"
   },
   {
     "label": "FASTQ",
     "id": "fastq-format",
-    "url": "/rows/fastq-format.html"
+    "url": "/concepts/fastq-format.html"
   },
   {
     "label": "FastTrack Scripting Host",
     "id": "fasttrack-scripting-host",
-    "url": "/rows/fasttrack-scripting-host.html"
+    "url": "/concepts/fasttrack-scripting-host.html"
   },
   {
     "label": "FAT",
     "id": "fat",
-    "url": "/rows/fat.html"
+    "url": "/concepts/fat.html"
   },
   {
     "label": "FAUST",
     "id": "faust",
-    "url": "/rows/faust.html"
+    "url": "/concepts/faust.html"
   },
   {
     "label": "Fawlty",
     "id": "fawlty",
-    "url": "/rows/fawlty.html"
+    "url": "/concepts/fawlty.html"
   },
   {
     "label": "fay",
     "id": "fay",
-    "url": "/rows/fay.html"
+    "url": "/concepts/fay.html"
   },
   {
     "label": "FCL",
     "id": "fcl",
-    "url": "/rows/fcl.html"
+    "url": "/concepts/fcl.html"
   },
   {
     "label": "FCPU",
     "id": "fcpu",
-    "url": "/rows/fcpu.html"
+    "url": "/concepts/fcpu.html"
   },
   {
     "label": "fe",
     "id": "fe",
-    "url": "/rows/fe.html"
+    "url": "/concepts/fe.html"
   },
   {
     "label": "Friendly Enough Expression Language",
     "id": "feel",
-    "url": "/rows/feel.html"
+    "url": "/concepts/feel.html"
   },
   {
     "label": "Felix",
     "id": "felix",
-    "url": "/rows/felix.html"
+    "url": "/concepts/felix.html"
   },
   {
     "label": "femtolisp",
     "id": "femtolisp",
-    "url": "/rows/femtolisp.html"
+    "url": "/concepts/femtolisp.html"
   },
   {
     "label": "Forsyth-Edwards Notation",
     "id": "fen-notation",
-    "url": "/rows/fen-notation.html"
+    "url": "/concepts/fen-notation.html"
   },
   {
     "label": "Fenix Project",
     "id": "fenix-project",
-    "url": "/rows/fenix-project.html"
+    "url": "/concepts/fenix-project.html"
   },
   {
     "label": "Fennel",
     "id": "fennel",
-    "url": "/rows/fennel.html"
+    "url": "/concepts/fennel.html"
   },
   {
     "label": "Ferite",
     "id": "ferite",
-    "url": "/rows/ferite.html"
+    "url": "/concepts/ferite.html"
   },
   {
     "label": "Fern",
     "id": "fern",
-    "url": "/rows/fern.html"
+    "url": "/concepts/fern.html"
   },
   {
     "label": "ferret",
     "id": "ferret",
-    "url": "/rows/ferret.html"
+    "url": "/concepts/ferret.html"
   },
   {
     "label": "fetlang",
     "id": "fetlang",
-    "url": "/rows/fetlang.html"
+    "url": "/concepts/fetlang.html"
   },
   {
     "label": "Feynman diagram",
     "id": "feynman-diagram",
-    "url": "/rows/feynman-diagram.html"
+    "url": "/concepts/feynman-diagram.html"
   },
   {
     "label": "FFmpeg",
     "id": "ffmpeg",
-    "url": "/rows/ffmpeg.html"
+    "url": "/concepts/ffmpeg.html"
   },
   {
     "label": "Fast Healthcare Interoperability Resources",
     "id": "fhir",
-    "url": "/rows/fhir.html"
+    "url": "/concepts/fhir.html"
   },
   {
     "label": "Liber Abaci",
     "id": "fibonacci-notation",
-    "url": "/rows/fibonacci-notation.html"
+    "url": "/concepts/fibonacci-notation.html"
   },
   {
     "label": "Fibonacci",
     "id": "fibonacci",
-    "url": "/rows/fibonacci.html"
+    "url": "/concepts/fibonacci.html"
   },
   {
     "label": "Fickle",
     "id": "fickle",
-    "url": "/rows/fickle.html"
+    "url": "/concepts/fickle.html"
   },
   {
     "label": "FIGlet Font",
     "id": "figlet-font",
-    "url": "/rows/figlet-font.html"
+    "url": "/concepts/figlet-font.html"
   },
   {
     "label": "Filebench WML",
     "id": "filebench-wml",
-    "url": "/rows/filebench-wml.html"
+    "url": "/concepts/filebench-wml.html"
   },
   {
     "label": "filetab-d",
     "id": "filetab-d",
-    "url": "/rows/filetab-d.html"
+    "url": "/concepts/filetab-d.html"
   },
   {
     "label": "FILETAB",
     "id": "filetab",
-    "url": "/rows/filetab.html"
+    "url": "/concepts/filetab.html"
   },
   {
     "label": "Filterscript",
     "id": "filterscript",
-    "url": "/rows/filterscript.html"
+    "url": "/concepts/filterscript.html"
   },
   {
     "label": "Firebase Realtime Database",
     "id": "firebase",
-    "url": "/rows/firebase.html"
+    "url": "/concepts/firebase.html"
   },
   {
     "label": "Firefox",
     "id": "firefox",
-    "url": "/rows/firefox.html"
+    "url": "/concepts/firefox.html"
   },
   {
     "label": "firrtl",
     "id": "firrtl",
-    "url": "/rows/firrtl.html"
+    "url": "/concepts/firrtl.html"
   },
   {
     "label": "fish",
     "id": "fish",
-    "url": "/rows/fish.html"
+    "url": "/concepts/fish.html"
   },
   {
     "label": "><>",
     "id": "fishlang",
-    "url": "/rows/fishlang.html"
+    "url": "/concepts/fishlang.html"
   },
   {
     "label": "fizz",
     "id": "fizz",
-    "url": "/rows/fizz.html"
+    "url": "/concepts/fizz.html"
   },
   {
     "label": "Fjölnir",
     "id": "fjolnir",
-    "url": "/rows/fjolnir.html"
+    "url": "/concepts/fjolnir.html"
   },
   {
     "label": "fjs",
     "id": "fjs",
-    "url": "/rows/fjs.html"
+    "url": "/concepts/fjs.html"
   },
   {
     "label": "FL",
     "id": "fl",
-    "url": "/rows/fl.html"
+    "url": "/concepts/fl.html"
   },
   {
     "label": "FLACC",
     "id": "flacc",
-    "url": "/rows/flacc.html"
+    "url": "/concepts/flacc.html"
   },
   {
     "label": "flagship",
     "id": "flagship",
-    "url": "/rows/flagship.html"
+    "url": "/concepts/flagship.html"
   },
   {
     "label": "flame-ir",
     "id": "flame-ir",
-    "url": "/rows/flame-ir.html"
+    "url": "/concepts/flame-ir.html"
   },
   {
     "label": "FLANG",
     "id": "flang",
-    "url": "/rows/flang.html"
+    "url": "/concepts/flang.html"
   },
   {
     "label": "Flapjax",
     "id": "flapjax",
-    "url": "/rows/flapjax.html"
+    "url": "/concepts/flapjax.html"
   },
   {
     "label": "Flare",
     "id": "flare",
-    "url": "/rows/flare.html"
+    "url": "/concepts/flare.html"
   },
   {
     "label": "FlatBuffers",
     "id": "flatbuffers",
-    "url": "/rows/flatbuffers.html"
+    "url": "/concepts/flatbuffers.html"
   },
   {
     "label": "Flatline",
     "id": "flatline",
-    "url": "/rows/flatline.html"
+    "url": "/concepts/flatline.html"
   },
   {
     "label": "Flavors",
     "id": "flavors",
-    "url": "/rows/flavors.html"
+    "url": "/concepts/flavors.html"
   },
   {
     "label": "fleck",
     "id": "fleck",
-    "url": "/rows/fleck.html"
+    "url": "/concepts/fleck.html"
   },
   {
     "label": "FLENG++",
     "id": "flengpp",
-    "url": "/rows/flengpp.html"
+    "url": "/concepts/flengpp.html"
   },
   {
     "label": "Flex language",
     "id": "flex-lang",
-    "url": "/rows/flex-lang.html"
+    "url": "/concepts/flex-lang.html"
   },
   {
     "label": "FLEX",
     "id": "flex",
-    "url": "/rows/flex.html"
+    "url": "/concepts/flex.html"
   },
   {
     "label": "flexbuffers",
     "id": "flexbuffers",
-    "url": "/rows/flexbuffers.html"
+    "url": "/concepts/flexbuffers.html"
   },
   {
     "label": "FleXML",
     "id": "flexml",
-    "url": "/rows/flexml.html"
+    "url": "/concepts/flexml.html"
   },
   {
     "label": "FLIC",
     "id": "flic",
-    "url": "/rows/flic.html"
+    "url": "/concepts/flic.html"
   },
   {
     "label": "Flix",
     "id": "flix",
-    "url": "/rows/flix.html"
+    "url": "/concepts/flix.html"
   },
   {
     "label": "floorplan",
     "id": "floorplan",
-    "url": "/rows/floorplan.html"
+    "url": "/concepts/floorplan.html"
   },
   {
     "label": "Flora",
     "id": "flora",
-    "url": "/rows/flora.html"
+    "url": "/concepts/flora.html"
   },
   {
     "label": "Floral",
     "id": "floral",
-    "url": "/rows/floral.html"
+    "url": "/concepts/floral.html"
   },
   {
     "label": "FloScript",
     "id": "floscript",
-    "url": "/rows/floscript.html"
+    "url": "/concepts/floscript.html"
   },
   {
     "label": "FLOW-MATIC",
     "id": "flow-matic",
-    "url": "/rows/flow-matic.html"
+    "url": "/concepts/flow-matic.html"
   },
   {
     "label": "Flow",
     "id": "flow",
-    "url": "/rows/flow.html"
+    "url": "/concepts/flow.html"
   },
   {
     "label": "Flow9",
     "id": "flow9",
-    "url": "/rows/flow9.html"
+    "url": "/concepts/flow9.html"
   },
   {
     "label": "flowchart.fun",
     "id": "flowchart-fun",
-    "url": "/rows/flowchart-fun.html"
+    "url": "/concepts/flowchart-fun.html"
   },
   {
     "label": "Flowcode",
     "id": "flowcode",
-    "url": "/rows/flowcode.html"
+    "url": "/concepts/flowcode.html"
   },
   {
     "label": "Flowgorithm",
     "id": "flowgorithm",
-    "url": "/rows/flowgorithm.html"
+    "url": "/concepts/flowgorithm.html"
   },
   {
     "label": "flowlog",
     "id": "flowlog",
-    "url": "/rows/flowlog.html"
+    "url": "/concepts/flowlog.html"
   },
   {
     "label": "FlowNet",
     "id": "flownet",
-    "url": "/rows/flownet.html"
+    "url": "/concepts/flownet.html"
   },
   {
     "label": "flownote",
     "id": "flownote",
-    "url": "/rows/flownote.html"
+    "url": "/concepts/flownote.html"
   },
   {
     "label": "flua",
     "id": "flua",
-    "url": "/rows/flua.html"
+    "url": "/concepts/flua.html"
   },
   {
     "label": "Flutter",
     "id": "flutter-framework",
-    "url": "/rows/flutter-framework.html"
+    "url": "/concepts/flutter-framework.html"
   },
   {
     "label": "flux-lang",
     "id": "flux-lang",
-    "url": "/rows/flux-lang.html"
+    "url": "/concepts/flux-lang.html"
   },
   {
     "label": "FLUX",
     "id": "flux",
-    "url": "/rows/flux.html"
+    "url": "/concepts/flux.html"
   },
   {
     "label": "FM broadcasting",
     "id": "fm-standard",
-    "url": "/rows/fm-standard.html"
+    "url": "/concepts/fm-standard.html"
   },
   {
     "label": "fmj",
     "id": "fmj",
-    "url": "/rows/fmj.html"
+    "url": "/concepts/fmj.html"
   },
   {
     "label": "FML",
     "id": "fml-lang",
-    "url": "/rows/fml-lang.html"
+    "url": "/concepts/fml-lang.html"
   },
   {
     "label": "Fuzzy Markup Language",
     "id": "fml",
-    "url": "/rows/fml.html"
+    "url": "/concepts/fml.html"
   },
   {
     "label": "fo",
     "id": "fo",
-    "url": "/rows/fo.html"
+    "url": "/concepts/fo.html"
   },
   {
     "label": "FOAF",
     "id": "foaf",
-    "url": "/rows/foaf.html"
+    "url": "/concepts/foaf.html"
   },
   {
     "label": "Formulating On-Line Calculations in Algebraic Language",
     "id": "focal",
-    "url": "/rows/focal.html"
+    "url": "/concepts/focal.html"
   },
   {
     "label": "FOCUS",
     "id": "focus",
-    "url": "/rows/focus.html"
+    "url": "/concepts/focus.html"
   },
   {
     "label": "File Oriented Interpretive Language",
     "id": "foil",
-    "url": "/rows/foil.html"
+    "url": "/concepts/foil.html"
   },
   {
     "label": "foogol",
     "id": "foogol",
-    "url": "/rows/foogol.html"
+    "url": "/concepts/foogol.html"
   },
   {
     "label": "FORAL LP",
     "id": "foral-lp",
-    "url": "/rows/foral-lp.html"
+    "url": "/concepts/foral-lp.html"
   },
   {
     "label": "FORAL",
     "id": "foral",
-    "url": "/rows/foral.html"
+    "url": "/concepts/foral.html"
   },
   {
     "label": "FORALL",
     "id": "forall",
-    "url": "/rows/forall.html"
+    "url": "/concepts/forall.html"
   },
   {
     "label": "forest-database",
     "id": "forest-database",
-    "url": "/rows/forest-database.html"
+    "url": "/concepts/forest-database.html"
   },
   {
     "label": "forest-lang",
     "id": "forest-lang",
-    "url": "/rows/forest-lang.html"
+    "url": "/concepts/forest-lang.html"
   },
   {
     "label": "ForgeBox",
     "id": "forgebox-pm",
-    "url": "/rows/forgebox-pm.html"
+    "url": "/concepts/forgebox-pm.html"
   },
   {
     "label": "fork-lang",
     "id": "fork-lang",
-    "url": "/rows/fork-lang.html"
+    "url": "/concepts/fork-lang.html"
   },
   {
     "label": "FORK",
     "id": "fork",
-    "url": "/rows/fork.html"
+    "url": "/concepts/fork.html"
   },
   {
     "label": "Fork95",
     "id": "fork95",
-    "url": "/rows/fork95.html"
+    "url": "/concepts/fork95.html"
   },
   {
     "label": "FORMAC",
     "id": "formac",
-    "url": "/rows/formac.html"
+    "url": "/concepts/formac.html"
   },
   {
     "label": "formality",
     "id": "formality",
-    "url": "/rows/formality.html"
+    "url": "/concepts/formality.html"
   },
   {
     "label": "Formatted Table",
     "id": "formatted-table",
-    "url": "/rows/formatted-table.html"
+    "url": "/concepts/formatted-table.html"
   },
   {
     "label": "Forml",
     "id": "forml",
-    "url": "/rows/forml.html"
+    "url": "/concepts/forml.html"
   },
   {
     "label": "FORMS/3",
     "id": "forms-3",
-    "url": "/rows/forms-3.html"
+    "url": "/concepts/forms-3.html"
   },
   {
     "label": "Formula language",
     "id": "formula",
-    "url": "/rows/formula.html"
+    "url": "/concepts/formula.html"
   },
   {
     "label": "Forte 4GL",
     "id": "forte-4gl",
-    "url": "/rows/forte-4gl.html"
+    "url": "/concepts/forte-4gl.html"
   },
   {
     "label": "Forth",
     "id": "forth",
-    "url": "/rows/forth.html"
+    "url": "/concepts/forth.html"
   },
   {
     "label": "forthnet-pm",
     "id": "forthnet-pm",
-    "url": "/rows/forthnet-pm.html"
+    "url": "/concepts/forthnet-pm.html"
   },
   {
     "label": "ForthScript",
     "id": "forthscript",
-    "url": "/rows/forthscript.html"
+    "url": "/concepts/forthscript.html"
   },
   {
     "label": "FORTRAN 77",
     "id": "fortran-77",
-    "url": "/rows/fortran-77.html"
+    "url": "/concepts/fortran-77.html"
   },
   {
     "label": "Fortran 8x",
     "id": "fortran-8x",
-    "url": "/rows/fortran-8x.html"
+    "url": "/concepts/fortran-8x.html"
   },
   {
     "label": "Fortran 90",
     "id": "fortran-90",
-    "url": "/rows/fortran-90.html"
+    "url": "/concepts/fortran-90.html"
   },
   {
     "label": "FORTRAN CEP",
     "id": "fortran-cep",
-    "url": "/rows/fortran-cep.html"
+    "url": "/concepts/fortran-cep.html"
   },
   {
     "label": "Fortran D",
     "id": "fortran-d",
-    "url": "/rows/fortran-d.html"
+    "url": "/concepts/fortran-d.html"
   },
   {
     "label": "FORTRAN II",
     "id": "fortran-ii",
-    "url": "/rows/fortran-ii.html"
+    "url": "/concepts/fortran-ii.html"
   },
   {
     "label": "FORTRAN III",
     "id": "fortran-iii",
-    "url": "/rows/fortran-iii.html"
+    "url": "/concepts/fortran-iii.html"
   },
   {
     "label": "FORTRAN IV",
     "id": "fortran-iv",
-    "url": "/rows/fortran-iv.html"
+    "url": "/concepts/fortran-iv.html"
   },
   {
     "label": "Fortran M",
     "id": "fortran-m",
-    "url": "/rows/fortran-m.html"
+    "url": "/concepts/fortran-m.html"
   },
   {
     "label": "Fortran",
     "id": "fortran",
-    "url": "/rows/fortran.html"
+    "url": "/concepts/fortran.html"
   },
   {
     "label": "FORTRANSIT",
     "id": "fortransit",
-    "url": "/rows/fortransit.html"
+    "url": "/concepts/fortransit.html"
   },
   {
     "label": "Fortress",
     "id": "fortress",
-    "url": "/rows/fortress.html"
+    "url": "/concepts/fortress.html"
   },
   {
     "label": "Fossil",
     "id": "fossil-scm",
-    "url": "/rows/fossil-scm.html"
+    "url": "/concepts/fossil-scm.html"
   },
   {
     "label": "foundry",
     "id": "foundry",
-    "url": "/rows/foundry.html"
+    "url": "/concepts/foundry.html"
   },
   {
     "label": "fox",
     "id": "fox",
-    "url": "/rows/fox.html"
+    "url": "/concepts/fox.html"
   },
   {
     "label": "FoxPRO",
     "id": "foxpro",
-    "url": "/rows/foxpro.html"
+    "url": "/concepts/foxpro.html"
   },
   {
     "label": "FP",
     "id": "fp",
-    "url": "/rows/fp.html"
+    "url": "/concepts/fp.html"
   },
   {
     "label": "FP2",
     "id": "fp2",
-    "url": "/rows/fp2.html"
+    "url": "/concepts/fp2.html"
   },
   {
     "label": "fp",
     "id": "fp3",
-    "url": "/rows/fp3.html"
+    "url": "/concepts/fp3.html"
   },
   {
     "label": "FpgaC",
     "id": "fpgac",
-    "url": "/rows/fpgac.html"
+    "url": "/concepts/fpgac.html"
   },
   {
     "label": "Functional PHP Preprocessor",
     "id": "fpp",
-    "url": "/rows/fpp.html"
+    "url": "/concepts/fpp.html"
   },
   {
     "label": "FRACTRAN",
     "id": "fractran",
-    "url": "/rows/fractran.html"
+    "url": "/concepts/fractran.html"
   },
   {
     "label": "frame",
     "id": "frame",
-    "url": "/rows/frame.html"
+    "url": "/concepts/frame.html"
   },
   {
     "label": "Framework office suite",
     "id": "framework-office-suite",
-    "url": "/rows/framework-office-suite.html"
+    "url": "/concepts/framework-office-suite.html"
   },
   {
     "label": "FRAN",
     "id": "fran",
-    "url": "/rows/fran.html"
+    "url": "/concepts/fran.html"
   },
   {
     "label": "Frank",
     "id": "frank-lang",
-    "url": "/rows/frank-lang.html"
+    "url": "/concepts/frank-lang.html"
   },
   {
     "label": "FRANK",
     "id": "frank",
-    "url": "/rows/frank.html"
+    "url": "/concepts/frank.html"
   },
   {
     "label": "Free Pascal",
     "id": "free-pascal",
-    "url": "/rows/free-pascal.html"
+    "url": "/concepts/free-pascal.html"
   },
   {
     "label": "FreeBASIC",
     "id": "freebasic",
-    "url": "/rows/freebasic.html"
+    "url": "/concepts/freebasic.html"
   },
   {
     "label": "FreeBSD",
     "id": "freebsd",
-    "url": "/rows/freebsd.html"
+    "url": "/concepts/freebsd.html"
   },
   {
     "label": "Freefem",
     "id": "freefem",
-    "url": "/rows/freefem.html"
+    "url": "/concepts/freefem.html"
   },
   {
     "label": "FreeMarker",
     "id": "freemarker",
-    "url": "/rows/freemarker.html"
+    "url": "/concepts/freemarker.html"
   },
   {
     "label": "Frege",
     "id": "frege",
-    "url": "/rows/frege.html"
+    "url": "/concepts/frege.html"
   },
   {
     "label": "Frenetic",
     "id": "frenetic",
-    "url": "/rows/frenetic.html"
+    "url": "/concepts/frenetic.html"
   },
   {
     "label": "Fresco",
     "id": "fresco",
-    "url": "/rows/fresco.html"
+    "url": "/concepts/fresco.html"
   },
   {
     "label": "Frink",
     "id": "frink",
-    "url": "/rows/frink.html"
+    "url": "/concepts/frink.html"
   },
   {
     "label": "Frost",
     "id": "frost",
-    "url": "/rows/frost.html"
+    "url": "/concepts/frost.html"
   },
   {
     "label": "frtime",
     "id": "frtime",
-    "url": "/rows/frtime.html"
+    "url": "/concepts/frtime.html"
   },
   {
     "label": "fructure-editor",
     "id": "fructure-editor",
-    "url": "/rows/fructure-editor.html"
+    "url": "/concepts/fructure-editor.html"
   },
   {
     "label": "Finite State Language",
     "id": "fsl",
-    "url": "/rows/fsl.html"
+    "url": "/concepts/fsl.html"
   },
   {
     "label": "F*",
     "id": "fstar",
-    "url": "/rows/fstar.html"
+    "url": "/concepts/fstar.html"
   },
   {
     "label": "FTP",
     "id": "ftp",
-    "url": "/rows/ftp.html"
+    "url": "/concepts/ftp.html"
   },
   {
     "label": "Fun",
     "id": "fun",
-    "url": "/rows/fun.html"
+    "url": "/concepts/fun.html"
   },
   {
     "label": "Function block diagram",
     "id": "function-block-diagram",
-    "url": "/rows/function-block-diagram.html"
+    "url": "/concepts/function-block-diagram.html"
   },
   {
     "label": "funl",
     "id": "funl",
-    "url": "/rows/funl.html"
+    "url": "/concepts/funl.html"
   },
   {
     "label": "Futhark",
     "id": "futhark",
-    "url": "/rows/futhark.html"
+    "url": "/concepts/futhark.html"
   },
   {
     "label": "FutureBASIC",
     "id": "futurebasic",
-    "url": "/rows/futurebasic.html"
+    "url": "/concepts/futurebasic.html"
   },
   {
     "label": "FutureScript",
     "id": "futurescript",
-    "url": "/rows/futurescript.html"
+    "url": "/concepts/futurescript.html"
   },
   {
     "label": "Fuzuli",
     "id": "fuzuli",
-    "url": "/rows/fuzuli.html"
+    "url": "/concepts/fuzuli.html"
   },
   {
     "label": "FuzzyCLIPS",
     "id": "fuzzyclips",
-    "url": "/rows/fuzzyclips.html"
+    "url": "/concepts/fuzzyclips.html"
   },
   {
     "label": "FX-87",
     "id": "fx-87",
-    "url": "/rows/fx-87.html"
+    "url": "/concepts/fx-87.html"
   },
   {
     "label": "FXML",
     "id": "fxml",
-    "url": "/rows/fxml.html"
+    "url": "/concepts/fxml.html"
   },
   {
     "label": "FXScript",
     "id": "fxscript",
-    "url": "/rows/fxscript.html"
+    "url": "/concepts/fxscript.html"
   },
   {
     "label": "g-2",
     "id": "g-2",
-    "url": "/rows/g-2.html"
+    "url": "/concepts/g-2.html"
   },
   {
     "label": "G-code",
     "id": "g-code",
-    "url": "/rows/g-code.html"
+    "url": "/concepts/g-code.html"
   },
   {
     "label": "g-expressions",
     "id": "g-expressions",
-    "url": "/rows/g-expressions.html"
+    "url": "/concepts/g-expressions.html"
   },
   {
     "label": "g-fu",
     "id": "g-fu",
-    "url": "/rows/g-fu.html"
+    "url": "/concepts/g-fu.html"
   },
   {
     "label": "G-Portugol",
     "id": "g-portugol",
-    "url": "/rows/g-portugol.html"
+    "url": "/concepts/g-portugol.html"
   },
   {
     "label": "GAEA",
     "id": "gaea",
-    "url": "/rows/gaea.html"
+    "url": "/concepts/gaea.html"
   },
   {
     "label": "Gaiman",
     "id": "gaiman",
-    "url": "/rows/gaiman.html"
+    "url": "/concepts/gaiman.html"
   },
   {
     "label": "Galaksija BASIC",
     "id": "galaksija-basic",
-    "url": "/rows/galaksija-basic.html"
+    "url": "/concepts/galaksija-basic.html"
   },
   {
     "label": "Galileo",
     "id": "galileo",
-    "url": "/rows/galileo.html"
+    "url": "/concepts/galileo.html"
   },
   {
     "label": "Gambas",
     "id": "gambas",
-    "url": "/rows/gambas.html"
+    "url": "/concepts/gambas.html"
   },
   {
     "label": "Game Maker Language",
     "id": "game-maker-language",
-    "url": "/rows/game-maker-language.html"
+    "url": "/concepts/game-maker-language.html"
   },
   {
     "label": "Game Oriented Assembly Lisp",
     "id": "game-oriented-assembly-lisp",
-    "url": "/rows/game-oriented-assembly-lisp.html"
+    "url": "/concepts/game-oriented-assembly-lisp.html"
   },
   {
     "label": "GAME",
     "id": "game",
-    "url": "/rows/game.html"
+    "url": "/concepts/game.html"
   },
   {
     "label": "GameMonkey Script",
     "id": "gamemonkey-script",
-    "url": "/rows/gamemonkey-script.html"
+    "url": "/concepts/gamemonkey-script.html"
   },
   {
     "label": "GamerLanguage",
     "id": "gamerlanguage",
-    "url": "/rows/gamerlanguage.html"
+    "url": "/concepts/gamerlanguage.html"
   },
   {
     "label": "GAML",
     "id": "gaml",
-    "url": "/rows/gaml.html"
+    "url": "/concepts/gaml.html"
   },
   {
     "label": "GAMS",
     "id": "gams",
-    "url": "/rows/gams.html"
+    "url": "/concepts/gams.html"
   },
   {
     "label": "GAP",
     "id": "gap",
-    "url": "/rows/gap.html"
+    "url": "/concepts/gap.html"
   },
   {
     "label": "Gargoyle",
     "id": "gargoyle",
-    "url": "/rows/gargoyle.html"
+    "url": "/concepts/gargoyle.html"
   },
   {
     "label": "GARP",
     "id": "garp",
-    "url": "/rows/garp.html"
+    "url": "/concepts/garp.html"
   },
   {
     "label": "GNU Assembler",
     "id": "gas",
-    "url": "/rows/gas.html"
+    "url": "/concepts/gas.html"
   },
   {
     "label": "GASP II",
     "id": "gasp-ii",
-    "url": "/rows/gasp-ii.html"
+    "url": "/concepts/gasp-ii.html"
   },
   {
     "label": "General Activity Simulation Program",
     "id": "gasp",
-    "url": "/rows/gasp.html"
+    "url": "/concepts/gasp.html"
   },
   {
     "label": "GAT",
     "id": "gat",
-    "url": "/rows/gat.html"
+    "url": "/concepts/gat.html"
   },
   {
     "label": "Gauche Scheme implementation",
     "id": "gauche",
-    "url": "/rows/gauche.html"
+    "url": "/concepts/gauche.html"
   },
   {
     "label": "Gauss Flux Formula",
     "id": "gauss-flux-equation",
-    "url": "/rows/gauss-flux-equation.html"
+    "url": "/concepts/gauss-flux-equation.html"
   },
   {
     "label": "Gauss Magnetism Formula",
     "id": "gauss-magnetism-equation",
-    "url": "/rows/gauss-magnetism-equation.html"
+    "url": "/concepts/gauss-magnetism-equation.html"
   },
   {
     "label": "GaussFit",
     "id": "gaussfit",
-    "url": "/rows/gaussfit.html"
+    "url": "/concepts/gaussfit.html"
   },
   {
     "label": "GCC Machine Description",
     "id": "gcc-machine-description",
-    "url": "/rows/gcc-machine-description.html"
+    "url": "/concepts/gcc-machine-description.html"
   },
   {
     "label": "GCC",
     "id": "gcc",
-    "url": "/rows/gcc.html"
+    "url": "/concepts/gcc.html"
   },
   {
     "label": "GCLA II",
     "id": "gcla-ii",
-    "url": "/rows/gcla-ii.html"
+    "url": "/concepts/gcla-ii.html"
   },
   {
     "label": "GCP",
     "id": "gcp",
-    "url": "/rows/gcp.html"
+    "url": "/concepts/gcp.html"
   },
   {
     "label": "Google Data Protcol",
     "id": "gdata",
-    "url": "/rows/gdata.html"
+    "url": "/concepts/gdata.html"
   },
   {
     "label": "GDB",
     "id": "gdb",
-    "url": "/rows/gdb.html"
+    "url": "/concepts/gdb.html"
   },
   {
     "label": "GNU Data Language",
     "id": "gdl",
-    "url": "/rows/gdl.html"
+    "url": "/concepts/gdl.html"
   },
   {
     "label": "GDPL",
     "id": "gdpl",
-    "url": "/rows/gdpl.html"
+    "url": "/concepts/gdpl.html"
   },
   {
     "label": "GDScript",
     "id": "gdscript",
-    "url": "/rows/gdscript.html"
+    "url": "/concepts/gdscript.html"
   },
   {
     "label": "Geany",
     "id": "geany-editor",
-    "url": "/rows/geany-editor.html"
+    "url": "/concepts/geany-editor.html"
   },
   {
     "label": "Gecko",
     "id": "gecko",
-    "url": "/rows/gecko.html"
+    "url": "/concepts/gecko.html"
   },
   {
     "label": "Gedanken",
     "id": "gedanken",
-    "url": "/rows/gedanken.html"
+    "url": "/concepts/gedanken.html"
   },
   {
     "label": "gedit-editor",
     "id": "gedit-editor",
-    "url": "/rows/gedit-editor.html"
+    "url": "/concepts/gedit-editor.html"
   },
   {
     "label": "Generic Expression Language",
     "id": "gel",
-    "url": "/rows/gel.html"
+    "url": "/concepts/gel.html"
   },
   {
     "label": "Gellish",
     "id": "gellish",
-    "url": "/rows/gellish.html"
+    "url": "/concepts/gellish.html"
   },
   {
     "label": "Gello Expression Language",
     "id": "gello",
-    "url": "/rows/gello.html"
+    "url": "/concepts/gello.html"
   },
   {
     "label": "GEM",
     "id": "gem",
-    "url": "/rows/gem.html"
+    "url": "/concepts/gem.html"
   },
   {
     "label": "General-purpose macro processor",
     "id": "gema",
-    "url": "/rows/gema.html"
+    "url": "/concepts/gema.html"
   },
   {
     "label": "gemini-protocol",
     "id": "gemini-protocol",
-    "url": "/rows/gemini-protocol.html"
+    "url": "/concepts/gemini-protocol.html"
   },
   {
     "label": "GAMS",
     "id": "general-algebraic-modeling-system",
-    "url": "/rows/general-algebraic-modeling-system.html"
+    "url": "/concepts/general-algebraic-modeling-system.html"
   },
   {
     "label": "GN",
     "id": "generate-ninja",
-    "url": "/rows/generate-ninja.html"
+    "url": "/concepts/generate-ninja.html"
   },
   {
     "label": "Generic Haskell",
     "id": "generic-haskell",
-    "url": "/rows/generic-haskell.html"
+    "url": "/concepts/generic-haskell.html"
   },
   {
     "label": "GCC GENERIC",
     "id": "generic",
-    "url": "/rows/generic.html"
+    "url": "/concepts/generic.html"
   },
   {
     "label": "Genero Business Development Language",
     "id": "genero",
-    "url": "/rows/genero.html"
+    "url": "/concepts/genero.html"
   },
   {
     "label": "GeneXus",
     "id": "genexus",
-    "url": "/rows/genexus.html"
+    "url": "/concepts/genexus.html"
   },
   {
     "label": "Genie",
     "id": "genie",
-    "url": "/rows/genie.html"
+    "url": "/concepts/genie.html"
   },
   {
     "label": "GEL Genius",
     "id": "genius-extension-language",
-    "url": "/rows/genius-extension-language.html"
+    "url": "/concepts/genius-extension-language.html"
   },
   {
     "label": "Genshi Text",
     "id": "genshi-text",
-    "url": "/rows/genshi-text.html"
+    "url": "/concepts/genshi-text.html"
   },
   {
     "label": "Genshi",
     "id": "genshi",
-    "url": "/rows/genshi.html"
+    "url": "/concepts/genshi.html"
   },
   {
     "label": "GENSTAT",
     "id": "genstat",
-    "url": "/rows/genstat.html"
+    "url": "/concepts/genstat.html"
   },
   {
     "label": "gentee",
     "id": "gentee",
-    "url": "/rows/gentee.html"
+    "url": "/concepts/gentee.html"
   },
   {
     "label": "Gentoo Ebuild",
     "id": "gentoo-ebuild",
-    "url": "/rows/gentoo-ebuild.html"
+    "url": "/concepts/gentoo-ebuild.html"
   },
   {
     "label": "GENTRAN 90",
     "id": "gentran-90",
-    "url": "/rows/gentran-90.html"
+    "url": "/concepts/gentran-90.html"
   },
   {
     "label": "GENTRAN",
     "id": "gentran",
-    "url": "/rows/gentran.html"
+    "url": "/concepts/gentran.html"
   },
   {
     "label": "Geography Markup Language",
     "id": "geo-ml",
-    "url": "/rows/geo-ml.html"
+    "url": "/concepts/geo-ml.html"
   },
   {
     "label": "GeoGebra",
     "id": "geogebra",
-    "url": "/rows/geogebra.html"
+    "url": "/concepts/geogebra.html"
   },
   {
     "label": "GeoJSON",
     "id": "geojson",
-    "url": "/rows/geojson.html"
+    "url": "/concepts/geojson.html"
   },
   {
     "label": "GEORGE",
     "id": "george",
-    "url": "/rows/george.html"
+    "url": "/concepts/george.html"
   },
   {
     "label": "Gerald",
     "id": "gerald",
-    "url": "/rows/gerald.html"
+    "url": "/concepts/gerald.html"
   },
   {
     "label": "Gerber Image",
     "id": "gerber-image",
-    "url": "/rows/gerber-image.html"
+    "url": "/concepts/gerber-image.html"
   },
   {
     "label": "Gerbil Scheme",
     "id": "gerbil",
-    "url": "/rows/gerbil.html"
+    "url": "/concepts/gerbil.html"
   },
   {
     "label": "GERMINAL",
     "id": "germinal",
-    "url": "/rows/germinal.html"
+    "url": "/concepts/germinal.html"
   },
   {
     "label": "Gettext Catalog",
     "id": "gettext",
-    "url": "/rows/gettext.html"
+    "url": "/concepts/gettext.html"
   },
   {
     "label": "GFA BASIC",
     "id": "gfa-basic",
-    "url": "/rows/gfa-basic.html"
+    "url": "/concepts/gfa-basic.html"
   },
   {
     "label": "General feature format",
     "id": "gff-format",
-    "url": "/rows/gff-format.html"
+    "url": "/concepts/gff-format.html"
   },
   {
     "label": "gfoo",
     "id": "gfoo",
-    "url": "/rows/gfoo.html"
+    "url": "/concepts/gfoo.html"
   },
   {
     "label": "Gforth",
     "id": "gforth",
-    "url": "/rows/gforth.html"
+    "url": "/concepts/gforth.html"
   },
   {
     "label": "Google File System",
     "id": "gfs",
-    "url": "/rows/gfs.html"
+    "url": "/concepts/gfs.html"
   },
   {
     "label": "GHC",
     "id": "ghc",
-    "url": "/rows/ghc.html"
+    "url": "/concepts/ghc.html"
   },
   {
     "label": "Gherkin",
     "id": "gherkin",
-    "url": "/rows/gherkin.html"
+    "url": "/concepts/gherkin.html"
   },
   {
     "label": "Ghidra",
     "id": "ghidra-decompiler",
-    "url": "/rows/ghidra-decompiler.html"
+    "url": "/concepts/ghidra-decompiler.html"
   },
   {
     "label": "Ghostscript",
     "id": "ghostscript",
-    "url": "/rows/ghostscript.html"
+    "url": "/concepts/ghostscript.html"
   },
   {
     "label": "GIF",
     "id": "gif-format",
-    "url": "/rows/gif-format.html"
+    "url": "/concepts/gif-format.html"
   },
   {
     "label": "GCC GIMPLE",
     "id": "gimple",
-    "url": "/rows/gimple.html"
+    "url": "/concepts/gimple.html"
   },
   {
     "label": "gintonic",
     "id": "gintonic",
-    "url": "/rows/gintonic.html"
+    "url": "/concepts/gintonic.html"
   },
   {
     "label": "Giotto",
     "id": "giotto",
-    "url": "/rows/giotto.html"
+    "url": "/concepts/giotto.html"
   },
   {
     "label": "Gist",
     "id": "gist",
-    "url": "/rows/gist.html"
+    "url": "/concepts/gist.html"
   },
   {
     "label": "git-config",
     "id": "git-config",
-    "url": "/rows/git-config.html"
+    "url": "/concepts/git-config.html"
   },
   {
     "label": "Git",
     "id": "git",
-    "url": "/rows/git.html"
+    "url": "/concepts/git.html"
   },
   {
     "label": "gitignore",
     "id": "gitignore",
-    "url": "/rows/gitignore.html"
+    "url": "/concepts/gitignore.html"
   },
   {
     "label": "GKS",
     "id": "gks",
-    "url": "/rows/gks.html"
+    "url": "/concepts/gks.html"
   },
   {
     "label": "GLBasic",
     "id": "glbasic",
-    "url": "/rows/glbasic.html"
+    "url": "/concepts/glbasic.html"
   },
   {
     "label": "gleam",
     "id": "gleam",
-    "url": "/rows/gleam.html"
+    "url": "/concepts/gleam.html"
   },
   {
     "label": "Glicol",
     "id": "glicol",
-    "url": "/rows/glicol.html"
+    "url": "/concepts/glicol.html"
   },
   {
     "label": "GLIDE",
     "id": "glide",
-    "url": "/rows/glide.html"
+    "url": "/concepts/glide.html"
   },
   {
     "label": "Glish",
     "id": "glish",
-    "url": "/rows/glish.html"
+    "url": "/concepts/glish.html"
   },
   {
     "label": "glitch-editor",
     "id": "glitch-editor",
-    "url": "/rows/glitch-editor.html"
+    "url": "/concepts/glitch-editor.html"
   },
   {
     "label": "GLMS",
     "id": "glms",
-    "url": "/rows/glms.html"
+    "url": "/concepts/glms.html"
   },
   {
     "label": "GLOSS",
     "id": "gloss",
-    "url": "/rows/gloss.html"
+    "url": "/concepts/gloss.html"
   },
   {
     "label": "GNU Linear Programming Kit",
     "id": "glpk-lib",
-    "url": "/rows/glpk-lib.html"
+    "url": "/concepts/glpk-lib.html"
   },
   {
     "label": "GLSL",
     "id": "glsl",
-    "url": "/rows/glsl.html"
+    "url": "/concepts/glsl.html"
   },
   {
     "label": "GLU",
     "id": "glu",
-    "url": "/rows/glu.html"
+    "url": "/concepts/glu.html"
   },
   {
     "label": "Glue-Nail",
     "id": "glue-nail",
-    "url": "/rows/glue-nail.html"
+    "url": "/concepts/glue-nail.html"
   },
   {
     "label": "gluon",
     "id": "gluon",
-    "url": "/rows/gluon.html"
+    "url": "/concepts/gluon.html"
   },
   {
     "label": "glush",
     "id": "glush",
-    "url": "/rows/glush.html"
+    "url": "/concepts/glush.html"
   },
   {
     "label": "Glyph Bitmap Distribution Format",
     "id": "glyph-bitmap-distribution-format",
-    "url": "/rows/glyph-bitmap-distribution-format.html"
+    "url": "/concepts/glyph-bitmap-distribution-format.html"
   },
   {
     "label": "Glyph",
     "id": "glyph",
-    "url": "/rows/glyph.html"
+    "url": "/concepts/glyph.html"
   },
   {
     "label": "Gnome Basic",
     "id": "gnome-basic",
-    "url": "/rows/gnome-basic.html"
+    "url": "/concepts/gnome-basic.html"
   },
   {
     "label": "GNS",
     "id": "gns",
-    "url": "/rows/gns.html"
+    "url": "/concepts/gns.html"
   },
   {
     "label": "GNU E",
     "id": "gnu-e",
-    "url": "/rows/gnu-e.html"
+    "url": "/concepts/gnu-e.html"
   },
   {
     "label": "gnu-rtl",
     "id": "gnu-rtl",
-    "url": "/rows/gnu-rtl.html"
+    "url": "/concepts/gnu-rtl.html"
   },
   {
     "label": "Gnuplot",
     "id": "gnuplot",
-    "url": "/rows/gnuplot.html"
+    "url": "/concepts/gnuplot.html"
   },
   {
     "label": "Go!",
     "id": "go-bang",
-    "url": "/rows/go-bang.html"
+    "url": "/concepts/go-bang.html"
   },
   {
     "label": "Go",
     "id": "go",
-    "url": "/rows/go.html"
+    "url": "/concepts/go.html"
   },
   {
     "label": "Goal",
     "id": "goal",
-    "url": "/rows/goal.html"
+    "url": "/concepts/goal.html"
   },
   {
     "label": "goby",
     "id": "goby",
-    "url": "/rows/goby.html"
+    "url": "/concepts/goby.html"
   },
   {
     "label": "Gödel (Goedel)",
     "id": "godel",
-    "url": "/rows/godel.html"
+    "url": "/concepts/godel.html"
   },
   {
     "label": "Godot",
     "id": "godot-game-engine",
-    "url": "/rows/godot-game-engine.html"
+    "url": "/concepts/godot-game-engine.html"
   },
   {
     "label": "Gofer",
     "id": "gofer",
-    "url": "/rows/gofer.html"
+    "url": "/concepts/gofer.html"
   },
   {
     "label": "gogs-editor",
     "id": "gogs-editor",
-    "url": "/rows/gogs-editor.html"
+    "url": "/concepts/gogs-editor.html"
   },
   {
     "label": "GOLD",
     "id": "gold",
-    "url": "/rows/gold.html"
+    "url": "/concepts/gold.html"
   },
   {
     "label": "GolfScript",
     "id": "golfscript",
-    "url": "/rows/golfscript.html"
+    "url": "/concepts/golfscript.html"
   },
   {
     "label": "Golo",
     "id": "golo",
-    "url": "/rows/golo.html"
+    "url": "/concepts/golo.html"
   },
   {
     "label": "Golog",
     "id": "golog",
-    "url": "/rows/golog.html"
+    "url": "/concepts/golog.html"
   },
   {
     "label": "Google Apps Script",
     "id": "google-apps-script",
-    "url": "/rows/google-apps-script.html"
+    "url": "/concepts/google-apps-script.html"
   },
   {
     "label": "Google Cloud SQL",
     "id": "google-cloud-mysql",
-    "url": "/rows/google-cloud-mysql.html"
+    "url": "/concepts/google-cloud-mysql.html"
   },
   {
     "label": "Google Cloud Platform",
     "id": "google-cloud",
-    "url": "/rows/google-cloud.html"
+    "url": "/concepts/google-cloud.html"
   },
   {
     "label": "google-data-studio-app",
     "id": "google-data-studio-app",
-    "url": "/rows/google-data-studio-app.html"
+    "url": "/concepts/google-data-studio-app.html"
   },
   {
     "label": "Google Sheets",
     "id": "google-sheets-app",
-    "url": "/rows/google-sheets-app.html"
+    "url": "/concepts/google-sheets-app.html"
   },
   {
     "label": "goose",
     "id": "goose",
-    "url": "/rows/goose.html"
+    "url": "/concepts/goose.html"
   },
   {
     "label": "Gopher",
     "id": "gopher-protocol",
-    "url": "/rows/gopher-protocol.html"
+    "url": "/concepts/gopher-protocol.html"
   },
   {
     "label": "GOQL",
     "id": "goql",
-    "url": "/rows/goql.html"
+    "url": "/concepts/goql.html"
   },
   {
     "label": "GorillaScript",
     "id": "gorillascript",
-    "url": "/rows/gorillascript.html"
+    "url": "/concepts/gorillascript.html"
   },
   {
     "label": "GOSPEL",
     "id": "gospel",
-    "url": "/rows/gospel.html"
+    "url": "/concepts/gospel.html"
   },
   {
     "label": "Gosu",
     "id": "gosu",
-    "url": "/rows/gosu.html"
+    "url": "/concepts/gosu.html"
   },
   {
     "label": "General purpose",
     "id": "gp",
-    "url": "/rows/gp.html"
+    "url": "/concepts/gp.html"
   },
   {
     "label": "GPDS",
     "id": "gpds",
-    "url": "/rows/gpds.html"
+    "url": "/concepts/gpds.html"
   },
   {
     "label": "GPGS",
     "id": "gpgs",
-    "url": "/rows/gpgs.html"
+    "url": "/concepts/gpgs.html"
   },
   {
     "label": "GPS",
     "id": "gps",
-    "url": "/rows/gps.html"
+    "url": "/concepts/gps.html"
   },
   {
     "label": "GPSS/360",
     "id": "gpss-360",
-    "url": "/rows/gpss-360.html"
+    "url": "/concepts/gpss-360.html"
   },
   {
     "label": "GPSS/85",
     "id": "gpss-85",
-    "url": "/rows/gpss-85.html"
+    "url": "/concepts/gpss-85.html"
   },
   {
     "label": "GPSS FORTRAN",
     "id": "gpss-fortran",
-    "url": "/rows/gpss-fortran.html"
+    "url": "/concepts/gpss-fortran.html"
   },
   {
     "label": "General Purpose Simulation System",
     "id": "gpss",
-    "url": "/rows/gpss.html"
+    "url": "/concepts/gpss.html"
   },
   {
     "label": "GQL",
     "id": "gql",
-    "url": "/rows/gql.html"
+    "url": "/concepts/gql.html"
   },
   {
     "label": "GRAAL",
     "id": "graal",
-    "url": "/rows/graal.html"
+    "url": "/concepts/graal.html"
   },
   {
     "label": "Grace",
     "id": "grace",
-    "url": "/rows/grace.html"
+    "url": "/concepts/grace.html"
   },
   {
     "label": "GRAD Assistant",
     "id": "grad-assistant",
-    "url": "/rows/grad-assistant.html"
+    "url": "/concepts/grad-assistant.html"
   },
   {
     "label": "Gradle",
     "id": "gradle",
-    "url": "/rows/gradle.html"
+    "url": "/concepts/gradle.html"
   },
   {
     "label": "grain",
     "id": "grain",
-    "url": "/rows/grain.html"
+    "url": "/concepts/grain.html"
   },
   {
     "label": "Grammar",
     "id": "grammar",
-    "url": "/rows/grammar.html"
+    "url": "/concepts/grammar.html"
   },
   {
     "label": "Grammatical Framework",
     "id": "grammatical-framework",
-    "url": "/rows/grammatical-framework.html"
+    "url": "/concepts/grammatical-framework.html"
   },
   {
     "label": "GraphIt",
     "id": "graph-it",
-    "url": "/rows/graph-it.html"
+    "url": "/concepts/graph-it.html"
   },
   {
     "label": "Graph Modeling Language",
     "id": "graph-modeling-language",
-    "url": "/rows/graph-modeling-language.html"
+    "url": "/concepts/graph-modeling-language.html"
   },
   {
     "label": "Grapheasy",
     "id": "grapheasy",
-    "url": "/rows/grapheasy.html"
+    "url": "/concepts/grapheasy.html"
   },
   {
     "label": "Graphics BASIC",
     "id": "graphics-basic",
-    "url": "/rows/graphics-basic.html"
+    "url": "/concepts/graphics-basic.html"
   },
   {
     "label": "GraphLog",
     "id": "graphlog",
-    "url": "/rows/graphlog.html"
+    "url": "/concepts/graphlog.html"
   },
   {
     "label": "GraphML",
     "id": "graphml",
-    "url": "/rows/graphml.html"
+    "url": "/concepts/graphml.html"
   },
   {
     "label": "GRAPHOS",
     "id": "graphos",
-    "url": "/rows/graphos.html"
+    "url": "/concepts/graphos.html"
   },
   {
     "label": "GraphQL+-",
     "id": "graphql-plus-minus",
-    "url": "/rows/graphql-plus-minus.html"
+    "url": "/concepts/graphql-plus-minus.html"
   },
   {
     "label": "GraphQL Schema Definition Language",
     "id": "graphql-sdl",
-    "url": "/rows/graphql-sdl.html"
+    "url": "/concepts/graphql-sdl.html"
   },
   {
     "label": "GraphQL",
     "id": "graphql",
-    "url": "/rows/graphql.html"
+    "url": "/concepts/graphql.html"
   },
   {
     "label": "Graqula",
     "id": "graqula",
-    "url": "/rows/graqula.html"
+    "url": "/concepts/graqula.html"
   },
   {
     "label": "GRASS",
     "id": "grass",
-    "url": "/rows/grass.html"
+    "url": "/concepts/grass.html"
   },
   {
     "label": "Gravity Equation",
     "id": "gravity-equation",
-    "url": "/rows/gravity-equation.html"
+    "url": "/concepts/gravity-equation.html"
   },
   {
     "label": "gravity",
     "id": "gravity",
-    "url": "/rows/gravity.html"
+    "url": "/concepts/gravity.html"
   },
   {
     "label": "Greek numerals",
     "id": "greek-numerals",
-    "url": "/rows/greek-numerals.html"
+    "url": "/concepts/greek-numerals.html"
   },
   {
     "label": "Green",
     "id": "green",
-    "url": "/rows/green.html"
+    "url": "/concepts/green.html"
   },
   {
     "label": "Greenplum",
     "id": "greenplum",
-    "url": "/rows/greenplum.html"
+    "url": "/concepts/greenplum.html"
   },
   {
     "label": "Gremlin",
     "id": "gremlin",
-    "url": "/rows/gremlin.html"
+    "url": "/concepts/gremlin.html"
   },
   {
     "label": "Gren",
     "id": "gren",
-    "url": "/rows/gren.html"
+    "url": "/concepts/gren.html"
   },
   {
     "label": "grep",
     "id": "grep",
-    "url": "/rows/grep.html"
+    "url": "/concepts/grep.html"
   },
   {
     "label": "grid-notation",
     "id": "grid-notation",
-    "url": "/rows/grid-notation.html"
+    "url": "/concepts/grid-notation.html"
   },
   {
     "label": "gridstudio-editor",
     "id": "gridstudio-editor",
-    "url": "/rows/gridstudio-editor.html"
+    "url": "/concepts/gridstudio-editor.html"
   },
   {
     "label": "GRIN",
     "id": "grin",
-    "url": "/rows/grin.html"
+    "url": "/concepts/grin.html"
   },
   {
     "label": "GRML",
     "id": "grml",
-    "url": "/rows/grml.html"
+    "url": "/concepts/grml.html"
   },
   {
     "label": "groff",
     "id": "groff",
-    "url": "/rows/groff.html"
+    "url": "/concepts/groff.html"
   },
   {
     "label": "GROOVE",
     "id": "groove",
-    "url": "/rows/groove.html"
+    "url": "/concepts/groove.html"
   },
   {
     "label": "Groovy Server Pages",
     "id": "groovy-server-pages",
-    "url": "/rows/groovy-server-pages.html"
+    "url": "/concepts/groovy-server-pages.html"
   },
   {
     "label": "Groovy",
     "id": "groovy",
-    "url": "/rows/groovy.html"
+    "url": "/concepts/groovy.html"
   },
   {
     "label": "GROUPLOG",
     "id": "grouplog",
-    "url": "/rows/grouplog.html"
+    "url": "/concepts/grouplog.html"
   },
   {
     "label": "grunt",
     "id": "grunt",
-    "url": "/rows/grunt.html"
+    "url": "/concepts/grunt.html"
   },
   {
     "label": "GSBL",
     "id": "gsbl",
-    "url": "/rows/gsbl.html"
+    "url": "/concepts/gsbl.html"
   },
   {
     "label": "GSQL",
     "id": "gsql",
-    "url": "/rows/gsql.html"
+    "url": "/concepts/gsql.html"
   },
   {
     "label": "Gene transfer format",
     "id": "gtf-format",
-    "url": "/rows/gtf-format.html"
+    "url": "/concepts/gtf-format.html"
   },
   {
     "label": "GUIDE",
     "id": "guide",
-    "url": "/rows/guide.html"
+    "url": "/concepts/guide.html"
   },
   {
     "label": "GUIDO music notation",
     "id": "guido-music-notation",
-    "url": "/rows/guido-music-notation.html"
+    "url": "/concepts/guido-music-notation.html"
   },
   {
     "label": "Guile",
     "id": "guile",
-    "url": "/rows/guile.html"
+    "url": "/concepts/guile.html"
   },
   {
     "label": "GNU Guix",
     "id": "guix",
-    "url": "/rows/guix.html"
+    "url": "/concepts/guix.html"
   },
   {
     "label": "gura",
     "id": "gura",
-    "url": "/rows/gura.html"
+    "url": "/concepts/gura.html"
   },
   {
     "label": "guru",
     "id": "guru",
-    "url": "/rows/guru.html"
+    "url": "/concepts/guru.html"
   },
   {
     "label": "GVL",
     "id": "gvl",
-    "url": "/rows/gvl.html"
+    "url": "/concepts/gvl.html"
   },
   {
     "label": "GW-BASIC",
     "id": "gw-basic",
-    "url": "/rows/gw-basic.html"
+    "url": "/concepts/gw-basic.html"
   },
   {
     "label": "Gwion",
     "id": "gwion",
-    "url": "/rows/gwion.html"
+    "url": "/concepts/gwion.html"
   },
   {
     "label": "Guix Workflow Language",
     "id": "gwl",
-    "url": "/rows/gwl.html"
+    "url": "/concepts/gwl.html"
   },
   {
     "label": "GXL",
     "id": "gxl",
-    "url": "/rows/gxl.html"
+    "url": "/concepts/gxl.html"
   },
   {
     "label": "Gypsy",
     "id": "gypsy",
-    "url": "/rows/gypsy.html"
+    "url": "/concepts/gypsy.html"
   },
   {
     "label": "Gzip",
     "id": "gzip",
-    "url": "/rows/gzip.html"
+    "url": "/concepts/gzip.html"
   },
   {
     "label": "h",
     "id": "h-lang",
-    "url": "/rows/h-lang.html"
+    "url": "/concepts/h-lang.html"
   },
   {
     "label": "habit",
     "id": "habit",
-    "url": "/rows/habit.html"
+    "url": "/concepts/habit.html"
   },
   {
     "label": "hac",
     "id": "hac",
-    "url": "/rows/hac.html"
+    "url": "/concepts/hac.html"
   },
   {
     "label": "Hack",
     "id": "hack",
-    "url": "/rows/hack.html"
+    "url": "/concepts/hack.html"
   },
   {
     "label": "hackage-pm",
     "id": "hackage-pm",
-    "url": "/rows/hackage-pm.html"
+    "url": "/concepts/hackage-pm.html"
   },
   {
     "label": "Hackett",
     "id": "hackett",
-    "url": "/rows/hackett.html"
+    "url": "/concepts/hackett.html"
   },
   {
     "label": "hackppl",
     "id": "hackppl",
-    "url": "/rows/hackppl.html"
+    "url": "/concepts/hackppl.html"
   },
   {
     "label": "hacspec",
     "id": "hacspec",
-    "url": "/rows/hacspec.html"
+    "url": "/concepts/hacspec.html"
   },
   {
     "label": "HAGGIS",
     "id": "haggis",
-    "url": "/rows/haggis.html"
+    "url": "/concepts/haggis.html"
   },
   {
     "label": "hakaru",
     "id": "hakaru",
-    "url": "/rows/hakaru.html"
+    "url": "/concepts/hakaru.html"
   },
   {
     "label": "HAL Format",
     "id": "hal-format",
-    "url": "/rows/hal-format.html"
+    "url": "/concepts/hal-format.html"
   },
   {
     "label": "HAL/S",
     "id": "hal-s",
-    "url": "/rows/hal-s.html"
+    "url": "/concepts/hal-s.html"
   },
   {
     "label": "Halide",
     "id": "halide",
-    "url": "/rows/halide.html"
+    "url": "/concepts/halide.html"
   },
   {
     "label": "Ham",
     "id": "ham",
-    "url": "/rows/ham.html"
+    "url": "/concepts/ham.html"
   },
   {
     "label": "hamdown",
     "id": "hamdown",
-    "url": "/rows/hamdown.html"
+    "url": "/concepts/hamdown.html"
   },
   {
     "label": "HAML",
     "id": "haml",
-    "url": "/rows/haml.html"
+    "url": "/concepts/haml.html"
   },
   {
     "label": "hamler",
     "id": "hamler",
-    "url": "/rows/hamler.html"
+    "url": "/concepts/hamler.html"
   },
   {
     "label": "Hancock",
     "id": "hancock",
-    "url": "/rows/hancock.html"
+    "url": "/concepts/hancock.html"
   },
   {
     "label": "Handel-C",
     "id": "handel-c",
-    "url": "/rows/handel-c.html"
+    "url": "/concepts/handel-c.html"
   },
   {
     "label": "Handlebars",
     "id": "handlebars",
-    "url": "/rows/handlebars.html"
+    "url": "/concepts/handlebars.html"
   },
   {
     "label": "Hank",
     "id": "hank",
-    "url": "/rows/hank.html"
+    "url": "/concepts/hank.html"
   },
   {
     "label": "Harbour",
     "id": "harbour",
-    "url": "/rows/harbour.html"
+    "url": "/concepts/harbour.html"
   },
   {
     "label": "Hare",
     "id": "hare",
-    "url": "/rows/hare.html"
+    "url": "/concepts/hare.html"
   },
   {
     "label": "harlan",
     "id": "harlan",
-    "url": "/rows/harlan.html"
+    "url": "/concepts/harlan.html"
   },
   {
     "label": "HARVEY",
     "id": "harvey",
-    "url": "/rows/harvey.html"
+    "url": "/concepts/harvey.html"
   },
   {
     "label": "Harwell-Boeing file format",
     "id": "harwell-boeing-format",
-    "url": "/rows/harwell-boeing-format.html"
+    "url": "/concepts/harwell-boeing-format.html"
   },
   {
     "label": "IBM HAScript",
     "id": "hascript",
-    "url": "/rows/hascript.html"
+    "url": "/concepts/hascript.html"
   },
   {
     "label": "hashlink",
     "id": "hashlink",
-    "url": "/rows/hashlink.html"
+    "url": "/concepts/hashlink.html"
   },
   {
     "label": "Haskell#",
     "id": "haskell-sharp",
-    "url": "/rows/haskell-sharp.html"
+    "url": "/concepts/haskell-sharp.html"
   },
   {
     "label": "Haskell",
     "id": "haskell",
-    "url": "/rows/haskell.html"
+    "url": "/concepts/haskell.html"
   },
   {
     "label": "hasklig",
     "id": "hasklig",
-    "url": "/rows/hasklig.html"
+    "url": "/concepts/hasklig.html"
   },
   {
     "label": "HASL",
     "id": "hasl",
-    "url": "/rows/hasl.html"
+    "url": "/concepts/hasl.html"
   },
   {
     "label": "haste",
     "id": "haste",
-    "url": "/rows/haste.html"
+    "url": "/concepts/haste.html"
   },
   {
     "label": "Haxe",
     "id": "haxe",
-    "url": "/rows/haxe.html"
+    "url": "/concepts/haxe.html"
   },
   {
     "label": "Haxe Library Manager",
     "id": "haxelibs-pm",
-    "url": "/rows/haxelibs-pm.html"
+    "url": "/concepts/haxelibs-pm.html"
   },
   {
     "label": "HAYSTAQ",
     "id": "haystaq",
-    "url": "/rows/haystaq.html"
+    "url": "/concepts/haystaq.html"
   },
   {
     "label": "hazel",
     "id": "hazel",
-    "url": "/rows/hazel.html"
+    "url": "/concepts/hazel.html"
   },
   {
     "label": "Hbasic",
     "id": "hbasic",
-    "url": "/rows/hbasic.html"
+    "url": "/concepts/hbasic.html"
   },
   {
     "label": "HCard",
     "id": "hcard",
-    "url": "/rows/hcard.html"
+    "url": "/concepts/hcard.html"
   },
   {
     "label": "HCCB",
     "id": "hccb",
-    "url": "/rows/hccb.html"
+    "url": "/concepts/hccb.html"
   },
   {
     "label": "HCL",
     "id": "hcl",
-    "url": "/rows/hcl.html"
+    "url": "/concepts/hcl.html"
   },
   {
     "label": "Hierarchical Data Format",
     "id": "hdf",
-    "url": "/rows/hdf.html"
+    "url": "/concepts/hdf.html"
   },
   {
     "label": "Hadoop Distributed File System",
     "id": "hdfs",
-    "url": "/rows/hdfs.html"
+    "url": "/concepts/hdfs.html"
   },
   {
     "label": "HDMI",
     "id": "hdmi-standard",
-    "url": "/rows/hdmi-standard.html"
+    "url": "/concepts/hdmi-standard.html"
   },
   {
     "label": "Header Dictionary Triples",
     "id": "hdt",
-    "url": "/rows/hdt.html"
+    "url": "/concepts/hdt.html"
   },
   {
     "label": "heap.coffee",
     "id": "heap.coffee",
-    "url": "/rows/heap.coffee.html"
+    "url": "/concepts/heap.coffee.html"
   },
   {
     "label": "hecl",
     "id": "hecl",
-    "url": "/rows/hecl.html"
+    "url": "/concepts/hecl.html"
   },
   {
     "label": "Hedy",
     "id": "hedy",
-    "url": "/rows/hedy.html"
+    "url": "/concepts/hedy.html"
   },
   {
     "label": "HEIC",
     "id": "heic",
-    "url": "/rows/heic.html"
+    "url": "/concepts/heic.html"
   },
   {
     "label": "HeLang",
     "id": "helang",
-    "url": "/rows/helang.html"
+    "url": "/concepts/helang.html"
   },
   {
     "label": "helena",
     "id": "helena",
-    "url": "/rows/helena.html"
+    "url": "/concepts/helena.html"
   },
   {
     "label": "helium",
     "id": "helium",
-    "url": "/rows/helium.html"
+    "url": "/concepts/helium.html"
   },
   {
     "label": "hello",
     "id": "hello",
-    "url": "/rows/hello.html"
+    "url": "/concepts/hello.html"
   },
   {
     "label": "HELPER",
     "id": "helper",
-    "url": "/rows/helper.html"
+    "url": "/concepts/helper.html"
   },
   {
     "label": "henk",
     "id": "henk",
-    "url": "/rows/henk.html"
+    "url": "/concepts/henk.html"
   },
   {
     "label": "HERAKLIT",
     "id": "heraklit",
-    "url": "/rows/heraklit.html"
+    "url": "/concepts/heraklit.html"
   },
   {
     "label": "Herbrand",
     "id": "herbrand",
-    "url": "/rows/herbrand.html"
+    "url": "/concepts/herbrand.html"
   },
   {
     "label": "Hermes",
     "id": "hermes",
-    "url": "/rows/hermes.html"
+    "url": "/concepts/hermes.html"
   },
   {
     "label": "Heron",
     "id": "heron-lang",
-    "url": "/rows/heron-lang.html"
+    "url": "/concepts/heron-lang.html"
   },
   {
     "label": "Heron",
     "id": "heron",
-    "url": "/rows/heron.html"
+    "url": "/concepts/heron.html"
   },
   {
     "label": "Hex",
     "id": "hex-pm",
-    "url": "/rows/hex-pm.html"
+    "url": "/concepts/hex-pm.html"
   },
   {
     "label": "Hex-Rays",
     "id": "hex-rays",
-    "url": "/rows/hex-rays.html"
+    "url": "/concepts/hex-rays.html"
   },
   {
     "label": "Qualcomm Hexagon",
     "id": "hexagon",
-    "url": "/rows/hexagon.html"
+    "url": "/concepts/hexagon.html"
   },
   {
     "label": "hexagony",
     "id": "hexagony",
-    "url": "/rows/hexagony.html"
+    "url": "/concepts/hexagony.html"
   },
   {
     "label": "HFS Plus",
     "id": "hfs-plus",
-    "url": "/rows/hfs-plus.html"
+    "url": "/concepts/hfs-plus.html"
   },
   {
     "label": "Hierarchical File System",
     "id": "hfs",
-    "url": "/rows/hfs.html"
+    "url": "/concepts/hfs.html"
   },
   {
     "label": "HHVM",
     "id": "hhvm",
-    "url": "/rows/hhvm.html"
+    "url": "/concepts/hhvm.html"
   },
   {
     "label": "Hi-Visual",
     "id": "hi-visual",
-    "url": "/rows/hi-visual.html"
+    "url": "/concepts/hi-visual.html"
   },
   {
     "label": "High Tech BASIC",
     "id": "high-tech-basic",
-    "url": "/rows/high-tech-basic.html"
+    "url": "/concepts/high-tech-basic.html"
   },
   {
     "label": "highlight.js",
     "id": "highlightjs",
-    "url": "/rows/highlightjs.html"
+    "url": "/concepts/highlightjs.html"
   },
   {
     "label": "hilbert",
     "id": "hilbert",
-    "url": "/rows/hilbert.html"
+    "url": "/concepts/hilbert.html"
   },
   {
     "label": "Hilltop",
     "id": "hilltop-lang",
-    "url": "/rows/hilltop-lang.html"
+    "url": "/concepts/hilltop-lang.html"
   },
   {
     "label": "hilvl",
     "id": "hilvl",
-    "url": "/rows/hilvl.html"
+    "url": "/concepts/hilvl.html"
   },
   {
     "label": "Hina",
     "id": "hina",
-    "url": "/rows/hina.html"
+    "url": "/concepts/hina.html"
   },
   {
     "label": "HiQ",
     "id": "hiq",
-    "url": "/rows/hiq.html"
+    "url": "/concepts/hiq.html"
   },
   {
     "label": "hivemind",
     "id": "hivemind",
-    "url": "/rows/hivemind.html"
+    "url": "/concepts/hivemind.html"
   },
   {
     "label": "HiveQL",
     "id": "hiveql",
-    "url": "/rows/hiveql.html"
+    "url": "/concepts/hiveql.html"
   },
   {
     "label": "Hjson",
     "id": "hjson",
-    "url": "/rows/hjson.html"
+    "url": "/concepts/hjson.html"
   },
   {
     "label": "HL7",
     "id": "hl7",
-    "url": "/rows/hl7.html"
+    "url": "/concepts/hl7.html"
   },
   {
     "label": "High Level Assembly",
     "id": "hla",
-    "url": "/rows/hla.html"
+    "url": "/concepts/hla.html"
   },
   {
     "label": "HLASM",
     "id": "hlasm",
-    "url": "/rows/hlasm.html"
+    "url": "/concepts/hlasm.html"
   },
   {
     "label": "HLSL",
     "id": "hlsl",
-    "url": "/rows/hlsl.html"
+    "url": "/concepts/hlsl.html"
   },
   {
     "label": "High-Level Virtual Machine",
     "id": "hlvm",
-    "url": "/rows/hlvm.html"
+    "url": "/concepts/hlvm.html"
   },
   {
     "label": "HMMM",
     "id": "hmmm",
-    "url": "/rows/hmmm.html"
+    "url": "/concepts/hmmm.html"
   },
   {
     "label": "HMSL",
     "id": "hmsl",
-    "url": "/rows/hmsl.html"
+    "url": "/concepts/hmsl.html"
   },
   {
     "label": "hobbes",
     "id": "hobbes",
-    "url": "/rows/hobbes.html"
+    "url": "/concepts/hobbes.html"
   },
   {
     "label": "Hocon",
     "id": "hocon",
-    "url": "/rows/hocon.html"
+    "url": "/concepts/hocon.html"
   },
   {
     "label": "Hodor",
     "id": "hodor",
-    "url": "/rows/hodor.html"
+    "url": "/concepts/hodor.html"
   },
   {
     "label": "HOL",
     "id": "hol",
-    "url": "/rows/hol.html"
+    "url": "/concepts/hol.html"
   },
   {
     "label": "HOLCF",
     "id": "holcf",
-    "url": "/rows/holcf.html"
+    "url": "/concepts/holcf.html"
   },
   {
     "label": "Holo",
     "id": "holo",
-    "url": "/rows/holo.html"
+    "url": "/concepts/holo.html"
   },
   {
     "label": "holonforth",
     "id": "holonforth",
-    "url": "/rows/holonforth.html"
+    "url": "/concepts/holonforth.html"
   },
   {
     "label": "holyc",
     "id": "holyc",
-    "url": "/rows/holyc.html"
+    "url": "/concepts/holyc.html"
   },
   {
     "label": "Homa",
     "id": "homa",
-    "url": "/rows/homa.html"
+    "url": "/concepts/homa.html"
   },
   {
     "label": "Homebrew",
     "id": "homebrew-pm",
-    "url": "/rows/homebrew-pm.html"
+    "url": "/concepts/homebrew-pm.html"
   },
   {
     "label": "Homespring",
     "id": "homespring",
-    "url": "/rows/homespring.html"
+    "url": "/concepts/homespring.html"
   },
   {
     "label": "honu",
     "id": "honu",
-    "url": "/rows/honu.html"
+    "url": "/concepts/honu.html"
   },
   {
     "label": "Hook",
     "id": "hook",
-    "url": "/rows/hook.html"
+    "url": "/concepts/hook.html"
   },
   {
     "label": "hoon",
     "id": "hoon",
-    "url": "/rows/hoon.html"
+    "url": "/concepts/hoon.html"
   },
   {
     "label": "hoot-smalltalk",
     "id": "hoot-smalltalk",
-    "url": "/rows/hoot-smalltalk.html"
+    "url": "/concepts/hoot-smalltalk.html"
   },
   {
     "label": "hop",
     "id": "hop",
-    "url": "/rows/hop.html"
+    "url": "/concepts/hop.html"
   },
   {
     "label": "HOPE",
     "id": "hope",
-    "url": "/rows/hope.html"
+    "url": "/concepts/hope.html"
   },
   {
     "label": "Hopscotch",
     "id": "hopscotch",
-    "url": "/rows/hopscotch.html"
+    "url": "/concepts/hopscotch.html"
   },
   {
     "label": "Horse64",
     "id": "horse64",
-    "url": "/rows/horse64.html"
+    "url": "/concepts/horse64.html"
   },
   {
     "label": "Hot Cocoa Lisp",
     "id": "hotcocoalisp",
-    "url": "/rows/hotcocoalisp.html"
+    "url": "/concepts/hotcocoalisp.html"
   },
   {
     "label": "Hotdog",
     "id": "hotdog",
-    "url": "/rows/hotdog.html"
+    "url": "/concepts/hotdog.html"
   },
   {
     "label": "HP BASIC for OpenVMS",
     "id": "hp-basic-for-openvms",
-    "url": "/rows/hp-basic-for-openvms.html"
+    "url": "/concepts/hp-basic-for-openvms.html"
   },
   {
     "label": "HP-GL",
     "id": "hp-gl",
-    "url": "/rows/hp-gl.html"
+    "url": "/concepts/hp-gl.html"
   },
   {
     "label": "HP-PASCAL",
     "id": "hp-pascal",
-    "url": "/rows/hp-pascal.html"
+    "url": "/concepts/hp-pascal.html"
   },
   {
     "label": "HP Time-Shared BASIC",
     "id": "hp-time-shared-basic",
-    "url": "/rows/hp-time-shared-basic.html"
+    "url": "/concepts/hp-time-shared-basic.html"
   },
   {
     "label": "H++",
     "id": "hpp",
-    "url": "/rows/hpp.html"
+    "url": "/concepts/hpp.html"
   },
   {
     "label": "HPRL",
     "id": "hprl",
-    "url": "/rows/hprl.html"
+    "url": "/concepts/hprl.html"
   },
   {
     "label": "hr-code",
     "id": "hr-code",
-    "url": "/rows/hr-code.html"
+    "url": "/concepts/hr-code.html"
   },
   {
     "label": "hrqr",
     "id": "hrqr",
-    "url": "/rows/hrqr.html"
+    "url": "/concepts/hrqr.html"
   },
   {
     "label": "hsaml-format",
     "id": "hsaml-format",
-    "url": "/rows/hsaml-format.html"
+    "url": "/concepts/hsaml-format.html"
   },
   {
     "label": "HScript",
     "id": "hscript",
-    "url": "/rows/hscript.html"
+    "url": "/concepts/hscript.html"
   },
   {
     "label": "HSL",
     "id": "hsl",
-    "url": "/rows/hsl.html"
+    "url": "/concepts/hsl.html"
   },
   {
     "label": "HSML",
     "id": "hsml",
-    "url": "/rows/hsml.html"
+    "url": "/concepts/hsml.html"
   },
   {
     "label": "Hspec",
     "id": "hspec",
-    "url": "/rows/hspec.html"
+    "url": "/concepts/hspec.html"
   },
   {
     "label": "HTEL",
     "id": "htel",
-    "url": "/rows/htel.html"
+    "url": "/concepts/htel.html"
   },
   {
     "label": "HTML",
     "id": "html",
-    "url": "/rows/html.html"
+    "url": "/concepts/html.html"
   },
   {
     "label": "htmx",
     "id": "htmx",
-    "url": "/rows/htmx.html"
+    "url": "/concepts/htmx.html"
   },
   {
     "label": "HTTP/2",
     "id": "http-2",
-    "url": "/rows/http-2.html"
+    "url": "/concepts/http-2.html"
   },
   {
     "label": "HTTP/3",
     "id": "http-3",
-    "url": "/rows/http-3.html"
+    "url": "/concepts/http-3.html"
   },
   {
     "label": "HTTP",
     "id": "http",
-    "url": "/rows/http.html"
+    "url": "/concepts/http.html"
   },
   {
     "label": "httplang",
     "id": "httplang",
-    "url": "/rows/httplang.html"
+    "url": "/concepts/httplang.html"
   },
   {
     "label": "huginn",
     "id": "huginn",
-    "url": "/rows/huginn.html"
+    "url": "/concepts/huginn.html"
   },
   {
     "label": "HUGO",
     "id": "hugo",
-    "url": "/rows/hugo.html"
+    "url": "/concepts/hugo.html"
   },
   {
     "label": "HuJSON",
     "id": "hujson",
-    "url": "/rows/hujson.html"
+    "url": "/concepts/hujson.html"
   },
   {
     "label": "humanhash-hash-function",
     "id": "humanhash-hash-function",
-    "url": "/rows/humanhash-hash-function.html"
+    "url": "/concepts/humanhash-hash-function.html"
   },
   {
     "label": "Hummingbird QuickScript",
     "id": "hummingbird-quickscript",
-    "url": "/rows/hummingbird-quickscript.html"
+    "url": "/concepts/hummingbird-quickscript.html"
   },
   {
     "label": "hurl",
     "id": "hurl",
-    "url": "/rows/hurl.html"
+    "url": "/concepts/hurl.html"
   },
   {
     "label": "Hush",
     "id": "hush",
-    "url": "/rows/hush.html"
+    "url": "/concepts/hush.html"
   },
   {
     "label": "HuwCode",
     "id": "huwcode",
-    "url": "/rows/huwcode.html"
+    "url": "/concepts/huwcode.html"
   },
   {
     "label": "HXML",
     "id": "hxml",
-    "url": "/rows/hxml.html"
+    "url": "/concepts/hxml.html"
   },
   {
     "label": "Hy",
     "id": "hy",
-    "url": "/rows/hy.html"
+    "url": "/concepts/hy.html"
   },
   {
     "label": "Hybrid",
     "id": "hybrid",
-    "url": "/rows/hybrid.html"
+    "url": "/concepts/hybrid.html"
   },
   {
     "label": "HyCom",
     "id": "hycom",
-    "url": "/rows/hycom.html"
+    "url": "/concepts/hycom.html"
   },
   {
     "label": "HYPAC",
     "id": "hypac",
-    "url": "/rows/hypac.html"
+    "url": "/concepts/hypac.html"
   },
   {
     "label": "Hyper Basic",
     "id": "hyper-basic",
-    "url": "/rows/hyper-basic.html"
+    "url": "/concepts/hyper-basic.html"
   },
   {
     "label": "HyperCard",
     "id": "hypercard",
-    "url": "/rows/hypercard.html"
+    "url": "/concepts/hypercard.html"
   },
   {
     "label": "Hyperflow",
     "id": "hyperflow",
-    "url": "/rows/hyperflow.html"
+    "url": "/concepts/hyperflow.html"
   },
   {
     "label": "HyperFun",
     "id": "hyperfun",
-    "url": "/rows/hyperfun.html"
+    "url": "/concepts/hyperfun.html"
   },
   {
     "label": "Hyperlisp",
     "id": "hyperlisp",
-    "url": "/rows/hyperlisp.html"
+    "url": "/concepts/hyperlisp.html"
   },
   {
     "label": "Hyperlog",
     "id": "hyperlog",
-    "url": "/rows/hyperlog.html"
+    "url": "/concepts/hyperlog.html"
   },
   {
     "label": "Hyperscript",
     "id": "hyperscript-lang",
-    "url": "/rows/hyperscript-lang.html"
+    "url": "/concepts/hyperscript-lang.html"
   },
   {
     "label": "Hyperscript",
     "id": "hyperscript",
-    "url": "/rows/hyperscript.html"
+    "url": "/concepts/hyperscript.html"
   },
   {
     "label": "HyperTalk",
     "id": "hypertalk",
-    "url": "/rows/hypertalk.html"
+    "url": "/concepts/hypertalk.html"
   },
   {
     "label": "HyPhy",
     "id": "hyphy",
-    "url": "/rows/hyphy.html"
+    "url": "/concepts/hyphy.html"
   },
   {
     "label": "HyTime",
     "id": "hytime",
-    "url": "/rows/hytime.html"
+    "url": "/concepts/hytime.html"
   },
   {
     "label": "HYTRAN",
     "id": "hytran",
-    "url": "/rows/hytran.html"
+    "url": "/concepts/hytran.html"
   },
   {
     "label": "I-expressions",
     "id": "i-expressions",
-    "url": "/rows/i-expressions.html"
+    "url": "/concepts/i-expressions.html"
   },
   {
     "label": "I",
     "id": "i",
-    "url": "/rows/i.html"
+    "url": "/concepts/i.html"
   },
   {
     "label": "IA-32",
     "id": "ia-32",
-    "url": "/rows/ia-32.html"
+    "url": "/concepts/ia-32.html"
   },
   {
     "label": "IAL",
     "id": "ial",
-    "url": "/rows/ial.html"
+    "url": "/concepts/ial.html"
   },
   {
     "label": "IAM",
     "id": "iam",
-    "url": "/rows/iam.html"
+    "url": "/concepts/iam.html"
   },
   {
     "label": "IB-Templog",
     "id": "ib-templog",
-    "url": "/rows/ib-templog.html"
+    "url": "/concepts/ib-templog.html"
   },
   {
     "label": "IBEX",
     "id": "ibex",
-    "url": "/rows/ibex.html"
+    "url": "/concepts/ibex.html"
   },
   {
     "label": "IBM 1401 Symbolic Programming System",
     "id": "ibm-1401-symbolic-programming-system",
-    "url": "/rows/ibm-1401-symbolic-programming-system.html"
+    "url": "/concepts/ibm-1401-symbolic-programming-system.html"
   },
   {
     "label": "IBM BASIC",
     "id": "ibm-basic",
-    "url": "/rows/ibm-basic.html"
+    "url": "/concepts/ibm-basic.html"
   },
   {
     "label": "IBM BASICA",
     "id": "ibm-basica",
-    "url": "/rows/ibm-basica.html"
+    "url": "/concepts/ibm-basica.html"
   },
   {
     "label": "IBM DB2",
     "id": "ibm-db2",
-    "url": "/rows/ibm-db2.html"
+    "url": "/concepts/ibm-db2.html"
   },
   {
     "label": "GML",
     "id": "ibm-gml",
-    "url": "/rows/ibm-gml.html"
+    "url": "/concepts/ibm-gml.html"
   },
   {
     "label": "IBM i Control Language",
     "id": "ibm-i-control-language",
-    "url": "/rows/ibm-i-control-language.html"
+    "url": "/concepts/ibm-i-control-language.html"
   },
   {
     "label": "IBM Logo",
     "id": "ibm-logo",
-    "url": "/rows/ibm-logo.html"
+    "url": "/concepts/ibm-logo.html"
   },
   {
     "label": "IBM Rational SQABasic",
     "id": "ibm-rational-sqabasic",
-    "url": "/rows/ibm-rational-sqabasic.html"
+    "url": "/concepts/ibm-rational-sqabasic.html"
   },
   {
     "label": "RPG",
     "id": "ibm-rpg",
-    "url": "/rows/ibm-rpg.html"
+    "url": "/concepts/ibm-rpg.html"
   },
   {
     "label": "ibm-system-38-language",
     "id": "ibm-system-38-language",
-    "url": "/rows/ibm-system-38-language.html"
+    "url": "/concepts/ibm-system-38-language.html"
   },
   {
     "label": "Ibuki CL",
     "id": "ibuki-cl",
-    "url": "/rows/ibuki-cl.html"
+    "url": "/concepts/ibuki-cl.html"
   },
   {
     "label": "iCalendar",
     "id": "icalendar-format",
-    "url": "/rows/icalendar-format.html"
+    "url": "/concepts/icalendar-format.html"
   },
   {
     "label": "icarus",
     "id": "icarus",
-    "url": "/rows/icarus.html"
+    "url": "/concepts/icarus.html"
   },
   {
     "label": "ICD-10-CM diagnosis",
     "id": "icd",
-    "url": "/rows/icd.html"
+    "url": "/concepts/icd.html"
   },
   {
     "label": "IcedCoffeeScript",
     "id": "icedcoffeescript",
-    "url": "/rows/icedcoffeescript.html"
+    "url": "/concepts/icedcoffeescript.html"
   },
   {
     "label": "Integrated Civil Engineering System",
     "id": "ices-system",
-    "url": "/rows/ices-system.html"
+    "url": "/concepts/ices-system.html"
   },
   {
     "label": "ICETRAN",
     "id": "icetran",
-    "url": "/rows/icetran.html"
+    "url": "/concepts/icetran.html"
   },
   {
     "label": "Interactive C Interpreter",
     "id": "ici",
-    "url": "/rows/ici.html"
+    "url": "/concepts/ici.html"
   },
   {
     "label": "ICML",
     "id": "icml",
-    "url": "/rows/icml.html"
+    "url": "/concepts/icml.html"
   },
   {
     "label": "Icon",
     "id": "icon",
-    "url": "/rows/icon.html"
+    "url": "/concepts/icon.html"
   },
   {
     "label": "ICOT",
     "id": "icot",
-    "url": "/rows/icot.html"
+    "url": "/concepts/icot.html"
   },
   {
     "label": "Irvine Dataflow",
     "id": "id",
-    "url": "/rows/id.html"
+    "url": "/concepts/id.html"
   },
   {
     "label": "Idio",
     "id": "idio",
-    "url": "/rows/idio.html"
+    "url": "/concepts/idio.html"
   },
   {
     "label": "IDL specification language",
     "id": "idl-sl",
-    "url": "/rows/idl-sl.html"
+    "url": "/concepts/idl-sl.html"
   },
   {
     "label": "IDL",
     "id": "idl",
-    "url": "/rows/idl.html"
+    "url": "/concepts/idl.html"
   },
   {
     "label": "Idris",
     "id": "idris",
-    "url": "/rows/idris.html"
+    "url": "/concepts/idris.html"
   },
   {
     "label": "Integrated Data Store",
     "id": "ids",
-    "url": "/rows/ids.html"
+    "url": "/concepts/ids.html"
   },
   {
     "label": "idyll",
     "id": "idyll",
-    "url": "/rows/idyll.html"
+    "url": "/concepts/idyll.html"
   },
   {
     "label": "IFO",
     "id": "ifo",
-    "url": "/rows/ifo.html"
+    "url": "/concepts/ifo.html"
   },
   {
     "label": "IFPS",
     "id": "ifps",
-    "url": "/rows/ifps.html"
+    "url": "/concepts/ifps.html"
   },
   {
     "label": "IGOR Pro",
     "id": "igor-pro",
-    "url": "/rows/igor-pro.html"
+    "url": "/concepts/igor-pro.html"
   },
   {
     "label": "Intuit Interchange Format",
     "id": "iif",
-    "url": "/rows/iif.html"
+    "url": "/concepts/iif.html"
   },
   {
     "label": "iikuse",
     "id": "iikuse",
-    "url": "/rows/iikuse.html"
+    "url": "/concepts/iikuse.html"
   },
   {
     "label": "IITRAN",
     "id": "iitran",
-    "url": "/rows/iitran.html"
+    "url": "/concepts/iitran.html"
   },
   {
     "label": "Ikarus Scheme implementation",
     "id": "ikarus",
-    "url": "/rows/ikarus.html"
+    "url": "/concepts/ikarus.html"
   },
   {
     "label": "ILBM",
     "id": "ilbm",
-    "url": "/rows/ilbm.html"
+    "url": "/concepts/ilbm.html"
   },
   {
     "label": "ILU",
     "id": "ilu",
-    "url": "/rows/ilu.html"
+    "url": "/concepts/ilu.html"
   },
   {
     "label": "ILX",
     "id": "ilx",
-    "url": "/rows/ilx.html"
+    "url": "/concepts/ilx.html"
   },
   {
     "label": "IMac",
     "id": "imac-machine",
-    "url": "/rows/imac-machine.html"
+    "url": "/concepts/imac-machine.html"
   },
   {
     "label": "IMAGE",
     "id": "image",
-    "url": "/rows/image.html"
+    "url": "/concepts/image.html"
   },
   {
     "label": "Imaginary Number Equation",
     "id": "imaginary-number-equation",
-    "url": "/rows/imaginary-number-equation.html"
+    "url": "/concepts/imaginary-number-equation.html"
   },
   {
     "label": "Imandra Protocol Language",
     "id": "imandra",
-    "url": "/rows/imandra.html"
+    "url": "/concepts/imandra.html"
   },
   {
     "label": "IMAP",
     "id": "imap-protocol",
-    "url": "/rows/imap-protocol.html"
+    "url": "/concepts/imap-protocol.html"
   },
   {
     "label": "Imba",
     "id": "imba",
-    "url": "/rows/imba.html"
+    "url": "/concepts/imba.html"
   },
   {
     "label": "imf",
     "id": "imf",
-    "url": "/rows/imf.html"
+    "url": "/concepts/imf.html"
   },
   {
     "label": "imp-lang",
     "id": "imp-lang",
-    "url": "/rows/imp-lang.html"
+    "url": "/concepts/imp-lang.html"
   },
   {
     "label": "IMP",
     "id": "imp",
-    "url": "/rows/imp.html"
+    "url": "/concepts/imp.html"
   },
   {
     "label": "IMP72",
     "id": "imp72",
-    "url": "/rows/imp72.html"
+    "url": "/concepts/imp72.html"
   },
   {
     "label": "Impala",
     "id": "impala",
-    "url": "/rows/impala.html"
+    "url": "/concepts/impala.html"
   },
   {
     "label": "Industrial Modeling and Programming Language",
     "id": "impl",
-    "url": "/rows/impl.html"
+    "url": "/concepts/impl.html"
   },
   {
     "label": "Ina Jo",
     "id": "ina-jo",
-    "url": "/rows/ina-jo.html"
+    "url": "/concepts/ina-jo.html"
   },
   {
     "label": "INC",
     "id": "inc",
-    "url": "/rows/inc.html"
+    "url": "/concepts/inc.html"
   },
   {
     "label": "International Chemical Identifier",
     "id": "inchi",
-    "url": "/rows/inchi.html"
+    "url": "/concepts/inchi.html"
   },
   {
     "label": "Incipit",
     "id": "incipit",
-    "url": "/rows/incipit.html"
+    "url": "/concepts/incipit.html"
   },
   {
     "label": "Indental",
     "id": "indental",
-    "url": "/rows/indental.html"
+    "url": "/concepts/indental.html"
   },
   {
     "label": "INFER",
     "id": "infer",
-    "url": "/rows/infer.html"
+    "url": "/concepts/infer.html"
   },
   {
     "label": "InfiniBand",
     "id": "infiniband-standard",
-    "url": "/rows/infiniband-standard.html"
+    "url": "/concepts/infiniband-standard.html"
   },
   {
     "label": "InfluxDB",
     "id": "influxdb",
-    "url": "/rows/influxdb.html"
+    "url": "/concepts/influxdb.html"
   },
   {
     "label": "INFOLOG",
     "id": "infolog",
-    "url": "/rows/infolog.html"
+    "url": "/concepts/infolog.html"
   },
   {
     "label": "Inform",
     "id": "inform",
-    "url": "/rows/inform.html"
+    "url": "/concepts/inform.html"
   },
   {
     "label": "Information Algebra",
     "id": "information-algebra",
-    "url": "/rows/information-algebra.html"
+    "url": "/concepts/information-algebra.html"
   },
   {
     "label": "Information Processing Language",
     "id": "information-processing-language",
-    "url": "/rows/information-processing-language.html"
+    "url": "/concepts/information-processing-language.html"
   },
   {
     "label": "Information Theory Equation",
     "id": "information-theory-equation",
-    "url": "/rows/information-theory-equation.html"
+    "url": "/concepts/information-theory-equation.html"
   },
   {
     "label": "IBM Informix-4GL",
     "id": "informix",
-    "url": "/rows/informix.html"
+    "url": "/concepts/informix.html"
   },
   {
     "label": "infusion-framework",
     "id": "infusion-framework",
-    "url": "/rows/infusion-framework.html"
+    "url": "/concepts/infusion-framework.html"
   },
   {
     "label": "Ingres database",
     "id": "ingres",
-    "url": "/rows/ingres.html"
+    "url": "/concepts/ingres.html"
   },
   {
     "label": "Ini",
     "id": "ini",
-    "url": "/rows/ini.html"
+    "url": "/concepts/ini.html"
   },
   {
     "label": "ink-lang",
     "id": "ink-lang",
-    "url": "/rows/ink-lang.html"
+    "url": "/concepts/ink-lang.html"
   },
   {
     "label": "ink",
     "id": "ink",
-    "url": "/rows/ink.html"
+    "url": "/concepts/ink.html"
   },
   {
     "label": "inko",
     "id": "inko",
-    "url": "/rows/inko.html"
+    "url": "/concepts/inko.html"
   },
   {
     "label": "INMAGIC",
     "id": "inmagic",
-    "url": "/rows/inmagic.html"
+    "url": "/concepts/inmagic.html"
   },
   {
     "label": "Inno Setup",
     "id": "inno-setup",
-    "url": "/rows/inno-setup.html"
+    "url": "/concepts/inno-setup.html"
   },
   {
     "label": "INQUIRE",
     "id": "inquire",
-    "url": "/rows/inquire.html"
+    "url": "/concepts/inquire.html"
   },
   {
     "label": "Inscan",
     "id": "inscan",
-    "url": "/rows/inscan.html"
+    "url": "/concepts/inscan.html"
   },
   {
     "label": "INSIGHT",
     "id": "insight",
-    "url": "/rows/insight.html"
+    "url": "/concepts/insight.html"
   },
   {
     "label": "Insitux",
     "id": "insitux",
-    "url": "/rows/insitux.html"
+    "url": "/concepts/insitux.html"
   },
   {
     "label": "Instruction list",
     "id": "instruction-list",
-    "url": "/rows/instruction-list.html"
+    "url": "/concepts/instruction-list.html"
   },
   {
     "label": "Integer BASIC",
     "id": "integer-basic",
-    "url": "/rows/integer-basic.html"
+    "url": "/concepts/integer-basic.html"
   },
   {
     "label": "Integral Equation",
     "id": "integral-equation",
-    "url": "/rows/integral-equation.html"
+    "url": "/concepts/integral-equation.html"
   },
   {
     "label": "intellijidea-editor",
     "id": "intellijidea-editor",
-    "url": "/rows/intellijidea-editor.html"
+    "url": "/concepts/intellijidea-editor.html"
   },
   {
     "label": "INTERACTIVE",
     "id": "interactive",
-    "url": "/rows/interactive.html"
+    "url": "/concepts/interactive.html"
   },
   {
     "label": "InterBase",
     "id": "interbase",
-    "url": "/rows/interbase.html"
+    "url": "/concepts/interbase.html"
   },
   {
     "label": "INTERCAL",
     "id": "intercal",
-    "url": "/rows/intercal.html"
+    "url": "/concepts/intercal.html"
   },
   {
     "label": "INTERCELLAS",
     "id": "intercellas",
-    "url": "/rows/intercellas.html"
+    "url": "/concepts/intercellas.html"
   },
   {
     "label": "Interchange File Format",
     "id": "interchange-file-format",
-    "url": "/rows/interchange-file-format.html"
+    "url": "/concepts/interchange-file-format.html"
   },
   {
     "label": "InterCONS",
     "id": "intercons",
-    "url": "/rows/intercons.html"
+    "url": "/concepts/intercons.html"
   },
   {
     "label": "Interleaved Notation",
     "id": "interleaved-notation",
-    "url": "/rows/interleaved-notation.html"
+    "url": "/concepts/interleaved-notation.html"
   },
   {
     "label": "Interlisp-VAX",
     "id": "interlisp-vax",
-    "url": "/rows/interlisp-vax.html"
+    "url": "/concepts/interlisp-vax.html"
   },
   {
     "label": "Interlisp",
     "id": "interlisp",
-    "url": "/rows/interlisp.html"
+    "url": "/concepts/interlisp.html"
   },
   {
     "label": "Interpress",
     "id": "interpress",
-    "url": "/rows/interpress.html"
+    "url": "/concepts/interpress.html"
   },
   {
     "label": "Interscript",
     "id": "interscript",
-    "url": "/rows/interscript.html"
+    "url": "/concepts/interscript.html"
   },
   {
     "label": "InterSystems Caché",
     "id": "intersystems-cache",
-    "url": "/rows/intersystems-cache.html"
+    "url": "/concepts/intersystems-cache.html"
   },
   {
     "label": "IPL",
     "id": "intuitionistic",
-    "url": "/rows/intuitionistic.html"
+    "url": "/concepts/intuitionistic.html"
   },
   {
     "label": "invokator",
     "id": "invokator",
-    "url": "/rows/invokator.html"
+    "url": "/concepts/invokator.html"
   },
   {
     "label": "Io",
     "id": "io",
-    "url": "/rows/io.html"
+    "url": "/concepts/io.html"
   },
   {
     "label": "Iode",
     "id": "iode",
-    "url": "/rows/iode.html"
+    "url": "/concepts/iode.html"
   },
   {
     "label": "Ioke",
     "id": "ioke",
-    "url": "/rows/ioke.html"
+    "url": "/concepts/ioke.html"
   },
   {
     "label": "Ion Schema Language",
     "id": "ion-schema",
-    "url": "/rows/ion-schema.html"
+    "url": "/concepts/ion-schema.html"
   },
   {
     "label": "Ion",
     "id": "ion",
-    "url": "/rows/ion.html"
+    "url": "/concepts/ion.html"
   },
   {
     "label": "iOS",
     "id": "ios",
-    "url": "/rows/ios.html"
+    "url": "/concepts/ios.html"
   },
   {
     "label": "Iota-and-jot",
     "id": "iota-and-jot",
-    "url": "/rows/iota-and-jot.html"
+    "url": "/concepts/iota-and-jot.html"
   },
   {
     "label": "iota",
     "id": "iota",
-    "url": "/rows/iota.html"
+    "url": "/concepts/iota.html"
   },
   {
     "label": "IP Pascal",
     "id": "ip-pascal",
-    "url": "/rows/ip-pascal.html"
+    "url": "/concepts/ip-pascal.html"
   },
   {
     "label": "IPad",
     "id": "ipad-machine",
-    "url": "/rows/ipad-machine.html"
+    "url": "/concepts/ipad-machine.html"
   },
   {
     "label": "Information Presentation Facility",
     "id": "ipf",
-    "url": "/rows/ipf.html"
+    "url": "/concepts/ipf.html"
   },
   {
     "label": "InterPlanetary File System",
     "id": "ipfs",
-    "url": "/rows/ipfs.html"
+    "url": "/concepts/ipfs.html"
   },
   {
     "label": "IPhone",
     "id": "iphone-machine",
-    "url": "/rows/iphone-machine.html"
+    "url": "/concepts/iphone-machine.html"
   },
   {
     "label": "IPL-V",
     "id": "ipl-v",
-    "url": "/rows/ipl-v.html"
+    "url": "/concepts/ipl-v.html"
   },
   {
     "label": "IpTables Rope",
     "id": "iptables-rope",
-    "url": "/rows/iptables-rope.html"
+    "url": "/concepts/iptables-rope.html"
   },
   {
     "label": "IPTSCRAE",
     "id": "iptscrae",
-    "url": "/rows/iptscrae.html"
+    "url": "/concepts/iptscrae.html"
   },
   {
     "label": "IPv4",
     "id": "ipv4",
-    "url": "/rows/ipv4.html"
+    "url": "/concepts/ipv4.html"
   },
   {
     "label": "IQF",
     "id": "iqf",
-    "url": "/rows/iqf.html"
+    "url": "/concepts/iqf.html"
   },
   {
     "label": "iqr",
     "id": "iqr",
-    "url": "/rows/iqr.html"
+    "url": "/concepts/iqr.html"
   },
   {
     "label": "IRC chat logs",
     "id": "irc-log",
-    "url": "/rows/irc-log.html"
+    "url": "/concepts/irc-log.html"
   },
   {
     "label": "ircis",
     "id": "ircis",
-    "url": "/rows/ircis.html"
+    "url": "/concepts/ircis.html"
   },
   {
     "label": "Isabelle-91",
     "id": "isabelle-91",
-    "url": "/rows/isabelle-91.html"
+    "url": "/concepts/isabelle-91.html"
   },
   {
     "label": "Isabelle/HOL",
     "id": "isabelle-hol",
-    "url": "/rows/isabelle-hol.html"
+    "url": "/concepts/isabelle-hol.html"
   },
   {
     "label": "Isabelle",
     "id": "isabelle",
-    "url": "/rows/isabelle.html"
+    "url": "/concepts/isabelle.html"
   },
   {
     "label": "ISAC",
     "id": "isac",
-    "url": "/rows/isac.html"
+    "url": "/concepts/isac.html"
   },
   {
     "label": "ISBL",
     "id": "isbl",
-    "url": "/rows/isbl.html"
+    "url": "/concepts/isbl.html"
   },
   {
     "label": "ISBN",
     "id": "isbn",
-    "url": "/rows/isbn.html"
+    "url": "/concepts/isbn.html"
   },
   {
     "label": "iScript",
     "id": "iscript",
-    "url": "/rows/iscript.html"
+    "url": "/concepts/iscript.html"
   },
   {
     "label": "ISETL",
     "id": "isetl",
-    "url": "/rows/isetl.html"
+    "url": "/concepts/isetl.html"
   },
   {
     "label": "ISIS",
     "id": "isis",
-    "url": "/rows/isis.html"
+    "url": "/concepts/isis.html"
   },
   {
     "label": "ISLISP",
     "id": "islisp",
-    "url": "/rows/islisp.html"
+    "url": "/concepts/islisp.html"
   },
   {
     "label": "ISO 8601",
     "id": "iso-8601",
-    "url": "/rows/iso-8601.html"
+    "url": "/concepts/iso-8601.html"
   },
   {
     "label": "ISPL",
     "id": "ispl",
-    "url": "/rows/ispl.html"
+    "url": "/concepts/ispl.html"
   },
   {
     "label": "International System of Quantities",
     "id": "isq",
-    "url": "/rows/isq.html"
+    "url": "/concepts/isq.html"
   },
   {
     "label": "ISWIM",
     "id": "iswim",
-    "url": "/rows/iswim.html"
+    "url": "/concepts/iswim.html"
   },
   {
     "label": "IT",
     "id": "it",
-    "url": "/rows/it.html"
+    "url": "/concepts/it.html"
   },
   {
     "label": "Iterm2",
     "id": "iterm2",
-    "url": "/rows/iterm2.html"
+    "url": "/concepts/iterm2.html"
   },
   {
     "label": "ITL",
     "id": "itl",
-    "url": "/rows/itl.html"
+    "url": "/concepts/itl.html"
   },
   {
     "label": "IVTRAN",
     "id": "ivtran",
-    "url": "/rows/ivtran.html"
+    "url": "/concepts/ivtran.html"
   },
   {
     "label": "Invisible XML",
     "id": "ixml",
-    "url": "/rows/ixml.html"
+    "url": "/concepts/ixml.html"
   },
   {
     "label": "Izibasic",
     "id": "izibasic",
-    "url": "/rows/izibasic.html"
+    "url": "/concepts/izibasic.html"
   },
   {
     "label": "J",
     "id": "j",
-    "url": "/rows/j.html"
+    "url": "/concepts/j.html"
   },
   {
     "label": "JACAL",
     "id": "jacal",
-    "url": "/rows/jacal.html"
+    "url": "/concepts/jacal.html"
   },
   {
     "label": "JACL",
     "id": "jacl",
-    "url": "/rows/jacl.html"
+    "url": "/concepts/jacl.html"
   },
   {
     "label": "JADE",
     "id": "jade",
-    "url": "/rows/jade.html"
+    "url": "/concepts/jade.html"
   },
   {
     "label": "JAI",
     "id": "jai",
-    "url": "/rows/jai.html"
+    "url": "/concepts/jai.html"
   },
   {
     "label": "Jakt",
     "id": "jakt",
-    "url": "/rows/jakt.html"
+    "url": "/concepts/jakt.html"
   },
   {
     "label": "JAL compiler",
     "id": "jal-compiler",
-    "url": "/rows/jal-compiler.html"
+    "url": "/concepts/jal-compiler.html"
   },
   {
     "label": "Jammy",
     "id": "jammy",
-    "url": "/rows/jammy.html"
+    "url": "/concepts/jammy.html"
   },
   {
     "label": "janet",
     "id": "janet",
-    "url": "/rows/janet.html"
+    "url": "/concepts/janet.html"
   },
   {
     "label": "Jank",
     "id": "jank",
-    "url": "/rows/jank.html"
+    "url": "/concepts/jank.html"
   },
   {
     "label": "Janus",
     "id": "janus-lang",
-    "url": "/rows/janus-lang.html"
+    "url": "/concepts/janus-lang.html"
   },
   {
     "label": "Janus",
     "id": "janus-programming-language",
-    "url": "/rows/janus-programming-language.html"
+    "url": "/concepts/janus-programming-language.html"
   },
   {
     "label": "Jargon",
     "id": "jargon",
-    "url": "/rows/jargon.html"
+    "url": "/concepts/jargon.html"
   },
   {
     "label": "Jasmin",
     "id": "jasmin",
-    "url": "/rows/jasmin.html"
+    "url": "/concepts/jasmin.html"
   },
   {
     "label": "jasmine",
     "id": "jasmine",
-    "url": "/rows/jasmine.html"
+    "url": "/concepts/jasmine.html"
   },
   {
     "label": "jasper",
     "id": "jasper",
-    "url": "/rows/jasper.html"
+    "url": "/concepts/jasper.html"
   },
   {
     "label": "Just Another Scripting Syntax",
     "id": "jass",
-    "url": "/rows/jass.html"
+    "url": "/concepts/jass.html"
   },
   {
     "label": "Java Bytecode",
     "id": "java-bytecode",
-    "url": "/rows/java-bytecode.html"
+    "url": "/concepts/java-bytecode.html"
   },
   {
     "label": "Java EE version history",
     "id": "java-ee-version-history",
-    "url": "/rows/java-ee-version-history.html"
+    "url": "/concepts/java-ee-version-history.html"
   },
   {
     "label": "Java Properties",
     "id": "java-properties",
-    "url": "/rows/java-properties.html"
+    "url": "/concepts/java-properties.html"
   },
   {
     "label": "JSP",
     "id": "java-server-pages",
-    "url": "/rows/java-server-pages.html"
+    "url": "/concepts/java-server-pages.html"
   },
   {
     "label": "Java",
     "id": "java",
-    "url": "/rows/java.html"
+    "url": "/concepts/java.html"
   },
   {
     "label": "JavaCC",
     "id": "javacc",
-    "url": "/rows/javacc.html"
+    "url": "/concepts/javacc.html"
   },
   {
     "label": "JavaFX Script",
     "id": "javafx-script",
-    "url": "/rows/javafx-script.html"
+    "url": "/concepts/javafx-script.html"
   },
   {
     "label": "JavaML",
     "id": "javaml",
-    "url": "/rows/javaml.html"
+    "url": "/concepts/javaml.html"
   },
   {
     "label": "JavaScript",
     "id": "javascript",
-    "url": "/rows/javascript.html"
+    "url": "/concepts/javascript.html"
   },
   {
     "label": "JavaScriptCore",
     "id": "javascriptcore",
-    "url": "/rows/javascriptcore.html"
+    "url": "/concepts/javascriptcore.html"
   },
   {
     "label": "JAWS Scripting Language",
     "id": "jaws-scripting-language",
-    "url": "/rows/jaws-scripting-language.html"
+    "url": "/concepts/jaws-scripting-language.html"
   },
   {
     "label": "jayfor",
     "id": "jayfor",
-    "url": "/rows/jayfor.html"
+    "url": "/concepts/jayfor.html"
   },
   {
     "label": "Jazz",
     "id": "jazz",
-    "url": "/rows/jazz.html"
+    "url": "/concepts/jazz.html"
   },
   {
     "label": "jBC",
     "id": "jbc",
-    "url": "/rows/jbc.html"
+    "url": "/concepts/jbc.html"
   },
   {
     "label": "jcard",
     "id": "jcard",
-    "url": "/rows/jcard.html"
+    "url": "/concepts/jcard.html"
   },
   {
     "label": "JCL",
     "id": "jcl",
-    "url": "/rows/jcl.html"
+    "url": "/concepts/jcl.html"
   },
   {
     "label": "JCOF",
     "id": "jcof",
-    "url": "/rows/jcof.html"
+    "url": "/concepts/jcof.html"
   },
   {
     "label": "JOSS Extended and Adapted for Nineteen-hundred",
     "id": "jean",
-    "url": "/rows/jean.html"
+    "url": "/concepts/jean.html"
   },
   {
     "label": "jedit-editor",
     "id": "jedit-editor",
-    "url": "/rows/jedit-editor.html"
+    "url": "/concepts/jedit-editor.html"
   },
   {
     "label": "jedlang",
     "id": "jedlang",
-    "url": "/rows/jedlang.html"
+    "url": "/concepts/jedlang.html"
   },
   {
     "label": "jeebox",
     "id": "jeebox",
-    "url": "/rows/jeebox.html"
+    "url": "/concepts/jeebox.html"
   },
   {
     "label": "Jeeves",
     "id": "jeeves",
-    "url": "/rows/jeeves.html"
+    "url": "/concepts/jeeves.html"
   },
   {
     "label": "Jekyll",
     "id": "jekyll",
-    "url": "/rows/jekyll.html"
+    "url": "/concepts/jekyll.html"
   },
   {
     "label": "Jesth",
     "id": "jesth",
-    "url": "/rows/jesth.html"
+    "url": "/concepts/jesth.html"
   },
   {
     "label": "Jet Propulsion Laboratory Display Information System",
     "id": "jet-propulsion-laboratory-display-information-system",
-    "url": "/rows/jet-propulsion-laboratory-display-information-system.html"
+    "url": "/concepts/jet-propulsion-laboratory-display-information-system.html"
   },
   {
     "label": "Jevko",
     "id": "jevko",
-    "url": "/rows/jevko.html"
+    "url": "/concepts/jevko.html"
   },
   {
     "label": "JFlex",
     "id": "jflex",
-    "url": "/rows/jflex.html"
+    "url": "/concepts/jflex.html"
   },
   {
     "label": "JFugue",
     "id": "jfugue",
-    "url": "/rows/jfugue.html"
+    "url": "/concepts/jfugue.html"
   },
   {
     "label": "ji",
     "id": "ji",
-    "url": "/rows/ji.html"
+    "url": "/concepts/ji.html"
   },
   {
     "label": "Jingo",
     "id": "jingo",
-    "url": "/rows/jingo.html"
+    "url": "/concepts/jingo.html"
   },
   {
     "label": "Jinja",
     "id": "jinja",
-    "url": "/rows/jinja.html"
+    "url": "/concepts/jinja.html"
   },
   {
     "label": "jinx",
     "id": "jinx",
-    "url": "/rows/jinx.html"
+    "url": "/concepts/jinx.html"
   },
   {
     "label": "JIS X 0201",
     "id": "jis-x-0201",
-    "url": "/rows/jis-x-0201.html"
+    "url": "/concepts/jis-x-0201.html"
   },
   {
     "label": "Jison Lex",
     "id": "jison-lex",
-    "url": "/rows/jison-lex.html"
+    "url": "/concepts/jison-lex.html"
   },
   {
     "label": "Jison",
     "id": "jison",
-    "url": "/rows/jison.html"
+    "url": "/concepts/jison.html"
   },
   {
     "label": "Jisp",
     "id": "jisp",
-    "url": "/rows/jisp.html"
+    "url": "/concepts/jisp.html"
   },
   {
     "label": "jiyu",
     "id": "jiyu",
-    "url": "/rows/jiyu.html"
+    "url": "/concepts/jiyu.html"
   },
   {
     "label": "JLang",
     "id": "jlang",
-    "url": "/rows/jlang.html"
+    "url": "/concepts/jlang.html"
   },
   {
     "label": "JMAP",
     "id": "jmap",
-    "url": "/rows/jmap.html"
+    "url": "/concepts/jmap.html"
   },
   {
     "label": "JMESPath",
     "id": "jmespath",
-    "url": "/rows/jmespath.html"
+    "url": "/concepts/jmespath.html"
   },
   {
     "label": "JMP",
     "id": "jmp",
-    "url": "/rows/jmp.html"
+    "url": "/concepts/jmp.html"
   },
   {
     "label": "JMSL",
     "id": "jmsl",
-    "url": "/rows/jmsl.html"
+    "url": "/concepts/jmsl.html"
   },
   {
     "label": "Joe-E",
     "id": "joe-e",
-    "url": "/rows/joe-e.html"
+    "url": "/concepts/joe-e.html"
   },
   {
     "label": "Join Java",
     "id": "join-java",
-    "url": "/rows/join-java.html"
+    "url": "/concepts/join-java.html"
   },
   {
     "label": "joker",
     "id": "joker",
-    "url": "/rows/joker.html"
+    "url": "/concepts/joker.html"
   },
   {
     "label": "Jolie",
     "id": "jolie",
-    "url": "/rows/jolie.html"
+    "url": "/concepts/jolie.html"
   },
   {
     "label": "jonprl",
     "id": "jonprl",
-    "url": "/rows/jonprl.html"
+    "url": "/concepts/jonprl.html"
   },
   {
     "label": "JOSIE",
     "id": "josie",
-    "url": "/rows/josie.html"
+    "url": "/concepts/josie.html"
   },
   {
     "label": "JOSS II",
     "id": "joss-ii",
-    "url": "/rows/joss-ii.html"
+    "url": "/concepts/joss-ii.html"
   },
   {
     "label": "JOSS",
     "id": "joss",
-    "url": "/rows/joss.html"
+    "url": "/concepts/joss.html"
   },
   {
     "label": "Joule",
     "id": "joule",
-    "url": "/rows/joule.html"
+    "url": "/concepts/joule.html"
   },
   {
     "label": "JOVIAL",
     "id": "jovial",
-    "url": "/rows/jovial.html"
+    "url": "/concepts/jovial.html"
   },
   {
     "label": "Joy",
     "id": "joy",
-    "url": "/rows/joy.html"
+    "url": "/concepts/joy.html"
   },
   {
     "label": "Joyce",
     "id": "joyce",
-    "url": "/rows/joyce.html"
+    "url": "/concepts/joyce.html"
   },
   {
     "label": "JOYCE+",
     "id": "joycep",
-    "url": "/rows/joycep.html"
+    "url": "/concepts/joycep.html"
   },
   {
     "label": "JPEG",
     "id": "jpeg-format",
-    "url": "/rows/jpeg-format.html"
+    "url": "/concepts/jpeg-format.html"
   },
   {
     "label": "JPL",
     "id": "jpl",
-    "url": "/rows/jpl.html"
+    "url": "/concepts/jpl.html"
   },
   {
     "label": "jplace",
     "id": "jplace",
-    "url": "/rows/jplace.html"
+    "url": "/concepts/jplace.html"
   },
   {
     "label": "Visual J++",
     "id": "jpp",
-    "url": "/rows/jpp.html"
+    "url": "/concepts/jpp.html"
   },
   {
     "label": "jq",
     "id": "jq",
-    "url": "/rows/jq.html"
+    "url": "/concepts/jq.html"
   },
   {
     "label": "JSON Query Language",
     "id": "jql",
-    "url": "/rows/jql.html"
+    "url": "/concepts/jql.html"
   },
   {
     "label": "JQuery",
     "id": "jquery",
-    "url": "/rows/jquery.html"
+    "url": "/concepts/jquery.html"
   },
   {
     "label": "JR",
     "id": "jr",
-    "url": "/rows/jr.html"
+    "url": "/concepts/jr.html"
   },
   {
     "label": "JRuby",
     "id": "jruby",
-    "url": "/rows/jruby.html"
+    "url": "/concepts/jruby.html"
   },
   {
     "label": "JScript",
     "id": "jscript",
-    "url": "/rows/jscript.html"
+    "url": "/concepts/jscript.html"
   },
   {
     "label": "JSFuck",
     "id": "jsf",
-    "url": "/rows/jsf.html"
+    "url": "/concepts/jsf.html"
   },
   {
     "label": "JSGF",
     "id": "jsgf",
-    "url": "/rows/jsgf.html"
+    "url": "/concepts/jsgf.html"
   },
   {
     "label": "J#",
     "id": "jsharp",
-    "url": "/rows/jsharp.html"
+    "url": "/concepts/jsharp.html"
   },
   {
     "label": "jsil-compiler",
     "id": "jsil-compiler",
-    "url": "/rows/jsil-compiler.html"
+    "url": "/concepts/jsil-compiler.html"
   },
   {
     "label": "JSL",
     "id": "jsl",
-    "url": "/rows/jsl.html"
+    "url": "/concepts/jsl.html"
   },
   {
     "label": "JSLT",
     "id": "jslt",
-    "url": "/rows/jslt.html"
+    "url": "/concepts/jslt.html"
   },
   {
     "label": "JSML",
     "id": "jsml",
-    "url": "/rows/jsml.html"
+    "url": "/concepts/jsml.html"
   },
   {
     "label": "json-graph-format",
     "id": "json-graph-format",
-    "url": "/rows/json-graph-format.html"
+    "url": "/concepts/json-graph-format.html"
   },
   {
     "label": "JSON Graph Spec",
     "id": "json-graph-spec",
-    "url": "/rows/json-graph-spec.html"
+    "url": "/concepts/json-graph-spec.html"
   },
   {
     "label": "JSON lambda",
     "id": "json-lambda",
-    "url": "/rows/json-lambda.html"
+    "url": "/concepts/json-lambda.html"
   },
   {
     "label": "JSON-LD",
     "id": "json-ld",
-    "url": "/rows/json-ld.html"
+    "url": "/concepts/json-ld.html"
   },
   {
     "label": "JSON Schema",
     "id": "json-schema",
-    "url": "/rows/json-schema.html"
+    "url": "/concepts/json-schema.html"
   },
   {
     "label": "JSONScript",
     "id": "json-script",
-    "url": "/rows/json-script.html"
+    "url": "/concepts/json-script.html"
   },
   {
     "label": "JSON-stat",
     "id": "json-stat",
-    "url": "/rows/json-stat.html"
+    "url": "/concepts/json-stat.html"
   },
   {
     "label": "json->url",
     "id": "json-url",
-    "url": "/rows/json-url.html"
+    "url": "/concepts/json-url.html"
   },
   {
     "label": "JSON with Comments",
     "id": "json-with-comments",
-    "url": "/rows/json-with-comments.html"
+    "url": "/concepts/json-with-comments.html"
   },
   {
     "label": "JSON",
     "id": "json",
-    "url": "/rows/json.html"
+    "url": "/concepts/json.html"
   },
   {
     "label": "JSON5",
     "id": "json5",
-    "url": "/rows/json5.html"
+    "url": "/concepts/json5.html"
   },
   {
     "label": "JSONiq",
     "id": "jsoniq",
-    "url": "/rows/jsoniq.html"
+    "url": "/concepts/jsoniq.html"
   },
   {
     "label": "Jsonnet",
     "id": "jsonnet",
-    "url": "/rows/jsonnet.html"
+    "url": "/concepts/jsonnet.html"
   },
   {
     "label": "jsparagus",
     "id": "jsparagus",
-    "url": "/rows/jsparagus.html"
+    "url": "/concepts/jsparagus.html"
   },
   {
     "label": "JS++",
     "id": "jspp",
-    "url": "/rows/jspp.html"
+    "url": "/concepts/jspp.html"
   },
   {
     "label": "JSX",
     "id": "jsx",
-    "url": "/rows/jsx.html"
+    "url": "/concepts/jsx.html"
   },
   {
     "label": "JSyn",
     "id": "jsyn",
-    "url": "/rows/jsyn.html"
+    "url": "/concepts/jsyn.html"
   },
   {
     "label": "Judoscript",
     "id": "judoscript",
-    "url": "/rows/judoscript.html"
+    "url": "/concepts/judoscript.html"
   },
   {
     "label": "juicy",
     "id": "juicy",
-    "url": "/rows/juicy.html"
+    "url": "/concepts/juicy.html"
   },
   {
     "label": "Jule",
     "id": "jule",
-    "url": "/rows/jule.html"
+    "url": "/concepts/jule.html"
   },
   {
     "label": "Joyfully Universal Language for (Inline) Assembly",
     "id": "julia-lang",
-    "url": "/rows/julia-lang.html"
+    "url": "/concepts/julia-lang.html"
   },
   {
     "label": "Julia",
     "id": "julia",
-    "url": "/rows/julia.html"
+    "url": "/concepts/julia.html"
   },
   {
     "label": "JuliaHub Packages",
     "id": "juliahub-pm",
-    "url": "/rows/juliahub-pm.html"
+    "url": "/concepts/juliahub-pm.html"
   },
   {
     "label": "juniper",
     "id": "juniper",
-    "url": "/rows/juniper.html"
+    "url": "/concepts/juniper.html"
   },
   {
     "label": "Juno",
     "id": "juno",
-    "url": "/rows/juno.html"
+    "url": "/concepts/juno.html"
   },
   {
     "label": "Project Jupyter",
     "id": "jupyter-editor",
-    "url": "/rows/jupyter-editor.html"
+    "url": "/concepts/jupyter-editor.html"
   },
   {
     "label": "Jupyter Notebook",
     "id": "jupyter-notebook",
-    "url": "/rows/jupyter-notebook.html"
+    "url": "/concepts/jupyter-notebook.html"
   },
   {
     "label": "Just",
     "id": "just",
-    "url": "/rows/just.html"
+    "url": "/concepts/just.html"
   },
   {
     "label": "juttle",
     "id": "juttle",
-    "url": "/rows/juttle.html"
+    "url": "/concepts/juttle.html"
   },
   {
     "label": "juvix",
     "id": "juvix",
-    "url": "/rows/juvix.html"
+    "url": "/concepts/juvix.html"
   },
   {
     "label": "JVM",
     "id": "jvm",
-    "url": "/rows/jvm.html"
+    "url": "/concepts/jvm.html"
   },
   {
     "label": "Jython",
     "id": "jython",
-    "url": "/rows/jython.html"
+    "url": "/concepts/jython.html"
   },
   {
     "label": "k-framework",
     "id": "k-framework",
-    "url": "/rows/k-framework.html"
+    "url": "/concepts/k-framework.html"
   },
   {
     "label": "K",
     "id": "k",
-    "url": "/rows/k.html"
+    "url": "/concepts/k.html"
   },
   {
     "label": "Kaffeine",
     "id": "kaffeine",
-    "url": "/rows/kaffeine.html"
+    "url": "/concepts/kaffeine.html"
   },
   {
     "label": "Kaggle",
     "id": "kaggle-app",
-    "url": "/rows/kaggle-app.html"
+    "url": "/concepts/kaggle-app.html"
   },
   {
     "label": "kai",
     "id": "kai",
-    "url": "/rows/kai.html"
+    "url": "/concepts/kai.html"
   },
   {
     "label": "KAIL",
     "id": "kail",
-    "url": "/rows/kail.html"
+    "url": "/concepts/kail.html"
   },
   {
     "label": "kaitai",
     "id": "kaitai",
-    "url": "/rows/kaitai.html"
+    "url": "/concepts/kaitai.html"
   },
   {
     "label": "Kakoune",
     "id": "kakoune-editor",
-    "url": "/rows/kakoune-editor.html"
+    "url": "/concepts/kakoune-editor.html"
   },
   {
     "label": "Kal",
     "id": "kal",
-    "url": "/rows/kal.html"
+    "url": "/concepts/kal.html"
   },
   {
     "label": "Kaleidoquery",
     "id": "kaleidoquery",
-    "url": "/rows/kaleidoquery.html"
+    "url": "/concepts/kaleidoquery.html"
   },
   {
     "label": "Kaleidoscope",
     "id": "kaleidoscope",
-    "url": "/rows/kaleidoscope.html"
+    "url": "/concepts/kaleidoscope.html"
   },
   {
     "label": "Kaleidoscope'90",
     "id": "kaleidoscope90",
-    "url": "/rows/kaleidoscope90.html"
+    "url": "/concepts/kaleidoscope90.html"
   },
   {
     "label": "Kaleidoscope'91",
     "id": "kaleidoscope91",
-    "url": "/rows/kaleidoscope91.html"
+    "url": "/concepts/kaleidoscope91.html"
   },
   {
     "label": "Kalyn",
     "id": "kalyn",
-    "url": "/rows/kalyn.html"
+    "url": "/concepts/kalyn.html"
   },
   {
     "label": "Kamby",
     "id": "kamby",
-    "url": "/rows/kamby.html"
+    "url": "/concepts/kamby.html"
   },
   {
     "label": "Kami",
     "id": "kami",
-    "url": "/rows/kami.html"
+    "url": "/concepts/kami.html"
   },
   {
     "label": "KamilaLisp",
     "id": "kamilalisp",
-    "url": "/rows/kamilalisp.html"
+    "url": "/concepts/kamilalisp.html"
   },
   {
     "label": "KAML",
     "id": "kaml",
-    "url": "/rows/kaml.html"
+    "url": "/concepts/kaml.html"
   },
   {
     "label": "Karel",
     "id": "karel",
-    "url": "/rows/karel.html"
+    "url": "/concepts/karel.html"
   },
   {
     "label": "Knowledge Acquisition and Representation Language",
     "id": "karl",
-    "url": "/rows/karl.html"
+    "url": "/concepts/karl.html"
   },
   {
     "label": "kasaya",
     "id": "kasaya",
-    "url": "/rows/kasaya.html"
+    "url": "/concepts/kasaya.html"
   },
   {
     "label": "kate-editor",
     "id": "kate-editor",
-    "url": "/rows/kate-editor.html"
+    "url": "/concepts/kate-editor.html"
   },
   {
     "label": "KATE",
     "id": "kate",
-    "url": "/rows/kate.html"
+    "url": "/concepts/kate.html"
   },
   {
     "label": "KaTeX",
     "id": "katex",
-    "url": "/rows/katex.html"
+    "url": "/concepts/katex.html"
   },
   {
     "label": "kaukatcr",
     "id": "kaukatcr",
-    "url": "/rows/kaukatcr.html"
+    "url": "/concepts/kaukatcr.html"
   },
   {
     "label": "KavaScript",
     "id": "kavascript",
-    "url": "/rows/kavascript.html"
+    "url": "/concepts/kavascript.html"
   },
   {
     "label": "Kawa",
     "id": "kawa-scheme-implementation",
-    "url": "/rows/kawa-scheme-implementation.html"
+    "url": "/concepts/kawa-scheme-implementation.html"
   },
   {
     "label": "kayia",
     "id": "kayia",
-    "url": "/rows/kayia.html"
+    "url": "/concepts/kayia.html"
   },
   {
     "label": "KB",
     "id": "kb",
-    "url": "/rows/kb.html"
+    "url": "/concepts/kb.html"
   },
   {
     "label": "KEE",
     "id": "kee",
-    "url": "/rows/kee.html"
+    "url": "/concepts/kee.html"
   },
   {
     "label": "Kefir",
     "id": "kefir",
-    "url": "/rows/kefir.html"
+    "url": "/concepts/kefir.html"
   },
   {
     "label": "kei",
     "id": "kei",
-    "url": "/rows/kei.html"
+    "url": "/concepts/kei.html"
   },
   {
     "label": "KEK-NODAL",
     "id": "kek-nodal",
-    "url": "/rows/kek-nodal.html"
+    "url": "/concepts/kek-nodal.html"
   },
   {
     "label": "keli",
     "id": "keli",
-    "url": "/rows/keli.html"
+    "url": "/concepts/keli.html"
   },
   {
     "label": "Keras",
     "id": "keras",
-    "url": "/rows/keras.html"
+    "url": "/concepts/keras.html"
   },
   {
     "label": "kerf",
     "id": "kerf",
-    "url": "/rows/kerf.html"
+    "url": "/concepts/kerf.html"
   },
   {
     "label": "Kermeta",
     "id": "kermeta",
-    "url": "/rows/kermeta.html"
+    "url": "/concepts/kermeta.html"
   },
   {
     "label": "kernel-e",
     "id": "kernel-e",
-    "url": "/rows/kernel-e.html"
+    "url": "/concepts/kernel-e.html"
   },
   {
     "label": "kernel",
     "id": "kernel",
-    "url": "/rows/kernel.html"
+    "url": "/concepts/kernel.html"
   },
   {
     "label": "kew",
     "id": "kew",
-    "url": "/rows/kew.html"
+    "url": "/concepts/kew.html"
   },
   {
     "label": "KeyKit",
     "id": "keykit",
-    "url": "/rows/keykit.html"
+    "url": "/concepts/keykit.html"
   },
   {
     "label": "Agilent VEE",
     "id": "keysight-vee",
-    "url": "/rows/keysight-vee.html"
+    "url": "/concepts/keysight-vee.html"
   },
   {
     "label": "Khepri",
     "id": "khepri",
-    "url": "/rows/khepri.html"
+    "url": "/concepts/khepri.html"
   },
   {
     "label": "ki",
     "id": "ki",
-    "url": "/rows/ki.html"
+    "url": "/concepts/ki.html"
   },
   {
     "label": "KiCad Legacy Layout",
     "id": "kicad",
-    "url": "/rows/kicad.html"
+    "url": "/concepts/kicad.html"
   },
   {
     "label": "Kid templating language",
     "id": "kid",
-    "url": "/rows/kid.html"
+    "url": "/concepts/kid.html"
   },
   {
     "label": "Kiev",
     "id": "kiev",
-    "url": "/rows/kiev.html"
+    "url": "/concepts/kiev.html"
   },
   {
     "label": "kilo-lisp",
     "id": "kilo-lisp",
-    "url": "/rows/kilo-lisp.html"
+    "url": "/concepts/kilo-lisp.html"
   },
   {
     "label": "kima",
     "id": "kima",
-    "url": "/rows/kima.html"
+    "url": "/concepts/kima.html"
   },
   {
     "label": "King Kong",
     "id": "king-kong",
-    "url": "/rows/king-kong.html"
+    "url": "/concepts/king-kong.html"
   },
   {
     "label": "Keep It Short and Simple",
     "id": "kiss",
-    "url": "/rows/kiss.html"
+    "url": "/concepts/kiss.html"
   },
   {
     "label": "Kit",
     "id": "kit",
-    "url": "/rows/kit.html"
+    "url": "/concepts/kit.html"
   },
   {
     "label": "kitlang",
     "id": "kitlang",
-    "url": "/rows/kitlang.html"
+    "url": "/concepts/kitlang.html"
   },
   {
     "label": "kitten",
     "id": "kitten",
-    "url": "/rows/kitten.html"
+    "url": "/concepts/kitten.html"
   },
   {
     "label": "kivy-lang",
     "id": "kivy-lang",
-    "url": "/rows/kivy-lang.html"
+    "url": "/concepts/kivy-lang.html"
   },
   {
     "label": "KiXtart",
     "id": "kixtart",
-    "url": "/rows/kixtart.html"
+    "url": "/concepts/kixtart.html"
   },
   {
     "label": "KL-ONE",
     "id": "kl-one",
-    "url": "/rows/kl-one.html"
+    "url": "/concepts/kl-one.html"
   },
   {
     "label": "KL0",
     "id": "kl0",
-    "url": "/rows/kl0.html"
+    "url": "/concepts/kl0.html"
   },
   {
     "label": "KL1",
     "id": "kl1",
-    "url": "/rows/kl1.html"
+    "url": "/concepts/kl1.html"
   },
   {
     "label": "Klaim",
     "id": "klaim",
-    "url": "/rows/klaim.html"
+    "url": "/concepts/klaim.html"
   },
   {
     "label": "Klerer-May System",
     "id": "klerer-may-system",
-    "url": "/rows/klerer-may-system.html"
+    "url": "/concepts/klerer-may-system.html"
   },
   {
     "label": "KLIPA",
     "id": "klipa",
-    "url": "/rows/klipa.html"
+    "url": "/concepts/klipa.html"
   },
   {
     "label": "klisp",
     "id": "klisp",
-    "url": "/rows/klisp.html"
+    "url": "/concepts/klisp.html"
   },
   {
     "label": "klong",
     "id": "klong",
-    "url": "/rows/klong.html"
+    "url": "/concepts/klong.html"
   },
   {
     "label": "KML",
     "id": "kml",
-    "url": "/rows/kml.html"
+    "url": "/concepts/kml.html"
   },
   {
     "label": "Knight",
     "id": "knight",
-    "url": "/rows/knight.html"
+    "url": "/concepts/knight.html"
   },
   {
     "label": "Knitr",
     "id": "knitr",
-    "url": "/rows/knitr.html"
+    "url": "/concepts/knitr.html"
   },
   {
     "label": "Knowledge Interchange Format",
     "id": "knowledge-interchange-format",
-    "url": "/rows/knowledge-interchange-format.html"
+    "url": "/concepts/knowledge-interchange-format.html"
   },
   {
     "label": "ko",
     "id": "ko",
-    "url": "/rows/ko.html"
+    "url": "/concepts/ko.html"
   },
   {
     "label": "koara",
     "id": "koara",
-    "url": "/rows/koara.html"
+    "url": "/concepts/koara.html"
   },
   {
     "label": "Kodu Game Lab",
     "id": "kodu-game-lab",
-    "url": "/rows/kodu-game-lab.html"
+    "url": "/concepts/kodu-game-lab.html"
   },
   {
     "label": "kogut",
     "id": "kogut",
-    "url": "/rows/kogut.html"
+    "url": "/concepts/kogut.html"
   },
   {
     "label": "koi",
     "id": "koi",
-    "url": "/rows/koi.html"
+    "url": "/concepts/koi.html"
   },
   {
     "label": "Koka",
     "id": "koka",
-    "url": "/rows/koka.html"
+    "url": "/concepts/koka.html"
   },
   {
     "label": "komodo-editor",
     "id": "komodo-editor",
-    "url": "/rows/komodo-editor.html"
+    "url": "/concepts/komodo-editor.html"
   },
   {
     "label": "kona",
     "id": "kona",
-    "url": "/rows/kona.html"
+    "url": "/concepts/kona.html"
   },
   {
     "label": "Konna",
     "id": "konna",
-    "url": "/rows/konna.html"
+    "url": "/concepts/konna.html"
   },
   {
     "label": "KonsolScript",
     "id": "konsolscript",
-    "url": "/rows/konsolscript.html"
+    "url": "/concepts/konsolscript.html"
   },
   {
     "label": "Korn shell",
     "id": "korn-shell",
-    "url": "/rows/korn-shell.html"
+    "url": "/concepts/korn-shell.html"
   },
   {
     "label": "Kotlin",
     "id": "kotlin",
-    "url": "/rows/kotlin.html"
+    "url": "/concepts/kotlin.html"
   },
   {
     "label": "Knowledge Query and Manipulation Language",
     "id": "kqml",
-    "url": "/rows/kqml.html"
+    "url": "/concepts/kqml.html"
   },
   {
     "label": "KRC",
     "id": "krc",
-    "url": "/rows/krc.html"
+    "url": "/concepts/krc.html"
   },
   {
     "label": "KRIS",
     "id": "kris",
-    "url": "/rows/kris.html"
+    "url": "/concepts/kris.html"
   },
   {
     "label": "KRL-0",
     "id": "krl-0",
-    "url": "/rows/krl-0.html"
+    "url": "/concepts/krl-0.html"
   },
   {
     "label": "KRL",
     "id": "krl",
-    "url": "/rows/krl.html"
+    "url": "/concepts/krl.html"
   },
   {
     "label": "KRS",
     "id": "krs",
-    "url": "/rows/krs.html"
+    "url": "/concepts/krs.html"
   },
   {
     "label": "KRYPTON",
     "id": "krypton",
-    "url": "/rows/krypton.html"
+    "url": "/concepts/krypton.html"
   },
   {
     "label": "ktexteditor-editor",
     "id": "ktexteditor-editor",
-    "url": "/rows/ktexteditor-editor.html"
+    "url": "/concepts/ktexteditor-editor.html"
   },
   {
     "label": "Kubernetes",
     "id": "kubernetes",
-    "url": "/rows/kubernetes.html"
+    "url": "/concepts/kubernetes.html"
   },
   {
     "label": "Kuin",
     "id": "kuin",
-    "url": "/rows/kuin.html"
+    "url": "/concepts/kuin.html"
   },
   {
     "label": "KUKA Robot Language",
     "id": "kuka",
-    "url": "/rows/kuka.html"
+    "url": "/concepts/kuka.html"
   },
   {
     "label": "kumir",
     "id": "kumir",
-    "url": "/rows/kumir.html"
+    "url": "/concepts/kumir.html"
   },
   {
     "label": "Kuroko",
     "id": "kuroko",
-    "url": "/rows/kuroko.html"
+    "url": "/concepts/kuroko.html"
   },
   {
     "label": "Kvikkalkul",
     "id": "kvikkalkul",
-    "url": "/rows/kvikkalkul.html"
+    "url": "/concepts/kvikkalkul.html"
   },
   {
     "label": "kvsapi",
     "id": "kvsapi",
-    "url": "/rows/kvsapi.html"
+    "url": "/concepts/kvsapi.html"
   },
   {
     "label": "Kylix",
     "id": "kylix",
-    "url": "/rows/kylix.html"
+    "url": "/concepts/kylix.html"
   },
   {
     "label": "Kyma",
     "id": "kyma",
-    "url": "/rows/kyma.html"
+    "url": "/concepts/kyma.html"
   },
   {
     "label": "l",
     "id": "l",
-    "url": "/rows/l.html"
+    "url": "/concepts/l.html"
   },
   {
     "label": "l2",
     "id": "l2",
-    "url": "/rows/l2.html"
+    "url": "/concepts/l2.html"
   },
   {
     "label": "L6",
     "id": "l6",
-    "url": "/rows/l6.html"
+    "url": "/concepts/l6.html"
   },
   {
     "label": "LABTRAN",
     "id": "labtran",
-    "url": "/rows/labtran.html"
+    "url": "/concepts/labtran.html"
   },
   {
     "label": "LabVIEW G",
     "id": "labview",
-    "url": "/rows/labview.html"
+    "url": "/concepts/labview.html"
   },
   {
     "label": "Ladder Logic",
     "id": "ladder-logic",
-    "url": "/rows/ladder-logic.html"
+    "url": "/concepts/ladder-logic.html"
   },
   {
     "label": "Lagoona",
     "id": "lagoona",
-    "url": "/rows/lagoona.html"
+    "url": "/concepts/lagoona.html"
   },
   {
     "label": "lain",
     "id": "lain",
-    "url": "/rows/lain.html"
+    "url": "/concepts/lain.html"
   },
   {
     "label": "lambcalc",
     "id": "lambcalc",
-    "url": "/rows/lambcalc.html"
+    "url": "/concepts/lambcalc.html"
   },
   {
     "label": "lambda-obliv",
     "id": "lambda-obliv",
-    "url": "/rows/lambda-obliv.html"
+    "url": "/concepts/lambda-obliv.html"
   },
   {
     "label": "ΛProlog",
     "id": "lambda-prolog",
-    "url": "/rows/lambda-prolog.html"
+    "url": "/concepts/lambda-prolog.html"
   },
   {
     "label": "lambda-zero",
     "id": "lambda-zero",
-    "url": "/rows/lambda-zero.html"
+    "url": "/concepts/lambda-zero.html"
   },
   {
     "label": "lambda",
     "id": "lambda",
-    "url": "/rows/lambda.html"
+    "url": "/concepts/lambda.html"
   },
   {
     "label": "lamderp",
     "id": "lamderp",
-    "url": "/rows/lamderp.html"
+    "url": "/concepts/lamderp.html"
   },
   {
     "label": "lamdu-editor",
     "id": "lamdu-editor",
-    "url": "/rows/lamdu-editor.html"
+    "url": "/concepts/lamdu-editor.html"
   },
   {
     "label": "Lamdu",
     "id": "lamdu",
-    "url": "/rows/lamdu.html"
+    "url": "/concepts/lamdu.html"
   },
   {
     "label": "LAMINA",
     "id": "lamina",
-    "url": "/rows/lamina.html"
+    "url": "/concepts/lamina.html"
   },
   {
     "label": "Large-scale Atomic/Molecular Massively Parallel Simulator Format",
     "id": "lammps-format",
-    "url": "/rows/lammps-format.html"
+    "url": "/concepts/lammps-format.html"
   },
   {
     "label": "Lanai",
     "id": "lanai",
-    "url": "/rows/lanai.html"
+    "url": "/concepts/lanai.html"
   },
   {
     "label": "Language for Class Description",
     "id": "language-for-class-description",
-    "url": "/rows/language-for-class-description.html"
+    "url": "/concepts/language-for-class-description.html"
   },
   {
     "label": "Language H",
     "id": "language-h",
-    "url": "/rows/language-h.html"
+    "url": "/concepts/language-h.html"
   },
   {
     "label": "LSP",
     "id": "language-server-protocol",
-    "url": "/rows/language-server-protocol.html"
+    "url": "/concepts/language-server-protocol.html"
   },
   {
     "label": "Laning and Zierler system",
     "id": "laning-and-zierler-system",
-    "url": "/rows/laning-and-zierler-system.html"
+    "url": "/concepts/laning-and-zierler-system.html"
   },
   {
     "label": "LAP",
     "id": "lap",
-    "url": "/rows/lap.html"
+    "url": "/concepts/lap.html"
   },
   {
     "label": "Laravel",
     "id": "laravel-framework",
-    "url": "/rows/laravel-framework.html"
+    "url": "/concepts/laravel-framework.html"
   },
   {
     "label": "Larceny Scheme implementation",
     "id": "larceny",
-    "url": "/rows/larceny.html"
+    "url": "/concepts/larceny.html"
   },
   {
     "label": "Larch",
     "id": "larch",
-    "url": "/rows/larch.html"
+    "url": "/concepts/larch.html"
   },
   {
     "label": "LARIS",
     "id": "laris",
-    "url": "/rows/laris.html"
+    "url": "/concepts/laris.html"
   },
   {
     "label": "LARP",
     "id": "larp",
-    "url": "/rows/larp.html"
+    "url": "/concepts/larp.html"
   },
   {
     "label": "lasp",
     "id": "lasp",
-    "url": "/rows/lasp.html"
+    "url": "/concepts/lasp.html"
   },
   {
     "label": "LASS",
     "id": "lass",
-    "url": "/rows/lass.html"
+    "url": "/concepts/lass.html"
   },
   {
     "label": "Lasso",
     "id": "lasso",
-    "url": "/rows/lasso.html"
+    "url": "/concepts/lasso.html"
   },
   {
     "label": "LaTeX",
     "id": "latex",
-    "url": "/rows/latex.html"
+    "url": "/concepts/latex.html"
   },
   {
     "label": "latino",
     "id": "latino",
-    "url": "/rows/latino.html"
+    "url": "/concepts/latino.html"
   },
   {
     "label": "latte-js",
     "id": "latte-js",
-    "url": "/rows/latte-js.html"
+    "url": "/concepts/latte-js.html"
   },
   {
     "label": "Latte",
     "id": "latte",
-    "url": "/rows/latte.html"
+    "url": "/concepts/latte.html"
   },
   {
     "label": "LAURE",
     "id": "laure",
-    "url": "/rows/laure.html"
+    "url": "/concepts/laure.html"
   },
   {
     "label": "lav-format",
     "id": "lav-format",
-    "url": "/rows/lav-format.html"
+    "url": "/concepts/lav-format.html"
   },
   {
     "label": "Lava",
     "id": "lava",
-    "url": "/rows/lava.html"
+    "url": "/concepts/lava.html"
   },
   {
     "label": "Lawvere",
     "id": "lawvere",
-    "url": "/rows/lawvere.html"
+    "url": "/concepts/lawvere.html"
   },
   {
     "label": "lazarus-editor",
     "id": "lazarus-editor",
-    "url": "/rows/lazarus-editor.html"
+    "url": "/concepts/lazarus-editor.html"
   },
   {
     "label": "Lazy K",
     "id": "lazy-k",
-    "url": "/rows/lazy-k.html"
+    "url": "/concepts/lazy-k.html"
   },
   {
     "label": "Lazy ML",
     "id": "lazyml",
-    "url": "/rows/lazyml.html"
+    "url": "/concepts/lazyml.html"
   },
   {
     "label": "LC-3",
     "id": "lc-3",
-    "url": "/rows/lc-3.html"
+    "url": "/concepts/lc-3.html"
   },
   {
     "label": "LCF",
     "id": "lcf",
-    "url": "/rows/lcf.html"
+    "url": "/concepts/lcf.html"
   },
   {
     "label": "LCL",
     "id": "lcl",
-    "url": "/rows/lcl.html"
+    "url": "/concepts/lcl.html"
   },
   {
     "label": "JSON Lines",
     "id": "ld-json",
-    "url": "/rows/ld-json.html"
+    "url": "/concepts/ld-json.html"
   },
   {
     "label": "Lightweight Directory Access Protocol",
     "id": "ldap",
-    "url": "/rows/ldap.html"
+    "url": "/concepts/ldap.html"
   },
   {
     "label": "LDL",
     "id": "ldl",
-    "url": "/rows/ldl.html"
+    "url": "/concepts/ldl.html"
   },
   {
     "label": "LDL1",
     "id": "ldl1",
-    "url": "/rows/ldl1.html"
+    "url": "/concepts/ldl1.html"
   },
   {
     "label": "ldpl",
     "id": "ldpl",
-    "url": "/rows/ldpl.html"
+    "url": "/concepts/ldpl.html"
   },
   {
     "label": "Le-Lisp",
     "id": "le-lisp",
-    "url": "/rows/le-lisp.html"
+    "url": "/concepts/le-lisp.html"
   },
   {
     "label": "leaf",
     "id": "leaf",
-    "url": "/rows/leaf.html"
+    "url": "/concepts/leaf.html"
   },
   {
     "label": "Lean",
     "id": "lean",
-    "url": "/rows/lean.html"
+    "url": "/concepts/lean.html"
   },
   {
     "label": "LEAP",
     "id": "leap",
-    "url": "/rows/leap.html"
+    "url": "/concepts/leap.html"
   },
   {
     "label": "Leazy",
     "id": "leazy",
-    "url": "/rows/leazy.html"
+    "url": "/concepts/leazy.html"
   },
   {
     "label": "Leda",
     "id": "leda",
-    "url": "/rows/leda.html"
+    "url": "/concepts/leda.html"
   },
   {
     "label": "LEGOL",
     "id": "legol",
-    "url": "/rows/legol.html"
+    "url": "/concepts/legol.html"
   },
   {
     "label": "lem-editor",
     "id": "lem-editor",
-    "url": "/rows/lem-editor.html"
+    "url": "/concepts/lem-editor.html"
   },
   {
     "label": "Lemick",
     "id": "lemick",
-    "url": "/rows/lemick.html"
+    "url": "/concepts/lemick.html"
   },
   {
     "label": "lemon",
     "id": "lemon",
-    "url": "/rows/lemon.html"
+    "url": "/concepts/lemon.html"
   },
   {
     "label": "leo-editor",
     "id": "leo-editor",
-    "url": "/rows/leo-editor.html"
+    "url": "/concepts/leo-editor.html"
   },
   {
     "label": "Leogo",
     "id": "leogo",
-    "url": "/rows/leogo.html"
+    "url": "/concepts/leogo.html"
   },
   {
     "label": "Leopard",
     "id": "leopard",
-    "url": "/rows/leopard.html"
+    "url": "/concepts/leopard.html"
   },
   {
     "label": "LES",
     "id": "les",
-    "url": "/rows/les.html"
+    "url": "/concepts/les.html"
   },
   {
     "label": "LESK",
     "id": "lesk",
-    "url": "/rows/lesk.html"
+    "url": "/concepts/lesk.html"
   },
   {
     "label": "Lesma",
     "id": "lesma",
-    "url": "/rows/lesma.html"
+    "url": "/concepts/lesma.html"
   },
   {
     "label": "Less",
     "id": "less",
-    "url": "/rows/less.html"
+    "url": "/concepts/less.html"
   },
   {
     "label": "lever",
     "id": "lever",
-    "url": "/rows/lever.html"
+    "url": "/concepts/lever.html"
   },
   {
     "label": "levy",
     "id": "levy",
-    "url": "/rows/levy.html"
+    "url": "/concepts/levy.html"
   },
   {
     "label": "Lex",
     "id": "lex",
-    "url": "/rows/lex.html"
+    "url": "/concepts/lex.html"
   },
   {
     "label": "Lexon",
     "id": "lexon",
-    "url": "/rows/lexon.html"
+    "url": "/concepts/lexon.html"
   },
   {
     "label": "LEXX",
     "id": "lexx-editor",
-    "url": "/rows/lexx-editor.html"
+    "url": "/concepts/lexx-editor.html"
   },
   {
     "label": "lezer",
     "id": "lezer",
-    "url": "/rows/lezer.html"
+    "url": "/concepts/lezer.html"
   },
   {
     "label": "LFE",
     "id": "lfe",
-    "url": "/rows/lfe.html"
+    "url": "/concepts/lfe.html"
   },
   {
     "label": "LG",
     "id": "lg",
-    "url": "/rows/lg.html"
+    "url": "/concepts/lg.html"
   },
   {
     "label": "LGDF",
     "id": "lgdf",
-    "url": "/rows/lgdf.html"
+    "url": "/concepts/lgdf.html"
   },
   {
     "label": "Li-Chen Wang",
     "id": "li-chen-wang",
-    "url": "/rows/li-chen-wang.html"
+    "url": "/concepts/li-chen-wang.html"
   },
   {
     "label": "Liberty BASIC",
     "id": "liberty-basic",
-    "url": "/rows/liberty-basic.html"
+    "url": "/concepts/liberty-basic.html"
   },
   {
     "label": "Libra",
     "id": "libra",
-    "url": "/rows/libra.html"
+    "url": "/concepts/libra.html"
   },
   {
     "label": "libsvm-format",
     "id": "libsvm-format",
-    "url": "/rows/libsvm-format.html"
+    "url": "/concepts/libsvm-format.html"
   },
   {
     "label": "LIFE",
     "id": "life",
-    "url": "/rows/life.html"
+    "url": "/concepts/life.html"
   },
   {
     "label": "lift",
     "id": "lift",
-    "url": "/rows/lift.html"
+    "url": "/concepts/lift.html"
   },
   {
     "label": "Lighttpd configuration file",
     "id": "lighttpd-configuration-file",
-    "url": "/rows/lighttpd-configuration-file.html"
+    "url": "/concepts/lighttpd-configuration-file.html"
   },
   {
     "label": "Ligo",
     "id": "ligo",
-    "url": "/rows/ligo.html"
+    "url": "/concepts/ligo.html"
   },
   {
     "label": "Lil",
     "id": "lil-pl",
-    "url": "/rows/lil-pl.html"
+    "url": "/concepts/lil-pl.html"
   },
   {
     "label": "Little Implementation Language",
     "id": "lil",
-    "url": "/rows/lil.html"
+    "url": "/concepts/lil.html"
   },
   {
     "label": "lila-lang",
     "id": "lila-lang",
-    "url": "/rows/lila-lang.html"
+    "url": "/concepts/lila-lang.html"
   },
   {
     "label": "Lila",
     "id": "lila",
-    "url": "/rows/lila.html"
+    "url": "/concepts/lila.html"
   },
   {
     "label": "Lily",
     "id": "lily",
-    "url": "/rows/lily.html"
+    "url": "/concepts/lily.html"
   },
   {
     "label": "LilyPond",
     "id": "lilypond",
-    "url": "/rows/lilypond.html"
+    "url": "/concepts/lilypond.html"
   },
   {
     "label": "Limbo",
     "id": "limbo",
-    "url": "/rows/limbo.html"
+    "url": "/concepts/limbo.html"
   },
   {
     "label": "LIMDEP",
     "id": "limdep",
-    "url": "/rows/limdep.html"
+    "url": "/concepts/limdep.html"
   },
   {
     "label": "LINC 4GL",
     "id": "linc-4gl",
-    "url": "/rows/linc-4gl.html"
+    "url": "/concepts/linc-4gl.html"
   },
   {
     "label": "Lincoln Reckoner",
     "id": "lincoln-reckoner",
-    "url": "/rows/lincoln-reckoner.html"
+    "url": "/concepts/lincoln-reckoner.html"
   },
   {
     "label": "Lincos",
     "id": "lincos",
-    "url": "/rows/lincos.html"
+    "url": "/concepts/lincos.html"
   },
   {
     "label": "Linda",
     "id": "linda",
-    "url": "/rows/linda.html"
+    "url": "/concepts/linda.html"
   },
   {
     "label": "Linden Scripting Language",
     "id": "linden-scripting-language",
-    "url": "/rows/linden-scripting-language.html"
+    "url": "/concepts/linden-scripting-language.html"
   },
   {
     "label": "LinearML",
     "id": "linearml",
-    "url": "/rows/linearml.html"
+    "url": "/concepts/linearml.html"
   },
   {
     "label": "Lingo",
     "id": "lingo",
-    "url": "/rows/lingo.html"
+    "url": "/concepts/lingo.html"
   },
   {
     "label": "Lingua Graphica",
     "id": "lingua-graphica",
-    "url": "/rows/lingua-graphica.html"
+    "url": "/concepts/lingua-graphica.html"
   },
   {
     "label": "Link",
     "id": "link",
-    "url": "/rows/link.html"
+    "url": "/concepts/link.html"
   },
   {
     "label": "Linked Markdown",
     "id": "linked-markdown",
-    "url": "/rows/linked-markdown.html"
+    "url": "/concepts/linked-markdown.html"
   },
   {
     "label": "Linker Script",
     "id": "linker-script",
-    "url": "/rows/linker-script.html"
+    "url": "/concepts/linker-script.html"
   },
   {
     "label": "Links",
     "id": "links-programming-language",
-    "url": "/rows/links-programming-language.html"
+    "url": "/concepts/links-programming-language.html"
   },
   {
     "label": "links",
     "id": "links",
-    "url": "/rows/links.html"
+    "url": "/concepts/links.html"
   },
   {
     "label": "LinkText",
     "id": "linktext",
-    "url": "/rows/linktext.html"
+    "url": "/concepts/linktext.html"
   },
   {
     "label": "Linoleum (L.in.oleum)",
     "id": "linoleum",
-    "url": "/rows/linoleum.html"
+    "url": "/concepts/linoleum.html"
   },
   {
     "label": "Linotte",
     "id": "linotte",
-    "url": "/rows/linotte.html"
+    "url": "/concepts/linotte.html"
   },
   {
     "label": "LINQ",
     "id": "linq",
-    "url": "/rows/linq.html"
+    "url": "/concepts/linq.html"
   },
   {
     "label": "Linux Kernel Module",
     "id": "linux-kernel-module",
-    "url": "/rows/linux-kernel-module.html"
+    "url": "/concepts/linux-kernel-module.html"
   },
   {
     "label": "Linux",
     "id": "linux",
-    "url": "/rows/linux.html"
+    "url": "/concepts/linux.html"
   },
   {
     "label": "Liquid",
     "id": "liquid",
-    "url": "/rows/liquid.html"
+    "url": "/concepts/liquid.html"
   },
   {
     "label": "liquidity",
     "id": "liquidity",
-    "url": "/rows/liquidity.html"
+    "url": "/concepts/liquidity.html"
   },
   {
     "label": "Langage Implementation Systeme",
     "id": "lis",
-    "url": "/rows/lis.html"
+    "url": "/concepts/lis.html"
   },
   {
     "label": "Lisaac",
     "id": "lisaac",
-    "url": "/rows/lisaac.html"
+    "url": "/concepts/lisaac.html"
   },
   {
     "label": "LiSEB",
     "id": "liseb",
-    "url": "/rows/liseb.html"
+    "url": "/concepts/liseb.html"
   },
   {
     "label": "Liso",
     "id": "liso",
-    "url": "/rows/liso.html"
+    "url": "/concepts/liso.html"
   },
   {
     "label": "LISP 1.5",
     "id": "lisp-1-5",
-    "url": "/rows/lisp-1-5.html"
+    "url": "/concepts/lisp-1-5.html"
   },
   {
     "label": "LISP 2",
     "id": "lisp-2",
-    "url": "/rows/lisp-2.html"
+    "url": "/concepts/lisp-2.html"
   },
   {
     "label": "LISP A",
     "id": "lisp-a",
-    "url": "/rows/lisp-a.html"
+    "url": "/concepts/lisp-a.html"
   },
   {
     "label": "Lisp Machine Lisp",
     "id": "lisp-machine-lisp",
-    "url": "/rows/lisp-machine-lisp.html"
+    "url": "/concepts/lisp-machine-lisp.html"
   },
   {
     "label": "Lisp",
     "id": "lisp",
-    "url": "/rows/lisp.html"
+    "url": "/concepts/lisp.html"
   },
   {
     "label": "LispMe",
     "id": "lispme",
-    "url": "/rows/lispme.html"
+    "url": "/concepts/lispme.html"
   },
   {
     "label": "Lisptalk",
     "id": "lisptalk",
-    "url": "/rows/lisptalk.html"
+    "url": "/concepts/lisptalk.html"
   },
   {
     "label": "LispWorks",
     "id": "lispworks",
-    "url": "/rows/lispworks.html"
+    "url": "/concepts/lispworks.html"
   },
   {
     "label": "lispyscript",
     "id": "lispyscript",
-    "url": "/rows/lispyscript.html"
+    "url": "/concepts/lispyscript.html"
   },
   {
     "label": "listdown",
     "id": "listdown",
-    "url": "/rows/listdown.html"
+    "url": "/concepts/listdown.html"
   },
   {
     "label": "Lite-C",
     "id": "lite-c",
-    "url": "/rows/lite-c.html"
+    "url": "/concepts/lite-c.html"
   },
   {
     "label": "Literate Agda",
     "id": "literate-agda",
-    "url": "/rows/literate-agda.html"
+    "url": "/concepts/literate-agda.html"
   },
   {
     "label": "Literate CoffeeScript",
     "id": "literate-coffeescript",
-    "url": "/rows/literate-coffeescript.html"
+    "url": "/concepts/literate-coffeescript.html"
   },
   {
     "label": "Literate Haskell",
     "id": "literate-haskell",
-    "url": "/rows/literate-haskell.html"
+    "url": "/concepts/literate-haskell.html"
   },
   {
     "label": "LiteScript",
     "id": "litescript",
-    "url": "/rows/litescript.html"
+    "url": "/concepts/litescript.html"
   },
   {
     "label": "Lithe",
     "id": "lithe",
-    "url": "/rows/lithe.html"
+    "url": "/concepts/lithe.html"
   },
   {
     "label": "Little b",
     "id": "little-b",
-    "url": "/rows/little-b.html"
+    "url": "/concepts/little-b.html"
   },
   {
     "label": "Little Smalltalk",
     "id": "little-smalltalk",
-    "url": "/rows/little-smalltalk.html"
+    "url": "/concepts/little-smalltalk.html"
   },
   {
     "label": "little",
     "id": "little",
-    "url": "/rows/little.html"
+    "url": "/concepts/little.html"
   },
   {
     "label": "LiveCode",
     "id": "livecode",
-    "url": "/rows/livecode.html"
+    "url": "/concepts/livecode.html"
   },
   {
     "label": "LiveScript",
     "id": "livescript",
-    "url": "/rows/livescript.html"
+    "url": "/concepts/livescript.html"
   },
   {
     "label": "Livr",
     "id": "livr",
-    "url": "/rows/livr.html"
+    "url": "/concepts/livr.html"
   },
   {
     "label": "Legal Knowledge Interchange Format",
     "id": "lkif",
-    "url": "/rows/lkif.html"
+    "url": "/concepts/lkif.html"
   },
   {
     "label": "llhd",
     "id": "llhd",
-    "url": "/rows/llhd.html"
+    "url": "/concepts/llhd.html"
   },
   {
     "label": "Low Level Lisp",
     "id": "lll",
-    "url": "/rows/lll.html"
+    "url": "/concepts/lll.html"
   },
   {
     "label": "lllpg",
     "id": "lllpg",
-    "url": "/rows/lllpg.html"
+    "url": "/concepts/lllpg.html"
   },
   {
     "label": "LLVM IR",
     "id": "llvmir",
-    "url": "/rows/llvmir.html"
+    "url": "/concepts/llvmir.html"
   },
   {
     "label": "lmdb",
     "id": "lmdb",
-    "url": "/rows/lmdb.html"
+    "url": "/concepts/lmdb.html"
   },
   {
     "label": "LNF",
     "id": "lnf",
-    "url": "/rows/lnf.html"
+    "url": "/concepts/lnf.html"
   },
   {
     "label": "LO",
     "id": "lo",
-    "url": "/rows/lo.html"
+    "url": "/concepts/lo.html"
   },
   {
     "label": "lobster",
     "id": "lobster",
-    "url": "/rows/lobster.html"
+    "url": "/concepts/lobster.html"
   },
   {
     "label": "local",
     "id": "local",
-    "url": "/rows/local.html"
+    "url": "/concepts/local.html"
   },
   {
     "label": "loci",
     "id": "loci",
-    "url": "/rows/loci.html"
+    "url": "/concepts/loci.html"
   },
   {
     "label": "Locomotive BASIC",
     "id": "locomotive-basic",
-    "url": "/rows/locomotive-basic.html"
+    "url": "/concepts/locomotive-basic.html"
   },
   {
     "label": "LOCS",
     "id": "locs",
-    "url": "/rows/locs.html"
+    "url": "/concepts/locs.html"
   },
   {
     "label": "LOGAL",
     "id": "logal",
-    "url": "/rows/logal.html"
+    "url": "/concepts/logal.html"
   },
   {
     "label": "Logica",
     "id": "logica",
-    "url": "/rows/logica.html"
+    "url": "/concepts/logica.html"
   },
   {
     "label": "Logicon",
     "id": "logicon",
-    "url": "/rows/logicon.html"
+    "url": "/concepts/logicon.html"
   },
   {
     "label": "LOGIN",
     "id": "login",
-    "url": "/rows/login.html"
+    "url": "/concepts/login.html"
   },
   {
     "label": "LOGIST",
     "id": "logist",
-    "url": "/rows/logist.html"
+    "url": "/concepts/logist.html"
   },
   {
     "label": "LOGLAN",
     "id": "loglan",
-    "url": "/rows/loglan.html"
+    "url": "/concepts/loglan.html"
   },
   {
     "label": "LOGLISP",
     "id": "loglisp",
-    "url": "/rows/loglisp.html"
+    "url": "/concepts/loglisp.html"
   },
   {
     "label": "loglo",
     "id": "loglo",
-    "url": "/rows/loglo.html"
+    "url": "/concepts/loglo.html"
   },
   {
     "label": "Logo",
     "id": "logo",
-    "url": "/rows/logo.html"
+    "url": "/concepts/logo.html"
   },
   {
     "label": "LOGOL",
     "id": "logol",
-    "url": "/rows/logol.html"
+    "url": "/concepts/logol.html"
   },
   {
     "label": "Logos",
     "id": "logos",
-    "url": "/rows/logos.html"
+    "url": "/concepts/logos.html"
   },
   {
     "label": "LogoWriter",
     "id": "logowriter",
-    "url": "/rows/logowriter.html"
+    "url": "/concepts/logowriter.html"
   },
   {
     "label": "Logres",
     "id": "logres",
-    "url": "/rows/logres.html"
+    "url": "/concepts/logres.html"
   },
   {
     "label": "LogScheme",
     "id": "logscheme",
-    "url": "/rows/logscheme.html"
+    "url": "/concepts/logscheme.html"
   },
   {
     "label": "Logtalk",
     "id": "logtalk",
-    "url": "/rows/logtalk.html"
+    "url": "/concepts/logtalk.html"
   },
   {
     "label": "LOL",
     "id": "lol",
-    "url": "/rows/lol.html"
+    "url": "/concepts/lol.html"
   },
   {
     "label": "Lola-2",
     "id": "lola-2",
-    "url": "/rows/lola-2.html"
+    "url": "/concepts/lola-2.html"
   },
   {
     "label": "LOLA",
     "id": "lola",
-    "url": "/rows/lola.html"
+    "url": "/concepts/lola.html"
   },
   {
     "label": "LOLCODE",
     "id": "lolcode",
-    "url": "/rows/lolcode.html"
+    "url": "/concepts/lolcode.html"
   },
   {
     "label": "LookML",
     "id": "lookml",
-    "url": "/rows/lookml.html"
+    "url": "/concepts/lookml.html"
   },
   {
     "label": "Loom",
     "id": "loom",
-    "url": "/rows/loom.html"
+    "url": "/concepts/loom.html"
   },
   {
     "label": "LoomScript",
     "id": "loomscript",
-    "url": "/rows/loomscript.html"
+    "url": "/concepts/loomscript.html"
   },
   {
     "label": "LOOPN++",
     "id": "loopnpp",
-    "url": "/rows/loopnpp.html"
+    "url": "/concepts/loopnpp.html"
   },
   {
     "label": "Lisp Object-Oriented Programming System",
     "id": "loops",
-    "url": "/rows/loops.html"
+    "url": "/concepts/loops.html"
   },
   {
     "label": "LORE",
     "id": "lore",
-    "url": "/rows/lore.html"
+    "url": "/concepts/lore.html"
   },
   {
     "label": "Lorel",
     "id": "lorel-1",
-    "url": "/rows/lorel-1.html"
+    "url": "/concepts/lorel-1.html"
   },
   {
     "label": "Lorel",
     "id": "lorel",
-    "url": "/rows/lorel.html"
+    "url": "/concepts/lorel.html"
   },
   {
     "label": "LOTIS",
     "id": "lotis",
-    "url": "/rows/lotis.html"
+    "url": "/concepts/lotis.html"
   },
   {
     "label": "LOTOS",
     "id": "lotos",
-    "url": "/rows/lotos.html"
+    "url": "/concepts/lotos.html"
   },
   {
     "label": "LotusScript",
     "id": "lotusscript",
-    "url": "/rows/lotusscript.html"
+    "url": "/concepts/lotusscript.html"
   },
   {
     "label": "Low*",
     "id": "lowstar",
-    "url": "/rows/lowstar.html"
+    "url": "/concepts/lowstar.html"
   },
   {
     "label": "LPC",
     "id": "lpc",
-    "url": "/rows/lpc.html"
+    "url": "/concepts/lpc.html"
   },
   {
     "label": "LPL",
     "id": "lpl",
-    "url": "/rows/lpl.html"
+    "url": "/concepts/lpl.html"
   },
   {
     "label": "LRLTRAN",
     "id": "lrltran",
-    "url": "/rows/lrltran.html"
+    "url": "/concepts/lrltran.html"
   },
   {
     "label": "lsd",
     "id": "lsd",
-    "url": "/rows/lsd.html"
+    "url": "/concepts/lsd.html"
   },
   {
     "label": "Langage Sans Espoir",
     "id": "lse",
-    "url": "/rows/lse.html"
+    "url": "/concepts/lse.html"
   },
   {
     "label": "Language Server Index Format",
     "id": "lsif-format",
-    "url": "/rows/lsif-format.html"
+    "url": "/concepts/lsif-format.html"
   },
   {
     "label": "Linden Scripting Language",
     "id": "lsl",
-    "url": "/rows/lsl.html"
+    "url": "/concepts/lsl.html"
   },
   {
     "label": "Lua",
     "id": "lua",
-    "url": "/rows/lua.html"
+    "url": "/concepts/lua.html"
   },
   {
     "label": "LuaJIT",
     "id": "luajit",
-    "url": "/rows/luajit.html"
+    "url": "/concepts/luajit.html"
   },
   {
     "label": "luarocks-pm",
     "id": "luarocks-pm",
-    "url": "/rows/luarocks-pm.html"
+    "url": "/concepts/luarocks-pm.html"
   },
   {
     "label": "luau",
     "id": "luau",
-    "url": "/rows/luau.html"
+    "url": "/concepts/luau.html"
   },
   {
     "label": "Apache Lucene",
     "id": "lucene-query-syntax",
-    "url": "/rows/lucene-query-syntax.html"
+    "url": "/concepts/lucene-query-syntax.html"
   },
   {
     "label": "Lucidchart",
     "id": "lucid-chart-app",
-    "url": "/rows/lucid-chart-app.html"
+    "url": "/concepts/lucid-chart-app.html"
   },
   {
     "label": "Lucid",
     "id": "lucid-lang",
-    "url": "/rows/lucid-lang.html"
+    "url": "/concepts/lucid-lang.html"
   },
   {
     "label": "Lucid representations",
     "id": "lucid-representations",
-    "url": "/rows/lucid-representations.html"
+    "url": "/concepts/lucid-representations.html"
   },
   {
     "label": "LUCID",
     "id": "lucid",
-    "url": "/rows/lucid.html"
+    "url": "/concepts/lucid.html"
   },
   {
     "label": "Lucinda",
     "id": "lucinda",
-    "url": "/rows/lucinda.html"
+    "url": "/concepts/lucinda.html"
   },
   {
     "label": "Luna",
     "id": "luna-1",
-    "url": "/rows/luna-1.html"
+    "url": "/concepts/luna-1.html"
   },
   {
     "label": "Luna",
     "id": "luna",
-    "url": "/rows/luna.html"
+    "url": "/concepts/luna.html"
   },
   {
     "label": "lunar",
     "id": "lunar",
-    "url": "/rows/lunar.html"
+    "url": "/concepts/lunar.html"
   },
   {
     "label": "Lush",
     "id": "lush",
-    "url": "/rows/lush.html"
+    "url": "/concepts/lush.html"
   },
   {
     "label": "Lustre",
     "id": "lustre",
-    "url": "/rows/lustre.html"
+    "url": "/concepts/lustre.html"
   },
   {
     "label": "Lux",
     "id": "lux",
-    "url": "/rows/lux.html"
+    "url": "/concepts/lux.html"
   },
   {
     "label": "LYaPAS",
     "id": "lyapas",
-    "url": "/rows/lyapas.html"
+    "url": "/concepts/lyapas.html"
   },
   {
     "label": "Lygon",
     "id": "lygon",
-    "url": "/rows/lygon.html"
+    "url": "/concepts/lygon.html"
   },
   {
     "label": "Lynx",
     "id": "lynx",
-    "url": "/rows/lynx.html"
+    "url": "/concepts/lynx.html"
   },
   {
     "label": "Language for Your Remote Instruction by Computer",
     "id": "lyric",
-    "url": "/rows/lyric.html"
+    "url": "/concepts/lyric.html"
   },
   {
     "label": "LyX",
     "id": "lyx-editor",
-    "url": "/rows/lyx-editor.html"
+    "url": "/concepts/lyx-editor.html"
   },
   {
     "label": "Meta Expressions",
     "id": "m-expressions",
-    "url": "/rows/m-expressions.html"
+    "url": "/concepts/m-expressions.html"
   },
   {
     "label": "M-LISP",
     "id": "m-lisp",
-    "url": "/rows/m-lisp.html"
+    "url": "/concepts/m-lisp.html"
   },
   {
     "label": "M",
     "id": "m-programming-language",
-    "url": "/rows/m-programming-language.html"
+    "url": "/concepts/m-programming-language.html"
   },
   {
     "label": "M2001",
     "id": "m2001",
-    "url": "/rows/m2001.html"
+    "url": "/concepts/m2001.html"
   },
   {
     "label": "m3db",
     "id": "m3db",
-    "url": "/rows/m3db.html"
+    "url": "/concepts/m3db.html"
   },
   {
     "label": "M4",
     "id": "m4",
-    "url": "/rows/m4.html"
+    "url": "/concepts/m4.html"
   },
   {
     "label": "M4Sugar",
     "id": "m4sugar",
-    "url": "/rows/m4sugar.html"
+    "url": "/concepts/m4sugar.html"
   },
   {
     "label": "MIT Algebraic Compiler",
     "id": "mac",
-    "url": "/rows/mac.html"
+    "url": "/concepts/mac.html"
   },
   {
     "label": "MacAims",
     "id": "macaims",
-    "url": "/rows/macaims.html"
+    "url": "/concepts/macaims.html"
   },
   {
     "label": "MacBASIC",
     "id": "macbasic",
-    "url": "/rows/macbasic.html"
+    "url": "/concepts/macbasic.html"
   },
   {
     "label": "MacBook Air",
     "id": "macbook-air-machine",
-    "url": "/rows/macbook-air-machine.html"
+    "url": "/concepts/macbook-air-machine.html"
   },
   {
     "label": "Macchiato",
     "id": "macchiato",
-    "url": "/rows/macchiato.html"
+    "url": "/concepts/macchiato.html"
   },
   {
     "label": "MACE",
     "id": "mace",
-    "url": "/rows/mace.html"
+    "url": "/concepts/mace.html"
   },
   {
     "label": "Machiavelli",
     "id": "machiavelli",
-    "url": "/rows/machiavelli.html"
+    "url": "/concepts/machiavelli.html"
   },
   {
     "label": "Macintosh Common Lisp",
     "id": "macintosh-common-lisp",
-    "url": "/rows/macintosh-common-lisp.html"
+    "url": "/concepts/macintosh-common-lisp.html"
   },
   {
     "label": "Macintosh",
     "id": "macintosh-machine",
-    "url": "/rows/macintosh-machine.html"
+    "url": "/concepts/macintosh-machine.html"
   },
   {
     "label": "MACRO-10",
     "id": "macro-10",
-    "url": "/rows/macro-10.html"
+    "url": "/concepts/macro-10.html"
   },
   {
     "label": "MACRO-11",
     "id": "macro-11",
-    "url": "/rows/macro-11.html"
+    "url": "/concepts/macro-11.html"
   },
   {
     "label": "Macro SPITBOL",
     "id": "macro-spitbol",
-    "url": "/rows/macro-spitbol.html"
+    "url": "/concepts/macro-spitbol.html"
   },
   {
     "label": "MACRO",
     "id": "macro",
-    "url": "/rows/macro.html"
+    "url": "/concepts/macro.html"
   },
   {
     "label": "MacroML",
     "id": "macroml",
-    "url": "/rows/macroml.html"
+    "url": "/concepts/macroml.html"
   },
   {
     "label": "Project MAC’s SYmbolic MAnipulator",
     "id": "macsyma",
-    "url": "/rows/macsyma.html"
+    "url": "/concepts/macsyma.html"
   },
   {
     "label": "Michigan Algorithm Decoder",
     "id": "mad",
-    "url": "/rows/mad.html"
+    "url": "/concepts/mad.html"
   },
   {
     "label": "MADCAP VI",
     "id": "madcap-vi",
-    "url": "/rows/madcap-vi.html"
+    "url": "/concepts/madcap-vi.html"
   },
   {
     "label": "MADCAP",
     "id": "madcap",
-    "url": "/rows/madcap.html"
+    "url": "/concepts/madcap.html"
   },
   {
     "label": "MADS",
     "id": "mads",
-    "url": "/rows/mads.html"
+    "url": "/concepts/mads.html"
   },
   {
     "label": "mages",
     "id": "mages",
-    "url": "/rows/mages.html"
+    "url": "/concepts/mages.html"
   },
   {
     "label": "Magic Paper",
     "id": "magic-paper",
-    "url": "/rows/magic-paper.html"
+    "url": "/concepts/magic-paper.html"
   },
   {
     "label": "Magik",
     "id": "magik",
-    "url": "/rows/magik.html"
+    "url": "/concepts/magik.html"
   },
   {
     "label": "Magit",
     "id": "magit",
-    "url": "/rows/magit.html"
+    "url": "/concepts/magit.html"
   },
   {
     "label": "MAGMA",
     "id": "magma",
-    "url": "/rows/magma.html"
+    "url": "/concepts/magma.html"
   },
   {
     "label": "Magma2",
     "id": "magma2",
-    "url": "/rows/magma2.html"
+    "url": "/concepts/magma2.html"
   },
   {
     "label": "magritte",
     "id": "magritte",
-    "url": "/rows/magritte.html"
+    "url": "/concepts/magritte.html"
   },
   {
     "label": "MAI Basic Four",
     "id": "mai-basic-four",
-    "url": "/rows/mai-basic-four.html"
+    "url": "/concepts/mai-basic-four.html"
   },
   {
     "label": "mai",
     "id": "mai",
-    "url": "/rows/mai.html"
+    "url": "/concepts/mai.html"
   },
   {
     "label": "Make",
     "id": "make",
-    "url": "/rows/make.html"
+    "url": "/concepts/make.html"
   },
   {
     "label": "MakeDoc",
     "id": "makedoc",
-    "url": "/rows/makedoc.html"
+    "url": "/concepts/makedoc.html"
   },
   {
     "label": "Makefile",
     "id": "makefile",
-    "url": "/rows/makefile.html"
+    "url": "/concepts/makefile.html"
   },
   {
     "label": "Mako",
     "id": "mako",
-    "url": "/rows/mako.html"
+    "url": "/concepts/mako.html"
   },
   {
     "label": "mal",
     "id": "mal",
-    "url": "/rows/mal.html"
+    "url": "/concepts/mal.html"
   },
   {
     "label": "Malbolge",
     "id": "malbolge",
-    "url": "/rows/malbolge.html"
+    "url": "/concepts/malbolge.html"
   },
   {
     "label": "Mallard BASIC",
     "id": "mallard-basic",
-    "url": "/rows/mallard-basic.html"
+    "url": "/concepts/mallard-basic.html"
   },
   {
     "label": "MALUS",
     "id": "malus",
-    "url": "/rows/malus.html"
+    "url": "/concepts/malus.html"
   },
   {
     "label": "Mama",
     "id": "mama-software",
-    "url": "/rows/mama-software.html"
+    "url": "/concepts/mama-software.html"
   },
   {
     "label": "MML",
     "id": "man-machine-language",
-    "url": "/rows/man-machine-language.html"
+    "url": "/concepts/man-machine-language.html"
   },
   {
     "label": "Manchester syntax",
     "id": "manchester-syntax",
-    "url": "/rows/manchester-syntax.html"
+    "url": "/concepts/manchester-syntax.html"
   },
   {
     "label": "Mangle",
     "id": "mangle",
-    "url": "/rows/mangle.html"
+    "url": "/concepts/mangle.html"
   },
   {
     "label": "manhood",
     "id": "manhood",
-    "url": "/rows/manhood.html"
+    "url": "/concepts/manhood.html"
   },
   {
     "label": "Manim",
     "id": "manim",
-    "url": "/rows/manim.html"
+    "url": "/concepts/manim.html"
   },
   {
     "label": "manool",
     "id": "manool",
-    "url": "/rows/manool.html"
+    "url": "/concepts/manool.html"
   },
   {
     "label": "manticore",
     "id": "manticore",
-    "url": "/rows/manticore.html"
+    "url": "/concepts/manticore.html"
   },
   {
     "label": "ManuScript",
     "id": "manuscript",
-    "url": "/rows/manuscript.html"
+    "url": "/concepts/manuscript.html"
   },
   {
     "label": "MAP",
     "id": "map",
-    "url": "/rows/map.html"
+    "url": "/concepts/map.html"
   },
   {
     "label": "MapBasic",
     "id": "mapbasic",
-    "url": "/rows/mapbasic.html"
+    "url": "/concepts/mapbasic.html"
   },
   {
     "label": "Maple",
     "id": "maple",
-    "url": "/rows/maple.html"
+    "url": "/concepts/maple.html"
   },
   {
     "label": "Maplesoft Application Center",
     "id": "maplesoft-app-center-pm",
-    "url": "/rows/maplesoft-app-center-pm.html"
+    "url": "/concepts/maplesoft-app-center-pm.html"
   },
   {
     "label": "MAPPER",
     "id": "mapper",
-    "url": "/rows/mapper.html"
+    "url": "/concepts/mapper.html"
   },
   {
     "label": "MAPQUERY",
     "id": "mapquery",
-    "url": "/rows/mapquery.html"
+    "url": "/concepts/mapquery.html"
   },
   {
     "label": "MAPS",
     "id": "maps",
-    "url": "/rows/maps.html"
+    "url": "/concepts/maps.html"
   },
   {
     "label": "maraca-lang",
     "id": "maraca-lang",
-    "url": "/rows/maraca-lang.html"
+    "url": "/concepts/maraca-lang.html"
   },
   {
     "label": "Margin",
     "id": "margin",
-    "url": "/rows/margin.html"
+    "url": "/concepts/margin.html"
   },
   {
     "label": "MariaDB ColumnStore",
     "id": "maria-db-column-store",
-    "url": "/rows/maria-db-column-store.html"
+    "url": "/concepts/maria-db-column-store.html"
   },
   {
     "label": "MARIA XML",
     "id": "maria-xml",
-    "url": "/rows/maria-xml.html"
+    "url": "/concepts/maria-xml.html"
   },
   {
     "label": "MariaDB",
     "id": "mariadb",
-    "url": "/rows/mariadb.html"
+    "url": "/concepts/mariadb.html"
   },
   {
     "label": "MARK IV",
     "id": "mark-iv",
-    "url": "/rows/mark-iv.html"
+    "url": "/concepts/mark-iv.html"
   },
   {
     "label": "Markdeep",
     "id": "markdeep",
-    "url": "/rows/markdeep.html"
+    "url": "/concepts/markdeep.html"
   },
   {
     "label": "Markdown",
     "id": "markdown",
-    "url": "/rows/markdown.html"
+    "url": "/concepts/markdown.html"
   },
   {
     "label": "MarkLogic",
     "id": "marklogic",
-    "url": "/rows/marklogic.html"
+    "url": "/concepts/marklogic.html"
   },
   {
     "label": "Marko",
     "id": "marko",
-    "url": "/rows/marko.html"
+    "url": "/concepts/marko.html"
   },
   {
     "label": "MarkovJunior",
     "id": "markovjunior",
-    "url": "/rows/markovjunior.html"
+    "url": "/concepts/markovjunior.html"
   },
   {
     "label": "Markus",
     "id": "markus",
-    "url": "/rows/markus.html"
+    "url": "/concepts/markus.html"
   },
   {
     "label": "Markwhen",
     "id": "markwhen",
-    "url": "/rows/markwhen.html"
+    "url": "/concepts/markwhen.html"
   },
   {
     "label": "Marlais",
     "id": "marlais",
-    "url": "/rows/marlais.html"
+    "url": "/concepts/marlais.html"
   },
   {
     "label": "Marmot",
     "id": "marmot",
-    "url": "/rows/marmot.html"
+    "url": "/concepts/marmot.html"
   },
   {
     "label": "Marp",
     "id": "marp",
-    "url": "/rows/marp.html"
+    "url": "/concepts/marp.html"
   },
   {
     "label": "MARSYAS",
     "id": "marsyas",
-    "url": "/rows/marsyas.html"
+    "url": "/concepts/marsyas.html"
   },
   {
     "label": "marten",
     "id": "marten",
-    "url": "/rows/marten.html"
+    "url": "/concepts/marten.html"
   },
   {
     "label": "Mary/2",
     "id": "mary-2",
-    "url": "/rows/mary-2.html"
+    "url": "/concepts/mary-2.html"
   },
   {
     "label": "Mary",
     "id": "mary",
-    "url": "/rows/mary.html"
+    "url": "/concepts/mary.html"
   },
   {
     "label": "Mascara",
     "id": "mascara",
-    "url": "/rows/mascara.html"
+    "url": "/concepts/mascara.html"
   },
   {
     "label": "MASIM",
     "id": "masim",
-    "url": "/rows/masim.html"
+    "url": "/concepts/masim.html"
   },
   {
     "label": "Mask",
     "id": "maskjs",
-    "url": "/rows/maskjs.html"
+    "url": "/concepts/maskjs.html"
   },
   {
     "label": "MASM",
     "id": "masm",
-    "url": "/rows/masm.html"
+    "url": "/concepts/masm.html"
   },
   {
     "label": "Mass Energy Equation",
     "id": "mass-energy-equation",
-    "url": "/rows/mass-energy-equation.html"
+    "url": "/concepts/mass-energy-equation.html"
   },
   {
     "label": "MXF",
     "id": "material-exchange-format",
-    "url": "/rows/material-exchange-format.html"
+    "url": "/concepts/material-exchange-format.html"
   },
   {
     "label": "MATH-MATIC",
     "id": "math-matic",
-    "url": "/rows/math-matic.html"
+    "url": "/concepts/math-matic.html"
   },
   {
     "label": "Mathcad",
     "id": "mathcad",
-    "url": "/rows/mathcad.html"
+    "url": "/concepts/mathcad.html"
   },
   {
     "label": "Wolfram Mathematica",
     "id": "mathematica-editor",
-    "url": "/rows/mathematica-editor.html"
+    "url": "/concepts/mathematica-editor.html"
   },
   {
     "label": "mathematica-packagedata-pm",
     "id": "mathematica-packagedata-pm",
-    "url": "/rows/mathematica-packagedata-pm.html"
+    "url": "/concepts/mathematica-packagedata-pm.html"
   },
   {
     "label": "Mathematica",
     "id": "mathematica",
-    "url": "/rows/mathematica.html"
+    "url": "/concepts/mathematica.html"
   },
   {
     "label": "mathics",
     "id": "mathics",
-    "url": "/rows/mathics.html"
+    "url": "/concepts/mathics.html"
   },
   {
     "label": "MathJax",
     "id": "mathjax",
-    "url": "/rows/mathjax.html"
+    "url": "/concepts/mathjax.html"
   },
   {
     "label": "MATHLAB",
     "id": "mathlab",
-    "url": "/rows/mathlab.html"
+    "url": "/concepts/mathlab.html"
   },
   {
     "label": "MathLingua",
     "id": "mathlingua",
-    "url": "/rows/mathlingua.html"
+    "url": "/concepts/mathlingua.html"
   },
   {
     "label": "MathML",
     "id": "mathml",
-    "url": "/rows/mathml.html"
+    "url": "/concepts/mathml.html"
   },
   {
     "label": "Mathpix Markdown",
     "id": "mathpix-markdown",
-    "url": "/rows/mathpix-markdown.html"
+    "url": "/concepts/mathpix-markdown.html"
   },
   {
     "label": "Mathsy",
     "id": "mathsy",
-    "url": "/rows/mathsy.html"
+    "url": "/concepts/mathsy.html"
   },
   {
     "label": "MathType",
     "id": "mathtype",
-    "url": "/rows/mathtype.html"
+    "url": "/concepts/mathtype.html"
   },
   {
     "label": "MathWorks File Exchange",
     "id": "mathworks-file-exchange-pm",
-    "url": "/rows/mathworks-file-exchange-pm.html"
+    "url": "/concepts/mathworks-file-exchange-pm.html"
   },
   {
     "label": "Matita",
     "id": "matita",
-    "url": "/rows/matita.html"
+    "url": "/concepts/matita.html"
   },
   {
     "label": "MATLAB",
     "id": "matlab",
-    "url": "/rows/matlab.html"
+    "url": "/concepts/matlab.html"
   },
   {
     "label": "Matplotlib",
     "id": "matplotlib",
-    "url": "/rows/matplotlib.html"
+    "url": "/concepts/matplotlib.html"
   },
   {
     "label": "MATRIX PASCAL",
     "id": "matrix-pascal",
-    "url": "/rows/matrix-pascal.html"
+    "url": "/concepts/matrix-pascal.html"
   },
   {
     "label": "Matrix protocol",
     "id": "matrix-protocol",
-    "url": "/rows/matrix-protocol.html"
+    "url": "/concepts/matrix-protocol.html"
   },
   {
     "label": "Maude",
     "id": "maude",
-    "url": "/rows/maude.html"
+    "url": "/concepts/maude.html"
   },
   {
     "label": "Maven Central Repository",
     "id": "maven-pm",
-    "url": "/rows/maven-pm.html"
+    "url": "/concepts/maven-pm.html"
   },
   {
     "label": "Apache Maven",
     "id": "maven-pom",
-    "url": "/rows/maven-pom.html"
+    "url": "/concepts/maven-pom.html"
   },
   {
     "label": "MAVIS",
     "id": "mavis",
-    "url": "/rows/mavis.html"
+    "url": "/concepts/mavis.html"
   },
   {
     "label": "mavo",
     "id": "mavo",
-    "url": "/rows/mavo.html"
+    "url": "/concepts/mavo.html"
   },
   {
     "label": "mawk",
     "id": "mawk",
-    "url": "/rows/mawk.html"
+    "url": "/concepts/mawk.html"
   },
   {
     "label": "Max",
     "id": "max",
-    "url": "/rows/max.html"
+    "url": "/concepts/max.html"
   },
   {
     "label": "Maxima",
     "id": "maxima",
-    "url": "/rows/maxima.html"
+    "url": "/concepts/maxima.html"
   },
   {
     "label": "MAXScript",
     "id": "maxscript",
-    "url": "/rows/maxscript.html"
+    "url": "/concepts/maxscript.html"
   },
   {
     "label": "Maya Embedded Language",
     "id": "maya",
-    "url": "/rows/maya.html"
+    "url": "/concepts/maya.html"
   },
   {
     "label": "MBASIC",
     "id": "mbasic",
-    "url": "/rows/mbasic.html"
+    "url": "/concepts/mbasic.html"
   },
   {
     "label": "EML",
     "id": "mbox",
-    "url": "/rows/mbox.html"
+    "url": "/concepts/mbox.html"
   },
   {
     "label": "mckeeman-form",
     "id": "mckeeman-form",
-    "url": "/rows/mckeeman-form.html"
+    "url": "/concepts/mckeeman-form.html"
   },
   {
     "label": "McLeyvier Command Language",
     "id": "mcleyvier-command-language",
-    "url": "/rows/mcleyvier-command-language.html"
+    "url": "/concepts/mcleyvier-command-language.html"
   },
   {
     "label": "MCOBOL",
     "id": "mcobol",
-    "url": "/rows/mcobol.html"
+    "url": "/concepts/mcobol.html"
   },
   {
     "label": "MD5",
     "id": "md5-hash-function",
-    "url": "/rows/md5-hash-function.html"
+    "url": "/concepts/md5-hash-function.html"
   },
   {
     "label": "MDBS-QRS",
     "id": "mdbs-qrs",
-    "url": "/rows/mdbs-qrs.html"
+    "url": "/concepts/mdbs-qrs.html"
   },
   {
     "label": "MDL",
     "id": "mdl",
-    "url": "/rows/mdl.html"
+    "url": "/concepts/mdl.html"
   },
   {
     "label": "MultiDimensional eXpressions",
     "id": "mdx-lang",
-    "url": "/rows/mdx-lang.html"
+    "url": "/concepts/mdx-lang.html"
   },
   {
     "label": "MDX",
     "id": "mdx",
-    "url": "/rows/mdx.html"
+    "url": "/concepts/mdx.html"
   },
   {
     "label": "MeanscriptCLI",
     "id": "meanscriptcli",
-    "url": "/rows/meanscriptcli.html"
+    "url": "/concepts/meanscriptcli.html"
   },
   {
     "label": "Mech",
     "id": "mech-lang",
-    "url": "/rows/mech-lang.html"
+    "url": "/concepts/mech-lang.html"
   },
   {
     "label": "MediaWiki",
     "id": "mediawiki",
-    "url": "/rows/mediawiki.html"
+    "url": "/concepts/mediawiki.html"
   },
   {
     "label": "MEDIC",
     "id": "medic",
-    "url": "/rows/medic.html"
+    "url": "/concepts/medic.html"
   },
   {
     "label": "MEDUSA",
     "id": "medusa",
-    "url": "/rows/medusa.html"
+    "url": "/concepts/medusa.html"
   },
   {
     "label": "Megalog",
     "id": "megalog",
-    "url": "/rows/megalog.html"
+    "url": "/concepts/megalog.html"
   },
   {
     "label": "Megaparsec",
     "id": "megaparsec",
-    "url": "/rows/megaparsec.html"
+    "url": "/concepts/megaparsec.html"
   },
   {
     "label": "MELD",
     "id": "meld",
-    "url": "/rows/meld.html"
+    "url": "/concepts/meld.html"
   },
   {
     "label": "Melody",
     "id": "melody",
-    "url": "/rows/melody.html"
+    "url": "/concepts/melody.html"
   },
   {
     "label": "melpha-pm",
     "id": "melpha-pm",
-    "url": "/rows/melpha-pm.html"
+    "url": "/concepts/melpha-pm.html"
   },
   {
     "label": "Memcached",
     "id": "memcached",
-    "url": "/rows/memcached.html"
+    "url": "/concepts/memcached.html"
   },
   {
     "label": "Memex",
     "id": "memex-machine",
-    "url": "/rows/memex-machine.html"
+    "url": "/concepts/memex-machine.html"
   },
   {
     "label": "MENDEL",
     "id": "mendel",
-    "url": "/rows/mendel.html"
+    "url": "/concepts/mendel.html"
   },
   {
     "label": "Mentat",
     "id": "mentat",
-    "url": "/rows/mentat.html"
+    "url": "/concepts/mentat.html"
   },
   {
     "label": "Mercurial",
     "id": "mercurial",
-    "url": "/rows/mercurial.html"
+    "url": "/concepts/mercurial.html"
   },
   {
     "label": "Mercury Programming System",
     "id": "mercury-programming-system",
-    "url": "/rows/mercury-programming-system.html"
+    "url": "/concepts/mercury-programming-system.html"
   },
   {
     "label": "Mercury",
     "id": "mercury",
-    "url": "/rows/mercury.html"
+    "url": "/concepts/mercury.html"
   },
   {
     "label": "merd",
     "id": "merd",
-    "url": "/rows/merd.html"
+    "url": "/concepts/merd.html"
   },
   {
     "label": "mermaid",
     "id": "mermaid",
-    "url": "/rows/mermaid.html"
+    "url": "/concepts/mermaid.html"
   },
   {
     "label": "Meroon",
     "id": "meroon",
-    "url": "/rows/meroon.html"
+    "url": "/concepts/meroon.html"
   },
   {
     "label": "Mesa",
     "id": "mesa",
-    "url": "/rows/mesa.html"
+    "url": "/concepts/mesa.html"
   },
   {
     "label": "Meson",
     "id": "meson",
-    "url": "/rows/meson.html"
+    "url": "/concepts/meson.html"
   },
   {
     "label": "MessagePack",
     "id": "messagepack",
-    "url": "/rows/messagepack.html"
+    "url": "/concepts/messagepack.html"
   },
   {
     "label": "Met-English",
     "id": "met-english",
-    "url": "/rows/met-english.html"
+    "url": "/concepts/met-english.html"
   },
   {
     "label": "Meta-Assembler",
     "id": "meta-assembler",
-    "url": "/rows/meta-assembler.html"
+    "url": "/concepts/meta-assembler.html"
   },
   {
     "label": "Meta II",
     "id": "meta-ii",
-    "url": "/rows/meta-ii.html"
+    "url": "/concepts/meta-ii.html"
   },
   {
     "label": "META/LISP",
     "id": "meta-lisp",
-    "url": "/rows/meta-lisp.html"
+    "url": "/concepts/meta-lisp.html"
   },
   {
     "label": "META/PLUS",
     "id": "meta-plus",
-    "url": "/rows/meta-plus.html"
+    "url": "/concepts/meta-plus.html"
   },
   {
     "label": "MetaComCo",
     "id": "metacomco",
-    "url": "/rows/metacomco.html"
+    "url": "/concepts/metacomco.html"
   },
   {
     "label": "METAFONT",
     "id": "metafont",
-    "url": "/rows/metafont.html"
+    "url": "/concepts/metafont.html"
   },
   {
     "label": "MetaH",
     "id": "metah",
-    "url": "/rows/metah.html"
+    "url": "/concepts/metah.html"
   },
   {
     "label": "MetaL",
     "id": "metal-programming-language",
-    "url": "/rows/metal-programming-language.html"
+    "url": "/concepts/metal-programming-language.html"
   },
   {
     "label": "Metal",
     "id": "metal",
-    "url": "/rows/metal.html"
+    "url": "/concepts/metal.html"
   },
   {
     "label": "Metalang99",
     "id": "metalang99",
-    "url": "/rows/metalang99.html"
+    "url": "/concepts/metalang99.html"
   },
   {
     "label": "metalex",
     "id": "metalex",
-    "url": "/rows/metalex.html"
+    "url": "/concepts/metalex.html"
   },
   {
     "label": "MetaML",
     "id": "metaml",
-    "url": "/rows/metaml.html"
+    "url": "/concepts/metaml.html"
   },
   {
     "label": "METAPI",
     "id": "metapi",
-    "url": "/rows/metapi.html"
+    "url": "/concepts/metapi.html"
   },
   {
     "label": "METAPOST",
     "id": "metapost",
-    "url": "/rows/metapost.html"
+    "url": "/concepts/metapost.html"
   },
   {
     "label": "METASIM",
     "id": "metasim",
-    "url": "/rows/metasim.html"
+    "url": "/concepts/metasim.html"
   },
   {
     "label": "METATEM",
     "id": "metatem",
-    "url": "/rows/metatem.html"
+    "url": "/concepts/metatem.html"
   },
   {
     "label": "Metaweb Query Language",
     "id": "metaweb-query-language",
-    "url": "/rows/metaweb-query-language.html"
+    "url": "/concepts/metaweb-query-language.html"
   },
   {
     "label": "MDL",
     "id": "methodology-description-language",
-    "url": "/rows/methodology-description-language.html"
+    "url": "/concepts/methodology-description-language.html"
   },
   {
     "label": "Mewl",
     "id": "mewl",
-    "url": "/rows/mewl.html"
+    "url": "/concepts/mewl.html"
   },
   {
     "label": "MewMew",
     "id": "mewmew",
-    "url": "/rows/mewmew.html"
+    "url": "/concepts/mewmew.html"
   },
   {
     "label": "mgmt",
     "id": "mgmt",
-    "url": "/rows/mgmt.html"
+    "url": "/concepts/mgmt.html"
   },
   {
     "label": "MHEG-5",
     "id": "mheg-5",
-    "url": "/rows/mheg-5.html"
+    "url": "/concepts/mheg-5.html"
   },
   {
     "label": "michelson",
     "id": "michelson",
-    "url": "/rows/michelson.html"
+    "url": "/concepts/michelson.html"
   },
   {
     "label": "ΜC++",
     "id": "micro-cpp",
-    "url": "/rows/micro-cpp.html"
+    "url": "/concepts/micro-cpp.html"
   },
   {
     "label": "micro-editor",
     "id": "micro-editor",
-    "url": "/rows/micro-editor.html"
+    "url": "/concepts/micro-editor.html"
   },
   {
     "label": "Micro-flowcharts",
     "id": "micro-flowcharts",
-    "url": "/rows/micro-flowcharts.html"
+    "url": "/concepts/micro-flowcharts.html"
   },
   {
     "label": "micro-mitten",
     "id": "micro-mitten",
-    "url": "/rows/micro-mitten.html"
+    "url": "/concepts/micro-mitten.html"
   },
   {
     "label": "Micro-PROLOG",
     "id": "micro-prolog",
-    "url": "/rows/micro-prolog.html"
+    "url": "/concepts/micro-prolog.html"
   },
   {
     "label": "mdl",
     "id": "microarchitecture-description-language",
-    "url": "/rows/microarchitecture-description-language.html"
+    "url": "/concepts/microarchitecture-description-language.html"
   },
   {
     "label": "MICRODARE",
     "id": "microdare",
-    "url": "/rows/microdare.html"
+    "url": "/concepts/microdare.html"
   },
   {
     "label": "Microdata HTML",
     "id": "microdata",
-    "url": "/rows/microdata.html"
+    "url": "/concepts/microdata.html"
   },
   {
     "label": "microl",
     "id": "microl",
-    "url": "/rows/microl.html"
+    "url": "/concepts/microl.html"
   },
   {
     "label": "microPLANNER",
     "id": "microplanner",
-    "url": "/rows/microplanner.html"
+    "url": "/concepts/microplanner.html"
   },
   {
     "label": "MicroPython",
     "id": "micropython",
-    "url": "/rows/micropython.html"
+    "url": "/concepts/micropython.html"
   },
   {
     "label": "Microsoft Access",
     "id": "microsoft-access",
-    "url": "/rows/microsoft-access.html"
+    "url": "/concepts/microsoft-access.html"
   },
   {
     "label": "Microsoft Azure Cosmos DB",
     "id": "microsoft-azure-cosmos-db",
-    "url": "/rows/microsoft-azure-cosmos-db.html"
+    "url": "/concepts/microsoft-azure-cosmos-db.html"
   },
   {
     "label": "Microsoft BASIC",
     "id": "microsoft-basic",
-    "url": "/rows/microsoft-basic.html"
+    "url": "/concepts/microsoft-basic.html"
   },
   {
     "label": "Microsoft Equation Editor",
     "id": "microsoft-equation-editor",
-    "url": "/rows/microsoft-equation-editor.html"
+    "url": "/concepts/microsoft-equation-editor.html"
   },
   {
     "label": "Microsoft Macro Assembler",
     "id": "microsoft-macro-assembler",
-    "url": "/rows/microsoft-macro-assembler.html"
+    "url": "/concepts/microsoft-macro-assembler.html"
   },
   {
     "label": "Microsoft SQL Server",
     "id": "microsoft-mysql-server",
-    "url": "/rows/microsoft-mysql-server.html"
+    "url": "/concepts/microsoft-mysql-server.html"
   },
   {
     "label": "Microsoft Small Basic",
     "id": "microsoft-small-basic",
-    "url": "/rows/microsoft-small-basic.html"
+    "url": "/concepts/microsoft-small-basic.html"
   },
   {
     "label": "microTAL",
     "id": "microtal",
-    "url": "/rows/microtal.html"
+    "url": "/concepts/microtal.html"
   },
   {
     "label": "Modified Integration Digital Analog Simulator",
     "id": "midas",
-    "url": "/rows/midas.html"
+    "url": "/concepts/midas.html"
   },
   {
     "label": "Meditech Interpretive Information System",
     "id": "miis",
-    "url": "/rows/miis.html"
+    "url": "/concepts/miis.html"
   },
   {
     "label": "MiKe",
     "id": "mike",
-    "url": "/rows/mike.html"
+    "url": "/concepts/mike.html"
   },
   {
     "label": "MIME",
     "id": "mime",
-    "url": "/rows/mime.html"
+    "url": "/concepts/mime.html"
   },
   {
     "label": "MIMIC",
     "id": "mimic",
-    "url": "/rows/mimic.html"
+    "url": "/concepts/mimic.html"
   },
   {
     "label": "mimium",
     "id": "mimium",
-    "url": "/rows/mimium.html"
+    "url": "/concepts/mimium.html"
   },
   {
     "label": "mimix-stream-language",
     "id": "mimix-stream-language",
-    "url": "/rows/mimix-stream-language.html"
+    "url": "/concepts/mimix-stream-language.html"
   },
   {
     "label": "min",
     "id": "min",
-    "url": "/rows/min.html"
+    "url": "/concepts/min.html"
   },
   {
     "label": "MINC",
     "id": "minc",
-    "url": "/rows/minc.html"
+    "url": "/concepts/minc.html"
   },
   {
     "label": "Mini-ML",
     "id": "mini-ml",
-    "url": "/rows/mini-ml.html"
+    "url": "/concepts/mini-ml.html"
   },
   {
     "label": "MiniD",
     "id": "minid",
-    "url": "/rows/minid.html"
+    "url": "/concepts/minid.html"
   },
   {
     "label": "Mindsdb",
     "id": "minidsdb",
-    "url": "/rows/minidsdb.html"
+    "url": "/concepts/minidsdb.html"
   },
   {
     "label": "minihaskell",
     "id": "minihaskell",
-    "url": "/rows/minihaskell.html"
+    "url": "/concepts/minihaskell.html"
   },
   {
     "label": "minikanren",
     "id": "minikanren",
-    "url": "/rows/minikanren.html"
+    "url": "/concepts/minikanren.html"
   },
   {
     "label": "Minilang",
     "id": "minilang",
-    "url": "/rows/minilang.html"
+    "url": "/concepts/minilang.html"
   },
   {
     "label": "miniML_error",
     "id": "miniml-error",
-    "url": "/rows/miniml-error.html"
+    "url": "/concepts/miniml-error.html"
   },
   {
     "label": "miniml",
     "id": "miniml",
-    "url": "/rows/miniml.html"
+    "url": "/concepts/miniml.html"
   },
   {
     "label": "MINION",
     "id": "minion",
-    "url": "/rows/minion.html"
+    "url": "/concepts/minion.html"
   },
   {
     "label": "miniprolog",
     "id": "miniprolog",
-    "url": "/rows/miniprolog.html"
+    "url": "/concepts/miniprolog.html"
   },
   {
     "label": "MINIVITAL",
     "id": "minivital",
-    "url": "/rows/minivital.html"
+    "url": "/concepts/minivital.html"
   },
   {
     "label": "MiniZinc",
     "id": "minizinc",
-    "url": "/rows/minizinc.html"
+    "url": "/concepts/minizinc.html"
   },
   {
     "label": "MINOPT",
     "id": "minopt",
-    "url": "/rows/minopt.html"
+    "url": "/concepts/minopt.html"
   },
   {
     "label": "mint",
     "id": "mint",
-    "url": "/rows/mint.html"
+    "url": "/concepts/mint.html"
   },
   {
     "label": "MIPS architecture",
     "id": "mips",
-    "url": "/rows/mips.html"
+    "url": "/concepts/mips.html"
   },
   {
     "label": "mir",
     "id": "mir",
-    "url": "/rows/mir.html"
+    "url": "/concepts/mir.html"
   },
   {
     "label": "MIRAGER",
     "id": "mirager",
-    "url": "/rows/mirager.html"
+    "url": "/concepts/mirager.html"
   },
   {
     "label": "Mirah",
     "id": "mirah",
-    "url": "/rows/mirah.html"
+    "url": "/concepts/mirah.html"
   },
   {
     "label": "Miranda",
     "id": "miranda",
-    "url": "/rows/miranda.html"
+    "url": "/concepts/miranda.html"
   },
   {
     "label": "Miranim",
     "id": "miranim",
-    "url": "/rows/miranim.html"
+    "url": "/concepts/miranim.html"
   },
   {
     "label": "MIRC scripting language",
     "id": "mirc",
-    "url": "/rows/mirc.html"
+    "url": "/concepts/mirc.html"
   },
   {
     "label": "MIRFAC",
     "id": "mirfac",
-    "url": "/rows/mirfac.html"
+    "url": "/concepts/mirfac.html"
   },
   {
     "label": "mirth",
     "id": "mirth",
-    "url": "/rows/mirth.html"
+    "url": "/concepts/mirth.html"
   },
   {
     "label": "miso-framework",
     "id": "miso-framework",
-    "url": "/rows/miso-framework.html"
+    "url": "/concepts/miso-framework.html"
   },
   {
     "label": "Miva",
     "id": "miva",
-    "url": "/rows/miva.html"
+    "url": "/concepts/miva.html"
   },
   {
     "label": "Mizar",
     "id": "mizar",
-    "url": "/rows/mizar.html"
+    "url": "/concepts/mizar.html"
   },
   {
     "label": "ML",
     "id": "ml",
-    "url": "/rows/ml.html"
+    "url": "/concepts/ml.html"
   },
   {
     "label": "MLAB",
     "id": "mlab",
-    "url": "/rows/mlab.html"
+    "url": "/concepts/mlab.html"
   },
   {
     "label": "mlatu",
     "id": "mlatu",
-    "url": "/rows/mlatu.html"
+    "url": "/concepts/mlatu.html"
   },
   {
     "label": "mlir",
     "id": "mlir",
-    "url": "/rows/mlir.html"
+    "url": "/concepts/mlir.html"
   },
   {
     "label": "MLISP2",
     "id": "mlisp2",
-    "url": "/rows/mlisp2.html"
+    "url": "/concepts/mlisp2.html"
   },
   {
     "label": "mlite",
     "id": "mlite",
-    "url": "/rows/mlite.html"
+    "url": "/concepts/mlite.html"
   },
   {
     "label": "mlpolyr",
     "id": "mlpolyr",
-    "url": "/rows/mlpolyr.html"
+    "url": "/concepts/mlpolyr.html"
   },
   {
     "label": "mmix",
     "id": "mmix",
-    "url": "/rows/mmix.html"
+    "url": "/concepts/mmix.html"
   },
   {
     "label": "mmsearch",
     "id": "mmsearch",
-    "url": "/rows/mmsearch.html"
+    "url": "/concepts/mmsearch.html"
   },
   {
     "label": "MMX instruction set",
     "id": "mmx",
-    "url": "/rows/mmx.html"
+    "url": "/concepts/mmx.html"
   },
   {
     "label": "Mobl",
     "id": "mobl-lang",
-    "url": "/rows/mobl-lang.html"
+    "url": "/concepts/mobl-lang.html"
   },
   {
     "label": "MOBL",
     "id": "mobl",
-    "url": "/rows/mobl.html"
+    "url": "/concepts/mobl.html"
   },
   {
     "label": "Moby",
     "id": "moby-programming-language",
-    "url": "/rows/moby-programming-language.html"
+    "url": "/concepts/moby-programming-language.html"
   },
   {
     "label": "mochajs",
     "id": "mochajs",
-    "url": "/rows/mochajs.html"
+    "url": "/concepts/mochajs.html"
   },
   {
     "label": "mochi",
     "id": "mochi",
-    "url": "/rows/mochi.html"
+    "url": "/concepts/mochi.html"
   },
   {
     "label": "mockingbird-notation",
     "id": "mockingbird-notation",
-    "url": "/rows/mockingbird-notation.html"
+    "url": "/concepts/mockingbird-notation.html"
   },
   {
     "label": "Mocklisp",
     "id": "mocklisp",
-    "url": "/rows/mocklisp.html"
+    "url": "/concepts/mocklisp.html"
   },
   {
     "label": "MODCAP",
     "id": "modcap",
-    "url": "/rows/modcap.html"
+    "url": "/concepts/modcap.html"
   },
   {
     "label": "Model 204",
     "id": "model-204",
-    "url": "/rows/model-204.html"
+    "url": "/concepts/model-204.html"
   },
   {
     "label": "MODEL-K",
     "id": "model-k",
-    "url": "/rows/model-k.html"
+    "url": "/concepts/model-k.html"
   },
   {
     "label": "Modelica",
     "id": "modelica",
-    "url": "/rows/modelica.html"
+    "url": "/concepts/modelica.html"
   },
   {
     "label": "modl",
     "id": "modl",
-    "url": "/rows/modl.html"
+    "url": "/concepts/modl.html"
   },
   {
     "label": "MODLISP",
     "id": "modlisp",
-    "url": "/rows/modlisp.html"
+    "url": "/concepts/modlisp.html"
   },
   {
     "label": "MODSIM III",
     "id": "modsim-iii",
-    "url": "/rows/modsim-iii.html"
+    "url": "/concepts/modsim-iii.html"
   },
   {
     "label": "Modula-2",
     "id": "modula-2",
-    "url": "/rows/modula-2.html"
+    "url": "/concepts/modula-2.html"
   },
   {
     "label": "Modula-2+",
     "id": "modula-2p",
-    "url": "/rows/modula-2p.html"
+    "url": "/concepts/modula-2p.html"
   },
   {
     "label": "Modula-3*",
     "id": "modula-3-star",
-    "url": "/rows/modula-3-star.html"
+    "url": "/concepts/modula-3-star.html"
   },
   {
     "label": "Modula-3",
     "id": "modula-3",
-    "url": "/rows/modula-3.html"
+    "url": "/concepts/modula-3.html"
   },
   {
     "label": "Modula-P",
     "id": "modula-p",
-    "url": "/rows/modula-p.html"
+    "url": "/concepts/modula-p.html"
   },
   {
     "label": "Modula/R",
     "id": "modula-r",
-    "url": "/rows/modula-r.html"
+    "url": "/concepts/modula-r.html"
   },
   {
     "label": "Modula",
     "id": "modula",
-    "url": "/rows/modula.html"
+    "url": "/concepts/modula.html"
   },
   {
     "label": "Modular Prolog",
     "id": "modular-prolog",
-    "url": "/rows/modular-prolog.html"
+    "url": "/concepts/modular-prolog.html"
   },
   {
     "label": "Module Management System",
     "id": "module-management-system",
-    "url": "/rows/module-management-system.html"
+    "url": "/concepts/module-management-system.html"
   },
   {
     "label": "Moescript",
     "id": "moescript",
-    "url": "/rows/moescript.html"
+    "url": "/concepts/moescript.html"
   },
   {
     "label": "moinmoin",
     "id": "moinmoin",
-    "url": "/rows/moinmoin.html"
+    "url": "/concepts/moinmoin.html"
   },
   {
     "label": "Mojo",
     "id": "mojo",
-    "url": "/rows/mojo.html"
+    "url": "/concepts/mojo.html"
   },
   {
     "label": "Molecular Query Language",
     "id": "molecular-query-language",
-    "url": "/rows/molecular-query-language.html"
+    "url": "/concepts/molecular-query-language.html"
   },
   {
     "label": "Molfile",
     "id": "molfile-format",
-    "url": "/rows/molfile-format.html"
+    "url": "/concepts/molfile-format.html"
   },
   {
     "label": "Molog",
     "id": "molog",
-    "url": "/rows/molog.html"
+    "url": "/concepts/molog.html"
   },
   {
     "label": "Monaco Editor",
     "id": "monaco",
-    "url": "/rows/monaco.html"
+    "url": "/concepts/monaco.html"
   },
   {
     "label": "Mond",
     "id": "mond",
-    "url": "/rows/mond.html"
+    "url": "/concepts/mond.html"
   },
   {
     "label": "Monesa",
     "id": "monesa",
-    "url": "/rows/monesa.html"
+    "url": "/concepts/monesa.html"
   },
   {
     "label": "MongoDB",
     "id": "mongodb",
-    "url": "/rows/mongodb.html"
+    "url": "/concepts/mongodb.html"
   },
   {
     "label": "Monkey",
     "id": "monkey",
-    "url": "/rows/monkey.html"
+    "url": "/concepts/monkey.html"
   },
   {
     "label": "MonoDevelop",
     "id": "monodevelop-editor",
-    "url": "/rows/monodevelop-editor.html"
+    "url": "/concepts/monodevelop-editor.html"
   },
   {
     "label": "monte",
     "id": "monte",
-    "url": "/rows/monte.html"
+    "url": "/concepts/monte.html"
   },
   {
     "label": "MOO",
     "id": "moo",
-    "url": "/rows/moo.html"
+    "url": "/concepts/moo.html"
   },
   {
     "label": "MINI OBJECT-ORIENTED LANGUAGE",
     "id": "mool",
-    "url": "/rows/mool.html"
+    "url": "/concepts/mool.html"
   },
   {
     "label": "Moonrock Basic Compiler",
     "id": "moonrock-basic-compiler",
-    "url": "/rows/moonrock-basic-compiler.html"
+    "url": "/concepts/moonrock-basic-compiler.html"
   },
   {
     "label": "MoonScript",
     "id": "moonscript",
-    "url": "/rows/moonscript.html"
+    "url": "/concepts/moonscript.html"
   },
   {
     "label": "MOOSE",
     "id": "moose",
-    "url": "/rows/moose.html"
+    "url": "/concepts/moose.html"
   },
   {
     "label": "morfa",
     "id": "morfa",
-    "url": "/rows/morfa.html"
+    "url": "/concepts/morfa.html"
   },
   {
     "label": "Morfik",
     "id": "morfik",
-    "url": "/rows/morfik.html"
+    "url": "/concepts/morfik.html"
   },
   {
     "label": "Morphe",
     "id": "morphe",
-    "url": "/rows/morphe.html"
+    "url": "/concepts/morphe.html"
   },
   {
     "label": "MORPHISM",
     "id": "morphism",
-    "url": "/rows/morphism.html"
+    "url": "/concepts/morphism.html"
   },
   {
     "label": "Morse code",
     "id": "morse-code",
-    "url": "/rows/morse-code.html"
+    "url": "/concepts/morse-code.html"
   },
   {
     "label": "Mortran",
     "id": "mortran",
-    "url": "/rows/mortran.html"
+    "url": "/concepts/mortran.html"
   },
   {
     "label": "Motif",
     "id": "motif-software",
-    "url": "/rows/motif-software.html"
+    "url": "/concepts/motif-software.html"
   },
   {
     "label": "mountain",
     "id": "mountain",
-    "url": "/rows/mountain.html"
+    "url": "/concepts/mountain.html"
   },
   {
     "label": "Mouse",
     "id": "mouse",
-    "url": "/rows/mouse.html"
+    "url": "/concepts/mouse.html"
   },
   {
     "label": "MOUSE4",
     "id": "mouse4",
-    "url": "/rows/mouse4.html"
+    "url": "/concepts/mouse4.html"
   },
   {
     "label": "Moxie",
     "id": "moxie",
-    "url": "/rows/moxie.html"
+    "url": "/concepts/moxie.html"
   },
   {
     "label": "moya",
     "id": "moya",
-    "url": "/rows/moya.html"
+    "url": "/concepts/moya.html"
   },
   {
     "label": "MP3",
     "id": "mp3-format",
-    "url": "/rows/mp3-format.html"
+    "url": "/concepts/mp3-format.html"
   },
   {
     "label": "MPGS",
     "id": "mpgs",
-    "url": "/rows/mpgs.html"
+    "url": "/concepts/mpgs.html"
   },
   {
     "label": "mpl",
     "id": "mpl",
-    "url": "/rows/mpl.html"
+    "url": "/concepts/mpl.html"
   },
   {
     "label": "MPS",
     "id": "mps",
-    "url": "/rows/mps.html"
+    "url": "/concepts/mps.html"
   },
   {
     "label": "MPSX",
     "id": "mpsx",
-    "url": "/rows/mpsx.html"
+    "url": "/concepts/mpsx.html"
   },
   {
     "label": "MQL5",
     "id": "mql",
-    "url": "/rows/mql.html"
+    "url": "/concepts/mql.html"
   },
   {
     "label": "Message Queuing Telemetry Transport",
     "id": "mqtt",
-    "url": "/rows/mqtt.html"
+    "url": "/concepts/mqtt.html"
   },
   {
     "label": "MRDB",
     "id": "mrdb",
-    "url": "/rows/mrdb.html"
+    "url": "/concepts/mrdb.html"
   },
   {
     "label": "MS2",
     "id": "ms2",
-    "url": "/rows/ms2.html"
+    "url": "/concepts/ms2.html"
   },
   {
     "label": "Mscgen",
     "id": "mscgen",
-    "url": "/rows/mscgen.html"
+    "url": "/concepts/mscgen.html"
   },
   {
     "label": "MSG.84",
     "id": "msg-84",
-    "url": "/rows/msg-84.html"
+    "url": "/concepts/msg-84.html"
   },
   {
     "label": "MSL",
     "id": "msl",
-    "url": "/rows/msl.html"
+    "url": "/concepts/msl.html"
   },
   {
     "label": "TI MSP430",
     "id": "msp430",
-    "url": "/rows/msp430.html"
+    "url": "/concepts/msp430.html"
   },
   {
     "label": "MSX BASIC",
     "id": "msx-basic",
-    "url": "/rows/msx-basic.html"
+    "url": "/concepts/msx-basic.html"
   },
   {
     "label": "Marine Trading Markup Language",
     "id": "mtml",
-    "url": "/rows/mtml.html"
+    "url": "/concepts/mtml.html"
   },
   {
     "label": "Mu",
     "id": "mu",
-    "url": "/rows/mu.html"
+    "url": "/concepts/mu.html"
   },
   {
     "label": "MUDDL",
     "id": "muddl",
-    "url": "/rows/muddl.html"
+    "url": "/concepts/muddl.html"
   },
   {
     "label": "Mudlle",
     "id": "mudlle",
-    "url": "/rows/mudlle.html"
+    "url": "/concepts/mudlle.html"
   },
   {
     "label": "Multi-User Forth",
     "id": "muf",
-    "url": "/rows/muf.html"
+    "url": "/concepts/muf.html"
   },
   {
     "label": "muFP",
     "id": "mufp",
-    "url": "/rows/mufp.html"
+    "url": "/concepts/mufp.html"
   },
   {
     "label": "Mul-T",
     "id": "mul-t",
-    "url": "/rows/mul-t.html"
+    "url": "/concepts/mul-t.html"
   },
   {
     "label": "Multi-user BASIC",
     "id": "multi-user-basic",
-    "url": "/rows/multi-user-basic.html"
+    "url": "/concepts/multi-user-basic.html"
   },
   {
     "label": "multiaddr",
     "id": "multiaddr",
-    "url": "/rows/multiaddr.html"
+    "url": "/concepts/multiaddr.html"
   },
   {
     "label": "multibase",
     "id": "multibase",
-    "url": "/rows/multibase.html"
+    "url": "/concepts/multibase.html"
   },
   {
     "label": "multicodec",
     "id": "multicodec",
-    "url": "/rows/multicodec.html"
+    "url": "/concepts/multicodec.html"
   },
   {
     "label": "Multics",
     "id": "multics",
-    "url": "/rows/multics.html"
+    "url": "/concepts/multics.html"
   },
   {
     "label": "Multigame",
     "id": "multigame",
-    "url": "/rows/multigame.html"
+    "url": "/concepts/multigame.html"
   },
   {
     "label": "Multihash",
     "id": "multihash-hash-function",
-    "url": "/rows/multihash-hash-function.html"
+    "url": "/concepts/multihash-hash-function.html"
   },
   {
     "label": "muMath",
     "id": "mumath",
-    "url": "/rows/mumath.html"
+    "url": "/concepts/mumath.html"
   },
   {
     "label": "MUMPS",
     "id": "mumps",
-    "url": "/rows/mumps.html"
+    "url": "/concepts/mumps.html"
   },
   {
     "label": "MUMS",
     "id": "mums",
-    "url": "/rows/mums.html"
+    "url": "/concepts/mums.html"
   },
   {
     "label": "mun-lang",
     "id": "mun-lang",
-    "url": "/rows/mun-lang.html"
+    "url": "/concepts/mun-lang.html"
   },
   {
     "label": "MUNIN",
     "id": "munin",
-    "url": "/rows/munin.html"
+    "url": "/concepts/munin.html"
   },
   {
     "label": "muon",
     "id": "muon",
-    "url": "/rows/muon.html"
+    "url": "/concepts/muon.html"
   },
   {
     "label": "muPad",
     "id": "mupad",
-    "url": "/rows/mupad.html"
+    "url": "/concepts/mupad.html"
   },
   {
     "label": "MurmurHash",
     "id": "murmur-hash-function",
-    "url": "/rows/murmur-hash-function.html"
+    "url": "/concepts/murmur-hash-function.html"
   },
   {
     "label": "Mushroom",
     "id": "mushroom",
-    "url": "/rows/mushroom.html"
+    "url": "/concepts/mushroom.html"
   },
   {
     "label": "MUSIC/SP",
     "id": "music-sp",
-    "url": "/rows/music-sp.html"
+    "url": "/concepts/music-sp.html"
   },
   {
     "label": "MusicXML",
     "id": "musicxml",
-    "url": "/rows/musicxml.html"
+    "url": "/concepts/musicxml.html"
   },
   {
     "label": "MuSimp",
     "id": "musimp",
-    "url": "/rows/musimp.html"
+    "url": "/concepts/musimp.html"
   },
   {
     "label": "MUSP",
     "id": "musp",
-    "url": "/rows/musp.html"
+    "url": "/concepts/musp.html"
   },
   {
     "label": "mustache",
     "id": "mustache",
-    "url": "/rows/mustache.html"
+    "url": "/concepts/mustache.html"
   },
   {
     "label": "MUSYS",
     "id": "musys",
-    "url": "/rows/musys.html"
+    "url": "/concepts/musys.html"
   },
   {
     "label": "MVEL",
     "id": "mvel",
-    "url": "/rows/mvel.html"
+    "url": "/concepts/mvel.html"
   },
   {
     "label": "MVL",
     "id": "mvl",
-    "url": "/rows/mvl.html"
+    "url": "/concepts/mvl.html"
   },
   {
     "label": "MXML",
     "id": "mxml",
-    "url": "/rows/mxml.html"
+    "url": "/concepts/mxml.html"
   },
   {
     "label": "MyBB",
     "id": "mybb",
-    "url": "/rows/mybb.html"
+    "url": "/concepts/mybb.html"
   },
   {
     "label": "mycroft",
     "id": "mycroft",
-    "url": "/rows/mycroft.html"
+    "url": "/concepts/mycroft.html"
   },
   {
     "label": "Myghty",
     "id": "myghty",
-    "url": "/rows/myghty.html"
+    "url": "/concepts/myghty.html"
   },
   {
     "label": "myia",
     "id": "myia",
-    "url": "/rows/myia.html"
+    "url": "/concepts/myia.html"
   },
   {
     "label": "mypy",
     "id": "mypy",
-    "url": "/rows/mypy.html"
+    "url": "/concepts/mypy.html"
   },
   {
     "label": "myrddin",
     "id": "myrddin",
-    "url": "/rows/myrddin.html"
+    "url": "/concepts/myrddin.html"
   },
   {
     "label": "mys",
     "id": "mys",
-    "url": "/rows/mys.html"
+    "url": "/concepts/mys.html"
   },
   {
     "label": "MySQL",
     "id": "mysql",
-    "url": "/rows/mysql.html"
+    "url": "/concepts/mysql.html"
   },
   {
     "label": "mythryl",
     "id": "mythryl",
-    "url": "/rows/mythryl.html"
+    "url": "/concepts/mythryl.html"
   },
   {
     "label": "N-Prolog",
     "id": "n-prolog",
-    "url": "/rows/n-prolog.html"
+    "url": "/concepts/n-prolog.html"
   },
   {
     "label": "N-Triples",
     "id": "n-triples",
-    "url": "/rows/n-triples.html"
+    "url": "/concepts/n-triples.html"
   },
   {
     "label": "N",
     "id": "n",
-    "url": "/rows/n.html"
+    "url": "/concepts/n.html"
   },
   {
     "label": "Nadesiko",
     "id": "nadesiko",
-    "url": "/rows/nadesiko.html"
+    "url": "/concepts/nadesiko.html"
   },
   {
     "label": "Nail",
     "id": "nail",
-    "url": "/rows/nail.html"
+    "url": "/concepts/nail.html"
   },
   {
     "label": "NAKL",
     "id": "nakl",
-    "url": "/rows/nakl.html"
+    "url": "/concepts/nakl.html"
   },
   {
     "label": "GNU nano",
     "id": "nano-editor",
-    "url": "/rows/nano-editor.html"
+    "url": "/concepts/nano-editor.html"
   },
   {
     "label": "Napier88",
     "id": "napier88",
-    "url": "/rows/napier88.html"
+    "url": "/concepts/napier88.html"
   },
   {
     "label": "NAPSS",
     "id": "napss",
-    "url": "/rows/napss.html"
+    "url": "/concepts/napss.html"
   },
   {
     "label": "NARPL",
     "id": "narpl",
-    "url": "/rows/narpl.html"
+    "url": "/concepts/narpl.html"
   },
   {
     "label": "Nasal",
     "id": "nasal",
-    "url": "/rows/nasal.html"
+    "url": "/concepts/nasal.html"
   },
   {
     "label": "Netwide Assembler",
     "id": "nasm",
-    "url": "/rows/nasm.html"
+    "url": "/concepts/nasm.html"
   },
   {
     "label": "Nassi-Shneiderman charts",
     "id": "nassi-shneiderman-charts",
-    "url": "/rows/nassi-shneiderman-charts.html"
+    "url": "/concepts/nassi-shneiderman-charts.html"
   },
   {
     "label": "NSS",
     "id": "native-structured-storage",
-    "url": "/rows/native-structured-storage.html"
+    "url": "/concepts/native-structured-storage.html"
   },
   {
     "label": "NATO phonetic alphabet",
     "id": "nato-phonetic-alphabet",
-    "url": "/rows/nato-phonetic-alphabet.html"
+    "url": "/concepts/nato-phonetic-alphabet.html"
   },
   {
     "label": "NATURAL",
     "id": "natural",
-    "url": "/rows/natural.html"
+    "url": "/concepts/natural.html"
   },
   {
     "label": "Navier-Stokes Equation",
     "id": "navier-stokes-equation",
-    "url": "/rows/navier-stokes-equation.html"
+    "url": "/concepts/navier-stokes-equation.html"
   },
   {
     "label": "New AWK",
     "id": "nawk",
-    "url": "/rows/nawk.html"
+    "url": "/concepts/nawk.html"
   },
   {
     "label": "NCAR Command Language",
     "id": "ncar-command-language",
-    "url": "/rows/ncar-command-language.html"
+    "url": "/concepts/ncar-command-language.html"
   },
   {
     "label": "NCAR Command Language",
     "id": "ncl",
-    "url": "/rows/ncl.html"
+    "url": "/concepts/ncl.html"
   },
   {
     "label": "NDL",
     "id": "ndl",
-    "url": "/rows/ndl.html"
+    "url": "/concepts/ndl.html"
   },
   {
     "label": "Nearley",
     "id": "nearley",
-    "url": "/rows/nearley.html"
+    "url": "/concepts/nearley.html"
   },
   {
     "label": "NEATER 2",
     "id": "neater",
-    "url": "/rows/neater.html"
+    "url": "/concepts/neater.html"
   },
   {
     "label": "NEBULA",
     "id": "nebula",
-    "url": "/rows/nebula.html"
+    "url": "/concepts/nebula.html"
   },
   {
     "label": "nectar",
     "id": "nectar",
-    "url": "/rows/nectar.html"
+    "url": "/concepts/nectar.html"
   },
   {
     "label": "neeilang",
     "id": "neeilang",
-    "url": "/rows/neeilang.html"
+    "url": "/concepts/neeilang.html"
   },
   {
     "label": "Neko",
     "id": "neko",
-    "url": "/rows/neko.html"
+    "url": "/concepts/neko.html"
   },
   {
     "label": "NELIAC",
     "id": "neliac",
-    "url": "/rows/neliac.html"
+    "url": "/concepts/neliac.html"
   },
   {
     "label": "Nelua",
     "id": "nelua",
-    "url": "/rows/nelua.html"
+    "url": "/concepts/nelua.html"
   },
   {
     "label": "Nemerle",
     "id": "nemerle",
-    "url": "/rows/nemerle.html"
+    "url": "/concepts/nemerle.html"
   },
   {
     "label": "Neo4j",
     "id": "neo4j",
-    "url": "/rows/neo4j.html"
+    "url": "/concepts/neo4j.html"
   },
   {
     "label": "neovim-editor",
     "id": "neovim-editor",
-    "url": "/rows/neovim-editor.html"
+    "url": "/concepts/neovim-editor.html"
   },
   {
     "label": "neralie-format",
     "id": "neralie-format",
-    "url": "/rows/neralie-format.html"
+    "url": "/concepts/neralie-format.html"
   },
   {
     "label": "nesC",
     "id": "nesc",
-    "url": "/rows/nesc.html"
+    "url": "/concepts/nesc.html"
   },
   {
     "label": "NESL",
     "id": "nesl",
-    "url": "/rows/nesl.html"
+    "url": "/concepts/nesl.html"
   },
   {
     "label": "Ness",
     "id": "ness",
-    "url": "/rows/ness.html"
+    "url": "/concepts/ness.html"
   },
   {
     "label": "Nested Context Language",
     "id": "nested-context-language",
-    "url": "/rows/nested-context-language.html"
+    "url": "/concepts/nested-context-language.html"
   },
   {
     "label": "NestedText",
     "id": "nestedtext",
-    "url": "/rows/nestedtext.html"
+    "url": "/concepts/nestedtext.html"
   },
   {
     "label": "net-format",
     "id": "net-format",
-    "url": "/rows/net-format.html"
+    "url": "/concepts/net-format.html"
   },
   {
     "label": "NetBasic",
     "id": "netbasic",
-    "url": "/rows/netbasic.html"
+    "url": "/concepts/netbasic.html"
   },
   {
     "label": "netbeans-editor",
     "id": "netbeans-editor",
-    "url": "/rows/netbeans-editor.html"
+    "url": "/concepts/netbeans-editor.html"
   },
   {
     "label": "Netform",
     "id": "netform",
-    "url": "/rows/netform.html"
+    "url": "/concepts/netform.html"
   },
   {
     "label": "Netlib",
     "id": "netlib",
-    "url": "/rows/netlib.html"
+    "url": "/concepts/netlib.html"
   },
   {
     "label": "NetLinx",
     "id": "netlinx",
-    "url": "/rows/netlinx.html"
+    "url": "/concepts/netlinx.html"
   },
   {
     "label": "NetLogo",
     "id": "netlogo",
-    "url": "/rows/netlogo.html"
+    "url": "/concepts/netlogo.html"
   },
   {
     "label": "NetRexx",
     "id": "netrexx",
-    "url": "/rows/netrexx.html"
+    "url": "/concepts/netrexx.html"
   },
   {
     "label": "Netscript",
     "id": "netscript",
-    "url": "/rows/netscript.html"
+    "url": "/concepts/netscript.html"
   },
   {
     "label": "Network Control Language",
     "id": "network-control-language",
-    "url": "/rows/network-control-language.html"
+    "url": "/concepts/network-control-language.html"
   },
   {
     "label": "NeuronC",
     "id": "neuronc",
-    "url": "/rows/neuronc.html"
+    "url": "/concepts/neuronc.html"
   },
   {
     "label": "neut",
     "id": "neut",
-    "url": "/rows/neut.html"
+    "url": "/concepts/neut.html"
   },
   {
     "label": "neutron",
     "id": "neutron",
-    "url": "/rows/neutron.html"
+    "url": "/concepts/neutron.html"
   },
   {
     "label": "never",
     "id": "never",
-    "url": "/rows/never.html"
+    "url": "/concepts/never.html"
   },
   {
     "label": "newclay",
     "id": "newclay",
-    "url": "/rows/newclay.html"
+    "url": "/concepts/newclay.html"
   },
   {
     "label": "Newick format",
     "id": "newick-format",
-    "url": "/rows/newick-format.html"
+    "url": "/concepts/newick-format.html"
   },
   {
     "label": "NewLisp",
     "id": "newlisp",
-    "url": "/rows/newlisp.html"
+    "url": "/concepts/newlisp.html"
   },
   {
     "label": "NEWP",
     "id": "newp",
-    "url": "/rows/newp.html"
+    "url": "/concepts/newp.html"
   },
   {
     "label": "Newspeak",
     "id": "newspeak",
-    "url": "/rows/newspeak.html"
+    "url": "/concepts/newspeak.html"
   },
   {
     "label": "Newsqueak",
     "id": "newsqueak",
-    "url": "/rows/newsqueak.html"
+    "url": "/concepts/newsqueak.html"
   },
   {
     "label": "Newton",
     "id": "newton",
-    "url": "/rows/newton.html"
+    "url": "/concepts/newton.html"
   },
   {
     "label": "NewtonScript",
     "id": "newtonscript",
-    "url": "/rows/newtonscript.html"
+    "url": "/concepts/newtonscript.html"
   },
   {
     "label": "NeXML format",
     "id": "nexml",
-    "url": "/rows/nexml.html"
+    "url": "/concepts/nexml.html"
   },
   {
     "label": "Nextflow",
     "id": "nextflow",
-    "url": "/rows/nextflow.html"
+    "url": "/concepts/nextflow.html"
   },
   {
     "label": "Nexus file",
     "id": "nexus-format",
-    "url": "/rows/nexus-format.html"
+    "url": "/concepts/nexus-format.html"
   },
   {
     "label": "NFQL",
     "id": "nfql",
-    "url": "/rows/nfql.html"
+    "url": "/concepts/nfql.html"
   },
   {
     "label": "Nginx",
     "id": "nginx-config",
-    "url": "/rows/nginx-config.html"
+    "url": "/concepts/nginx-config.html"
   },
   {
     "label": "NGL",
     "id": "ngl-programming-language",
-    "url": "/rows/ngl-programming-language.html"
+    "url": "/concepts/ngl-programming-language.html"
   },
   {
     "label": "Noms GraphQL",
     "id": "ngql",
-    "url": "/rows/ngql.html"
+    "url": "/concepts/ngql.html"
   },
   {
     "label": "NGS",
     "id": "ngs",
-    "url": "/rows/ngs.html"
+    "url": "/concepts/ngs.html"
   },
   {
     "label": "The New Hampshire X Format",
     "id": "nhx",
-    "url": "/rows/nhx.html"
+    "url": "/concepts/nhx.html"
   },
   {
     "label": "Nial",
     "id": "nial",
-    "url": "/rows/nial.html"
+    "url": "/concepts/nial.html"
   },
   {
     "label": "nianiolang",
     "id": "nianiolang",
-    "url": "/rows/nianiolang.html"
+    "url": "/concepts/nianiolang.html"
   },
   {
     "label": "Nice",
     "id": "nice",
-    "url": "/rows/nice.html"
+    "url": "/concepts/nice.html"
   },
   {
     "label": "Nickle",
     "id": "nickle",
-    "url": "/rows/nickle.html"
+    "url": "/concepts/nickle.html"
   },
   {
     "label": "NIKL",
     "id": "nikl",
-    "url": "/rows/nikl.html"
+    "url": "/concepts/nikl.html"
   },
   {
     "label": "NIL",
     "id": "nil",
-    "url": "/rows/nil.html"
+    "url": "/concepts/nil.html"
   },
   {
     "label": "NilScript",
     "id": "nilscript",
-    "url": "/rows/nilscript.html"
+    "url": "/concepts/nilscript.html"
   },
   {
     "label": "Nim",
     "id": "nim",
-    "url": "/rows/nim.html"
+    "url": "/concepts/nim.html"
   },
   {
     "label": "nimble-pm",
     "id": "nimble-pm",
-    "url": "/rows/nimble-pm.html"
+    "url": "/concepts/nimble-pm.html"
   },
   {
     "label": "nimrod",
     "id": "nimrod",
-    "url": "/rows/nimrod.html"
+    "url": "/concepts/nimrod.html"
   },
   {
     "label": "Nimskull",
     "id": "nimskull",
-    "url": "/rows/nimskull.html"
+    "url": "/concepts/nimskull.html"
   },
   {
     "label": "Ninja",
     "id": "ninja",
-    "url": "/rows/ninja.html"
+    "url": "/concepts/ninja.html"
   },
   {
     "label": "Nios II",
     "id": "nios",
-    "url": "/rows/nios.html"
+    "url": "/concepts/nios.html"
   },
   {
     "label": "nirvana",
     "id": "nirvana",
-    "url": "/rows/nirvana.html"
+    "url": "/concepts/nirvana.html"
   },
   {
     "label": "Nit",
     "id": "nit",
-    "url": "/rows/nit.html"
+    "url": "/concepts/nit.html"
   },
   {
     "label": "Nix",
     "id": "nix",
-    "url": "/rows/nix.html"
+    "url": "/concepts/nix.html"
   },
   {
     "label": "NixOS",
     "id": "nixos",
-    "url": "/rows/nixos.html"
+    "url": "/concepts/nixos.html"
   },
   {
     "label": "NJCL",
     "id": "njcl",
-    "url": "/rows/njcl.html"
+    "url": "/concepts/njcl.html"
   },
   {
     "label": "NL",
     "id": "nl",
-    "url": "/rows/nl.html"
+    "url": "/concepts/nl.html"
   },
   {
     "label": "nlpl",
     "id": "nlpl",
-    "url": "/rows/nlpl.html"
+    "url": "/concepts/nlpl.html"
   },
   {
     "label": "Natural Language Toolkit",
     "id": "nltk",
-    "url": "/rows/nltk.html"
+    "url": "/concepts/nltk.html"
   },
   {
     "label": "nML",
     "id": "nml",
-    "url": "/rows/nml.html"
+    "url": "/concepts/nml.html"
   },
   {
     "label": "NOAH",
     "id": "noah",
-    "url": "/rows/noah.html"
+    "url": "/concepts/noah.html"
   },
   {
     "label": "NODAL",
     "id": "nodal",
-    "url": "/rows/nodal.html"
+    "url": "/concepts/nodal.html"
   },
   {
     "label": "Node.js",
     "id": "nodejs",
-    "url": "/rows/nodejs.html"
+    "url": "/concepts/nodejs.html"
   },
   {
     "label": "noisecraft",
     "id": "noisecraft",
-    "url": "/rows/noisecraft.html"
+    "url": "/concepts/noisecraft.html"
   },
   {
     "label": "Nomad software",
     "id": "nomad-software",
-    "url": "/rows/nomad-software.html"
+    "url": "/concepts/nomad-software.html"
   },
   {
     "label": "noms-db",
     "id": "noms-db",
-    "url": "/rows/noms-db.html"
+    "url": "/concepts/noms-db.html"
   },
   {
     "label": "none",
     "id": "none",
-    "url": "/rows/none.html"
+    "url": "/concepts/none.html"
   },
   {
     "label": "Noodle",
     "id": "noodle",
-    "url": "/rows/noodle.html"
+    "url": "/concepts/noodle.html"
   },
   {
     "label": "NOP-2",
     "id": "nop-2",
-    "url": "/rows/nop-2.html"
+    "url": "/concepts/nop-2.html"
   },
   {
     "label": "Nord Programming Language",
     "id": "nord",
-    "url": "/rows/nord.html"
+    "url": "/concepts/nord.html"
   },
   {
     "label": "Normal Distribution Equation",
     "id": "normal-distribution-equation",
-    "url": "/rows/normal-distribution-equation.html"
+    "url": "/concepts/normal-distribution-equation.html"
   },
   {
     "label": "NorthStar BASIC",
     "id": "northstar-basic",
-    "url": "/rows/northstar-basic.html"
+    "url": "/concepts/northstar-basic.html"
   },
   {
     "label": "Nosica",
     "id": "nosica",
-    "url": "/rows/nosica.html"
+    "url": "/concepts/nosica.html"
   },
   {
     "label": "Notation3",
     "id": "notation3",
-    "url": "/rows/notation3.html"
+    "url": "/concepts/notation3.html"
   },
   {
     "label": "Note",
     "id": "note",
-    "url": "/rows/note.html"
+    "url": "/concepts/note.html"
   },
   {
     "label": "Microsoft Notepad",
     "id": "notepad-editor",
-    "url": "/rows/notepad-editor.html"
+    "url": "/concepts/notepad-editor.html"
   },
   {
     "label": "Notepad++",
     "id": "notepad-plus-plus-editor",
-    "url": "/rows/notepad-plus-plus-editor.html"
+    "url": "/concepts/notepad-plus-plus-editor.html"
   },
   {
     "label": "noulith",
     "id": "noulith",
-    "url": "/rows/noulith.html"
+    "url": "/concepts/noulith.html"
   },
   {
     "label": "Nova",
     "id": "nova-editor",
-    "url": "/rows/nova-editor.html"
+    "url": "/concepts/nova-editor.html"
   },
   {
     "label": "Noweb",
     "id": "noweb",
-    "url": "/rows/noweb.html"
+    "url": "/concepts/noweb.html"
   },
   {
     "label": "np",
     "id": "np",
-    "url": "/rows/np.html"
+    "url": "/concepts/np.html"
   },
   {
     "label": "NPL",
     "id": "npl-lang",
-    "url": "/rows/npl-lang.html"
+    "url": "/concepts/npl-lang.html"
   },
   {
     "label": "NPL",
     "id": "npl",
-    "url": "/rows/npl.html"
+    "url": "/concepts/npl.html"
   },
   {
     "label": "npm",
     "id": "npm-pm",
-    "url": "/rows/npm-pm.html"
+    "url": "/concepts/npm-pm.html"
   },
   {
     "label": "npy",
     "id": "npy",
-    "url": "/rows/npy.html"
+    "url": "/concepts/npy.html"
   },
   {
     "label": "Not Quite C",
     "id": "nqc",
-    "url": "/rows/nqc.html"
+    "url": "/concepts/nqc.html"
   },
   {
     "label": "Namespace Routing Language",
     "id": "nrl",
-    "url": "/rows/nrl.html"
+    "url": "/concepts/nrl.html"
   },
   {
     "label": "nroff",
     "id": "nroff",
-    "url": "/rows/nroff.html"
+    "url": "/concepts/nroff.html"
   },
   {
     "label": "NS Basic",
     "id": "ns-basic",
-    "url": "/rows/ns-basic.html"
+    "url": "/concepts/ns-basic.html"
   },
   {
     "label": "NSIS",
     "id": "nsis",
-    "url": "/rows/nsis.html"
+    "url": "/concepts/nsis.html"
   },
   {
     "label": "NSL",
     "id": "nsl",
-    "url": "/rows/nsl.html"
+    "url": "/concepts/nsl.html"
   },
   {
     "label": "New Technology File System",
     "id": "ntfs",
-    "url": "/rows/ntfs.html"
+    "url": "/concepts/ntfs.html"
   },
   {
     "label": "Network Time Protocol",
     "id": "ntp",
-    "url": "/rows/ntp.html"
+    "url": "/concepts/ntp.html"
   },
   {
     "label": "NU-Prolog",
     "id": "nu-prolog",
-    "url": "/rows/nu-prolog.html"
+    "url": "/concepts/nu-prolog.html"
   },
   {
     "label": "Nu",
     "id": "nu",
-    "url": "/rows/nu.html"
+    "url": "/concepts/nu.html"
   },
   {
     "label": "NUA-Prolog",
     "id": "nua-prolog",
-    "url": "/rows/nua-prolog.html"
+    "url": "/concepts/nua-prolog.html"
   },
   {
     "label": "NuGet",
     "id": "nuget-pm",
-    "url": "/rows/nuget-pm.html"
+    "url": "/concepts/nuget-pm.html"
   },
   {
     "label": "Navigational User's Language",
     "id": "nul-lang",
-    "url": "/rows/nul-lang.html"
+    "url": "/concepts/nul-lang.html"
   },
   {
     "label": "nulan",
     "id": "nulan",
-    "url": "/rows/nulan.html"
+    "url": "/concepts/nulan.html"
   },
   {
     "label": "Numba",
     "id": "numba",
-    "url": "/rows/numba.html"
+    "url": "/concepts/numba.html"
   },
   {
     "label": "Numbers",
     "id": "numbers-app",
-    "url": "/rows/numbers-app.html"
+    "url": "/concepts/numbers-app.html"
   },
   {
     "label": "Numerica",
     "id": "numerica",
-    "url": "/rows/numerica.html"
+    "url": "/concepts/numerica.html"
   },
   {
     "label": "NumPad",
     "id": "numpad",
-    "url": "/rows/numpad.html"
+    "url": "/concepts/numpad.html"
   },
   {
     "label": "NumPy",
     "id": "numpy",
-    "url": "/rows/numpy.html"
+    "url": "/concepts/numpy.html"
   },
   {
     "label": "Nuprl",
     "id": "nuprl",
-    "url": "/rows/nuprl.html"
+    "url": "/concepts/nuprl.html"
   },
   {
     "label": "Nushell",
     "id": "nushell",
-    "url": "/rows/nushell.html"
+    "url": "/concepts/nushell.html"
   },
   {
     "label": "NUT",
     "id": "nut",
-    "url": "/rows/nut.html"
+    "url": "/concepts/nut.html"
   },
   {
     "label": "Nuua",
     "id": "nuua",
-    "url": "/rows/nuua.html"
+    "url": "/concepts/nuua.html"
   },
   {
     "label": "Namespace-based Validation Dispatching Language",
     "id": "nvdl",
-    "url": "/rows/nvdl.html"
+    "url": "/concepts/nvdl.html"
   },
   {
     "label": "NWScript",
     "id": "nwscript",
-    "url": "/rows/nwscript.html"
+    "url": "/concepts/nwscript.html"
   },
   {
     "label": "Not eXactly C",
     "id": "nxc",
-    "url": "/rows/nxc.html"
+    "url": "/concepts/nxc.html"
   },
   {
     "label": "NXT-G",
     "id": "nxt-g",
-    "url": "/rows/nxt-g.html"
+    "url": "/concepts/nxt-g.html"
   },
   {
     "label": "nydp",
     "id": "nydp",
-    "url": "/rows/nydp.html"
+    "url": "/concepts/nydp.html"
   },
   {
     "label": "nylo",
     "id": "nylo",
-    "url": "/rows/nylo.html"
+    "url": "/concepts/nylo.html"
   },
   {
     "label": "Nymph",
     "id": "nymph",
-    "url": "/rows/nymph.html"
+    "url": "/concepts/nymph.html"
   },
   {
     "label": "Nyquist",
     "id": "nyquist",
-    "url": "/rows/nyquist.html"
+    "url": "/concepts/nyquist.html"
   },
   {
     "label": "O-Matrix",
     "id": "o-matrix",
-    "url": "/rows/o-matrix.html"
+    "url": "/concepts/o-matrix.html"
   },
   {
     "label": "o:XML",
     "id": "o-xml",
-    "url": "/rows/o-xml.html"
+    "url": "/concepts/o-xml.html"
   },
   {
     "label": "O",
     "id": "o",
-    "url": "/rows/o.html"
+    "url": "/concepts/o.html"
   },
   {
     "label": "o2",
     "id": "o2",
-    "url": "/rows/o2.html"
+    "url": "/concepts/o2.html"
   },
   {
     "label": "o42a",
     "id": "o42a",
-    "url": "/rows/o42a.html"
+    "url": "/concepts/o42a.html"
   },
   {
     "label": "Oak",
     "id": "oak",
-    "url": "/rows/oak.html"
+    "url": "/concepts/oak.html"
   },
   {
     "label": "Oaklisp",
     "id": "oaklisp",
-    "url": "/rows/oaklisp.html"
+    "url": "/concepts/oaklisp.html"
   },
   {
     "label": "oasis-operating-system",
     "id": "oasis-operating-system",
-    "url": "/rows/oasis-operating-system.html"
+    "url": "/concepts/oasis-operating-system.html"
   },
   {
     "label": "OASIS",
     "id": "oasis",
-    "url": "/rows/oasis.html"
+    "url": "/concepts/oasis.html"
   },
   {
     "label": "Oberon-2",
     "id": "oberon-2",
-    "url": "/rows/oberon-2.html"
+    "url": "/concepts/oberon-2.html"
   },
   {
     "label": "Oberon",
     "id": "oberon",
-    "url": "/rows/oberon.html"
+    "url": "/concepts/oberon.html"
   },
   {
     "label": "OBJ",
     "id": "obj",
-    "url": "/rows/obj.html"
+    "url": "/concepts/obj.html"
   },
   {
     "label": "OBJ2",
     "id": "obj2",
-    "url": "/rows/obj2.html"
+    "url": "/concepts/obj2.html"
   },
   {
     "label": "ObjDump",
     "id": "objdump",
-    "url": "/rows/objdump.html"
+    "url": "/concepts/objdump.html"
   },
   {
     "label": "Object Definition Language",
     "id": "object-definition-language",
-    "url": "/rows/object-definition-language.html"
+    "url": "/concepts/object-definition-language.html"
   },
   {
     "label": "Object Oberon",
     "id": "object-oberon",
-    "url": "/rows/object-oberon.html"
+    "url": "/concepts/object-oberon.html"
   },
   {
     "label": "Object Pascal",
     "id": "object-pascal",
-    "url": "/rows/object-pascal.html"
+    "url": "/concepts/object-pascal.html"
   },
   {
     "label": "OQL",
     "id": "object-query-language",
-    "url": "/rows/object-query-language.html"
+    "url": "/concepts/object-query-language.html"
   },
   {
     "label": "Object Rexx",
     "id": "object-rexx",
-    "url": "/rows/object-rexx.html"
+    "url": "/concepts/object-rexx.html"
   },
   {
     "label": "Object-Z",
     "id": "object-z",
-    "url": "/rows/object-z.html"
+    "url": "/concepts/object-z.html"
   },
   {
     "label": "Objectcharts",
     "id": "objectcharts",
-    "url": "/rows/objectcharts.html"
+    "url": "/concepts/objectcharts.html"
   },
   {
     "label": "Objective-C",
     "id": "objective-c",
-    "url": "/rows/objective-c.html"
+    "url": "/concepts/objective-c.html"
   },
   {
     "label": "Objective C++",
     "id": "objective-cpp",
-    "url": "/rows/objective-cpp.html"
+    "url": "/concepts/objective-cpp.html"
   },
   {
     "label": "Objective-J",
     "id": "objective-j",
-    "url": "/rows/objective-j.html"
+    "url": "/concepts/objective-j.html"
   },
   {
     "label": "objective-modula-2",
     "id": "objective-modula-2",
-    "url": "/rows/objective-modula-2.html"
+    "url": "/concepts/objective-modula-2.html"
   },
   {
     "label": "Objective-S",
     "id": "objective-s",
-    "url": "/rows/objective-s.html"
+    "url": "/concepts/objective-s.html"
   },
   {
     "label": "ObjectLOGO",
     "id": "objectlogo",
-    "url": "/rows/objectlogo.html"
+    "url": "/concepts/objectlogo.html"
   },
   {
     "label": "ObjectPAL",
     "id": "objectpal",
-    "url": "/rows/objectpal.html"
+    "url": "/concepts/objectpal.html"
   },
   {
     "label": "ObjectScript",
     "id": "objectscript",
-    "url": "/rows/objectscript.html"
+    "url": "/concepts/objectscript.html"
   },
   {
     "label": "ObjectWorld",
     "id": "objectworld",
-    "url": "/rows/objectworld.html"
+    "url": "/concepts/objectworld.html"
   },
   {
     "label": "ObjVlisp",
     "id": "objvlisp",
-    "url": "/rows/objvlisp.html"
+    "url": "/concepts/objvlisp.html"
   },
   {
     "label": "ObjVProlog",
     "id": "objvprolog",
-    "url": "/rows/objvprolog.html"
+    "url": "/concepts/objvprolog.html"
   },
   {
     "label": "Obliq",
     "id": "obliq",
-    "url": "/rows/obliq.html"
+    "url": "/concepts/obliq.html"
   },
   {
     "label": "OBSCURE",
     "id": "obscure",
-    "url": "/rows/obscure.html"
+    "url": "/concepts/obscure.html"
   },
   {
     "label": "Observable",
     "id": "observable-lang",
-    "url": "/rows/observable-lang.html"
+    "url": "/concepts/observable-lang.html"
   },
   {
     "label": "obsidian",
     "id": "obsidian",
-    "url": "/rows/obsidian.html"
+    "url": "/concepts/obsidian.html"
   },
   {
     "label": "OCaml",
     "id": "ocaml",
-    "url": "/rows/ocaml.html"
+    "url": "/concepts/ocaml.html"
   },
   {
     "label": "Occam 2",
     "id": "occam-2",
-    "url": "/rows/occam-2.html"
+    "url": "/concepts/occam-2.html"
   },
   {
     "label": "Occam π",
     "id": "occam-pi",
-    "url": "/rows/occam-pi.html"
+    "url": "/concepts/occam-pi.html"
   },
   {
     "label": "Occam",
     "id": "occam",
-    "url": "/rows/occam.html"
+    "url": "/concepts/occam.html"
   },
   {
     "label": "OCL",
     "id": "ocl",
-    "url": "/rows/ocl.html"
+    "url": "/concepts/ocl.html"
   },
   {
     "label": "GNU Octave",
     "id": "octave",
-    "url": "/rows/octave.html"
+    "url": "/concepts/octave.html"
   },
   {
     "label": "Octopus",
     "id": "octopus",
-    "url": "/rows/octopus.html"
+    "url": "/concepts/octopus.html"
   },
   {
     "label": "Octune",
     "id": "octune",
-    "url": "/rows/octune.html"
+    "url": "/concepts/octune.html"
   },
   {
     "label": "Open Data Protcol",
     "id": "odata",
-    "url": "/rows/odata.html"
+    "url": "/concepts/odata.html"
   },
   {
     "label": "Open Database Connectivity",
     "id": "odbc",
-    "url": "/rows/odbc.html"
+    "url": "/concepts/odbc.html"
   },
   {
     "label": "oden",
     "id": "oden",
-    "url": "/rows/oden.html"
+    "url": "/concepts/oden.html"
   },
   {
     "label": "odin",
     "id": "odin",
-    "url": "/rows/odin.html"
+    "url": "/concepts/odin.html"
   },
   {
     "label": "ODRL",
     "id": "odrl",
-    "url": "/rows/odrl.html"
+    "url": "/concepts/odrl.html"
   },
   {
     "label": "OEM",
     "id": "oem",
-    "url": "/rows/oem.html"
+    "url": "/concepts/oem.html"
   },
   {
     "label": "OFL",
     "id": "ofl",
-    "url": "/rows/ofl.html"
+    "url": "/concepts/ofl.html"
   },
   {
     "label": "oforth",
     "id": "oforth",
-    "url": "/rows/oforth.html"
+    "url": "/concepts/oforth.html"
   },
   {
     "label": "Open Financial Exchange",
     "id": "ofx",
-    "url": "/rows/ofx.html"
+    "url": "/concepts/ofx.html"
   },
   {
     "label": "Ordered graph data language",
     "id": "ogdl",
-    "url": "/rows/ogdl.html"
+    "url": "/concepts/ogdl.html"
   },
   {
     "label": "OGNL",
     "id": "ognl",
-    "url": "/rows/ognl.html"
+    "url": "/concepts/ognl.html"
   },
   {
     "label": "O'Haskell",
     "id": "ohaskell",
-    "url": "/rows/ohaskell.html"
+    "url": "/concepts/ohaskell.html"
   },
   {
     "label": "Ohayo",
     "id": "ohayo",
-    "url": "/rows/ohayo.html"
+    "url": "/concepts/ohayo.html"
   },
   {
     "label": "ohm",
     "id": "ohm",
-    "url": "/rows/ohm.html"
+    "url": "/concepts/ohm.html"
   },
   {
     "label": "oil",
     "id": "oil",
-    "url": "/rows/oil.html"
+    "url": "/concepts/oil.html"
   },
   {
     "label": "OK",
     "id": "ok",
-    "url": "/rows/ok.html"
+    "url": "/concepts/ok.html"
   },
   {
     "label": "OLDAS",
     "id": "oldas",
-    "url": "/rows/oldas.html"
+    "url": "/concepts/oldas.html"
   },
   {
     "label": "Object Linking and Embedding",
     "id": "ole-protocol",
-    "url": "/rows/ole-protocol.html"
+    "url": "/concepts/ole-protocol.html"
   },
   {
     "label": "OLGA",
     "id": "olga",
-    "url": "/rows/olga.html"
+    "url": "/concepts/olga.html"
   },
   {
     "label": "OLI",
     "id": "oli",
-    "url": "/rows/oli.html"
+    "url": "/concepts/oli.html"
   },
   {
     "label": "OLIVER",
     "id": "oliver",
-    "url": "/rows/oliver.html"
+    "url": "/concepts/oliver.html"
   },
   {
     "label": "olog",
     "id": "olog",
-    "url": "/rows/olog.html"
+    "url": "/concepts/olog.html"
   },
   {
     "label": "Om",
     "id": "om",
-    "url": "/rows/om.html"
+    "url": "/concepts/om.html"
   },
   {
     "label": "OMAR",
     "id": "omar",
-    "url": "/rows/omar.html"
+    "url": "/concepts/omar.html"
   },
   {
     "label": "omega",
     "id": "omega",
-    "url": "/rows/omega.html"
+    "url": "/concepts/omega.html"
   },
   {
     "label": "OMeta",
     "id": "ometa",
-    "url": "/rows/ometa.html"
+    "url": "/concepts/ometa.html"
   },
   {
     "label": "OMG IDL",
     "id": "omg-idl",
-    "url": "/rows/omg-idl.html"
+    "url": "/concepts/omg-idl.html"
   },
   {
     "label": "Omgrofl",
     "id": "omgrofl",
-    "url": "/rows/omgrofl.html"
+    "url": "/concepts/omgrofl.html"
   },
   {
     "label": "Omikron BASIC",
     "id": "omikron-basic",
-    "url": "/rows/omikron-basic.html"
+    "url": "/concepts/omikron-basic.html"
   },
   {
     "label": "OMNIMARK",
     "id": "omnimark",
-    "url": "/rows/omnimark.html"
+    "url": "/concepts/omnimark.html"
   },
   {
     "label": "Omnis Studio",
     "id": "omnis-studio",
-    "url": "/rows/omnis-studio.html"
+    "url": "/concepts/omnis-studio.html"
   },
   {
     "label": "OMNITAB 80",
     "id": "omnitab-80",
-    "url": "/rows/omnitab-80.html"
+    "url": "/concepts/omnitab-80.html"
   },
   {
     "label": "OMNITAB II",
     "id": "omnitab-ii",
-    "url": "/rows/omnitab-ii.html"
+    "url": "/concepts/omnitab-ii.html"
   },
   {
     "label": "OMNITAB",
     "id": "omnitab",
-    "url": "/rows/omnitab.html"
+    "url": "/concepts/omnitab.html"
   },
   {
     "label": "One-man-language",
     "id": "one-man-language",
-    "url": "/rows/one-man-language.html"
+    "url": "/concepts/one-man-language.html"
   },
   {
     "label": "onex",
     "id": "onex",
-    "url": "/rows/onex.html"
+    "url": "/concepts/onex.html"
   },
   {
     "label": "oniguruma",
     "id": "oniguruma",
-    "url": "/rows/oniguruma.html"
+    "url": "/concepts/oniguruma.html"
   },
   {
     "label": "onnx",
     "id": "onnx",
-    "url": "/rows/onnx.html"
+    "url": "/concepts/onnx.html"
   },
   {
     "label": "Onyx",
     "id": "onyx",
-    "url": "/rows/onyx.html"
+    "url": "/concepts/onyx.html"
   },
   {
     "label": "ooc",
     "id": "ooc",
-    "url": "/rows/ooc.html"
+    "url": "/concepts/ooc.html"
   },
   {
     "label": "Ook",
     "id": "ook",
-    "url": "/rows/ook.html"
+    "url": "/concepts/ook.html"
   },
   {
     "label": "OOLP",
     "id": "oolp",
-    "url": "/rows/oolp.html"
+    "url": "/concepts/oolp.html"
   },
   {
     "label": "OOPAL",
     "id": "oopal",
-    "url": "/rows/oopal.html"
+    "url": "/concepts/oopal.html"
   },
   {
     "label": "OOPS",
     "id": "oops",
-    "url": "/rows/oops.html"
+    "url": "/concepts/oops.html"
   },
   {
     "label": "oopsilon",
     "id": "oopsilon",
-    "url": "/rows/oopsilon.html"
+    "url": "/concepts/oopsilon.html"
   },
   {
     "label": "OOPS+",
     "id": "oopsp",
-    "url": "/rows/oopsp.html"
+    "url": "/concepts/oopsp.html"
   },
   {
     "label": "Office Open XML",
     "id": "ooxml",
-    "url": "/rows/ooxml.html"
+    "url": "/concepts/ooxml.html"
   },
   {
     "label": "Opa",
     "id": "opa",
-    "url": "/rows/opa.html"
+    "url": "/concepts/opa.html"
   },
   {
     "label": "Opal",
     "id": "opal",
-    "url": "/rows/opal.html"
+    "url": "/concepts/opal.html"
   },
   {
     "label": "opam-pm",
     "id": "opam-pm",
-    "url": "/rows/opam-pm.html"
+    "url": "/concepts/opam-pm.html"
   },
   {
     "label": "OpenNN",
     "id": "open-nn",
-    "url": "/rows/open-nn.html"
+    "url": "/concepts/open-nn.html"
   },
   {
     "label": "Open Shading Language",
     "id": "open-shading-language",
-    "url": "/rows/open-shading-language.html"
+    "url": "/concepts/open-shading-language.html"
   },
   {
     "label": "OpenAda",
     "id": "openada",
-    "url": "/rows/openada.html"
+    "url": "/concepts/openada.html"
   },
   {
     "label": "OpenCL",
     "id": "opencl",
-    "url": "/rows/opencl.html"
+    "url": "/concepts/opencl.html"
   },
   {
     "label": "OpenComal",
     "id": "opencomal",
-    "url": "/rows/opencomal.html"
+    "url": "/concepts/opencomal.html"
   },
   {
     "label": "OpenDoc",
     "id": "opendoc-protocol",
-    "url": "/rows/opendoc-protocol.html"
+    "url": "/concepts/opendoc-protocol.html"
   },
   {
     "label": "OpenEdge ABL",
     "id": "openedge-advanced-business-language",
-    "url": "/rows/openedge-advanced-business-language.html"
+    "url": "/concepts/openedge-advanced-business-language.html"
   },
   {
     "label": "OpenEXR",
     "id": "openexr-format",
-    "url": "/rows/openexr-format.html"
+    "url": "/concepts/openexr-format.html"
   },
   {
     "label": "OpenGL",
     "id": "opengl",
-    "url": "/rows/opengl.html"
+    "url": "/concepts/opengl.html"
   },
   {
     "label": "opengraph",
     "id": "opengraph",
-    "url": "/rows/opengraph.html"
+    "url": "/concepts/opengraph.html"
   },
   {
     "label": "OpenLisp",
     "id": "openlisp",
-    "url": "/rows/openlisp.html"
+    "url": "/concepts/openlisp.html"
   },
   {
     "label": "OpenMusic",
     "id": "openmusic",
-    "url": "/rows/openmusic.html"
+    "url": "/concepts/openmusic.html"
   },
   {
     "label": "OpenRC runscript",
     "id": "openrc-runscript",
-    "url": "/rows/openrc-runscript.html"
+    "url": "/concepts/openrc-runscript.html"
   },
   {
     "label": "OpenROAD",
     "id": "openroad",
-    "url": "/rows/openroad.html"
+    "url": "/concepts/openroad.html"
   },
   {
     "label": "OpenSCAD",
     "id": "openscad",
-    "url": "/rows/openscad.html"
+    "url": "/concepts/openscad.html"
   },
   {
     "label": "OpenSpice",
     "id": "openspice",
-    "url": "/rows/openspice.html"
+    "url": "/concepts/openspice.html"
   },
   {
     "label": "OpenType Feature File",
     "id": "opentype-feature-file",
-    "url": "/rows/opentype-feature-file.html"
+    "url": "/concepts/opentype-feature-file.html"
   },
   {
     "label": "OpenVera",
     "id": "openvera",
-    "url": "/rows/openvera.html"
+    "url": "/concepts/openvera.html"
   },
   {
     "label": "Operational Control Language",
     "id": "operational-control-language",
-    "url": "/rows/operational-control-language.html"
+    "url": "/concepts/operational-control-language.html"
   },
   {
     "label": "operon",
     "id": "operon",
-    "url": "/rows/operon.html"
+    "url": "/concepts/operon.html"
   },
   {
     "label": "OPL",
     "id": "opl-langage-informatique",
-    "url": "/rows/opl-langage-informatique.html"
+    "url": "/concepts/opl-langage-informatique.html"
   },
   {
     "label": "OPL",
     "id": "opl",
-    "url": "/rows/opl.html"
+    "url": "/concepts/opl.html"
   },
   {
     "label": "O++",
     "id": "opp",
-    "url": "/rows/opp.html"
+    "url": "/concepts/opp.html"
   },
   {
     "label": "OPS-3",
     "id": "ops-3",
-    "url": "/rows/ops-3.html"
+    "url": "/concepts/ops-3.html"
   },
   {
     "label": "OPS",
     "id": "ops",
-    "url": "/rows/ops.html"
+    "url": "/concepts/ops.html"
   },
   {
     "label": "OPS5",
     "id": "ops5",
-    "url": "/rows/ops5.html"
+    "url": "/concepts/ops5.html"
   },
   {
     "label": "Optimization Programming Language",
     "id": "optimization-programming-language",
-    "url": "/rows/optimization-programming-language.html"
+    "url": "/concepts/optimization-programming-language.html"
   },
   {
     "label": "Optimized Systems Software",
     "id": "optimized-systems-software",
-    "url": "/rows/optimized-systems-software.html"
+    "url": "/concepts/optimized-systems-software.html"
   },
   {
     "label": "OptimJ",
     "id": "optimj",
-    "url": "/rows/optimj.html"
+    "url": "/concepts/optimj.html"
   },
   {
     "label": "Oracle Java",
     "id": "oracle-java",
-    "url": "/rows/oracle-java.html"
+    "url": "/concepts/oracle-java.html"
   },
   {
     "label": "Oracle",
     "id": "oracle",
-    "url": "/rows/oracle.html"
+    "url": "/concepts/oracle.html"
   },
   {
     "label": "orange",
     "id": "orange",
-    "url": "/rows/orange.html"
+    "url": "/concepts/orange.html"
   },
   {
     "label": "Optimized Row Columnar",
     "id": "orc-format",
-    "url": "/rows/orc-format.html"
+    "url": "/concepts/orc-format.html"
   },
   {
     "label": "Orc",
     "id": "orc-lang",
-    "url": "/rows/orc-lang.html"
+    "url": "/concepts/orc-lang.html"
   },
   {
     "label": "orca-lang",
     "id": "orca-lang",
-    "url": "/rows/orca-lang.html"
+    "url": "/concepts/orca-lang.html"
   },
   {
     "label": "orca-pl",
     "id": "orca-pl",
-    "url": "/rows/orca-pl.html"
+    "url": "/concepts/orca-pl.html"
   },
   {
     "label": "orca",
     "id": "orca",
-    "url": "/rows/orca.html"
+    "url": "/concepts/orca.html"
   },
   {
     "label": "order",
     "id": "order",
-    "url": "/rows/order.html"
+    "url": "/concepts/order.html"
   },
   {
     "label": "OREGANO",
     "id": "oregano",
-    "url": "/rows/oregano.html"
+    "url": "/concepts/oregano.html"
   },
   {
     "label": "Org",
     "id": "org",
-    "url": "/rows/org.html"
+    "url": "/concepts/org.html"
   },
   {
     "label": "OrientDB",
     "id": "orient-db",
-    "url": "/rows/orient-db.html"
+    "url": "/concepts/orient-db.html"
   },
   {
     "label": "Orient84/K",
     "id": "orient84-k",
-    "url": "/rows/orient84-k.html"
+    "url": "/concepts/orient84-k.html"
   },
   {
     "label": "Orlog",
     "id": "orlog",
-    "url": "/rows/orlog.html"
+    "url": "/concepts/orlog.html"
   },
   {
     "label": "OSIRIS",
     "id": "osiris",
-    "url": "/rows/osiris.html"
+    "url": "/concepts/osiris.html"
   },
   {
     "label": "OSL/2",
     "id": "osl-2",
-    "url": "/rows/osl-2.html"
+    "url": "/concepts/osl-2.html"
   },
   {
     "label": "Object-oriented Structured Query Language",
     "id": "osql",
-    "url": "/rows/osql.html"
+    "url": "/concepts/osql.html"
   },
   {
     "label": "Ottawa Euclid",
     "id": "ottawa-euclid",
-    "url": "/rows/ottawa-euclid.html"
+    "url": "/concepts/ottawa-euclid.html"
   },
   {
     "label": "Otter",
     "id": "otter",
-    "url": "/rows/otter.html"
+    "url": "/concepts/otter.html"
   },
   {
     "label": "OWBasic",
     "id": "owbasic",
-    "url": "/rows/owbasic.html"
+    "url": "/concepts/owbasic.html"
   },
   {
     "label": "owen-lang",
     "id": "owen-lang",
-    "url": "/rows/owen-lang.html"
+    "url": "/concepts/owen-lang.html"
   },
   {
     "label": "OWL DL",
     "id": "owl-dl",
-    "url": "/rows/owl-dl.html"
+    "url": "/concepts/owl-dl.html"
   },
   {
     "label": "OWL",
     "id": "owl",
-    "url": "/rows/owl.html"
+    "url": "/concepts/owl.html"
   },
   {
     "label": "OX",
     "id": "ox",
-    "url": "/rows/ox.html"
+    "url": "/concepts/ox.html"
   },
   {
     "label": "Oxide",
     "id": "oxide",
-    "url": "/rows/oxide.html"
+    "url": "/concepts/oxide.html"
   },
   {
     "label": "Oxygene",
     "id": "oxygene",
-    "url": "/rows/oxygene.html"
+    "url": "/concepts/oxygene.html"
   },
   {
     "label": "Oxyl",
     "id": "oxyl",
-    "url": "/rows/oxyl.html"
+    "url": "/concepts/oxyl.html"
   },
   {
     "label": "Oz",
     "id": "oz",
-    "url": "/rows/oz.html"
+    "url": "/concepts/oz.html"
   },
   {
     "label": "P/CL",
     "id": "p-cl",
-    "url": "/rows/p-cl.html"
+    "url": "/concepts/p-cl.html"
   },
   {
     "label": "P-Prolog",
     "id": "p-prolog",
-    "url": "/rows/p-prolog.html"
+    "url": "/concepts/p-prolog.html"
   },
   {
     "label": "P*",
     "id": "p-star",
-    "url": "/rows/p-star.html"
+    "url": "/concepts/p-star.html"
   },
   {
     "label": "P-TAC",
     "id": "p-tac",
-    "url": "/rows/p-tac.html"
+    "url": "/concepts/p-tac.html"
   },
   {
     "label": "P",
     "id": "p",
-    "url": "/rows/p.html"
+    "url": "/concepts/p.html"
   },
   {
     "label": "P3L",
     "id": "p3l",
-    "url": "/rows/p3l.html"
+    "url": "/concepts/p3l.html"
   },
   {
     "label": "P4",
     "id": "p4",
-    "url": "/rows/p4.html"
+    "url": "/concepts/p4.html"
   },
   {
     "label": "p4p",
     "id": "p4p",
-    "url": "/rows/p4p.html"
+    "url": "/concepts/p4p.html"
   },
   {
     "label": "package-control-pm",
     "id": "package-control-pm",
-    "url": "/rows/package-control-pm.html"
+    "url": "/concepts/package-control-pm.html"
   },
   {
     "label": "packagist-pm",
     "id": "packagist-pm",
-    "url": "/rows/packagist-pm.html"
+    "url": "/concepts/packagist-pm.html"
   },
   {
     "label": "PacmanConf",
     "id": "pacmanconf",
-    "url": "/rows/pacmanconf.html"
+    "url": "/concepts/pacmanconf.html"
   },
   {
     "label": "PACOL",
     "id": "pacol",
-    "url": "/rows/pacol.html"
+    "url": "/concepts/pacol.html"
   },
   {
     "label": "PACT I",
     "id": "pact-i",
-    "url": "/rows/pact-i.html"
+    "url": "/concepts/pact-i.html"
   },
   {
     "label": "PACT IA",
     "id": "pact-ia",
-    "url": "/rows/pact-ia.html"
+    "url": "/concepts/pact-ia.html"
   },
   {
     "label": "Pact",
     "id": "pact",
-    "url": "/rows/pact.html"
+    "url": "/concepts/pact.html"
   },
   {
     "label": "PACTOLUS",
     "id": "pactolus",
-    "url": "/rows/pactolus.html"
+    "url": "/concepts/pactolus.html"
   },
   {
     "label": "PADL-1",
     "id": "padl-1",
-    "url": "/rows/padl-1.html"
+    "url": "/concepts/padl-1.html"
   },
   {
     "label": "PaiLisp",
     "id": "pailisp",
-    "url": "/rows/pailisp.html"
+    "url": "/concepts/pailisp.html"
   },
   {
     "label": "PAISley",
     "id": "paisley",
-    "url": "/rows/paisley.html"
+    "url": "/concepts/paisley.html"
   },
   {
     "label": "PALASM",
     "id": "palasm",
-    "url": "/rows/palasm.html"
+    "url": "/concepts/palasm.html"
   },
   {
     "label": "PALcode",
     "id": "palcode",
-    "url": "/rows/palcode.html"
+    "url": "/concepts/palcode.html"
   },
   {
     "label": "Palingol",
     "id": "palingol",
-    "url": "/rows/palingol.html"
+    "url": "/concepts/palingol.html"
   },
   {
     "label": "PAMELA",
     "id": "pamela",
-    "url": "/rows/pamela.html"
+    "url": "/concepts/pamela.html"
   },
   {
     "label": "Pan",
     "id": "pan",
-    "url": "/rows/pan.html"
+    "url": "/concepts/pan.html"
   },
   {
     "label": "PANCODE",
     "id": "pancode",
-    "url": "/rows/pancode.html"
+    "url": "/concepts/pancode.html"
   },
   {
     "label": "Pandas",
     "id": "pandas",
-    "url": "/rows/pandas.html"
+    "url": "/concepts/pandas.html"
   },
   {
     "label": "Pandoc",
     "id": "pandoc-app",
-    "url": "/rows/pandoc-app.html"
+    "url": "/concepts/pandoc-app.html"
   },
   {
     "label": "Pandora",
     "id": "pandora",
-    "url": "/rows/pandora.html"
+    "url": "/concepts/pandora.html"
   },
   {
     "label": "PANON-1",
     "id": "panon-1",
-    "url": "/rows/panon-1.html"
+    "url": "/concepts/panon-1.html"
   },
   {
     "label": "PANON-1B",
     "id": "panon-1b",
-    "url": "/rows/panon-1b.html"
+    "url": "/concepts/panon-1b.html"
   },
   {
     "label": "panther-lang",
     "id": "panther-lang",
-    "url": "/rows/panther-lang.html"
+    "url": "/concepts/panther-lang.html"
   },
   {
     "label": "paperalgo",
     "id": "paperalgo",
-    "url": "/rows/paperalgo.html"
+    "url": "/concepts/paperalgo.html"
   },
   {
     "label": "Papyrus",
     "id": "papyrus",
-    "url": "/rows/papyrus.html"
+    "url": "/concepts/papyrus.html"
   },
   {
     "label": "par",
     "id": "par",
-    "url": "/rows/par.html"
+    "url": "/concepts/par.html"
   },
   {
     "label": "Paragon",
     "id": "paragon",
-    "url": "/rows/paragon.html"
+    "url": "/concepts/paragon.html"
   },
   {
     "label": "Parallax Propeller",
     "id": "parallax-propeller",
-    "url": "/rows/parallax-propeller.html"
+    "url": "/concepts/parallax-propeller.html"
   },
   {
     "label": "Parallel ELLPACK",
     "id": "parallel-ellpack",
-    "url": "/rows/parallel-ellpack.html"
+    "url": "/concepts/parallel-ellpack.html"
   },
   {
     "label": "Parallel Pascal",
     "id": "parallel-pascal",
-    "url": "/rows/parallel-pascal.html"
+    "url": "/concepts/parallel-pascal.html"
   },
   {
     "label": "ParaLog_e",
     "id": "paralog-e",
-    "url": "/rows/paralog-e.html"
+    "url": "/concepts/paralog-e.html"
   },
   {
     "label": "parasail",
     "id": "parasail",
-    "url": "/rows/parasail.html"
+    "url": "/concepts/parasail.html"
   },
   {
     "label": "Parasolid",
     "id": "parasolid",
-    "url": "/rows/parasolid.html"
+    "url": "/concepts/parasolid.html"
   },
   {
     "label": "Parenscript",
     "id": "parenscript",
-    "url": "/rows/parenscript.html"
+    "url": "/concepts/parenscript.html"
   },
   {
     "label": "parenthetic",
     "id": "parenthetic",
-    "url": "/rows/parenthetic.html"
+    "url": "/concepts/parenthetic.html"
   },
   {
     "label": "PARI/GP",
     "id": "pari-gp",
-    "url": "/rows/pari-gp.html"
+    "url": "/concepts/pari-gp.html"
   },
   {
     "label": "Parlog",
     "id": "parlog",
-    "url": "/rows/parlog.html"
+    "url": "/concepts/parlog.html"
   },
   {
     "label": "ParMod",
     "id": "parmod",
-    "url": "/rows/parmod.html"
+    "url": "/concepts/parmod.html"
   },
   {
     "label": "parquet",
     "id": "parquet",
-    "url": "/rows/parquet.html"
+    "url": "/concepts/parquet.html"
   },
   {
     "label": "Parrot Assembly",
     "id": "parrot-assembly",
-    "url": "/rows/parrot-assembly.html"
+    "url": "/concepts/parrot-assembly.html"
   },
   {
     "label": "Parrot BASIC",
     "id": "parrot-basic",
-    "url": "/rows/parrot-basic.html"
+    "url": "/concepts/parrot-basic.html"
   },
   {
     "label": "PIR",
     "id": "parrot-internal-representation",
-    "url": "/rows/parrot-internal-representation.html"
+    "url": "/concepts/parrot-internal-representation.html"
   },
   {
     "label": "Parrot",
     "id": "parrot-vm",
-    "url": "/rows/parrot-vm.html"
+    "url": "/concepts/parrot-vm.html"
   },
   {
     "label": "Parse Tree Notation",
     "id": "parse-tree-notation",
-    "url": "/rows/parse-tree-notation.html"
+    "url": "/concepts/parse-tree-notation.html"
   },
   {
     "label": "Parser 3",
     "id": "parser",
-    "url": "/rows/parser.html"
+    "url": "/concepts/parser.html"
   },
   {
     "label": "partiql",
     "id": "partiql",
-    "url": "/rows/partiql.html"
+    "url": "/concepts/partiql.html"
   },
   {
     "label": "PascalABC.NET",
     "id": "pascal-abc.net",
-    "url": "/rows/pascal-abc.net.html"
+    "url": "/concepts/pascal-abc.net.html"
   },
   {
     "label": "Pascal-FC",
     "id": "pascal-fc",
-    "url": "/rows/pascal-fc.html"
+    "url": "/concepts/pascal-fc.html"
   },
   {
     "label": "PASCAL-I",
     "id": "pascal-i",
-    "url": "/rows/pascal-i.html"
+    "url": "/concepts/pascal-i.html"
   },
   {
     "label": "PASCAL/MT+",
     "id": "pascal-mtp",
-    "url": "/rows/pascal-mtp.html"
+    "url": "/concepts/pascal-mtp.html"
   },
   {
     "label": "Pascal Plus",
     "id": "pascal-plus",
-    "url": "/rows/pascal-plus.html"
+    "url": "/concepts/pascal-plus.html"
   },
   {
     "label": "Pascal-S",
     "id": "pascal-s",
-    "url": "/rows/pascal-s.html"
+    "url": "/concepts/pascal-s.html"
   },
   {
     "label": "Pascal-SC",
     "id": "pascal-sc",
-    "url": "/rows/pascal-sc.html"
+    "url": "/concepts/pascal-sc.html"
   },
   {
     "label": "Pascal Script",
     "id": "pascal-script",
-    "url": "/rows/pascal-script.html"
+    "url": "/concepts/pascal-script.html"
   },
   {
     "label": "Pascal-XSC",
     "id": "pascal-xsc",
-    "url": "/rows/pascal-xsc.html"
+    "url": "/concepts/pascal-xsc.html"
   },
   {
     "label": "Pascal",
     "id": "pascal",
-    "url": "/rows/pascal.html"
+    "url": "/concepts/pascal.html"
   },
   {
     "label": "Pascal's calculator",
     "id": "pascals-calculator-machine",
-    "url": "/rows/pascals-calculator-machine.html"
+    "url": "/concepts/pascals-calculator-machine.html"
   },
   {
     "label": "PASION",
     "id": "pasion",
-    "url": "/rows/pasion.html"
+    "url": "/concepts/pasion.html"
   },
   {
     "label": "PASRO",
     "id": "pasro",
-    "url": "/rows/pasro.html"
+    "url": "/concepts/pasro.html"
   },
   {
     "label": "passambler",
     "id": "passambler",
-    "url": "/rows/passambler.html"
+    "url": "/concepts/passambler.html"
   },
   {
     "label": "Passerine",
     "id": "passerine",
-    "url": "/rows/passerine.html"
+    "url": "/concepts/passerine.html"
   },
   {
     "label": "pasukon",
     "id": "pasukon",
-    "url": "/rows/pasukon.html"
+    "url": "/concepts/pasukon.html"
   },
   {
     "label": "patch",
     "id": "patch",
-    "url": "/rows/patch.html"
+    "url": "/concepts/patch.html"
   },
   {
     "label": "Patchwork",
     "id": "patchwork",
-    "url": "/rows/patchwork.html"
+    "url": "/concepts/patchwork.html"
   },
   {
     "label": "Path Pascal",
     "id": "path-pascal",
-    "url": "/rows/path-pascal.html"
+    "url": "/concepts/path-pascal.html"
   },
   {
     "label": "Pawn",
     "id": "pawn-scripting-language",
-    "url": "/rows/pawn-scripting-language.html"
+    "url": "/concepts/pawn-scripting-language.html"
   },
   {
     "label": "PAWN",
     "id": "pawn",
-    "url": "/rows/pawn.html"
+    "url": "/concepts/pawn.html"
   },
   {
     "label": "paxScript",
     "id": "paxscript",
-    "url": "/rows/paxscript.html"
+    "url": "/concepts/paxscript.html"
   },
   {
     "label": "PBASIC",
     "id": "pbasic",
-    "url": "/rows/pbasic.html"
+    "url": "/concepts/pbasic.html"
   },
   {
     "label": "Portable Bit Map Format",
     "id": "pbm-format",
-    "url": "/rows/pbm-format.html"
+    "url": "/concepts/pbm-format.html"
   },
   {
     "label": "Omega",
     "id": "pbt-omega",
-    "url": "/rows/pbt-omega.html"
+    "url": "/concepts/pbt-omega.html"
   },
   {
     "label": "PCLOS",
     "id": "pclos",
-    "url": "/rows/pclos.html"
+    "url": "/concepts/pclos.html"
   },
   {
     "label": "PCN",
     "id": "pcn",
-    "url": "/rows/pcn.html"
+    "url": "/concepts/pcn.html"
   },
   {
     "label": "PCOL",
     "id": "pcol",
-    "url": "/rows/pcol.html"
+    "url": "/concepts/pcol.html"
   },
   {
     "label": "pC++",
     "id": "pcpp",
-    "url": "/rows/pcpp.html"
+    "url": "/concepts/pcpp.html"
   },
   {
     "label": "PCrap",
     "id": "pcrap",
-    "url": "/rows/pcrap.html"
+    "url": "/concepts/pcrap.html"
   },
   {
     "label": "PCRE",
     "id": "pcre",
-    "url": "/rows/pcre.html"
+    "url": "/concepts/pcre.html"
   },
   {
     "label": "Partial Differential Equation Language",
     "id": "pdel",
-    "url": "/rows/pdel.html"
+    "url": "/concepts/pdel.html"
   },
   {
     "label": "PDF",
     "id": "pdf",
-    "url": "/rows/pdf.html"
+    "url": "/concepts/pdf.html"
   },
   {
     "label": "PDL/Ada",
     "id": "pdl-ada",
-    "url": "/rows/pdl-ada.html"
+    "url": "/concepts/pdl-ada.html"
   },
   {
     "label": "PDL",
     "id": "pdl",
-    "url": "/rows/pdl.html"
+    "url": "/concepts/pdl.html"
   },
   {
     "label": "PDP-11",
     "id": "pdp-11-machine",
-    "url": "/rows/pdp-11-machine.html"
+    "url": "/concepts/pdp-11-machine.html"
   },
   {
     "label": "PEAR",
     "id": "pear-pm",
-    "url": "/rows/pear-pm.html"
+    "url": "/concepts/pear-pm.html"
   },
   {
     "label": "PEARL",
     "id": "pearl",
-    "url": "/rows/pearl.html"
+    "url": "/concepts/pearl.html"
   },
   {
     "label": "PearScript",
     "id": "pearscript",
-    "url": "/rows/pearscript.html"
+    "url": "/concepts/pearscript.html"
   },
   {
     "label": "Pearson correlation coefficient equation",
     "id": "pearson-correlation-coefficient-equation",
-    "url": "/rows/pearson-correlation-coefficient-equation.html"
+    "url": "/concepts/pearson-correlation-coefficient-equation.html"
   },
   {
     "label": "Pebble",
     "id": "pebble",
-    "url": "/rows/pebble.html"
+    "url": "/concepts/pebble.html"
   },
   {
     "label": "PEG",
     "id": "peg",
-    "url": "/rows/peg.html"
+    "url": "/concepts/peg.html"
   },
   {
     "label": "Pegasus AUTOCODE",
     "id": "pegasus-autocode",
-    "url": "/rows/pegasus-autocode.html"
+    "url": "/concepts/pegasus-autocode.html"
   },
   {
     "label": "PEG.js",
     "id": "pegjs",
-    "url": "/rows/pegjs.html"
+    "url": "/concepts/pegjs.html"
   },
   {
     "label": "PEI",
     "id": "pei",
-    "url": "/rows/pei.html"
+    "url": "/concepts/pei.html"
   },
   {
     "label": "penguor",
     "id": "penguor",
-    "url": "/rows/penguor.html"
+    "url": "/concepts/penguor.html"
   },
   {
     "label": "penrose",
     "id": "penrose",
-    "url": "/rows/penrose.html"
+    "url": "/concepts/penrose.html"
   },
   {
     "label": "PeopleCode",
     "id": "peoplecode",
-    "url": "/rows/peoplecode.html"
+    "url": "/concepts/peoplecode.html"
   },
   {
     "label": "PEP",
     "id": "pep",
-    "url": "/rows/pep.html"
+    "url": "/concepts/pep.html"
   },
   {
     "label": "Pep8",
     "id": "pep8",
-    "url": "/rows/pep8.html"
+    "url": "/concepts/pep8.html"
   },
   {
     "label": "Perfectscript",
     "id": "perfectscript",
-    "url": "/rows/perfectscript.html"
+    "url": "/concepts/perfectscript.html"
   },
   {
     "label": "Peridot",
     "id": "peridot",
-    "url": "/rows/peridot.html"
+    "url": "/concepts/peridot.html"
   },
   {
     "label": "Perl 6",
     "id": "perl-6",
-    "url": "/rows/perl-6.html"
+    "url": "/concepts/perl-6.html"
   },
   {
     "label": "Perl Data Language",
     "id": "perl-data-language",
-    "url": "/rows/perl-data-language.html"
+    "url": "/concepts/perl-data-language.html"
   },
   {
     "label": "Perl",
     "id": "perl",
-    "url": "/rows/perl.html"
+    "url": "/concepts/perl.html"
   },
   {
     "label": "Petr",
     "id": "petr",
-    "url": "/rows/petr.html"
+    "url": "/concepts/petr.html"
   },
   {
     "label": "PFORT",
     "id": "pfort",
-    "url": "/rows/pfort.html"
+    "url": "/concepts/pfort.html"
   },
   {
     "label": "Pfortran",
     "id": "pfortran",
-    "url": "/rows/pfortran.html"
+    "url": "/concepts/pfortran.html"
   },
   {
     "label": "PgBouncer",
     "id": "pgbouncer",
-    "url": "/rows/pgbouncer.html"
+    "url": "/concepts/pgbouncer.html"
   },
   {
     "label": "PGen",
     "id": "pgen",
-    "url": "/rows/pgen.html"
+    "url": "/concepts/pgen.html"
   },
   {
     "label": "Netpbm grayscale image format",
     "id": "pgm-format",
-    "url": "/rows/pgm-format.html"
+    "url": "/concepts/pgm-format.html"
   },
   {
     "label": "pGOLOG",
     "id": "pgolog",
-    "url": "/rows/pgolog.html"
+    "url": "/concepts/pgolog.html"
   },
   {
     "label": "pgql",
     "id": "pgql",
-    "url": "/rows/pgql.html"
+    "url": "/concepts/pgql.html"
   },
   {
     "label": "Pharen",
     "id": "pharen",
-    "url": "/rows/pharen.html"
+    "url": "/concepts/pharen.html"
   },
   {
     "label": "Pharo",
     "id": "pharo",
-    "url": "/rows/pharo.html"
+    "url": "/concepts/pharo.html"
   },
   {
     "label": "Phel",
     "id": "phel",
-    "url": "/rows/phel.html"
+    "url": "/concepts/phel.html"
   },
   {
     "label": "PHIGS",
     "id": "phigs",
-    "url": "/rows/phigs.html"
+    "url": "/concepts/phigs.html"
   },
   {
     "label": "PHOCUS",
     "id": "phocus",
-    "url": "/rows/phocus.html"
+    "url": "/concepts/phocus.html"
   },
   {
     "label": "Phoenix Object Basic",
     "id": "phoenix-object-basic",
-    "url": "/rows/phoenix-object-basic.html"
+    "url": "/concepts/phoenix-object-basic.html"
   },
   {
     "label": "phorth",
     "id": "phorth",
-    "url": "/rows/phorth.html"
+    "url": "/concepts/phorth.html"
   },
   {
     "label": "PHP",
     "id": "php",
-    "url": "/rows/php.html"
+    "url": "/concepts/php.html"
   },
   {
     "label": "PhpStorm",
     "id": "phpstorm-editor",
-    "url": "/rows/phpstorm-editor.html"
+    "url": "/concepts/phpstorm-editor.html"
   },
   {
     "label": "phylip",
     "id": "phylip",
-    "url": "/rows/phylip.html"
+    "url": "/concepts/phylip.html"
   },
   {
     "label": "PhyloXML",
     "id": "phyloxml-format",
-    "url": "/rows/phyloxml-format.html"
+    "url": "/concepts/phyloxml-format.html"
   },
   {
     "label": "PHYSICTRAN",
     "id": "physictran",
-    "url": "/rows/physictran.html"
+    "url": "/concepts/physictran.html"
   },
   {
     "label": "Pi Calculus",
     "id": "pi-calculus",
-    "url": "/rows/pi-calculus.html"
+    "url": "/concepts/pi-calculus.html"
   },
   {
     "label": "PIC microcontroller",
     "id": "pic-microcontroller",
-    "url": "/rows/pic-microcontroller.html"
+    "url": "/concepts/pic-microcontroller.html"
   },
   {
     "label": "PIC",
     "id": "pic",
-    "url": "/rows/pic.html"
+    "url": "/concepts/pic.html"
   },
   {
     "label": "PICASSO",
     "id": "picasso",
-    "url": "/rows/picasso.html"
+    "url": "/concepts/picasso.html"
   },
   {
     "label": "Picat",
     "id": "picat",
-    "url": "/rows/picat.html"
+    "url": "/concepts/picat.html"
   },
   {
     "label": "piccola",
     "id": "piccola",
-    "url": "/rows/piccola.html"
+    "url": "/concepts/piccola.html"
   },
   {
     "label": "Pick operating system",
     "id": "pick-operating-system",
-    "url": "/rows/pick-operating-system.html"
+    "url": "/concepts/pick-operating-system.html"
   },
   {
     "label": "PickCode",
     "id": "pickcode",
-    "url": "/rows/pickcode.html"
+    "url": "/concepts/pickcode.html"
   },
   {
     "label": "Pickle",
     "id": "pickle-format",
-    "url": "/rows/pickle-format.html"
+    "url": "/concepts/pickle-format.html"
   },
   {
     "label": "PICO",
     "id": "pico",
-    "url": "/rows/pico.html"
+    "url": "/concepts/pico.html"
   },
   {
     "label": "PicoLisp",
     "id": "picolisp",
-    "url": "/rows/picolisp.html"
+    "url": "/concepts/picolisp.html"
   },
   {
     "label": "PICT",
     "id": "pict",
-    "url": "/rows/pict.html"
+    "url": "/concepts/pict.html"
   },
   {
     "label": "PICTOL",
     "id": "pictol",
-    "url": "/rows/pictol.html"
+    "url": "/concepts/pictol.html"
   },
   {
     "label": "PICTUREBALM",
     "id": "picturebalm",
-    "url": "/rows/picturebalm.html"
+    "url": "/concepts/picturebalm.html"
   },
   {
     "label": "pie-lang",
     "id": "pie-lang",
-    "url": "/rows/pie-lang.html"
+    "url": "/concepts/pie-lang.html"
   },
   {
     "label": "PIE",
     "id": "pie",
-    "url": "/rows/pie.html"
+    "url": "/concepts/pie.html"
   },
   {
     "label": "Piet",
     "id": "piet-programming-language",
-    "url": "/rows/piet-programming-language.html"
+    "url": "/concepts/piet-programming-language.html"
   },
   {
     "label": "Pig Latin",
     "id": "pig",
-    "url": "/rows/pig.html"
+    "url": "/concepts/pig.html"
   },
   {
     "label": "pikachu",
     "id": "pikachu",
-    "url": "/rows/pikachu.html"
+    "url": "/concepts/pikachu.html"
   },
   {
     "label": "Pike",
     "id": "pike",
-    "url": "/rows/pike.html"
+    "url": "/concepts/pike.html"
   },
   {
     "label": "pikelet",
     "id": "pikelet",
-    "url": "/rows/pikelet.html"
+    "url": "/concepts/pikelet.html"
   },
   {
     "label": "PIKT",
     "id": "pikt",
-    "url": "/rows/pikt.html"
+    "url": "/concepts/pikt.html"
   },
   {
     "label": "PiLib",
     "id": "pilib",
-    "url": "/rows/pilib.html"
+    "url": "/concepts/pilib.html"
   },
   {
     "label": "PILOT",
     "id": "pilot",
-    "url": "/rows/pilot.html"
+    "url": "/concepts/pilot.html"
   },
   {
     "label": "PIN",
     "id": "pin",
-    "url": "/rows/pin.html"
+    "url": "/concepts/pin.html"
   },
   {
     "label": "pinto",
     "id": "pinto",
-    "url": "/rows/pinto.html"
+    "url": "/concepts/pinto.html"
   },
   {
     "label": "pipelines",
     "id": "pipelines",
-    "url": "/rows/pipelines.html"
+    "url": "/concepts/pipelines.html"
   },
   {
     "label": "pisc",
     "id": "pisc",
-    "url": "/rows/pisc.html"
+    "url": "/concepts/pisc.html"
   },
   {
     "label": "PIT",
     "id": "pit",
-    "url": "/rows/pit.html"
+    "url": "/concepts/pit.html"
   },
   {
     "label": "PIXIN",
     "id": "pixin",
-    "url": "/rows/pixin.html"
+    "url": "/concepts/pixin.html"
   },
   {
     "label": "Pizza",
     "id": "pizza",
-    "url": "/rows/pizza.html"
+    "url": "/concepts/pizza.html"
   },
   {
     "label": "PkgConfig",
     "id": "pkgconfig",
-    "url": "/rows/pkgconfig.html"
+    "url": "/concepts/pkgconfig.html"
   },
   {
     "label": "PL/0",
     "id": "pl-0",
-    "url": "/rows/pl-0.html"
+    "url": "/concepts/pl-0.html"
   },
   {
     "label": "PL-11",
     "id": "pl-11",
-    "url": "/rows/pl-11.html"
+    "url": "/concepts/pl-11.html"
   },
   {
     "label": "IBM Programming Language/Advanced Systems",
     "id": "pl-as",
-    "url": "/rows/pl-as.html"
+    "url": "/concepts/pl-as.html"
   },
   {
     "label": "PL/C",
     "id": "pl-c",
-    "url": "/rows/pl-c.html"
+    "url": "/concepts/pl-c.html"
   },
   {
     "label": "PL/EXUS",
     "id": "pl-exus",
-    "url": "/rows/pl-exus.html"
+    "url": "/concepts/pl-exus.html"
   },
   {
     "label": "PL/I-FORMAC",
     "id": "pl-i-formac",
-    "url": "/rows/pl-i-formac.html"
+    "url": "/concepts/pl-i-formac.html"
   },
   {
     "label": "PL/I",
     "id": "pl-i-subset-g",
-    "url": "/rows/pl-i-subset-g.html"
+    "url": "/concepts/pl-i-subset-g.html"
   },
   {
     "label": "PL/I",
     "id": "pl-i",
-    "url": "/rows/pl-i.html"
+    "url": "/concepts/pl-i.html"
   },
   {
     "label": "PL/LL",
     "id": "pl-ll",
-    "url": "/rows/pl-ll.html"
+    "url": "/concepts/pl-ll.html"
   },
   {
     "label": "PL/M",
     "id": "pl-m",
-    "url": "/rows/pl-m.html"
+    "url": "/concepts/pl-m.html"
   },
   {
     "label": "PL/P",
     "id": "pl-p",
-    "url": "/rows/pl-p.html"
+    "url": "/concepts/pl-p.html"
   },
   {
     "label": "PL/S-II",
     "id": "pl-s-ii",
-    "url": "/rows/pl-s-ii.html"
+    "url": "/concepts/pl-s-ii.html"
   },
   {
     "label": "PL/S",
     "id": "pl-s",
-    "url": "/rows/pl-s.html"
+    "url": "/concepts/pl-s.html"
   },
   {
     "label": "PL/SQL",
     "id": "pl-sql",
-    "url": "/rows/pl-sql.html"
+    "url": "/concepts/pl-sql.html"
   },
   {
     "label": "PL-X",
     "id": "pl-x",
-    "url": "/rows/pl-x.html"
+    "url": "/concepts/pl-x.html"
   },
   {
     "label": "PL360",
     "id": "pl360",
-    "url": "/rows/pl360.html"
+    "url": "/concepts/pl360.html"
   },
   {
     "label": "PL4",
     "id": "pl4",
-    "url": "/rows/pl4.html"
+    "url": "/concepts/pl4.html"
   },
   {
     "label": "PLACA",
     "id": "placa",
-    "url": "/rows/placa.html"
+    "url": "/concepts/placa.html"
   },
   {
     "label": "Plaid",
     "id": "plaid-programming-language",
-    "url": "/rows/plaid-programming-language.html"
+    "url": "/concepts/plaid-programming-language.html"
   },
   {
     "label": "Plain English",
     "id": "plain-english",
-    "url": "/rows/plain-english.html"
+    "url": "/concepts/plain-english.html"
   },
   {
     "label": "PLAIN",
     "id": "plain",
-    "url": "/rows/plain.html"
+    "url": "/concepts/plain.html"
   },
   {
     "label": "plam",
     "id": "plam",
-    "url": "/rows/plam.html"
+    "url": "/concepts/plam.html"
   },
   {
     "label": "PLAN2D",
     "id": "plan2d",
-    "url": "/rows/plan2d.html"
+    "url": "/concepts/plan2d.html"
   },
   {
     "label": "Planguage",
     "id": "planguage",
-    "url": "/rows/planguage.html"
+    "url": "/concepts/planguage.html"
   },
   {
     "label": "PLANIT",
     "id": "planit",
-    "url": "/rows/planit.html"
+    "url": "/concepts/planit.html"
   },
   {
     "label": "Plankalkul",
     "id": "plankalkul",
-    "url": "/rows/plankalkul.html"
+    "url": "/concepts/plankalkul.html"
   },
   {
     "label": "PLANNER-73",
     "id": "planner-73",
-    "url": "/rows/planner-73.html"
+    "url": "/concepts/planner-73.html"
   },
   {
     "label": "PLANNER",
     "id": "planner",
-    "url": "/rows/planner.html"
+    "url": "/concepts/planner.html"
   },
   {
     "label": "plantuml",
     "id": "plantuml",
-    "url": "/rows/plantuml.html"
+    "url": "/concepts/plantuml.html"
   },
   {
     "label": "plasma",
     "id": "plasma",
-    "url": "/rows/plasma.html"
+    "url": "/concepts/plasma.html"
   },
   {
     "label": "Playground",
     "id": "playground",
-    "url": "/rows/playground.html"
+    "url": "/concepts/playground.html"
   },
   {
     "label": "Programming Language for Business",
     "id": "plb",
-    "url": "/rows/plb.html"
+    "url": "/concepts/plb.html"
   },
   {
     "label": "Please Build",
     "id": "please-build",
-    "url": "/rows/please-build.html"
+    "url": "/concepts/please-build.html"
   },
   {
     "label": "PLEASE",
     "id": "please",
-    "url": "/rows/please.html"
+    "url": "/concepts/please.html"
   },
   {
     "label": "PLEX",
     "id": "plex",
-    "url": "/rows/plex.html"
+    "url": "/concepts/plex.html"
   },
   {
     "label": "PLEXIL",
     "id": "plexil",
-    "url": "/rows/plexil.html"
+    "url": "/concepts/plexil.html"
   },
   {
     "label": "pliant",
     "id": "pliant",
-    "url": "/rows/pliant.html"
+    "url": "/concepts/pliant.html"
   },
   {
     "label": "plink-bed-format",
     "id": "plink-bed-format",
-    "url": "/rows/plink-bed-format.html"
+    "url": "/concepts/plink-bed-format.html"
   },
   {
     "label": "plink-bim-format",
     "id": "plink-bim-format",
-    "url": "/rows/plink-bim-format.html"
+    "url": "/concepts/plink-bim-format.html"
   },
   {
     "label": "plink-fam-format",
     "id": "plink-fam-format",
-    "url": "/rows/plink-fam-format.html"
+    "url": "/concepts/plink-fam-format.html"
   },
   {
     "label": "plink-map-format",
     "id": "plink-map-format",
-    "url": "/rows/plink-map-format.html"
+    "url": "/concepts/plink-map-format.html"
   },
   {
     "label": "plink-ped-format",
     "id": "plink-ped-format",
-    "url": "/rows/plink-ped-format.html"
+    "url": "/concepts/plink-ped-format.html"
   },
   {
     "label": "Property list",
     "id": "plist",
-    "url": "/rows/plist.html"
+    "url": "/concepts/plist.html"
   },
   {
     "label": "Plot",
     "id": "plot-lang",
-    "url": "/rows/plot-lang.html"
+    "url": "/concepts/plot-lang.html"
   },
   {
     "label": "plot",
     "id": "plot",
-    "url": "/rows/plot.html"
+    "url": "/concepts/plot.html"
   },
   {
     "label": "PL/pgSQL",
     "id": "plpgsql",
-    "url": "/rows/plpgsql.html"
+    "url": "/concepts/plpgsql.html"
   },
   {
     "label": "Pluk",
     "id": "pluk",
-    "url": "/rows/pluk.html"
+    "url": "/concepts/pluk.html"
   },
   {
     "label": "Programming Language for the University of Maryland",
     "id": "plum",
-    "url": "/rows/plum.html"
+    "url": "/concepts/plum.html"
   },
   {
     "label": "plumb",
     "id": "plumb",
-    "url": "/rows/plumb.html"
+    "url": "/concepts/plumb.html"
   },
   {
     "label": "Pλ⍵NK",
     "id": "plunk",
-    "url": "/rows/plunk.html"
+    "url": "/concepts/plunk.html"
   },
   {
     "label": "Plus",
     "id": "plus",
-    "url": "/rows/plus.html"
+    "url": "/concepts/plus.html"
   },
   {
     "label": "Plush",
     "id": "plush",
-    "url": "/rows/plush.html"
+    "url": "/concepts/plush.html"
   },
   {
     "label": "PLZ",
     "id": "plz",
-    "url": "/rows/plz.html"
+    "url": "/concepts/plz.html"
   },
   {
     "label": "PM2",
     "id": "pm2",
-    "url": "/rows/pm2.html"
+    "url": "/concepts/pm2.html"
   },
   {
     "label": "PML",
     "id": "pml",
-    "url": "/rows/pml.html"
+    "url": "/concepts/pml.html"
   },
   {
     "label": "PNG",
     "id": "png-format",
-    "url": "/rows/png-format.html"
+    "url": "/concepts/png-format.html"
   },
   {
     "label": "Pnuts",
     "id": "pnuts",
-    "url": "/rows/pnuts.html"
+    "url": "/concepts/pnuts.html"
   },
   {
     "label": "PO",
     "id": "po",
-    "url": "/rows/po.html"
+    "url": "/concepts/po.html"
   },
   {
     "label": "Pocket Smalltalk",
     "id": "pocket-smalltalk",
-    "url": "/rows/pocket-smalltalk.html"
+    "url": "/concepts/pocket-smalltalk.html"
   },
   {
     "label": "Pod",
     "id": "pod",
-    "url": "/rows/pod.html"
+    "url": "/concepts/pod.html"
   },
   {
     "label": "Pod6",
     "id": "pod6",
-    "url": "/rows/pod6.html"
+    "url": "/concepts/pod6.html"
   },
   {
     "label": "POGOL",
     "id": "pogol",
-    "url": "/rows/pogol.html"
+    "url": "/concepts/pogol.html"
   },
   {
     "label": "PogoScript",
     "id": "pogoscript",
-    "url": "/rows/pogoscript.html"
+    "url": "/concepts/pogoscript.html"
   },
   {
     "label": "pointless",
     "id": "pointless",
-    "url": "/rows/pointless.html"
+    "url": "/concepts/pointless.html"
   },
   {
     "label": "POLAC",
     "id": "polac",
-    "url": "/rows/polac.html"
+    "url": "/concepts/polac.html"
   },
   {
     "label": "polly",
     "id": "polly",
-    "url": "/rows/polly.html"
+    "url": "/concepts/polly.html"
   },
   {
     "label": "poly",
     "id": "poly",
-    "url": "/rows/poly.html"
+    "url": "/concepts/poly.html"
   },
   {
     "label": "polyglot-compiler",
     "id": "polyglot-compiler",
-    "url": "/rows/polyglot-compiler.html"
+    "url": "/concepts/polyglot-compiler.html"
   },
   {
     "label": "Polylith",
     "id": "polylith",
-    "url": "/rows/polylith.html"
+    "url": "/concepts/polylith.html"
   },
   {
     "label": "polymath",
     "id": "polymath",
-    "url": "/rows/polymath.html"
+    "url": "/concepts/polymath.html"
   },
   {
     "label": "Polymorphic Programming Language",
     "id": "polymorphic-programming-language",
-    "url": "/rows/polymorphic-programming-language.html"
+    "url": "/concepts/polymorphic-programming-language.html"
   },
   {
     "label": "PolyP",
     "id": "polyp",
-    "url": "/rows/polyp.html"
+    "url": "/concepts/polyp.html"
   },
   {
     "label": "PolyTOIL",
     "id": "polytoil",
-    "url": "/rows/polytoil.html"
+    "url": "/concepts/polytoil.html"
   },
   {
     "label": "Pomsky",
     "id": "pomsky",
-    "url": "/rows/pomsky.html"
+    "url": "/concepts/pomsky.html"
   },
   {
     "label": "Pony",
     "id": "pony",
-    "url": "/rows/pony.html"
+    "url": "/concepts/pony.html"
   },
   {
     "label": "Pop-11",
     "id": "pop-11",
-    "url": "/rows/pop-11.html"
+    "url": "/concepts/pop-11.html"
   },
   {
     "label": "POP-2",
     "id": "pop-2",
-    "url": "/rows/pop-2.html"
+    "url": "/concepts/pop-2.html"
   },
   {
     "label": "Patient-Oriented Prescription Programming Language",
     "id": "pop-pl",
-    "url": "/rows/pop-pl.html"
+    "url": "/concepts/pop-pl.html"
   },
   {
     "label": "Post Office Protocol",
     "id": "pop-protocol",
-    "url": "/rows/pop-protocol.html"
+    "url": "/concepts/pop-protocol.html"
   },
   {
     "label": "PopAsm",
     "id": "popasm",
-    "url": "/rows/popasm.html"
+    "url": "/concepts/popasm.html"
   },
   {
     "label": "popcorn-linux",
     "id": "popcorn-linux",
-    "url": "/rows/popcorn-linux.html"
+    "url": "/concepts/popcorn-linux.html"
   },
   {
     "label": "POPLOG",
     "id": "poplog",
-    "url": "/rows/poplog.html"
+    "url": "/concepts/poplog.html"
   },
   {
     "label": "popr",
     "id": "popr",
-    "url": "/rows/popr.html"
+    "url": "/concepts/popr.html"
   },
   {
     "label": "POPSY",
     "id": "popsy",
-    "url": "/rows/popsy.html"
+    "url": "/concepts/popsy.html"
   },
   {
     "label": "PORT-ALG",
     "id": "port-alg",
-    "url": "/rows/port-alg.html"
+    "url": "/concepts/port-alg.html"
   },
   {
     "label": "Portable Standard Lisp",
     "id": "portable-standard-lisp",
-    "url": "/rows/portable-standard-lisp.html"
+    "url": "/concepts/portable-standard-lisp.html"
   },
   {
     "label": "Portal langage",
     "id": "portal-langage",
-    "url": "/rows/portal-langage.html"
+    "url": "/concepts/portal-langage.html"
   },
   {
     "label": "POSE",
     "id": "pose",
-    "url": "/rows/pose.html"
+    "url": "/concepts/pose.html"
   },
   {
     "label": "Post production",
     "id": "post-canonical-system",
-    "url": "/rows/post-canonical-system.html"
+    "url": "/concepts/post-canonical-system.html"
   },
   {
     "label": "Post-X",
     "id": "post-x",
-    "url": "/rows/post-x.html"
+    "url": "/concepts/post-x.html"
   },
   {
     "label": "PostCSS",
     "id": "postcss",
-    "url": "/rows/postcss.html"
+    "url": "/concepts/postcss.html"
   },
   {
     "label": "PostgreSQL",
     "id": "postgresql",
-    "url": "/rows/postgresql.html"
+    "url": "/concepts/postgresql.html"
   },
   {
     "label": "PostScript",
     "id": "postscript",
-    "url": "/rows/postscript.html"
+    "url": "/concepts/postscript.html"
   },
   {
     "label": "potential",
     "id": "potential",
-    "url": "/rows/potential.html"
+    "url": "/concepts/potential.html"
   },
   {
     "label": "Potion",
     "id": "potion",
-    "url": "/rows/potion.html"
+    "url": "/concepts/potion.html"
   },
   {
     "label": "POV-Ray SDL",
     "id": "pov-ray-sdl",
-    "url": "/rows/pov-ray-sdl.html"
+    "url": "/concepts/pov-ray-sdl.html"
   },
   {
     "label": "Power BI",
     "id": "power-bi-app",
-    "url": "/rows/power-bi-app.html"
+    "url": "/concepts/power-bi-app.html"
   },
   {
     "label": "PowerQuery M",
     "id": "power-query-m",
-    "url": "/rows/power-query-m.html"
+    "url": "/concepts/power-query-m.html"
   },
   {
     "label": "PowerBASIC",
     "id": "powerbasic",
-    "url": "/rows/powerbasic.html"
+    "url": "/concepts/powerbasic.html"
   },
   {
     "label": "PowerBuilder",
     "id": "powerbuilder",
-    "url": "/rows/powerbuilder.html"
+    "url": "/concepts/powerbuilder.html"
   },
   {
     "label": "PowerHouse",
     "id": "powerhouse-programming-language",
-    "url": "/rows/powerhouse-programming-language.html"
+    "url": "/concepts/powerhouse-programming-language.html"
   },
   {
     "label": "IBM POWER Instruction Set Architecture",
     "id": "powerisa",
-    "url": "/rows/powerisa.html"
+    "url": "/concepts/powerisa.html"
   },
   {
     "label": "PowerLanguage",
     "id": "powerlanguage",
-    "url": "/rows/powerlanguage.html"
+    "url": "/concepts/powerlanguage.html"
   },
   {
     "label": "powerloom-knowledgeBase",
     "id": "powerloom-knowledgebase",
-    "url": "/rows/powerloom-knowledgebase.html"
+    "url": "/concepts/powerloom-knowledgebase.html"
   },
   {
     "label": "PowerPC",
     "id": "powerpc",
-    "url": "/rows/powerpc.html"
+    "url": "/concepts/powerpc.html"
   },
   {
     "label": "powershell-gallery-pm",
     "id": "powershell-gallery-pm",
-    "url": "/rows/powershell-gallery-pm.html"
+    "url": "/concepts/powershell-gallery-pm.html"
   },
   {
     "label": "PowerShell",
     "id": "powershell",
-    "url": "/rows/powershell.html"
+    "url": "/concepts/powershell.html"
   },
   {
     "label": "ppm-format",
     "id": "ppm-format",
-    "url": "/rows/ppm-format.html"
+    "url": "/concepts/ppm-format.html"
   },
   {
     "label": "P′′",
     "id": "pqq",
-    "url": "/rows/pqq.html"
+    "url": "/concepts/pqq.html"
   },
   {
     "label": "Praat Script",
     "id": "praat-script",
-    "url": "/rows/praat-script.html"
+    "url": "/concepts/praat-script.html"
   },
   {
     "label": "praxis-lang",
     "id": "praxis-lang",
-    "url": "/rows/praxis-lang.html"
+    "url": "/concepts/praxis-lang.html"
   },
   {
     "label": "PRAXIS",
     "id": "praxis",
-    "url": "/rows/praxis.html"
+    "url": "/concepts/praxis.html"
   },
   {
     "label": "Preferred Executable Format",
     "id": "preferred-executable-format",
-    "url": "/rows/preferred-executable-format.html"
+    "url": "/concepts/preferred-executable-format.html"
   },
   {
     "label": "preforth",
     "id": "preforth",
-    "url": "/rows/preforth.html"
+    "url": "/concepts/preforth.html"
   },
   {
     "label": "PRESTO",
     "id": "presto",
-    "url": "/rows/presto.html"
+    "url": "/concepts/presto.html"
   },
   {
     "label": "Price Equation",
     "id": "price-equation",
-    "url": "/rows/price-equation.html"
+    "url": "/concepts/price-equation.html"
   },
   {
     "label": "Principle of sufficient reason",
     "id": "principle-of-sufficient-reason",
-    "url": "/rows/principle-of-sufficient-reason.html"
+    "url": "/concepts/principle-of-sufficient-reason.html"
   },
   {
     "label": "PRISM",
     "id": "prism",
-    "url": "/rows/prism.html"
+    "url": "/concepts/prism.html"
   },
   {
     "label": "Prisma Schema Language",
     "id": "prisma-schema-language",
-    "url": "/rows/prisma-schema-language.html"
+    "url": "/concepts/prisma-schema-language.html"
   },
   {
     "label": "Prism",
     "id": "prismjs",
-    "url": "/rows/prismjs.html"
+    "url": "/concepts/prismjs.html"
   },
   {
     "label": "PRIZ",
     "id": "priz",
-    "url": "/rows/priz.html"
+    "url": "/concepts/priz.html"
   },
   {
     "label": "Pro*C",
     "id": "pro-star-c",
-    "url": "/rows/pro-star-c.html"
+    "url": "/concepts/pro-star-c.html"
   },
   {
     "label": "ProbeVue",
     "id": "probevue",
-    "url": "/rows/probevue.html"
+    "url": "/concepts/probevue.html"
   },
   {
     "label": "PROC procedure language",
     "id": "proc-procedure-language",
-    "url": "/rows/proc-procedure-language.html"
+    "url": "/concepts/proc-procedure-language.html"
   },
   {
     "label": "Processing",
     "id": "processing",
-    "url": "/rows/processing.html"
+    "url": "/concepts/processing.html"
   },
   {
     "label": "Processor Technology",
     "id": "processor-technology",
-    "url": "/rows/processor-technology.html"
+    "url": "/concepts/processor-technology.html"
   },
   {
     "label": "Procfile",
     "id": "procfile",
-    "url": "/rows/procfile.html"
+    "url": "/concepts/procfile.html"
   },
   {
     "label": "PROCOL",
     "id": "procol",
-    "url": "/rows/procol.html"
+    "url": "/concepts/procol.html"
   },
   {
     "label": "prodel",
     "id": "prodel",
-    "url": "/rows/prodel.html"
+    "url": "/concepts/prodel.html"
   },
   {
     "label": "ProFIT",
     "id": "profit",
-    "url": "/rows/profit.html"
+    "url": "/concepts/profit.html"
   },
   {
     "label": "Progol",
     "id": "progol",
-    "url": "/rows/progol.html"
+    "url": "/concepts/progol.html"
   },
   {
     "label": "Prograph",
     "id": "prograph",
-    "url": "/rows/prograph.html"
+    "url": "/concepts/prograph.html"
   },
   {
     "label": "PROGRES",
     "id": "progres",
-    "url": "/rows/progres.html"
+    "url": "/concepts/progres.html"
   },
   {
     "label": "progsbase",
     "id": "progsbase",
-    "url": "/rows/progsbase.html"
+    "url": "/concepts/progsbase.html"
   },
   {
     "label": "PROIV",
     "id": "proiv",
-    "url": "/rows/proiv.html"
+    "url": "/concepts/proiv.html"
   },
   {
     "label": "Project Mentat",
     "id": "project-mentat",
-    "url": "/rows/project-mentat.html"
+    "url": "/concepts/project-mentat.html"
   },
   {
     "label": "Prolog-D-Linda",
     "id": "prolog-d-linda",
-    "url": "/rows/prolog-d-linda.html"
+    "url": "/concepts/prolog-d-linda.html"
   },
   {
     "label": "Prolog-ELF",
     "id": "prolog-elf",
-    "url": "/rows/prolog-elf.html"
+    "url": "/concepts/prolog-elf.html"
   },
   {
     "label": "Prolog III",
     "id": "prolog-iii",
-    "url": "/rows/prolog-iii.html"
+    "url": "/concepts/prolog-iii.html"
   },
   {
     "label": "Prolog/KR",
     "id": "prolog-kr",
-    "url": "/rows/prolog-kr.html"
+    "url": "/concepts/prolog-kr.html"
   },
   {
     "label": "Prolog-Linda",
     "id": "prolog-linda",
-    "url": "/rows/prolog-linda.html"
+    "url": "/concepts/prolog-linda.html"
   },
   {
     "label": "Prolog Pack",
     "id": "prolog-pack-pm",
-    "url": "/rows/prolog-pack-pm.html"
+    "url": "/concepts/prolog-pack-pm.html"
   },
   {
     "label": "Prolog",
     "id": "prolog",
-    "url": "/rows/prolog.html"
+    "url": "/concepts/prolog.html"
   },
   {
     "label": "Prolog++",
     "id": "prologpp",
-    "url": "/rows/prologpp.html"
+    "url": "/concepts/prologpp.html"
   },
   {
     "label": "PROMAL",
     "id": "promal",
-    "url": "/rows/promal.html"
+    "url": "/concepts/promal.html"
   },
   {
     "label": "Promela",
     "id": "promela",
-    "url": "/rows/promela.html"
+    "url": "/concepts/promela.html"
   },
   {
     "label": "PROMETHEUS",
     "id": "prometheus",
-    "url": "/rows/prometheus.html"
+    "url": "/concepts/prometheus.html"
   },
   {
     "label": "prompter",
     "id": "prompter",
-    "url": "/rows/prompter.html"
+    "url": "/concepts/prompter.html"
   },
   {
     "label": "PromQL",
     "id": "promql",
-    "url": "/rows/promql.html"
+    "url": "/concepts/promql.html"
   },
   {
     "label": "Property Specification Language",
     "id": "property-specification-language",
-    "url": "/rows/property-specification-language.html"
+    "url": "/concepts/property-specification-language.html"
   },
   {
     "label": "PROPHET",
     "id": "prophet",
-    "url": "/rows/prophet.html"
+    "url": "/concepts/prophet.html"
   },
   {
     "label": "PROPLAN",
     "id": "proplan",
-    "url": "/rows/proplan.html"
+    "url": "/concepts/proplan.html"
   },
   {
     "label": "ProSet",
     "id": "proset",
-    "url": "/rows/proset.html"
+    "url": "/concepts/proset.html"
   },
   {
     "label": "PROSPER",
     "id": "prosper",
-    "url": "/rows/prosper.html"
+    "url": "/concepts/prosper.html"
   },
   {
     "label": "Protel",
     "id": "protel",
-    "url": "/rows/protel.html"
+    "url": "/concepts/protel.html"
   },
   {
     "label": "Proteus",
     "id": "proteus-programming-language",
-    "url": "/rows/proteus-programming-language.html"
+    "url": "/concepts/proteus-programming-language.html"
   },
   {
     "label": "protium",
     "id": "protium",
-    "url": "/rows/protium.html"
+    "url": "/concepts/protium.html"
   },
   {
     "label": "proto-GNOSIS",
     "id": "proto-gnosis",
-    "url": "/rows/proto-gnosis.html"
+    "url": "/concepts/proto-gnosis.html"
   },
   {
     "label": "Protocol Buffers",
     "id": "protobuf",
-    "url": "/rows/protobuf.html"
+    "url": "/concepts/protobuf.html"
   },
   {
     "label": "PROTOS-L",
     "id": "protos-l",
-    "url": "/rows/protos-l.html"
+    "url": "/concepts/protos-l.html"
   },
   {
     "label": "Protosynthex",
     "id": "protosynthex",
-    "url": "/rows/protosynthex.html"
+    "url": "/concepts/protosynthex.html"
   },
   {
     "label": "ProVerif",
     "id": "proverif-lang",
-    "url": "/rows/proverif-lang.html"
+    "url": "/concepts/proverif-lang.html"
   },
   {
     "label": "ProvideX",
     "id": "providex",
-    "url": "/rows/providex.html"
+    "url": "/concepts/providex.html"
   },
   {
     "label": "PROW",
     "id": "prow",
-    "url": "/rows/prow.html"
+    "url": "/concepts/prow.html"
   },
   {
     "label": "Proxy",
     "id": "proxy",
-    "url": "/rows/proxy.html"
+    "url": "/concepts/proxy.html"
   },
   {
     "label": "PRQL",
     "id": "prql",
-    "url": "/rows/prql.html"
+    "url": "/concepts/prql.html"
   },
   {
     "label": "PS-algol",
     "id": "ps-algol",
-    "url": "/rows/ps-algol.html"
+    "url": "/concepts/ps-algol.html"
   },
   {
     "label": "pSather",
     "id": "psather",
-    "url": "/rows/psather.html"
+    "url": "/concepts/psather.html"
   },
   {
     "label": "PSeInt",
     "id": "pseint",
-    "url": "/rows/pseint.html"
+    "url": "/concepts/pseint.html"
   },
   {
     "label": "PSG",
     "id": "psg",
-    "url": "/rows/psg.html"
+    "url": "/concepts/psg.html"
   },
   {
     "label": "PSI",
     "id": "psi",
-    "url": "/rows/psi.html"
+    "url": "/concepts/psi.html"
   },
   {
     "label": "PSL",
     "id": "psl",
-    "url": "/rows/psl.html"
+    "url": "/concepts/psl.html"
   },
   {
     "label": "psyche-c",
     "id": "psyche-c",
-    "url": "/rows/psyche-c.html"
+    "url": "/concepts/psyche-c.html"
   },
   {
     "label": "psyche",
     "id": "psyche",
-    "url": "/rows/psyche.html"
+    "url": "/concepts/psyche.html"
   },
   {
     "label": "PSYCO",
     "id": "psyco",
-    "url": "/rows/psyco.html"
+    "url": "/concepts/psyco.html"
   },
   {
     "label": "PT",
     "id": "pt",
-    "url": "/rows/pt.html"
+    "url": "/concepts/pt.html"
   },
   {
     "label": "PTX",
     "id": "ptx",
-    "url": "/rows/ptx.html"
+    "url": "/concepts/ptx.html"
   },
   {
     "label": "Public Key File",
     "id": "public-key-file",
-    "url": "/rows/public-key-file.html"
+    "url": "/concepts/public-key-file.html"
   },
   {
     "label": "PUFFT",
     "id": "pufft",
-    "url": "/rows/pufft.html"
+    "url": "/concepts/pufft.html"
   },
   {
     "label": "Pug",
     "id": "pug",
-    "url": "/rows/pug.html"
+    "url": "/concepts/pug.html"
   },
   {
     "label": "PUMPKIN",
     "id": "pumpkin",
-    "url": "/rows/pumpkin.html"
+    "url": "/concepts/pumpkin.html"
   },
   {
     "label": "Punched tape",
     "id": "punched-tape",
-    "url": "/rows/punched-tape.html"
+    "url": "/concepts/punched-tape.html"
   },
   {
     "label": "Punycode",
     "id": "punycode",
-    "url": "/rows/punycode.html"
+    "url": "/concepts/punycode.html"
   },
   {
     "label": "Puppet",
     "id": "puppet",
-    "url": "/rows/puppet.html"
+    "url": "/concepts/puppet.html"
   },
   {
     "label": "Pure",
     "id": "pure",
-    "url": "/rows/pure.html"
+    "url": "/concepts/pure.html"
   },
   {
     "label": "PureBasic",
     "id": "purebasic",
-    "url": "/rows/purebasic.html"
+    "url": "/concepts/purebasic.html"
   },
   {
     "label": "Pure Data",
     "id": "puredata",
-    "url": "/rows/puredata.html"
+    "url": "/concepts/puredata.html"
   },
   {
     "label": "PureScript",
     "id": "purescript",
-    "url": "/rows/purescript.html"
+    "url": "/concepts/purescript.html"
   },
   {
     "label": "Pursuit PureScript Package Repository",
     "id": "pursuit-pm",
-    "url": "/rows/pursuit-pm.html"
+    "url": "/concepts/pursuit-pm.html"
   },
   {
     "label": "Push",
     "id": "push",
-    "url": "/rows/push.html"
+    "url": "/concepts/push.html"
   },
   {
     "label": "PV-Wave",
     "id": "pv-wave",
-    "url": "/rows/pv-wave.html"
+    "url": "/concepts/pv-wave.html"
   },
   {
     "label": "PVS",
     "id": "pvs",
-    "url": "/rows/pvs.html"
+    "url": "/concepts/pvs.html"
   },
   {
     "label": "Py",
     "id": "py",
-    "url": "/rows/py.html"
+    "url": "/concepts/py.html"
   },
   {
     "label": "pycharm-editor",
     "id": "pycharm-editor",
-    "url": "/rows/pycharm-editor.html"
+    "url": "/concepts/pycharm-editor.html"
   },
   {
     "label": "Pycket",
     "id": "pycket",
-    "url": "/rows/pycket.html"
+    "url": "/concepts/pycket.html"
   },
   {
     "label": "Pygmalion",
     "id": "pygmalion",
-    "url": "/rows/pygmalion.html"
+    "url": "/concepts/pygmalion.html"
   },
   {
     "label": "Pygments",
     "id": "pygments",
-    "url": "/rows/pygments.html"
+    "url": "/concepts/pygments.html"
   },
   {
     "label": "pyke",
     "id": "pyke",
-    "url": "/rows/pyke.html"
+    "url": "/concepts/pyke.html"
   },
   {
     "label": "PyPI",
     "id": "pypi-pm",
-    "url": "/rows/pypi-pm.html"
+    "url": "/concepts/pypi-pm.html"
   },
   {
     "label": "Pyret",
     "id": "pyret-lang",
-    "url": "/rows/pyret-lang.html"
+    "url": "/concepts/pyret-lang.html"
   },
   {
     "label": "pyret",
     "id": "pyret",
-    "url": "/rows/pyret.html"
+    "url": "/concepts/pyret.html"
   },
   {
     "label": "Pyrex",
     "id": "pyrex",
-    "url": "/rows/pyrex.html"
+    "url": "/concepts/pyrex.html"
   },
   {
     "label": "Pyth",
     "id": "pyth",
-    "url": "/rows/pyth.html"
+    "url": "/concepts/pyth.html"
   },
   {
     "label": "Pythagorean Equation",
     "id": "pythagorean-equation",
-    "url": "/rows/pythagorean-equation.html"
+    "url": "/concepts/pythagorean-equation.html"
   },
   {
     "label": "python-cl-compiler",
     "id": "python-cl-compiler",
-    "url": "/rows/python-cl-compiler.html"
+    "url": "/concepts/python-cl-compiler.html"
   },
   {
     "label": "Python for S60",
     "id": "python-for-s60",
-    "url": "/rows/python-for-s60.html"
+    "url": "/concepts/python-for-s60.html"
   },
   {
     "label": "Python Format Specification",
     "id": "python-format-spec",
-    "url": "/rows/python-format-spec.html"
+    "url": "/concepts/python-format-spec.html"
   },
   {
     "label": "Python",
     "id": "python",
-    "url": "/rows/python.html"
+    "url": "/concepts/python.html"
   },
   {
     "label": "PyTorch",
     "id": "pytorch",
-    "url": "/rows/pytorch.html"
+    "url": "/concepts/pytorch.html"
   },
   {
     "label": "Q",
     "id": "q-equational-programming-language",
-    "url": "/rows/q-equational-programming-language.html"
+    "url": "/concepts/q-equational-programming-language.html"
   },
   {
     "label": "Q-GERT",
     "id": "q-gert",
-    "url": "/rows/q-gert.html"
+    "url": "/concepts/q-gert.html"
   },
   {
     "label": "Q#",
     "id": "q-sharp",
-    "url": "/rows/q-sharp.html"
+    "url": "/concepts/q-sharp.html"
   },
   {
     "label": "Q",
     "id": "q",
-    "url": "/rows/q.html"
+    "url": "/concepts/q.html"
   },
   {
     "label": "QA4",
     "id": "qa4",
-    "url": "/rows/qa4.html"
+    "url": "/concepts/qa4.html"
   },
   {
     "label": "Qalb",
     "id": "qalb",
-    "url": "/rows/qalb.html"
+    "url": "/concepts/qalb.html"
   },
   {
     "label": "QAS",
     "id": "qas",
-    "url": "/rows/qas.html"
+    "url": "/concepts/qas.html"
   },
   {
     "label": "QB64",
     "id": "qb64",
-    "url": "/rows/qb64.html"
+    "url": "/concepts/qb64.html"
   },
   {
     "label": "QBasic",
     "id": "qbasic",
-    "url": "/rows/qbasic.html"
+    "url": "/concepts/qbasic.html"
   },
   {
     "label": "qbe",
     "id": "qbe",
-    "url": "/rows/qbe.html"
+    "url": "/concepts/qbe.html"
   },
   {
     "label": "QCL",
     "id": "qcl",
-    "url": "/rows/qcl.html"
+    "url": "/concepts/qcl.html"
   },
   {
     "label": "QED",
     "id": "qed-editor",
-    "url": "/rows/qed-editor.html"
+    "url": "/concepts/qed-editor.html"
   },
   {
     "label": "qed-lang",
     "id": "qed-lang",
-    "url": "/rows/qed-lang.html"
+    "url": "/concepts/qed-lang.html"
   },
   {
     "label": "QFX file format",
     "id": "qfx",
-    "url": "/rows/qfx.html"
+    "url": "/concepts/qfx.html"
   },
   {
     "label": "Quicken Interchange Format",
     "id": "qif",
-    "url": "/rows/qif.html"
+    "url": "/concepts/qif.html"
   },
   {
     "label": "QLISP",
     "id": "qlisp",
-    "url": "/rows/qlisp.html"
+    "url": "/concepts/qlisp.html"
   },
   {
     "label": "QMake",
     "id": "qmake",
-    "url": "/rows/qmake.html"
+    "url": "/concepts/qmake.html"
   },
   {
     "label": "QML",
     "id": "qml",
-    "url": "/rows/qml.html"
+    "url": "/concepts/qml.html"
   },
   {
     "label": "QOIR",
     "id": "qoir",
-    "url": "/rows/qoir.html"
+    "url": "/concepts/qoir.html"
   },
   {
     "label": "Qore",
     "id": "qore",
-    "url": "/rows/qore.html"
+    "url": "/concepts/qore.html"
   },
   {
     "label": "QR code",
     "id": "qr-code",
-    "url": "/rows/qr-code.html"
+    "url": "/concepts/qr-code.html"
   },
   {
     "label": "Qt",
     "id": "qt",
-    "url": "/rows/qt.html"
+    "url": "/concepts/qt.html"
   },
   {
     "label": "QtScript",
     "id": "qtscript",
-    "url": "/rows/qtscript.html"
+    "url": "/concepts/qtscript.html"
   },
   {
     "label": "QUADRIL",
     "id": "quadril",
-    "url": "/rows/quadril.html"
+    "url": "/concepts/quadril.html"
   },
   {
     "label": "quaint-lang",
     "id": "quaint-lang",
-    "url": "/rows/quaint-lang.html"
+    "url": "/concepts/quaint-lang.html"
   },
   {
     "label": "Quaint",
     "id": "quaint",
-    "url": "/rows/quaint.html"
+    "url": "/concepts/quaint.html"
   },
   {
     "label": "Quake",
     "id": "quake",
-    "url": "/rows/quake.html"
+    "url": "/concepts/quake.html"
   },
   {
     "label": "QuakeC",
     "id": "quakec",
-    "url": "/rows/quakec.html"
+    "url": "/concepts/quakec.html"
   },
   {
     "label": "Quanta",
     "id": "quanta",
-    "url": "/rows/quanta.html"
+    "url": "/concepts/quanta.html"
   },
   {
     "label": "QUEL",
     "id": "quel",
-    "url": "/rows/quel.html"
+    "url": "/concepts/quel.html"
   },
   {
     "label": "Query by Example",
     "id": "query-by-example",
-    "url": "/rows/query-by-example.html"
+    "url": "/concepts/query-by-example.html"
   },
   {
     "label": "quexal",
     "id": "quexal",
-    "url": "/rows/quexal.html"
+    "url": "/concepts/quexal.html"
   },
   {
     "label": "Quick Macros",
     "id": "quick-macros",
-    "url": "/rows/quick-macros.html"
+    "url": "/concepts/quick-macros.html"
   },
   {
     "label": "QuickBASIC",
     "id": "quickbasic",
-    "url": "/rows/quickbasic.html"
+    "url": "/concepts/quickbasic.html"
   },
   {
     "label": "quicklisp-pm",
     "id": "quicklisp-pm",
-    "url": "/rows/quicklisp-pm.html"
+    "url": "/concepts/quicklisp-pm.html"
   },
   {
     "label": "quicksight-app",
     "id": "quicksight-app",
-    "url": "/rows/quicksight-app.html"
+    "url": "/concepts/quicksight-app.html"
   },
   {
     "label": "QUIKSCRIPT",
     "id": "quikscript",
-    "url": "/rows/quikscript.html"
+    "url": "/concepts/quikscript.html"
   },
   {
     "label": "QUIKTRAN",
     "id": "quiktran",
-    "url": "/rows/quiktran.html"
+    "url": "/concepts/quiktran.html"
   },
   {
     "label": "QUILT",
     "id": "quilt",
-    "url": "/rows/quilt.html"
+    "url": "/concepts/quilt.html"
   },
   {
     "label": "Qunity",
     "id": "qunity",
-    "url": "/rows/qunity.html"
+    "url": "/concepts/qunity.html"
   },
   {
     "label": "quorum",
     "id": "quorum",
-    "url": "/rows/quorum.html"
+    "url": "/concepts/quorum.html"
   },
   {
     "label": "QUTE",
     "id": "qute",
-    "url": "/rows/qute.html"
+    "url": "/concepts/qute.html"
   },
   {
     "label": "Quty",
     "id": "quty",
-    "url": "/rows/quty.html"
+    "url": "/concepts/quty.html"
   },
   {
     "label": "R",
     "id": "r",
-    "url": "/rows/r.html"
+    "url": "/concepts/r.html"
   },
   {
     "label": "R2ML",
     "id": "r2ml",
-    "url": "/rows/r2ml.html"
+    "url": "/concepts/r2ml.html"
   },
   {
     "label": "r3",
     "id": "r3",
-    "url": "/rows/r3.html"
+    "url": "/concepts/r3.html"
   },
   {
     "label": "r4",
     "id": "r4",
-    "url": "/rows/r4.html"
+    "url": "/concepts/r4.html"
   },
   {
     "label": "ra",
     "id": "ra",
-    "url": "/rows/ra.html"
+    "url": "/concepts/ra.html"
   },
   {
     "label": "RACK",
     "id": "rack",
-    "url": "/rows/rack.html"
+    "url": "/concepts/rack.html"
   },
   {
     "label": "Racket",
     "id": "racket",
-    "url": "/rows/racket.html"
+    "url": "/concepts/racket.html"
   },
   {
     "label": "raco-pm",
     "id": "raco-pm",
-    "url": "/rows/raco-pm.html"
+    "url": "/concepts/raco-pm.html"
   },
   {
     "label": "Radish",
     "id": "radish",
-    "url": "/rows/radish.html"
+    "url": "/concepts/radish.html"
   },
   {
     "label": "Ragel",
     "id": "ragel",
-    "url": "/rows/ragel.html"
+    "url": "/concepts/ragel.html"
   },
   {
     "label": "Ruby on Rails",
     "id": "rails",
-    "url": "/rows/rails.html"
+    "url": "/concepts/rails.html"
   },
   {
     "label": "rainbow",
     "id": "rainbow",
-    "url": "/rows/rainbow.html"
+    "url": "/concepts/rainbow.html"
   },
   {
     "label": "Raku",
     "id": "raku",
-    "url": "/rows/raku.html"
+    "url": "/concepts/raku.html"
   },
   {
     "label": "ralph",
     "id": "ralph",
-    "url": "/rows/ralph.html"
+    "url": "/concepts/ralph.html"
   },
   {
     "label": "RamdaScript",
     "id": "ramdascript",
-    "url": "/rows/ramdascript.html"
+    "url": "/concepts/ramdascript.html"
   },
   {
     "label": "ramen",
     "id": "ramen",
-    "url": "/rows/ramen.html"
+    "url": "/concepts/ramen.html"
   },
   {
     "label": "Ramis software",
     "id": "ramis-software",
-    "url": "/rows/ramis-software.html"
+    "url": "/concepts/ramis-software.html"
   },
   {
     "label": "RAML",
     "id": "raml",
-    "url": "/rows/raml.html"
+    "url": "/concepts/raml.html"
   },
   {
     "label": "RAND-ABEL",
     "id": "rand-abel",
-    "url": "/rows/rand-abel.html"
+    "url": "/concepts/rand-abel.html"
   },
   {
     "label": "rant",
     "id": "rant",
-    "url": "/rows/rant.html"
+    "url": "/concepts/rant.html"
   },
   {
     "label": "RAPID",
     "id": "rapid",
-    "url": "/rows/rapid.html"
+    "url": "/concepts/rapid.html"
   },
   {
     "label": "RapidBatch",
     "id": "rapidbatch",
-    "url": "/rows/rapidbatch.html"
+    "url": "/concepts/rapidbatch.html"
   },
   {
     "label": "rapidgen-rpl",
     "id": "rapidgen-rpl",
-    "url": "/rows/rapidgen-rpl.html"
+    "url": "/concepts/rapidgen-rpl.html"
   },
   {
     "label": "RapidQ",
     "id": "rapidq",
-    "url": "/rows/rapidq.html"
+    "url": "/concepts/rapidq.html"
   },
   {
     "label": "RAPIDWRITE",
     "id": "rapidwrite",
-    "url": "/rows/rapidwrite.html"
+    "url": "/concepts/rapidwrite.html"
   },
   {
     "label": "Rapira",
     "id": "rapira",
-    "url": "/rows/rapira.html"
+    "url": "/concepts/rapira.html"
   },
   {
     "label": "raptor",
     "id": "raptor",
-    "url": "/rows/raptor.html"
+    "url": "/concepts/raptor.html"
   },
   {
     "label": "raptorjit",
     "id": "raptorjit",
-    "url": "/rows/raptorjit.html"
+    "url": "/concepts/raptorjit.html"
   },
   {
     "label": "Rascal",
     "id": "rascal",
-    "url": "/rows/rascal.html"
+    "url": "/concepts/rascal.html"
   },
   {
     "label": "RascalMPL",
     "id": "rascalmpl",
-    "url": "/rows/rascalmpl.html"
+    "url": "/concepts/rascalmpl.html"
   },
   {
     "label": "rason",
     "id": "rason",
-    "url": "/rows/rason.html"
+    "url": "/concepts/rason.html"
   },
   {
     "label": "RASP",
     "id": "rasp",
-    "url": "/rows/rasp.html"
+    "url": "/concepts/rasp.html"
   },
   {
     "label": "Ratfiv",
     "id": "ratfiv",
-    "url": "/rows/ratfiv.html"
+    "url": "/concepts/ratfiv.html"
   },
   {
     "label": "RATFOR",
     "id": "ratfor",
-    "url": "/rows/ratfor.html"
+    "url": "/concepts/ratfor.html"
   },
   {
     "label": "RATSNO",
     "id": "ratsno",
-    "url": "/rows/ratsno.html"
+    "url": "/concepts/ratsno.html"
   },
   {
     "label": "Ravenscar profile",
     "id": "ravenscar-profile",
-    "url": "/rows/ravenscar-profile.html"
+    "url": "/concepts/ravenscar-profile.html"
   },
   {
     "label": "Razor",
     "id": "razor",
-    "url": "/rows/razor.html"
+    "url": "/concepts/razor.html"
   },
   {
     "label": "rbasic",
     "id": "rbasic",
-    "url": "/rows/rbasic.html"
+    "url": "/concepts/rbasic.html"
   },
   {
     "label": "rbs",
     "id": "rbs",
-    "url": "/rows/rbs.html"
+    "url": "/concepts/rbs.html"
   },
   {
     "label": "rbscript",
     "id": "rbscript",
-    "url": "/rows/rbscript.html"
+    "url": "/concepts/rbscript.html"
   },
   {
     "label": "Rc",
     "id": "rc",
-    "url": "/rows/rc.html"
+    "url": "/concepts/rc.html"
   },
   {
     "label": "RC++",
     "id": "rcpp",
-    "url": "/rows/rcpp.html"
+    "url": "/concepts/rcpp.html"
   },
   {
     "label": "rdata-format",
     "id": "rdata-format",
-    "url": "/rows/rdata-format.html"
+    "url": "/concepts/rdata-format.html"
   },
   {
     "label": "RDF Schema",
     "id": "rdf-schema",
-    "url": "/rows/rdf-schema.html"
+    "url": "/concepts/rdf-schema.html"
   },
   {
     "label": "RDF",
     "id": "rdf",
-    "url": "/rows/rdf.html"
+    "url": "/concepts/rdf.html"
   },
   {
     "label": "RDFa",
     "id": "rdfa",
-    "url": "/rows/rdfa.html"
+    "url": "/concepts/rdfa.html"
   },
   {
     "label": "Rapid Development and Maintenance Language",
     "id": "rdml",
-    "url": "/rows/rdml.html"
+    "url": "/concepts/rdml.html"
   },
   {
     "label": "RDoc",
     "id": "rdoc",
-    "url": "/rows/rdoc.html"
+    "url": "/concepts/rdoc.html"
   },
   {
     "label": "rds-format",
     "id": "rds-format",
-    "url": "/rows/rds-format.html"
+    "url": "/concepts/rds-format.html"
   },
   {
     "label": "React Native",
     "id": "react-native",
-    "url": "/rows/react-native.html"
+    "url": "/concepts/react-native.html"
   },
   {
     "label": "readable-lisp",
     "id": "readable-lisp",
-    "url": "/rows/readable-lisp.html"
+    "url": "/concepts/readable-lisp.html"
   },
   {
     "label": "Readable",
     "id": "readable",
-    "url": "/rows/readable.html"
+    "url": "/concepts/readable.html"
   },
   {
     "label": "Real-time Cmix",
     "id": "real-time-cmix",
-    "url": "/rows/real-time-cmix.html"
+    "url": "/concepts/real-time-cmix.html"
   },
   {
     "label": "Real-Time Concurrent C",
     "id": "real-time-concurrent-c",
-    "url": "/rows/real-time-concurrent-c.html"
+    "url": "/concepts/real-time-concurrent-c.html"
   },
   {
     "label": "Real-Time Euclid",
     "id": "real-time-euclid",
-    "url": "/rows/real-time-euclid.html"
+    "url": "/concepts/real-time-euclid.html"
   },
   {
     "label": "Real-Time Mentat",
     "id": "real-time-mentat",
-    "url": "/rows/real-time-mentat.html"
+    "url": "/concepts/real-time-mentat.html"
   },
   {
     "label": "REALBasic (now Xojo)",
     "id": "realbasic",
-    "url": "/rows/realbasic.html"
+    "url": "/concepts/realbasic.html"
   },
   {
     "label": "Reason",
     "id": "reason",
-    "url": "/rows/reason.html"
+    "url": "/concepts/reason.html"
   },
   {
     "label": "Rebeca Modeling Language",
     "id": "rebeca-modeling-language",
-    "url": "/rows/rebeca-modeling-language.html"
+    "url": "/concepts/rebeca-modeling-language.html"
   },
   {
     "label": "REBOL",
     "id": "rebol",
-    "url": "/rows/rebol.html"
+    "url": "/concepts/rebol.html"
   },
   {
     "label": "Rebus",
     "id": "rebus",
-    "url": "/rows/rebus.html"
+    "url": "/concepts/rebus.html"
   },
   {
     "label": "REC/SM",
     "id": "rec-sm",
-    "url": "/rows/rec-sm.html"
+    "url": "/concepts/rec-sm.html"
   },
   {
     "label": "REC Studio",
     "id": "rec-studio",
-    "url": "/rows/rec-studio.html"
+    "url": "/concepts/rec-studio.html"
   },
   {
     "label": "Recfiles",
     "id": "recfiles",
-    "url": "/rows/recfiles.html"
+    "url": "/concepts/recfiles.html"
   },
   {
     "label": "RECOL",
     "id": "recol",
-    "url": "/rows/recol.html"
+    "url": "/concepts/recol.html"
   },
   {
     "label": "Red",
     "id": "red-lang",
-    "url": "/rows/red-lang.html"
+    "url": "/concepts/red-lang.html"
   },
   {
     "label": "Red",
     "id": "red",
-    "url": "/rows/red.html"
+    "url": "/concepts/red.html"
   },
   {
     "label": "Redcode",
     "id": "redcode",
-    "url": "/rows/redcode.html"
+    "url": "/concepts/redcode.html"
   },
   {
     "label": "Redis",
     "id": "redis",
-    "url": "/rows/redis.html"
+    "url": "/concepts/redis.html"
   },
   {
     "label": "redpanda-app",
     "id": "redpanda-app",
-    "url": "/rows/redpanda-app.html"
+    "url": "/concepts/redpanda-app.html"
   },
   {
     "label": "redprl",
     "id": "redprl",
-    "url": "/rows/redprl.html"
+    "url": "/concepts/redprl.html"
   },
   {
     "label": "redscript",
     "id": "redscript",
-    "url": "/rows/redscript.html"
+    "url": "/concepts/redscript.html"
   },
   {
     "label": "Amazon Redshift",
     "id": "redshift",
-    "url": "/rows/redshift.html"
+    "url": "/concepts/redshift.html"
   },
   {
     "label": "REDUCE",
     "id": "reduce",
-    "url": "/rows/reduce.html"
+    "url": "/concepts/reduce.html"
   },
   {
     "label": "REF-ARF",
     "id": "ref-arf",
-    "url": "/rows/ref-arf.html"
+    "url": "/concepts/ref-arf.html"
   },
   {
     "label": "Refal",
     "id": "refal",
-    "url": "/rows/refal.html"
+    "url": "/concepts/refal.html"
   },
   {
     "label": "Refer",
     "id": "refer",
-    "url": "/rows/refer.html"
+    "url": "/concepts/refer.html"
   },
   {
     "label": "Refined C",
     "id": "refined-c",
-    "url": "/rows/refined-c.html"
+    "url": "/concepts/refined-c.html"
   },
   {
     "label": "reflex-framework",
     "id": "reflex-framework",
-    "url": "/rows/reflex-framework.html"
+    "url": "/concepts/reflex-framework.html"
   },
   {
     "label": "RefLisp",
     "id": "reflisp",
-    "url": "/rows/reflisp.html"
+    "url": "/concepts/reflisp.html"
   },
   {
     "label": "reforth",
     "id": "reforth",
-    "url": "/rows/reforth.html"
+    "url": "/concepts/reforth.html"
   },
   {
     "label": "REGENT",
     "id": "regent",
-    "url": "/rows/regent.html"
+    "url": "/concepts/regent.html"
   },
   {
     "label": "Regular Expressions",
     "id": "regex",
-    "url": "/rows/regex.html"
+    "url": "/concepts/regex.html"
   },
   {
     "label": "Regina",
     "id": "regina",
-    "url": "/rows/regina.html"
+    "url": "/concepts/regina.html"
   },
   {
     "label": "REGULUS",
     "id": "regulus",
-    "url": "/rows/regulus.html"
+    "url": "/concepts/regulus.html"
   },
   {
     "label": "Reia",
     "id": "reia",
-    "url": "/rows/reia.html"
+    "url": "/concepts/reia.html"
   },
   {
     "label": "Reko",
     "id": "reko-decompiler",
-    "url": "/rows/reko-decompiler.html"
+    "url": "/concepts/reko-decompiler.html"
   },
   {
     "label": "REL English",
     "id": "rel-english",
-    "url": "/rows/rel-english.html"
+    "url": "/concepts/rel-english.html"
   },
   {
     "label": "rel-lang",
     "id": "rel-lang",
-    "url": "/rows/rel-lang.html"
+    "url": "/concepts/rel-lang.html"
   },
   {
     "label": "REL",
     "id": "rel",
-    "url": "/rows/rel.html"
+    "url": "/concepts/rel.html"
   },
   {
     "label": "Relational Data File",
     "id": "relational-data-file",
-    "url": "/rows/relational-data-file.html"
+    "url": "/concepts/relational-data-file.html"
   },
   {
     "label": "RPL",
     "id": "relational-production-language",
-    "url": "/rows/relational-production-language.html"
+    "url": "/concepts/relational-production-language.html"
   },
   {
     "label": "Relationlog",
     "id": "relationlog",
-    "url": "/rows/relationlog.html"
+    "url": "/concepts/relationlog.html"
   },
   {
     "label": "relax",
     "id": "relax",
-    "url": "/rows/relax.html"
+    "url": "/concepts/relax.html"
   },
   {
     "label": "RELAX NG",
     "id": "relaxng",
-    "url": "/rows/relaxng.html"
+    "url": "/concepts/relaxng.html"
   },
   {
     "label": "RELFUN",
     "id": "relfun",
-    "url": "/rows/relfun.html"
+    "url": "/concepts/relfun.html"
   },
   {
     "label": "Relix",
     "id": "relix",
-    "url": "/rows/relix.html"
+    "url": "/concepts/relix.html"
   },
   {
     "label": "remix",
     "id": "remix",
-    "url": "/rows/remix.html"
+    "url": "/concepts/remix.html"
   },
   {
     "label": "Ren-C",
     "id": "ren-c",
-    "url": "/rows/ren-c.html"
+    "url": "/concepts/ren-c.html"
   },
   {
     "label": "Ren",
     "id": "ren-notation",
-    "url": "/rows/ren-notation.html"
+    "url": "/concepts/ren-notation.html"
   },
   {
     "label": "RenderMan Shading Language",
     "id": "renderman-shading-language",
-    "url": "/rows/renderman-shading-language.html"
+    "url": "/concepts/renderman-shading-language.html"
   },
   {
     "label": "RenderScript",
     "id": "renderscript",
-    "url": "/rows/renderscript.html"
+    "url": "/concepts/renderscript.html"
   },
   {
     "label": "Ren'Py",
     "id": "renpy",
-    "url": "/rows/renpy.html"
+    "url": "/concepts/renpy.html"
   },
   {
     "label": "RPT",
     "id": "report-writer-language",
-    "url": "/rows/report-writer-language.html"
+    "url": "/concepts/report-writer-language.html"
   },
   {
     "label": "Rescript",
     "id": "rescript",
-    "url": "/rows/rescript.html"
+    "url": "/concepts/rescript.html"
   },
   {
     "label": "resharper-editor",
     "id": "resharper-editor",
-    "url": "/rows/resharper-editor.html"
+    "url": "/concepts/resharper-editor.html"
   },
   {
     "label": "REST",
     "id": "rest",
-    "url": "/rows/rest.html"
+    "url": "/concepts/rest.html"
   },
   {
     "label": "reStructuredText",
     "id": "restructuredtext",
-    "url": "/rows/restructuredtext.html"
+    "url": "/concepts/restructuredtext.html"
   },
   {
     "label": "RetDec",
     "id": "retdec",
-    "url": "/rows/retdec.html"
+    "url": "/concepts/retdec.html"
   },
   {
     "label": "retroforth",
     "id": "retroforth",
-    "url": "/rows/retroforth.html"
+    "url": "/concepts/retroforth.html"
   },
   {
     "label": "Reuse Description Language",
     "id": "reuse-description-language",
-    "url": "/rows/reuse-description-language.html"
+    "url": "/concepts/reuse-description-language.html"
   },
   {
     "label": "Reverse Polish notation",
     "id": "reverse-polish-notation",
-    "url": "/rows/reverse-polish-notation.html"
+    "url": "/concepts/reverse-polish-notation.html"
   },
   {
     "label": "Autodesk Revit",
     "id": "revit-app",
-    "url": "/rows/revit-app.html"
+    "url": "/concepts/revit-app.html"
   },
   {
     "label": "Revolution",
     "id": "revolution-programming-language",
-    "url": "/rows/revolution-programming-language.html"
+    "url": "/concepts/revolution-programming-language.html"
   },
   {
     "label": "Rexon",
     "id": "rexon",
-    "url": "/rows/rexon.html"
+    "url": "/concepts/rexon.html"
   },
   {
     "label": "Rexx",
     "id": "rexx",
-    "url": "/rows/rexx.html"
+    "url": "/concepts/rexx.html"
   },
   {
     "label": "RF-Maple",
     "id": "rf-maple",
-    "url": "/rows/rf-maple.html"
+    "url": "/concepts/rf-maple.html"
   },
   {
     "label": "RFC",
     "id": "rfc",
-    "url": "/rows/rfc.html"
+    "url": "/concepts/rfc.html"
   },
   {
     "label": "Silicon Graphics Image",
     "id": "rgb-format",
-    "url": "/rows/rgb-format.html"
+    "url": "/concepts/rgb-format.html"
   },
   {
     "label": "RHET",
     "id": "rhet",
-    "url": "/rows/rhet.html"
+    "url": "/concepts/rhet.html"
   },
   {
     "label": "rhine",
     "id": "rhine",
-    "url": "/rows/rhine.html"
+    "url": "/concepts/rhine.html"
   },
   {
     "label": "Rholang",
     "id": "rholang",
-    "url": "/rows/rholang.html"
+    "url": "/concepts/rholang.html"
   },
   {
     "label": "rhoscript",
     "id": "rhoscript",
-    "url": "/rows/rhoscript.html"
+    "url": "/concepts/rhoscript.html"
   },
   {
     "label": "RHTML",
     "id": "rhtml",
-    "url": "/rows/rhtml.html"
+    "url": "/concepts/rhtml.html"
   },
   {
     "label": "RicScript",
     "id": "ricscript",
-    "url": "/rows/ricscript.html"
+    "url": "/concepts/ricscript.html"
   },
   {
     "label": "rider-editor",
     "id": "rider-editor",
-    "url": "/rows/rider-editor.html"
+    "url": "/concepts/rider-editor.html"
   },
   {
     "label": "Riff",
     "id": "riff",
-    "url": "/rows/riff.html"
+    "url": "/concepts/riff.html"
   },
   {
     "label": "RIGAL",
     "id": "rigal",
-    "url": "/rows/rigal.html"
+    "url": "/concepts/rigal.html"
   },
   {
     "label": "RigC",
     "id": "rigc",
-    "url": "/rows/rigc.html"
+    "url": "/concepts/rigc.html"
   },
   {
     "label": "Ring",
     "id": "ring",
-    "url": "/rows/ring.html"
+    "url": "/concepts/ring.html"
   },
   {
     "label": "rio",
     "id": "rio",
-    "url": "/rows/rio.html"
+    "url": "/concepts/rio.html"
   },
   {
     "label": "Ripple",
     "id": "ripple",
-    "url": "/rows/ripple.html"
+    "url": "/concepts/ripple.html"
   },
   {
     "label": "RISC-V",
     "id": "risc-v",
-    "url": "/rows/risc-v.html"
+    "url": "/concepts/risc-v.html"
   },
   {
     "label": "rise",
     "id": "rise",
-    "url": "/rows/rise.html"
+    "url": "/concepts/rise.html"
   },
   {
     "label": "Rita",
     "id": "rita",
-    "url": "/rows/rita.html"
+    "url": "/concepts/rita.html"
   },
   {
     "label": "RLaB",
     "id": "rlab",
-    "url": "/rows/rlab.html"
+    "url": "/concepts/rlab.html"
   },
   {
     "label": "RLISP",
     "id": "rlisp",
-    "url": "/rows/rlisp.html"
+    "url": "/concepts/rlisp.html"
   },
   {
     "label": "rlmeta",
     "id": "rlmeta",
-    "url": "/rows/rlmeta.html"
+    "url": "/concepts/rlmeta.html"
   },
   {
     "label": "rlox",
     "id": "rlox",
-    "url": "/rows/rlox.html"
+    "url": "/concepts/rlox.html"
   },
   {
     "label": "RMarkdown",
     "id": "rmarkdown",
-    "url": "/rows/rmarkdown.html"
+    "url": "/concepts/rmarkdown.html"
   },
   {
     "label": "Robic",
     "id": "robic",
-    "url": "/rows/robic.html"
+    "url": "/concepts/robic.html"
   },
   {
     "label": "RoboMind",
     "id": "robomind",
-    "url": "/rows/robomind.html"
+    "url": "/concepts/robomind.html"
   },
   {
     "label": "Robot Battle",
     "id": "robot-battle",
-    "url": "/rows/robot-battle.html"
+    "url": "/concepts/robot-battle.html"
   },
   {
     "label": "RoboTalk",
     "id": "robotalk",
-    "url": "/rows/robotalk.html"
+    "url": "/concepts/robotalk.html"
   },
   {
     "label": "robotc",
     "id": "robotc",
-    "url": "/rows/robotc.html"
+    "url": "/concepts/robotc.html"
   },
   {
     "label": "RobotFramework",
     "id": "robotframework",
-    "url": "/rows/robotframework.html"
+    "url": "/concepts/robotframework.html"
   },
   {
     "label": "Robots.txt",
     "id": "robots.txt",
-    "url": "/rows/robots.txt.html"
+    "url": "/concepts/robots.txt.html"
   },
   {
     "label": "Roc",
     "id": "roc",
-    "url": "/rows/roc.html"
+    "url": "/concepts/roc.html"
   },
   {
     "label": "rocket",
     "id": "rocket",
-    "url": "/rows/rocket.html"
+    "url": "/concepts/rocket.html"
   },
   {
     "label": "rockstar-rkt",
     "id": "rockstar-rkt",
-    "url": "/rows/rockstar-rkt.html"
+    "url": "/concepts/rockstar-rkt.html"
   },
   {
     "label": "Rockstar",
     "id": "rockstar",
-    "url": "/rows/rockstar.html"
+    "url": "/concepts/rockstar.html"
   },
   {
     "label": "Rocky Mountain BASIC",
     "id": "rocky-mountain-basic",
-    "url": "/rows/rocky-mountain-basic.html"
+    "url": "/concepts/rocky-mountain-basic.html"
   },
   {
     "label": "ROFF",
     "id": "roff",
-    "url": "/rows/roff.html"
+    "url": "/concepts/roff.html"
   },
   {
     "label": "Brightscript",
     "id": "roku-brightscript",
-    "url": "/rows/roku-brightscript.html"
+    "url": "/concepts/roku-brightscript.html"
   },
   {
     "label": "ROL",
     "id": "rol",
-    "url": "/rows/rol.html"
+    "url": "/concepts/rol.html"
   },
   {
     "label": "ROL2",
     "id": "rol2",
-    "url": "/rows/rol2.html"
+    "url": "/concepts/rol2.html"
   },
   {
     "label": "Roman abacus",
     "id": "roman-abacus-machine",
-    "url": "/rows/roman-abacus-machine.html"
+    "url": "/concepts/roman-abacus-machine.html"
   },
   {
     "label": "Roman numerals",
     "id": "roman-numerals",
-    "url": "/rows/roman-numerals.html"
+    "url": "/concepts/roman-numerals.html"
   },
   {
     "label": "Ron",
     "id": "ron",
-    "url": "/rows/ron.html"
+    "url": "/concepts/ron.html"
   },
   {
     "label": "ROOP",
     "id": "roop",
-    "url": "/rows/roop.html"
+    "url": "/concepts/roop.html"
   },
   {
     "label": "root-format",
     "id": "root-format",
-    "url": "/rows/root-format.html"
+    "url": "/concepts/root-format.html"
   },
   {
     "label": "ROOT",
     "id": "root-lib",
-    "url": "/rows/root-lib.html"
+    "url": "/concepts/root-lib.html"
   },
   {
     "label": "ROS Message",
     "id": "ros-msg",
-    "url": "/rows/ros-msg.html"
+    "url": "/concepts/ros-msg.html"
   },
   {
     "label": "ROSCOE",
     "id": "roscoe",
-    "url": "/rows/roscoe.html"
+    "url": "/concepts/roscoe.html"
   },
   {
     "label": "Rosetta-2",
     "id": "rosetta-2",
-    "url": "/rows/rosetta-2.html"
+    "url": "/concepts/rosetta-2.html"
   },
   {
     "label": "Rosetta SMALLTALK",
     "id": "rosetta-smalltalk",
-    "url": "/rows/rosetta-smalltalk.html"
+    "url": "/concepts/rosetta-smalltalk.html"
   },
   {
     "label": "rosette-lang",
     "id": "rosette-lang",
-    "url": "/rows/rosette-lang.html"
+    "url": "/concepts/rosette-lang.html"
   },
   {
     "label": "Rosette",
     "id": "rosette",
-    "url": "/rows/rosette.html"
+    "url": "/concepts/rosette.html"
   },
   {
     "label": "rosie",
     "id": "rosie",
-    "url": "/rows/rosie.html"
+    "url": "/concepts/rosie.html"
   },
   {
     "label": "Roslyn compiler",
     "id": "roslyn-compiler",
-    "url": "/rows/roslyn-compiler.html"
+    "url": "/concepts/roslyn-compiler.html"
   },
   {
     "label": "Rouge",
     "id": "rouge",
-    "url": "/rows/rouge.html"
+    "url": "/concepts/rouge.html"
   },
   {
     "label": "roy",
     "id": "roy",
-    "url": "/rows/roy.html"
+    "url": "/concepts/roy.html"
   },
   {
     "label": "RoyalScript",
     "id": "royalscript",
-    "url": "/rows/royalscript.html"
+    "url": "/concepts/royalscript.html"
   },
   {
     "label": "RPG II",
     "id": "rpg-ii",
-    "url": "/rows/rpg-ii.html"
+    "url": "/concepts/rpg-ii.html"
   },
   {
     "label": "RPG III",
     "id": "rpg-iii",
-    "url": "/rows/rpg-iii.html"
+    "url": "/concepts/rpg-iii.html"
   },
   {
     "label": "Reactive Plan Language",
     "id": "rpl-lang",
-    "url": "/rows/rpl-lang.html"
+    "url": "/concepts/rpl-lang.html"
   },
   {
     "label": "RPL",
     "id": "rpl",
-    "url": "/rows/rpl.html"
+    "url": "/concepts/rpl.html"
   },
   {
     "label": "Rpm",
     "id": "rpm-package-manager",
-    "url": "/rows/rpm-package-manager.html"
+    "url": "/concepts/rpm-package-manager.html"
   },
   {
     "label": "RPM Spec",
     "id": "rpm-spec",
-    "url": "/rows/rpm-spec.html"
+    "url": "/concepts/rpm-spec.html"
   },
   {
     "label": "R++",
     "id": "rpp",
-    "url": "/rows/rpp.html"
+    "url": "/concepts/rpp.html"
   },
   {
     "label": "rpscript",
     "id": "rpscript",
-    "url": "/rows/rpscript.html"
+    "url": "/concepts/rpscript.html"
   },
   {
     "label": "Restricted Python",
     "id": "rpython",
-    "url": "/rows/rpython.html"
+    "url": "/concepts/rpython.html"
   },
   {
     "label": "RQL",
     "id": "rql",
-    "url": "/rows/rql.html"
+    "url": "/concepts/rql.html"
   },
   {
     "label": "rsharp",
     "id": "rsharp",
-    "url": "/rows/rsharp.html"
+    "url": "/concepts/rsharp.html"
   },
   {
     "label": "RAISE Specification Language",
     "id": "rsl",
-    "url": "/rows/rsl.html"
+    "url": "/concepts/rsl.html"
   },
   {
     "label": "RSS",
     "id": "rss",
-    "url": "/rows/rss.html"
+    "url": "/concepts/rss.html"
   },
   {
     "label": "RStudio",
     "id": "rstudio-editor",
-    "url": "/rows/rstudio-editor.html"
+    "url": "/concepts/rstudio-editor.html"
   },
   {
     "label": "RT-ASLAN",
     "id": "rt-aslan",
-    "url": "/rows/rt-aslan.html"
+    "url": "/concepts/rt-aslan.html"
   },
   {
     "label": "RT-CDL",
     "id": "rt-cdl",
-    "url": "/rows/rt-cdl.html"
+    "url": "/concepts/rt-cdl.html"
   },
   {
     "label": "RT-Z",
     "id": "rt-z",
-    "url": "/rows/rt-z.html"
+    "url": "/concepts/rt-z.html"
   },
   {
     "label": "RTF",
     "id": "rtf",
-    "url": "/rows/rtf.html"
+    "url": "/concepts/rtf.html"
   },
   {
     "label": "RTL/2",
     "id": "rtl-2",
-    "url": "/rows/rtl-2.html"
+    "url": "/concepts/rtl-2.html"
   },
   {
     "label": "Real-time Transport Protocol",
     "id": "rtp-protocol",
-    "url": "/rows/rtp-protocol.html"
+    "url": "/concepts/rtp-protocol.html"
   },
   {
     "label": "ru",
     "id": "ru",
-    "url": "/rows/ru.html"
+    "url": "/concepts/ru.html"
   },
   {
     "label": "Ruby Document format",
     "id": "ruby-document-format",
-    "url": "/rows/ruby-document-format.html"
+    "url": "/concepts/ruby-document-format.html"
   },
   {
     "label": "ruby-mine-editor",
     "id": "ruby-mine-editor",
-    "url": "/rows/ruby-mine-editor.html"
+    "url": "/concepts/ruby-mine-editor.html"
   },
   {
     "label": "Ruby",
     "id": "ruby",
-    "url": "/rows/ruby.html"
+    "url": "/concepts/ruby.html"
   },
   {
     "label": "RubyGems",
     "id": "rubygems-pm",
-    "url": "/rows/rubygems-pm.html"
+    "url": "/concepts/rubygems-pm.html"
   },
   {
     "label": "RuleML",
     "id": "ruleml",
-    "url": "/rows/ruleml.html"
+    "url": "/concepts/ruleml.html"
   },
   {
     "label": "Run BASIC",
     "id": "run-basic",
-    "url": "/rows/run-basic.html"
+    "url": "/concepts/run-basic.html"
   },
   {
     "label": "RUNCIBLE",
     "id": "runcible",
-    "url": "/rows/runcible.html"
+    "url": "/concepts/runcible.html"
   },
   {
     "label": "runescript",
     "id": "runescript",
-    "url": "/rows/runescript.html"
+    "url": "/concepts/runescript.html"
   },
   {
     "label": "runic",
     "id": "runic",
-    "url": "/rows/runic.html"
+    "url": "/concepts/runic.html"
   },
   {
     "label": "runiq",
     "id": "runiq",
-    "url": "/rows/runiq.html"
+    "url": "/concepts/runiq.html"
   },
   {
     "label": "RUNOFF",
     "id": "runoff",
-    "url": "/rows/runoff.html"
+    "url": "/concepts/runoff.html"
   },
   {
     "label": "RunRev",
     "id": "runrev",
-    "url": "/rows/runrev.html"
+    "url": "/concepts/runrev.html"
   },
   {
     "label": "Ruri",
     "id": "ruri",
-    "url": "/rows/ruri.html"
+    "url": "/concepts/ruri.html"
   },
   {
     "label": "RUSSELL",
     "id": "russell",
-    "url": "/rows/russell.html"
+    "url": "/concepts/russell.html"
   },
   {
     "label": "Rust HIR",
     "id": "rust-hir",
-    "url": "/rows/rust-hir.html"
+    "url": "/concepts/rust-hir.html"
   },
   {
     "label": "Rust MIR",
     "id": "rust-mir",
-    "url": "/rows/rust-mir.html"
+    "url": "/concepts/rust-mir.html"
   },
   {
     "label": "Rust",
     "id": "rust",
-    "url": "/rows/rust.html"
+    "url": "/concepts/rust.html"
   },
   {
     "label": "RustScript",
     "id": "rustscript",
-    "url": "/rows/rustscript.html"
+    "url": "/concepts/rustscript.html"
   },
   {
     "label": "RUTH",
     "id": "ruth",
-    "url": "/rows/ruth.html"
+    "url": "/concepts/ruth.html"
   },
   {
     "label": "Rye",
     "id": "rye",
-    "url": "/rows/rye.html"
+    "url": "/concepts/rye.html"
   },
   {
     "label": "S-algol",
     "id": "s-algol",
-    "url": "/rows/s-algol.html"
+    "url": "/concepts/s-algol.html"
   },
   {
     "label": "S-expressions",
     "id": "s-expressions",
-    "url": "/rows/s-expressions.html"
+    "url": "/concepts/s-expressions.html"
   },
   {
     "label": "s-lang",
     "id": "s-lang",
-    "url": "/rows/s-lang.html"
+    "url": "/concepts/s-lang.html"
   },
   {
     "label": "S-PLUS",
     "id": "s-plus",
-    "url": "/rows/s-plus.html"
+    "url": "/concepts/s-plus.html"
   },
   {
     "label": "S/SL",
     "id": "s-sl",
-    "url": "/rows/s-sl.html"
+    "url": "/concepts/s-sl.html"
   },
   {
     "label": "S-Snobol",
     "id": "s-snobol",
-    "url": "/rows/s-snobol.html"
+    "url": "/concepts/s-snobol.html"
   },
   {
     "label": "S",
     "id": "s",
-    "url": "/rows/s.html"
+    "url": "/concepts/s.html"
   },
   {
     "label": "System 2",
     "id": "s2",
-    "url": "/rows/s2.html"
+    "url": "/concepts/s2.html"
   },
   {
     "label": "S3",
     "id": "s3",
-    "url": "/rows/s3.html"
+    "url": "/concepts/s3.html"
   },
   {
     "label": "SA-C",
     "id": "sa-c-programming-language",
-    "url": "/rows/sa-c-programming-language.html"
+    "url": "/concepts/sa-c-programming-language.html"
   },
   {
     "label": "SA",
     "id": "sa",
-    "url": "/rows/sa.html"
+    "url": "/concepts/sa.html"
   },
   {
     "label": "SAAL",
     "id": "saal",
-    "url": "/rows/saal.html"
+    "url": "/concepts/saal.html"
   },
   {
     "label": "SAC-1",
     "id": "sac-1",
-    "url": "/rows/sac-1.html"
+    "url": "/concepts/sac-1.html"
   },
   {
     "label": "SAC-2",
     "id": "sac-2",
-    "url": "/rows/sac-2.html"
+    "url": "/concepts/sac-2.html"
   },
   {
     "label": "SAC",
     "id": "sac-programming-language",
-    "url": "/rows/sac-programming-language.html"
+    "url": "/concepts/sac-programming-language.html"
   },
   {
     "label": "Safari",
     "id": "safari",
-    "url": "/rows/safari.html"
+    "url": "/concepts/safari.html"
   },
   {
     "label": "Sage",
     "id": "sagemath",
-    "url": "/rows/sagemath.html"
+    "url": "/concepts/sagemath.html"
   },
   {
     "label": "System Automatycznego Kodowania Operacji",
     "id": "sako",
-    "url": "/rows/sako.html"
+    "url": "/concepts/sako.html"
   },
   {
     "label": "SALE",
     "id": "sale",
-    "url": "/rows/sale.html"
+    "url": "/concepts/sale.html"
   },
   {
     "label": "SALEM",
     "id": "salem",
-    "url": "/rows/salem.html"
+    "url": "/concepts/salem.html"
   },
   {
     "label": "Simple Actor Language System and Architecture",
     "id": "salsa",
-    "url": "/rows/salsa.html"
+    "url": "/concepts/salsa.html"
   },
   {
     "label": "SaltStack",
     "id": "saltstack",
-    "url": "/rows/saltstack.html"
+    "url": "/concepts/saltstack.html"
   },
   {
     "label": "Sam Coupé",
     "id": "sam-coupe",
-    "url": "/rows/sam-coupe.html"
+    "url": "/concepts/sam-coupe.html"
   },
   {
     "label": "SAM file format",
     "id": "sam-format",
-    "url": "/rows/sam-format.html"
+    "url": "/concepts/sam-format.html"
   },
   {
     "label": "SAM76",
     "id": "sam76",
-    "url": "/rows/sam76.html"
+    "url": "/concepts/sam76.html"
   },
   {
     "label": "Security Assertion Markup Language",
     "id": "saml",
-    "url": "/rows/saml.html"
+    "url": "/concepts/saml.html"
   },
   {
     "label": "Sampletalk",
     "id": "sampletalk",
-    "url": "/rows/sampletalk.html"
+    "url": "/concepts/sampletalk.html"
   },
   {
     "label": "SAOL",
     "id": "saol",
-    "url": "/rows/saol.html"
+    "url": "/concepts/saol.html"
   },
   {
     "label": "SAP HANA",
     "id": "sap-hana",
-    "url": "/rows/sap-hana.html"
+    "url": "/concepts/sap-hana.html"
   },
   {
     "label": "Sapphire",
     "id": "sapphire",
-    "url": "/rows/sapphire.html"
+    "url": "/concepts/sapphire.html"
   },
   {
     "label": "SARL",
     "id": "sarl",
-    "url": "/rows/sarl.html"
+    "url": "/concepts/sarl.html"
   },
   {
     "label": "SARTEX",
     "id": "sartex",
-    "url": "/rows/sartex.html"
+    "url": "/concepts/sartex.html"
   },
   {
     "label": "SAS",
     "id": "sas",
-    "url": "/rows/sas.html"
+    "url": "/concepts/sas.html"
   },
   {
     "label": "SASL",
     "id": "sasl-programming-language",
-    "url": "/rows/sasl-programming-language.html"
+    "url": "/concepts/sasl-programming-language.html"
   },
   {
     "label": "Sass",
     "id": "sass",
-    "url": "/rows/sass.html"
+    "url": "/concepts/sass.html"
   },
   {
     "label": "Sassy",
     "id": "sassy",
-    "url": "/rows/sassy.html"
+    "url": "/concepts/sassy.html"
   },
   {
     "label": "Sather-K",
     "id": "sather-k",
-    "url": "/rows/sather-k.html"
+    "url": "/concepts/sather-k.html"
   },
   {
     "label": "Sather",
     "id": "sather",
-    "url": "/rows/sather.html"
+    "url": "/concepts/sather.html"
   },
   {
     "label": "SATySFi",
     "id": "satysfi",
-    "url": "/rows/satysfi.html"
+    "url": "/concepts/satysfi.html"
   },
   {
     "label": "SAUSTALL",
     "id": "saustall",
-    "url": "/rows/saustall.html"
+    "url": "/concepts/saustall.html"
   },
   {
     "label": "Savi",
     "id": "savi",
-    "url": "/rows/savi.html"
+    "url": "/concepts/savi.html"
   },
   {
     "label": "Sawzall",
     "id": "sawzall",
-    "url": "/rows/sawzall.html"
+    "url": "/concepts/sawzall.html"
   },
   {
     "label": "SB-ONE",
     "id": "sb-one",
-    "url": "/rows/sb-one.html"
+    "url": "/concepts/sb-one.html"
   },
   {
     "label": "SBA",
     "id": "sba",
-    "url": "/rows/sba.html"
+    "url": "/concepts/sba.html"
   },
   {
     "label": "SBASIC",
     "id": "sbasic",
-    "url": "/rows/sbasic.html"
+    "url": "/concepts/sbasic.html"
   },
   {
     "label": "Steel Bank Common Lisp",
     "id": "sbcl",
-    "url": "/rows/sbcl.html"
+    "url": "/concepts/sbcl.html"
   },
   {
     "label": "Systems Biology Markup Language",
     "id": "sbml",
-    "url": "/rows/sbml.html"
+    "url": "/concepts/sbml.html"
   },
   {
     "label": "The Synthetic Biology Open Language",
     "id": "sbol",
-    "url": "/rows/sbol.html"
+    "url": "/concepts/sbol.html"
   },
   {
     "label": "Scala.js",
     "id": "scala-js",
-    "url": "/rows/scala-js.html"
+    "url": "/concepts/scala-js.html"
   },
   {
     "label": "Scala",
     "id": "scala",
-    "url": "/rows/scala.html"
+    "url": "/concepts/scala.html"
   },
   {
     "label": "SCALPEL",
     "id": "scalpel",
-    "url": "/rows/scalpel.html"
+    "url": "/concepts/scalpel.html"
   },
   {
     "label": "Scala Markup Language",
     "id": "scaml",
-    "url": "/rows/scaml.html"
+    "url": "/concepts/scaml.html"
   },
   {
     "label": "SCAN",
     "id": "scan",
-    "url": "/rows/scan.html"
+    "url": "/concepts/scan.html"
   },
   {
     "label": "SCAT",
     "id": "scat",
-    "url": "/rows/scat.html"
+    "url": "/concepts/scat.html"
   },
   {
     "label": "Scenic",
     "id": "scenic",
-    "url": "/rows/scenic.html"
+    "url": "/concepts/scenic.html"
   },
   {
     "label": "SCHEMAL",
     "id": "schemal",
-    "url": "/rows/schemal.html"
+    "url": "/concepts/schemal.html"
   },
   {
     "label": "Schema.org",
     "id": "schemaorg",
-    "url": "/rows/schemaorg.html"
+    "url": "/concepts/schemaorg.html"
   },
   {
     "label": "Schematron",
     "id": "schematron",
-    "url": "/rows/schematron.html"
+    "url": "/concepts/schematron.html"
   },
   {
     "label": "Scheme 2-D",
     "id": "scheme-2-d",
-    "url": "/rows/scheme-2-d.html"
+    "url": "/concepts/scheme-2-d.html"
   },
   {
     "label": "Scheme",
     "id": "scheme",
-    "url": "/rows/scheme.html"
+    "url": "/concepts/scheme.html"
   },
   {
     "label": "School",
     "id": "school",
-    "url": "/rows/school.html"
+    "url": "/concepts/school.html"
   },
   {
     "label": "Schoonschip",
     "id": "schoonschip",
-    "url": "/rows/schoonschip.html"
+    "url": "/concepts/schoonschip.html"
   },
   {
     "label": "Schrödinger's Equation",
     "id": "schrodingers-equation",
-    "url": "/rows/schrodingers-equation.html"
+    "url": "/concepts/schrodingers-equation.html"
   },
   {
     "label": "Scieneer Common Lisp",
     "id": "scieneer-common-lisp",
-    "url": "/rows/scieneer-common-lisp.html"
+    "url": "/concepts/scieneer-common-lisp.html"
   },
   {
     "label": "Scikit-learn",
     "id": "scikit-learn",
-    "url": "/rows/scikit-learn.html"
+    "url": "/concepts/scikit-learn.html"
   },
   {
     "label": "SCIL-VP",
     "id": "scil-vp",
-    "url": "/rows/scil-vp.html"
+    "url": "/concepts/scil-vp.html"
   },
   {
     "label": "Scilab",
     "id": "scilab",
-    "url": "/rows/scilab.html"
+    "url": "/concepts/scilab.html"
   },
   {
     "label": "SciPy",
     "id": "scipy",
-    "url": "/rows/scipy.html"
+    "url": "/concepts/scipy.html"
   },
   {
     "label": "Structured Control Language",
     "id": "scl",
-    "url": "/rows/scl.html"
+    "url": "/concepts/scl.html"
   },
   {
     "label": "Sclipting",
     "id": "sclipting",
-    "url": "/rows/sclipting.html"
+    "url": "/concepts/sclipting.html"
   },
   {
     "label": "SCM",
     "id": "scm",
-    "url": "/rows/scm.html"
+    "url": "/concepts/scm.html"
   },
   {
     "label": "Scoop",
     "id": "scoop-pm",
-    "url": "/rows/scoop-pm.html"
+    "url": "/concepts/scoop-pm.html"
   },
   {
     "label": "SCOOP",
     "id": "scoop",
-    "url": "/rows/scoop.html"
+    "url": "/concepts/scoop.html"
   },
   {
     "label": "scopes",
     "id": "scopes",
-    "url": "/rows/scopes.html"
+    "url": "/concepts/scopes.html"
   },
   {
     "label": "score",
     "id": "score",
-    "url": "/rows/score.html"
+    "url": "/concepts/score.html"
   },
   {
     "label": "Scrapscript",
     "id": "scrapscript",
-    "url": "/rows/scrapscript.html"
+    "url": "/concepts/scrapscript.html"
   },
   {
     "label": "Scratch",
     "id": "scratch",
-    "url": "/rows/scratch.html"
+    "url": "/concepts/scratch.html"
   },
   {
     "label": "Scratchpad II",
     "id": "scratchpad-ii",
-    "url": "/rows/scratchpad-ii.html"
+    "url": "/concepts/scratchpad-ii.html"
   },
   {
     "label": "Scratchpad",
     "id": "scratchpad",
-    "url": "/rows/scratchpad.html"
+    "url": "/concepts/scratchpad.html"
   },
   {
     "label": "SCREAMER",
     "id": "screamer",
-    "url": "/rows/screamer.html"
+    "url": "/concepts/screamer.html"
   },
   {
     "label": "scribble",
     "id": "scribble",
-    "url": "/rows/scribble.html"
+    "url": "/concepts/scribble.html"
   },
   {
     "label": "Scribe",
     "id": "scribe",
-    "url": "/rows/scribe.html"
+    "url": "/concepts/scribe.html"
   },
   {
     "label": "Scrimshaw",
     "id": "scrimshaw",
-    "url": "/rows/scrimshaw.html"
+    "url": "/concepts/scrimshaw.html"
   },
   {
     "label": "SCRIPT markup",
     "id": "script",
-    "url": "/rows/script.html"
+    "url": "/concepts/script.html"
   },
   {
     "label": "ScriptBasic",
     "id": "scriptbasic",
-    "url": "/rows/scriptbasic.html"
+    "url": "/concepts/scriptbasic.html"
   },
   {
     "label": "ScriptEase",
     "id": "scriptease",
-    "url": "/rows/scriptease.html"
+    "url": "/concepts/scriptease.html"
   },
   {
     "label": "Scriptol",
     "id": "scriptol",
-    "url": "/rows/scriptol.html"
+    "url": "/concepts/scriptol.html"
   },
   {
     "label": "ScriptX",
     "id": "scriptx",
-    "url": "/rows/scriptx.html"
+    "url": "/concepts/scriptx.html"
   },
   {
     "label": "SCROLL",
     "id": "scroll-lang",
-    "url": "/rows/scroll-lang.html"
+    "url": "/concepts/scroll-lang.html"
   },
   {
     "label": "Scroll",
     "id": "scroll",
-    "url": "/rows/scroll.html"
+    "url": "/concepts/scroll.html"
   },
   {
     "label": "Scsh",
     "id": "scsh",
-    "url": "/rows/scsh.html"
+    "url": "/concepts/scsh.html"
   },
   {
     "label": "SCSS",
     "id": "scss",
-    "url": "/rows/scss.html"
+    "url": "/concepts/scss.html"
   },
   {
     "label": "sdf-format",
     "id": "sdf-format",
-    "url": "/rows/sdf-format.html"
+    "url": "/concepts/sdf-format.html"
   },
   {
     "label": "SDF",
     "id": "sdf",
-    "url": "/rows/sdf.html"
+    "url": "/concepts/sdf.html"
   },
   {
     "label": "Shared Dataspace Language",
     "id": "sdl",
-    "url": "/rows/sdl.html"
+    "url": "/concepts/sdl.html"
   },
   {
     "label": "SdlBasic",
     "id": "sdlbasic",
-    "url": "/rows/sdlbasic.html"
+    "url": "/concepts/sdlbasic.html"
   },
   {
     "label": "SDMS",
     "id": "sdms",
-    "url": "/rows/sdms.html"
+    "url": "/concepts/sdms.html"
   },
   {
     "label": "SDTM",
     "id": "sdtm",
-    "url": "/rows/sdtm.html"
+    "url": "/concepts/sdtm.html"
   },
   {
     "label": "SEARCH",
     "id": "search",
-    "url": "/rows/search.html"
+    "url": "/concepts/search.html"
   },
   {
     "label": "SectorC",
     "id": "sectorc",
-    "url": "/rows/sectorc.html"
+    "url": "/concepts/sectorc.html"
   },
   {
     "label": "Secure Operations Language",
     "id": "secure-operations-language",
-    "url": "/rows/secure-operations-language.html"
+    "url": "/concepts/secure-operations-language.html"
   },
   {
     "label": "sed",
     "id": "sed",
-    "url": "/rows/sed.html"
+    "url": "/concepts/sed.html"
   },
   {
     "label": "Seed7",
     "id": "seed7",
-    "url": "/rows/seed7.html"
+    "url": "/concepts/seed7.html"
   },
   {
     "label": "SEGRAS",
     "id": "segras",
-    "url": "/rows/segras.html"
+    "url": "/concepts/segras.html"
   },
   {
     "label": "Self",
     "id": "self",
-    "url": "/rows/self.html"
+    "url": "/concepts/self.html"
   },
   {
     "label": "SEMANOL",
     "id": "semanol",
-    "url": "/rows/semanol.html"
+    "url": "/concepts/semanol.html"
   },
   {
     "label": "Semi-Thue",
     "id": "semi-thue-system",
-    "url": "/rows/semi-thue-system.html"
+    "url": "/concepts/semi-thue-system.html"
   },
   {
     "label": "semicolon",
     "id": "semicolon",
-    "url": "/rows/semicolon.html"
+    "url": "/concepts/semicolon.html"
   },
   {
     "label": "Semantic Versioning",
     "id": "semver",
-    "url": "/rows/semver.html"
+    "url": "/concepts/semver.html"
   },
   {
     "label": "Standard for Exchange of Non-clinical Data",
     "id": "send-standard",
-    "url": "/rows/send-standard.html"
+    "url": "/concepts/send-standard.html"
   },
   {
     "label": "SenseTalk",
     "id": "sensetalk",
-    "url": "/rows/sensetalk.html"
+    "url": "/concepts/sensetalk.html"
   },
   {
     "label": "sentient",
     "id": "sentient",
-    "url": "/rows/sentient.html"
+    "url": "/concepts/sentient.html"
   },
   {
     "label": "Seph",
     "id": "seph-programming-language",
-    "url": "/rows/seph-programming-language.html"
+    "url": "/concepts/seph-programming-language.html"
   },
   {
     "label": "sepi",
     "id": "sepi",
-    "url": "/rows/sepi.html"
+    "url": "/concepts/sepi.html"
   },
   {
     "label": "Seq",
     "id": "seq",
-    "url": "/rows/seq.html"
+    "url": "/concepts/seq.html"
   },
   {
     "label": "Seque",
     "id": "seque",
-    "url": "/rows/seque.html"
+    "url": "/concepts/seque.html"
   },
   {
     "label": "SEQUEL 2",
     "id": "sequel-2",
-    "url": "/rows/sequel-2.html"
+    "url": "/concepts/sequel-2.html"
   },
   {
     "label": "SequenceL",
     "id": "sequencel",
-    "url": "/rows/sequencel.html"
+    "url": "/concepts/sequencel.html"
   },
   {
     "label": "SFC",
     "id": "sequential-function-chart",
-    "url": "/rows/sequential-function-chart.html"
+    "url": "/concepts/sequential-function-chart.html"
   },
   {
     "label": "Sequential Pascal",
     "id": "sequential-pascal",
-    "url": "/rows/sequential-pascal.html"
+    "url": "/concepts/sequential-pascal.html"
   },
   {
     "label": "Serious",
     "id": "serious",
-    "url": "/rows/serious.html"
+    "url": "/concepts/serious.html"
   },
   {
     "label": "Service Modeling Language",
     "id": "service-modeling-language",
-    "url": "/rows/service-modeling-language.html"
+    "url": "/concepts/service-modeling-language.html"
   },
   {
     "label": "SESPATH",
     "id": "sespath",
-    "url": "/rows/sespath.html"
+    "url": "/concepts/sespath.html"
   },
   {
     "label": "SESPOOL",
     "id": "sespool",
-    "url": "/rows/sespool.html"
+    "url": "/concepts/sespool.html"
   },
   {
     "label": "Set-builder notation",
     "id": "set-builder-notation",
-    "url": "/rows/set-builder-notation.html"
+    "url": "/concepts/set-builder-notation.html"
   },
   {
     "label": "SETL",
     "id": "setl",
-    "url": "/rows/setl.html"
+    "url": "/concepts/setl.html"
   },
   {
     "label": "SetLog",
     "id": "setlog",
-    "url": "/rows/setlog.html"
+    "url": "/concepts/setlog.html"
   },
   {
     "label": "setlx",
     "id": "setlx",
-    "url": "/rows/setlx.html"
+    "url": "/concepts/setlx.html"
   },
   {
     "label": "Setun",
     "id": "setun",
-    "url": "/rows/setun.html"
+    "url": "/concepts/setun.html"
   },
   {
     "label": "SEVAL",
     "id": "seval",
-    "url": "/rows/seval.html"
+    "url": "/concepts/seval.html"
   },
   {
     "label": "Seymour",
     "id": "seymour",
-    "url": "/rows/seymour.html"
+    "url": "/concepts/seymour.html"
   },
   {
     "label": "SGML",
     "id": "sgml",
-    "url": "/rows/sgml.html"
+    "url": "/concepts/sgml.html"
   },
   {
     "label": "sh",
     "id": "sh",
-    "url": "/rows/sh.html"
+    "url": "/concepts/sh.html"
   },
   {
     "label": "SHA-1",
     "id": "sha-1-hash-function",
-    "url": "/rows/sha-1-hash-function.html"
+    "url": "/concepts/sha-1-hash-function.html"
   },
   {
     "label": "SHA-2",
     "id": "sha-2-hash-function",
-    "url": "/rows/sha-2-hash-function.html"
+    "url": "/concepts/sha-2-hash-function.html"
   },
   {
     "label": "SHA-3",
     "id": "sha-3-hash-function",
-    "url": "/rows/sha-3-hash-function.html"
+    "url": "/concepts/sha-3-hash-function.html"
   },
   {
     "label": "shadama",
     "id": "shadama",
-    "url": "/rows/shadama.html"
+    "url": "/concepts/shadama.html"
   },
   {
     "label": "shade",
     "id": "shade",
-    "url": "/rows/shade.html"
+    "url": "/concepts/shade.html"
   },
   {
     "label": "ShaderLab",
     "id": "shaderlab",
-    "url": "/rows/shaderlab.html"
+    "url": "/concepts/shaderlab.html"
   },
   {
     "label": "SHADOW",
     "id": "shadow",
-    "url": "/rows/shadow.html"
+    "url": "/concepts/shadow.html"
   },
   {
     "label": "Shakespeare",
     "id": "shakespeare-programming-language",
-    "url": "/rows/shakespeare-programming-language.html"
+    "url": "/concepts/shakespeare-programming-language.html"
   },
   {
     "label": "shakti",
     "id": "shakti",
-    "url": "/rows/shakti.html"
+    "url": "/concepts/shakti.html"
   },
   {
     "label": "sham",
     "id": "sham",
-    "url": "/rows/sham.html"
+    "url": "/concepts/sham.html"
   },
   {
     "label": "Shapefile",
     "id": "shapefile",
-    "url": "/rows/shapefile.html"
+    "url": "/concepts/shapefile.html"
   },
   {
     "label": "ShapeUp",
     "id": "shapeup",
-    "url": "/rows/shapeup.html"
+    "url": "/concepts/shapeup.html"
   },
   {
     "label": "Shared Prolog",
     "id": "shared-prolog",
-    "url": "/rows/shared-prolog.html"
+    "url": "/concepts/shared-prolog.html"
   },
   {
     "label": "sharpscript",
     "id": "sharpscript",
-    "url": "/rows/sharpscript.html"
+    "url": "/concepts/sharpscript.html"
   },
   {
     "label": "Sheep",
     "id": "sheep-lang",
-    "url": "/rows/sheep-lang.html"
+    "url": "/concepts/sheep-lang.html"
   },
   {
     "label": "SHEEP",
     "id": "sheep",
-    "url": "/rows/sheep.html"
+    "url": "/concepts/sheep.html"
   },
   {
     "label": "SheerPower4GL",
     "id": "sheerpower4gl",
-    "url": "/rows/sheerpower4gl.html"
+    "url": "/concepts/sheerpower4gl.html"
   },
   {
     "label": "Shen",
     "id": "shen",
-    "url": "/rows/shen.html"
+    "url": "/concepts/shen.html"
   },
   {
     "label": "ShEx",
     "id": "shex",
-    "url": "/rows/shex.html"
+    "url": "/concepts/shex.html"
   },
   {
     "label": "SHIFT",
     "id": "shift",
-    "url": "/rows/shift.html"
+    "url": "/concepts/shift.html"
   },
   {
     "label": "shill",
     "id": "shill",
-    "url": "/rows/shill.html"
+    "url": "/concepts/shill.html"
   },
   {
     "label": "shiv",
     "id": "shiv",
-    "url": "/rows/shiv.html"
+    "url": "/concepts/shiv.html"
   },
   {
     "label": "shml",
     "id": "shml",
-    "url": "/rows/shml.html"
+    "url": "/concepts/shml.html"
   },
   {
     "label": "SHOE",
     "id": "shoe",
-    "url": "/rows/shoe.html"
+    "url": "/concepts/shoe.html"
   },
   {
     "label": "Short Code computer language",
     "id": "short-code-computer-language",
-    "url": "/rows/short-code-computer-language.html"
+    "url": "/concepts/short-code-computer-language.html"
   },
   {
     "label": "SHRDLU",
     "id": "shrdlu",
-    "url": "/rows/shrdlu.html"
+    "url": "/concepts/shrdlu.html"
   },
   {
     "label": "SI Library",
     "id": "si-library",
-    "url": "/rows/si-library.html"
+    "url": "/concepts/si-library.html"
   },
   {
     "label": "SI",
     "id": "si",
-    "url": "/rows/si.html"
+    "url": "/concepts/si.html"
   },
   {
     "label": "Sibelius",
     "id": "sibelius-software",
-    "url": "/rows/sibelius-software.html"
+    "url": "/concepts/sibelius-software.html"
   },
   {
     "label": "Sibilant",
     "id": "sibilant",
-    "url": "/rows/sibilant.html"
+    "url": "/concepts/sibilant.html"
   },
   {
     "label": "SIDOPS+",
     "id": "sidopsp",
-    "url": "/rows/sidopsp.html"
+    "url": "/concepts/sidopsp.html"
   },
   {
     "label": "sierra",
     "id": "sierra",
-    "url": "/rows/sierra.html"
+    "url": "/concepts/sierra.html"
   },
   {
     "label": "Sieve mail filtering language",
     "id": "sieve",
-    "url": "/rows/sieve.html"
+    "url": "/concepts/sieve.html"
   },
   {
     "label": "SIGMA 76",
     "id": "sigma-76",
-    "url": "/rows/sigma-76.html"
+    "url": "/concepts/sigma-76.html"
   },
   {
     "label": "SIGNAL",
     "id": "signal",
-    "url": "/rows/signal.html"
+    "url": "/concepts/signal.html"
   },
   {
     "label": "SIL",
     "id": "sil",
-    "url": "/rows/sil.html"
+    "url": "/concepts/sil.html"
   },
   {
     "label": "sile",
     "id": "sile",
-    "url": "/rows/sile.html"
+    "url": "/concepts/sile.html"
   },
   {
     "label": "silk",
     "id": "silk",
-    "url": "/rows/silk.html"
+    "url": "/concepts/silk.html"
   },
   {
     "label": "sill",
     "id": "sill",
-    "url": "/rows/sill.html"
+    "url": "/concepts/sill.html"
   },
   {
     "label": "SIMAN IV",
     "id": "siman-iv",
-    "url": "/rows/siman-iv.html"
+    "url": "/concepts/siman-iv.html"
   },
   {
     "label": "SIMAN",
     "id": "siman",
-    "url": "/rows/siman.html"
+    "url": "/concepts/siman.html"
   },
   {
     "label": "SIMCAL",
     "id": "simcal",
-    "url": "/rows/simcal.html"
+    "url": "/concepts/simcal.html"
   },
   {
     "label": "SimCode",
     "id": "simcode",
-    "url": "/rows/simcode.html"
+    "url": "/concepts/simcode.html"
   },
   {
     "label": "SIMDIS",
     "id": "simdis",
-    "url": "/rows/simdis.html"
+    "url": "/concepts/simdis.html"
   },
   {
     "label": "SIMFACTORY",
     "id": "simfactory",
-    "url": "/rows/simfactory.html"
+    "url": "/concepts/simfactory.html"
   },
   {
     "label": "simit",
     "id": "simit",
-    "url": "/rows/simit.html"
+    "url": "/concepts/simit.html"
   },
   {
     "label": "Simkin",
     "id": "simkin-programming-language",
-    "url": "/rows/simkin-programming-language.html"
+    "url": "/concepts/simkin-programming-language.html"
   },
   {
     "label": "SIML/I",
     "id": "siml-i",
-    "url": "/rows/siml-i.html"
+    "url": "/concepts/siml-i.html"
   },
   {
     "label": "SIMNET",
     "id": "simnet",
-    "url": "/rows/simnet.html"
+    "url": "/concepts/simnet.html"
   },
   {
     "label": "SIMODULA",
     "id": "simodula",
-    "url": "/rows/simodula.html"
+    "url": "/concepts/simodula.html"
   },
   {
     "label": "Simons' BASIC",
     "id": "simons-basic",
-    "url": "/rows/simons-basic.html"
+    "url": "/concepts/simons-basic.html"
   },
   {
     "label": "SIMPAS",
     "id": "simpas",
-    "url": "/rows/simpas.html"
+    "url": "/concepts/simpas.html"
   },
   {
     "label": "SIMPL",
     "id": "simpl",
-    "url": "/rows/simpl.html"
+    "url": "/concepts/simpl.html"
   },
   {
     "label": "Simple Binary Encoding",
     "id": "simple-binary-encoding",
-    "url": "/rows/simple-binary-encoding.html"
+    "url": "/concepts/simple-binary-encoding.html"
   },
   {
     "label": "Simple Stackless Lisp",
     "id": "simple-stackless-lisp",
-    "url": "/rows/simple-stackless-lisp.html"
+    "url": "/concepts/simple-stackless-lisp.html"
   },
   {
     "label": "SIMPLE",
     "id": "simple",
-    "url": "/rows/simple.html"
+    "url": "/concepts/simple.html"
   },
   {
     "label": "SimpleScript",
     "id": "simplescript",
-    "url": "/rows/simplescript.html"
+    "url": "/concepts/simplescript.html"
   },
   {
     "label": "Simplicity",
     "id": "simplictiy",
-    "url": "/rows/simplictiy.html"
+    "url": "/concepts/simplictiy.html"
   },
   {
     "label": "Sim++",
     "id": "simpp",
-    "url": "/rows/simpp.html"
+    "url": "/concepts/simpp.html"
   },
   {
     "label": "SIMSCRIPT",
     "id": "simscript",
-    "url": "/rows/simscript.html"
+    "url": "/concepts/simscript.html"
   },
   {
     "label": "SIMUL",
     "id": "simul",
-    "url": "/rows/simul.html"
+    "url": "/concepts/simul.html"
   },
   {
     "label": "SIMULA 67",
     "id": "simula-67",
-    "url": "/rows/simula-67.html"
+    "url": "/concepts/simula-67.html"
   },
   {
     "label": "Simula",
     "id": "simula",
-    "url": "/rows/simula.html"
+    "url": "/concepts/simula.html"
   },
   {
     "label": "Simulink",
     "id": "simulink",
-    "url": "/rows/simulink.html"
+    "url": "/concepts/simulink.html"
   },
   {
     "label": "sina",
     "id": "sina",
-    "url": "/rows/sina.html"
+    "url": "/concepts/sina.html"
   },
   {
     "label": "Sinclair BASIC",
     "id": "sinclair-basic",
-    "url": "/rows/sinclair-basic.html"
+    "url": "/concepts/sinclair-basic.html"
   },
   {
     "label": "Sing Sharp",
     "id": "sing-sharp",
-    "url": "/rows/sing-sharp.html"
+    "url": "/concepts/sing-sharp.html"
   },
   {
     "label": "singular",
     "id": "singular",
-    "url": "/rows/singular.html"
+    "url": "/concepts/singular.html"
   },
   {
     "label": "SipHash",
     "id": "siphash-hash-function",
-    "url": "/rows/siphash-hash-function.html"
+    "url": "/concepts/siphash-hash-function.html"
   },
   {
     "label": "Siprol",
     "id": "siprol",
-    "url": "/rows/siprol.html"
+    "url": "/concepts/siprol.html"
   },
   {
     "label": "Siri",
     "id": "siri",
-    "url": "/rows/siri.html"
+    "url": "/concepts/siri.html"
   },
   {
     "label": "SISAL",
     "id": "sisal",
-    "url": "/rows/sisal.html"
+    "url": "/concepts/sisal.html"
   },
   {
     "label": "SISC",
     "id": "sisc",
-    "url": "/rows/sisc.html"
+    "url": "/concepts/sisc.html"
   },
   {
     "label": "Sitemap",
     "id": "sitemap",
-    "url": "/rows/sitemap.html"
+    "url": "/concepts/sitemap.html"
   },
   {
     "label": "sixten",
     "id": "sixten",
-    "url": "/rows/sixten.html"
+    "url": "/concepts/sixten.html"
   },
   {
     "label": "sizzle",
     "id": "sizzle",
-    "url": "/rows/sizzle.html"
+    "url": "/concepts/sizzle.html"
   },
   {
     "label": "SK8",
     "id": "sk8",
-    "url": "/rows/sk8.html"
+    "url": "/concepts/sk8.html"
   },
   {
     "label": "Sketchpad III",
     "id": "sketchpad-iii",
-    "url": "/rows/sketchpad-iii.html"
+    "url": "/concepts/sketchpad-iii.html"
   },
   {
     "label": "Sketchpad",
     "id": "sketchpad",
-    "url": "/rows/sketchpad.html"
+    "url": "/concepts/sketchpad.html"
   },
   {
     "label": "skew",
     "id": "skew",
-    "url": "/rows/skew.html"
+    "url": "/concepts/skew.html"
   },
   {
     "label": "SKIL",
     "id": "skil",
-    "url": "/rows/skil.html"
+    "url": "/concepts/skil.html"
   },
   {
     "label": "skip",
     "id": "skip",
-    "url": "/rows/skip.html"
+    "url": "/concepts/skip.html"
   },
   {
     "label": "skookumscript",
     "id": "skookumscript",
-    "url": "/rows/skookumscript.html"
+    "url": "/concepts/skookumscript.html"
   },
   {
     "label": "skulpt",
     "id": "skulpt",
-    "url": "/rows/skulpt.html"
+    "url": "/concepts/skulpt.html"
   },
   {
     "label": "SKY",
     "id": "sky",
-    "url": "/rows/sky.html"
+    "url": "/concepts/sky.html"
   },
   {
     "label": "SL",
     "id": "sl",
-    "url": "/rows/sl.html"
+    "url": "/concepts/sl.html"
   },
   {
     "label": "SL5",
     "id": "sl5",
-    "url": "/rows/sl5.html"
+    "url": "/concepts/sl5.html"
   },
   {
     "label": "SLAM II",
     "id": "slam-ii",
-    "url": "/rows/slam-ii.html"
+    "url": "/concepts/slam-ii.html"
   },
   {
     "label": "SLANG",
     "id": "slang",
-    "url": "/rows/slang.html"
+    "url": "/concepts/slang.html"
   },
   {
     "label": "Slash",
     "id": "slash",
-    "url": "/rows/slash.html"
+    "url": "/concepts/slash.html"
   },
   {
     "label": "SLEUTH",
     "id": "sleuth",
-    "url": "/rows/sleuth.html"
+    "url": "/concepts/sleuth.html"
   },
   {
     "label": "Slice",
     "id": "slice",
-    "url": "/rows/slice.html"
+    "url": "/concepts/slice.html"
   },
   {
     "label": "Slick",
     "id": "slick",
-    "url": "/rows/slick.html"
+    "url": "/concepts/slick.html"
   },
   {
     "label": "Slideshow",
     "id": "slideshow",
-    "url": "/rows/slideshow.html"
+    "url": "/concepts/slideshow.html"
   },
   {
     "label": "Slim",
     "id": "slim-lang",
-    "url": "/rows/slim-lang.html"
+    "url": "/concepts/slim-lang.html"
   },
   {
     "label": "slim-pl",
     "id": "slim-pl",
-    "url": "/rows/slim-pl.html"
+    "url": "/concepts/slim-pl.html"
   },
   {
     "label": "slim",
     "id": "slim",
-    "url": "/rows/slim.html"
+    "url": "/concepts/slim.html"
   },
   {
     "label": "SLIP",
     "id": "slip",
-    "url": "/rows/slip.html"
+    "url": "/concepts/slip.html"
   },
   {
     "label": "SLIPS",
     "id": "slips",
-    "url": "/rows/slips.html"
+    "url": "/concepts/slips.html"
   },
   {
     "label": "SLOG",
     "id": "slog",
-    "url": "/rows/slog.html"
+    "url": "/concepts/slog.html"
   },
   {
     "label": "Slony",
     "id": "slony",
-    "url": "/rows/slony.html"
+    "url": "/concepts/slony.html"
   },
   {
     "label": "Slope",
     "id": "slope",
-    "url": "/rows/slope.html"
+    "url": "/concepts/slope.html"
   },
   {
     "label": "SLPL",
     "id": "slpl",
-    "url": "/rows/slpl.html"
+    "url": "/concepts/slpl.html"
   },
   {
     "label": "SMALGOL",
     "id": "smalgol",
-    "url": "/rows/smalgol.html"
+    "url": "/concepts/smalgol.html"
   },
   {
     "label": "Smali",
     "id": "smali",
-    "url": "/rows/smali.html"
+    "url": "/concepts/smali.html"
   },
   {
     "label": "Small-C",
     "id": "small-c",
-    "url": "/rows/small-c.html"
+    "url": "/concepts/small-c.html"
   },
   {
     "label": "Small Euclid",
     "id": "small-euclid",
-    "url": "/rows/small-euclid.html"
+    "url": "/concepts/small-euclid.html"
   },
   {
     "label": "SMALL-X",
     "id": "small-x",
-    "url": "/rows/small-x.html"
+    "url": "/concepts/small-x.html"
   },
   {
     "label": "Small",
     "id": "small",
-    "url": "/rows/small.html"
+    "url": "/concepts/small.html"
   },
   {
     "label": "SmallBASIC",
     "id": "smallbasic",
-    "url": "/rows/smallbasic.html"
+    "url": "/concepts/smallbasic.html"
   },
   {
     "label": "Smalltalk-76",
     "id": "smalltalk-76",
-    "url": "/rows/smalltalk-76.html"
+    "url": "/concepts/smalltalk-76.html"
   },
   {
     "label": "Smalltalk-80",
     "id": "smalltalk-80",
-    "url": "/rows/smalltalk-80.html"
+    "url": "/concepts/smalltalk-80.html"
   },
   {
     "label": "Smalltalk MT",
     "id": "smalltalk-mt",
-    "url": "/rows/smalltalk-mt.html"
+    "url": "/concepts/smalltalk-mt.html"
   },
   {
     "label": "Smalltalk/V",
     "id": "smalltalk-v",
-    "url": "/rows/smalltalk-v.html"
+    "url": "/concepts/smalltalk-v.html"
   },
   {
     "label": "Smalltalk YX",
     "id": "smalltalk-yx",
-    "url": "/rows/smalltalk-yx.html"
+    "url": "/concepts/smalltalk-yx.html"
   },
   {
     "label": "Smalltalk",
     "id": "smalltalk",
-    "url": "/rows/smalltalk.html"
+    "url": "/concepts/smalltalk.html"
   },
   {
     "label": "smalltalkhub-pm",
     "id": "smalltalkhub-pm",
-    "url": "/rows/smalltalkhub-pm.html"
+    "url": "/concepts/smalltalkhub-pm.html"
   },
   {
     "label": "SmallVDM",
     "id": "smallvdm",
-    "url": "/rows/smallvdm.html"
+    "url": "/concepts/smallvdm.html"
   },
   {
     "label": "SMART",
     "id": "smart",
-    "url": "/rows/smart.html"
+    "url": "/concepts/smart.html"
   },
   {
     "label": "SmartGameFormat",
     "id": "smartgameformat",
-    "url": "/rows/smartgameformat.html"
+    "url": "/concepts/smartgameformat.html"
   },
   {
     "label": "SMILES arbitrary target specification",
     "id": "smarts",
-    "url": "/rows/smarts.html"
+    "url": "/concepts/smarts.html"
   },
   {
     "label": "Smartsheet",
     "id": "smartsheet-app",
-    "url": "/rows/smartsheet-app.html"
+    "url": "/concepts/smartsheet-app.html"
   },
   {
     "label": "Smarty",
     "id": "smarty",
-    "url": "/rows/smarty.html"
+    "url": "/concepts/smarty.html"
   },
   {
     "label": "SMDL",
     "id": "smdl",
-    "url": "/rows/smdl.html"
+    "url": "/concepts/smdl.html"
   },
   {
     "label": "Smile data interchange format",
     "id": "smile",
-    "url": "/rows/smile.html"
+    "url": "/concepts/smile.html"
   },
   {
     "label": "Smiles",
     "id": "smiles-format",
-    "url": "/rows/smiles-format.html"
+    "url": "/concepts/smiles-format.html"
   },
   {
     "label": "Smithy",
     "id": "smithy",
-    "url": "/rows/smithy.html"
+    "url": "/concepts/smithy.html"
   },
   {
     "label": "SMOKE",
     "id": "smoke",
-    "url": "/rows/smoke.html"
+    "url": "/concepts/smoke.html"
   },
   {
     "label": "SMoLCS",
     "id": "smolcs",
-    "url": "/rows/smolcs.html"
+    "url": "/concepts/smolcs.html"
   },
   {
     "label": "Semantic Patch Language",
     "id": "smpl",
-    "url": "/rows/smpl.html"
+    "url": "/concepts/smpl.html"
   },
   {
     "label": "SMSL",
     "id": "smsl",
-    "url": "/rows/smsl.html"
+    "url": "/concepts/smsl.html"
   },
   {
     "label": "SMT",
     "id": "smt",
-    "url": "/rows/smt.html"
+    "url": "/concepts/smt.html"
   },
   {
     "label": "SMTP",
     "id": "smtp",
-    "url": "/rows/smtp.html"
+    "url": "/concepts/smtp.html"
   },
   {
     "label": "SMX",
     "id": "smx-computer-language",
-    "url": "/rows/smx-computer-language.html"
+    "url": "/concepts/smx-computer-language.html"
   },
   {
     "label": "snakemake",
     "id": "snakemake",
-    "url": "/rows/snakemake.html"
+    "url": "/concepts/snakemake.html"
   },
   {
     "label": "Snap!",
     "id": "snap",
-    "url": "/rows/snap.html"
+    "url": "/concepts/snap.html"
   },
   {
     "label": "SnapTag",
     "id": "snaptag",
-    "url": "/rows/snaptag.html"
+    "url": "/concepts/snaptag.html"
   },
   {
     "label": "SNBT",
     "id": "snbt",
-    "url": "/rows/snbt.html"
+    "url": "/concepts/snbt.html"
   },
   {
     "label": "Snit",
     "id": "snit",
-    "url": "/rows/snit.html"
+    "url": "/concepts/snit.html"
   },
   {
     "label": "SNOBAT",
     "id": "snobat",
-    "url": "/rows/snobat.html"
+    "url": "/concepts/snobat.html"
   },
   {
     "label": "SNOBOL",
     "id": "snobol",
-    "url": "/rows/snobol.html"
+    "url": "/concepts/snobol.html"
   },
   {
     "label": "SNOBOL3",
     "id": "snobol3",
-    "url": "/rows/snobol3.html"
+    "url": "/concepts/snobol3.html"
   },
   {
     "label": "SNOBOL4",
     "id": "snobol4",
-    "url": "/rows/snobol4.html"
+    "url": "/concepts/snobol4.html"
   },
   {
     "label": "SNOOP",
     "id": "snoop",
-    "url": "/rows/snoop.html"
+    "url": "/concepts/snoop.html"
   },
   {
     "label": "Snostorm",
     "id": "snostorm",
-    "url": "/rows/snostorm.html"
+    "url": "/concepts/snostorm.html"
   },
   {
     "label": "Snowball",
     "id": "snowball-programming-language",
-    "url": "/rows/snowball-programming-language.html"
+    "url": "/concepts/snowball-programming-language.html"
   },
   {
     "label": "Snowman",
     "id": "snowman-decompiler",
-    "url": "/rows/snowman-decompiler.html"
+    "url": "/concepts/snowman-decompiler.html"
   },
   {
     "label": "SNQL: A Social Network Query and Transformation Language",
     "id": "snql",
-    "url": "/rows/snql.html"
+    "url": "/concepts/snql.html"
   },
   {
     "label": "SOAP",
     "id": "soap",
-    "url": "/rows/soap.html"
+    "url": "/concepts/soap.html"
   },
   {
     "label": "Symbolic Optimal Assembly Program",
     "id": "soaplang",
-    "url": "/rows/soaplang.html"
+    "url": "/concepts/soaplang.html"
   },
   {
     "label": "Soar Markup Language",
     "id": "soar-ml",
-    "url": "/rows/soar-ml.html"
+    "url": "/concepts/soar-ml.html"
   },
   {
     "label": "SoQL",
     "id": "social-networks-query-language",
-    "url": "/rows/social-networks-query-language.html"
+    "url": "/concepts/social-networks-query-language.html"
   },
   {
     "label": "socialite",
     "id": "socialite",
-    "url": "/rows/socialite.html"
+    "url": "/concepts/socialite.html"
   },
   {
     "label": "solaris-pm",
     "id": "solaris-pm",
-    "url": "/rows/solaris-pm.html"
+    "url": "/concepts/solaris-pm.html"
   },
   {
     "label": "Solaris",
     "id": "solaris",
-    "url": "/rows/solaris.html"
+    "url": "/concepts/solaris.html"
   },
   {
     "label": "solid",
     "id": "solid",
-    "url": "/rows/solid.html"
+    "url": "/concepts/solid.html"
   },
   {
     "label": "Solidity",
     "id": "solidity",
-    "url": "/rows/solidity.html"
+    "url": "/concepts/solidity.html"
   },
   {
     "label": "SOLMAR",
     "id": "solmar",
-    "url": "/rows/solmar.html"
+    "url": "/concepts/solmar.html"
   },
   {
     "label": "son",
     "id": "son",
-    "url": "/rows/son.html"
+    "url": "/concepts/son.html"
   },
   {
     "label": "Sophia",
     "id": "sophia",
-    "url": "/rows/sophia.html"
+    "url": "/concepts/sophia.html"
   },
   {
     "label": "Socrata Query Language",
     "id": "soql-lang",
-    "url": "/rows/soql-lang.html"
+    "url": "/concepts/soql-lang.html"
   },
   {
     "label": "SOQL",
     "id": "soql",
-    "url": "/rows/soql.html"
+    "url": "/concepts/soql.html"
   },
   {
     "label": "sora",
     "id": "sora",
-    "url": "/rows/sora.html"
+    "url": "/concepts/sora.html"
   },
   {
     "label": "SORCA",
     "id": "sorca",
-    "url": "/rows/sorca.html"
+    "url": "/concepts/sorca.html"
   },
   {
     "label": "Sort Merge Generator",
     "id": "sort-merge-generator",
-    "url": "/rows/sort-merge-generator.html"
+    "url": "/concepts/sort-merge-generator.html"
   },
   {
     "label": "SOSL",
     "id": "sosl",
-    "url": "/rows/sosl.html"
+    "url": "/concepts/sosl.html"
   },
   {
     "label": "souffle",
     "id": "souffle",
-    "url": "/rows/souffle.html"
+    "url": "/concepts/souffle.html"
   },
   {
     "label": "soul",
     "id": "soul",
-    "url": "/rows/soul.html"
+    "url": "/concepts/soul.html"
   },
   {
     "label": "Soulver",
     "id": "soulver",
-    "url": "/rows/soulver.html"
+    "url": "/concepts/soulver.html"
   },
   {
     "label": "souper",
     "id": "souper",
-    "url": "/rows/souper.html"
+    "url": "/concepts/souper.html"
   },
   {
     "label": "sourcelair-editor",
     "id": "sourcelair-editor",
-    "url": "/rows/sourcelair-editor.html"
+    "url": "/concepts/sourcelair-editor.html"
   },
   {
     "label": "SourcePawn",
     "id": "sourcepawn",
-    "url": "/rows/sourcepawn.html"
+    "url": "/concepts/sourcepawn.html"
   },
   {
     "label": "Sourcetree",
     "id": "sourcetree",
-    "url": "/rows/sourcetree.html"
+    "url": "/concepts/sourcetree.html"
   },
   {
     "label": "Southampton BASIC System",
     "id": "southampton-basic-system",
-    "url": "/rows/southampton-basic-system.html"
+    "url": "/concepts/southampton-basic-system.html"
   },
   {
     "label": "Schema for Object-Oriented XML",
     "id": "sox",
-    "url": "/rows/sox.html"
+    "url": "/concepts/sox.html"
   },
   {
     "label": "Soy",
     "id": "soy",
-    "url": "/rows/soy.html"
+    "url": "/concepts/soy.html"
   },
   {
     "label": "SP/k",
     "id": "sp-k",
-    "url": "/rows/sp-k.html"
+    "url": "/concepts/sp-k.html"
   },
   {
     "label": "Space",
     "id": "space",
-    "url": "/rows/space.html"
+    "url": "/concepts/space.html"
   },
   {
     "label": "SPADE",
     "id": "spade",
-    "url": "/rows/spade.html"
+    "url": "/concepts/spade.html"
   },
   {
     "label": "SPARC",
     "id": "sparc",
-    "url": "/rows/sparc.html"
+    "url": "/concepts/sparc.html"
   },
   {
     "label": "spark-pm",
     "id": "spark-pm",
-    "url": "/rows/spark-pm.html"
+    "url": "/concepts/spark-pm.html"
   },
   {
     "label": "SPARK",
     "id": "spark",
-    "url": "/rows/spark.html"
+    "url": "/concepts/spark.html"
   },
   {
     "label": "SPARQCode",
     "id": "sparqcode",
-    "url": "/rows/sparqcode.html"
+    "url": "/concepts/sparqcode.html"
   },
   {
     "label": "SPARQL",
     "id": "sparql",
-    "url": "/rows/sparql.html"
+    "url": "/concepts/sparql.html"
   },
   {
     "label": "Spatial",
     "id": "spatial",
-    "url": "/rows/spatial.html"
+    "url": "/concepts/spatial.html"
   },
   {
     "label": "Speakeasy",
     "id": "speakeasy",
-    "url": "/rows/speakeasy.html"
+    "url": "/concepts/speakeasy.html"
   },
   {
     "label": "Spec Sharp",
     "id": "spec-sharp",
-    "url": "/rows/spec-sharp.html"
+    "url": "/concepts/spec-sharp.html"
   },
   {
     "label": "Spec",
     "id": "spec",
-    "url": "/rows/spec.html"
+    "url": "/concepts/spec.html"
   },
   {
     "label": "SPECL",
     "id": "specl",
-    "url": "/rows/specl.html"
+    "url": "/concepts/specl.html"
   },
   {
     "label": "SPECOL",
     "id": "specol",
-    "url": "/rows/specol.html"
+    "url": "/concepts/specol.html"
   },
   {
     "label": "specrtl",
     "id": "specrtl",
-    "url": "/rows/specrtl.html"
+    "url": "/concepts/specrtl.html"
   },
   {
     "label": "Speedcoding",
     "id": "speedcoding",
-    "url": "/rows/speedcoding.html"
+    "url": "/concepts/speedcoding.html"
   },
   {
     "label": "Speedie",
     "id": "speedie",
-    "url": "/rows/speedie.html"
+    "url": "/concepts/speedie.html"
   },
   {
     "label": "Sender Policy Framework",
     "id": "spf-standard",
-    "url": "/rows/spf-standard.html"
+    "url": "/concepts/spf-standard.html"
   },
   {
     "label": "Spice Lisp",
     "id": "spice-lisp",
-    "url": "/rows/spice-lisp.html"
+    "url": "/concepts/spice-lisp.html"
   },
   {
     "label": "Spice",
     "id": "spice",
-    "url": "/rows/spice.html"
+    "url": "/concepts/spice.html"
   },
   {
     "label": "spider",
     "id": "spider",
-    "url": "/rows/spider.html"
+    "url": "/concepts/spider.html"
   },
   {
     "label": "SpiderBasic",
     "id": "spiderbasic",
-    "url": "/rows/spiderbasic.html"
+    "url": "/concepts/spiderbasic.html"
   },
   {
     "label": "SpiderMonkey",
     "id": "spidermonkey",
-    "url": "/rows/spidermonkey.html"
+    "url": "/concepts/spidermonkey.html"
   },
   {
     "label": "SPIL",
     "id": "spil",
-    "url": "/rows/spil.html"
+    "url": "/concepts/spil.html"
   },
   {
     "label": "Spill",
     "id": "spill",
-    "url": "/rows/spill.html"
+    "url": "/concepts/spill.html"
   },
   {
     "label": "Spin",
     "id": "spin",
-    "url": "/rows/spin.html"
+    "url": "/concepts/spin.html"
   },
   {
     "label": "SPIP",
     "id": "spip",
-    "url": "/rows/spip.html"
+    "url": "/concepts/spip.html"
   },
   {
     "label": "spir-v",
     "id": "spir-v",
-    "url": "/rows/spir-v.html"
+    "url": "/concepts/spir-v.html"
   },
   {
     "label": "Standard Portable Intermediate Representation",
     "id": "spir",
-    "url": "/rows/spir.html"
+    "url": "/concepts/spir.html"
   },
   {
     "label": "spiral",
     "id": "spiral",
-    "url": "/rows/spiral.html"
+    "url": "/concepts/spiral.html"
   },
   {
     "label": "SPITBOL",
     "id": "spitbol",
-    "url": "/rows/spitbol.html"
+    "url": "/concepts/spitbol.html"
   },
   {
     "label": "Structured Product Labeling",
     "id": "spl",
-    "url": "/rows/spl.html"
+    "url": "/concepts/spl.html"
   },
   {
     "label": "SPLAW",
     "id": "splaw",
-    "url": "/rows/splaw.html"
+    "url": "/concepts/splaw.html"
   },
   {
     "label": "Spline Font Database",
     "id": "spline-font-database",
-    "url": "/rows/spline-font-database.html"
+    "url": "/concepts/spline-font-database.html"
   },
   {
     "label": "Split-C",
     "id": "split-c",
-    "url": "/rows/split-c.html"
+    "url": "/concepts/split-c.html"
   },
   {
     "label": "sporth",
     "id": "sporth",
-    "url": "/rows/sporth.html"
+    "url": "/concepts/sporth.html"
   },
   {
     "label": "SPRINT",
     "id": "sprint",
-    "url": "/rows/sprint.html"
+    "url": "/concepts/sprint.html"
   },
   {
     "label": "Sprite Operating System",
     "id": "sprite-os",
-    "url": "/rows/sprite-os.html"
+    "url": "/concepts/sprite-os.html"
   },
   {
     "label": "spry",
     "id": "spry",
-    "url": "/rows/spry.html"
+    "url": "/concepts/spry.html"
   },
   {
     "label": "Symbolic Programming System",
     "id": "sps",
-    "url": "/rows/sps.html"
+    "url": "/concepts/sps.html"
   },
   {
     "label": "SPSS",
     "id": "spss",
-    "url": "/rows/spss.html"
+    "url": "/concepts/spss.html"
   },
   {
     "label": "Spyder",
     "id": "spyder-editor",
-    "url": "/rows/spyder-editor.html"
+    "url": "/concepts/spyder-editor.html"
   },
   {
     "label": "SQHTML",
     "id": "sqhtml",
-    "url": "/rows/sqhtml.html"
+    "url": "/concepts/sqhtml.html"
   },
   {
     "label": "SQL-92",
     "id": "sql-92",
-    "url": "/rows/sql-92.html"
+    "url": "/concepts/sql-92.html"
   },
   {
     "label": "SQL/PSM",
     "id": "sql-psm",
-    "url": "/rows/sql-psm.html"
+    "url": "/concepts/sql-psm.html"
   },
   {
     "label": "SQL",
     "id": "sql",
-    "url": "/rows/sql.html"
+    "url": "/concepts/sql.html"
   },
   {
     "label": "Sqlalchemy",
     "id": "sqlalchemy",
-    "url": "/rows/sqlalchemy.html"
+    "url": "/concepts/sqlalchemy.html"
   },
   {
     "label": "sqlar-format",
     "id": "sqlar-format",
-    "url": "/rows/sqlar-format.html"
+    "url": "/concepts/sqlar-format.html"
   },
   {
     "label": "sqlite-storage-format",
     "id": "sqlite-storage-format",
-    "url": "/rows/sqlite-storage-format.html"
+    "url": "/concepts/sqlite-storage-format.html"
   },
   {
     "label": "SQLite",
     "id": "sqlite",
-    "url": "/rows/sqlite.html"
+    "url": "/concepts/sqlite.html"
   },
   {
     "label": "SQLMP",
     "id": "sqlmp",
-    "url": "/rows/sqlmp.html"
+    "url": "/concepts/sqlmp.html"
   },
   {
     "label": "SQLPL",
     "id": "sqlpl",
-    "url": "/rows/sqlpl.html"
+    "url": "/concepts/sqlpl.html"
   },
   {
     "label": "Structured Query Reporter",
     "id": "sqr",
-    "url": "/rows/sqr.html"
+    "url": "/concepts/sqr.html"
   },
   {
     "label": "SQRL",
     "id": "sqrl",
-    "url": "/rows/sqrl.html"
+    "url": "/concepts/sqrl.html"
   },
   {
     "label": "SQUARE",
     "id": "square",
-    "url": "/rows/square.html"
+    "url": "/concepts/square.html"
   },
   {
     "label": "Squeak",
     "id": "squeak",
-    "url": "/rows/squeak.html"
+    "url": "/concepts/squeak.html"
   },
   {
     "label": "SquidConf",
     "id": "squidconf",
-    "url": "/rows/squidconf.html"
+    "url": "/concepts/squidconf.html"
   },
   {
     "label": "squiggle",
     "id": "squiggle",
-    "url": "/rows/squiggle.html"
+    "url": "/concepts/squiggle.html"
   },
   {
     "label": "Squire",
     "id": "squire",
-    "url": "/rows/squire.html"
+    "url": "/concepts/squire.html"
   },
   {
     "label": "Squirrel",
     "id": "squirrel",
-    "url": "/rows/squirrel.html"
+    "url": "/concepts/squirrel.html"
   },
   {
     "label": "SQUOZE",
     "id": "squoze",
-    "url": "/rows/squoze.html"
+    "url": "/concepts/squoze.html"
   },
   {
     "label": "SQURL",
     "id": "squrl",
-    "url": "/rows/squrl.html"
+    "url": "/concepts/squrl.html"
   },
   {
     "label": "SR",
     "id": "sr-programming-language",
-    "url": "/rows/sr-programming-language.html"
+    "url": "/concepts/sr-programming-language.html"
   },
   {
     "label": "SR",
     "id": "sr",
-    "url": "/rows/sr.html"
+    "url": "/concepts/sr.html"
   },
   {
     "label": "SRecode Template",
     "id": "srecode-template",
-    "url": "/rows/srecode-template.html"
+    "url": "/concepts/srecode-template.html"
   },
   {
     "label": "SRL",
     "id": "srl",
-    "url": "/rows/srl.html"
+    "url": "/concepts/srl.html"
   },
   {
     "label": "srv",
     "id": "srv",
-    "url": "/rows/srv.html"
+    "url": "/concepts/srv.html"
   },
   {
     "label": "Secure Scuttlebutt",
     "id": "ssb",
-    "url": "/rows/ssb.html"
+    "url": "/concepts/ssb.html"
   },
   {
     "label": "Boston College Statistical Software Components",
     "id": "ssc-pm",
-    "url": "/rows/ssc-pm.html"
+    "url": "/concepts/ssc-pm.html"
   },
   {
     "label": "Script.NET",
     "id": "ssharp",
-    "url": "/rows/ssharp.html"
+    "url": "/concepts/ssharp.html"
   },
   {
     "label": "SSI",
     "id": "ssi",
-    "url": "/rows/ssi.html"
+    "url": "/concepts/ssi.html"
   },
   {
     "label": "ssl-lang",
     "id": "ssl-lang",
-    "url": "/rows/ssl-lang.html"
+    "url": "/concepts/ssl-lang.html"
   },
   {
     "label": "SSL",
     "id": "ssl",
-    "url": "/rows/ssl.html"
+    "url": "/concepts/ssl.html"
   },
   {
     "label": "Speech Synthesis Markup Language",
     "id": "ssml",
-    "url": "/rows/ssml.html"
+    "url": "/concepts/ssml.html"
   },
   {
     "label": "stacklang",
     "id": "stacklang",
-    "url": "/rows/stacklang.html"
+    "url": "/concepts/stacklang.html"
   },
   {
     "label": "Stackless Python",
     "id": "stackless-python",
-    "url": "/rows/stackless-python.html"
+    "url": "/concepts/stackless-python.html"
   },
   {
     "label": "STAGE2",
     "id": "stage2",
-    "url": "/rows/stage2.html"
+    "url": "/concepts/stage2.html"
   },
   {
     "label": "Stalin",
     "id": "stalin",
-    "url": "/rows/stalin.html"
+    "url": "/concepts/stalin.html"
   },
   {
     "label": "Stan",
     "id": "stan",
-    "url": "/rows/stan.html"
+    "url": "/concepts/stan.html"
   },
   {
     "label": "Standard Lisp",
     "id": "standard-lisp",
-    "url": "/rows/standard-lisp.html"
+    "url": "/concepts/standard-lisp.html"
   },
   {
     "label": "Standard ML",
     "id": "standard-ml",
-    "url": "/rows/standard-ml.html"
+    "url": "/concepts/standard-ml.html"
   },
   {
     "label": "STAPLE",
     "id": "staple",
-    "url": "/rows/staple.html"
+    "url": "/concepts/staple.html"
   },
   {
     "label": "*Prolog",
     "id": "star-prolog",
-    "url": "/rows/star-prolog.html"
+    "url": "/concepts/star-prolog.html"
   },
   {
     "label": "Star",
     "id": "star",
-    "url": "/rows/star.html"
+    "url": "/concepts/star.html"
   },
   {
     "label": "starlark",
     "id": "starlark",
-    "url": "/rows/starlark.html"
+    "url": "/concepts/starlark.html"
   },
   {
     "label": "StarLogo",
     "id": "starlogo",
-    "url": "/rows/starlogo.html"
+    "url": "/concepts/starlogo.html"
   },
   {
     "label": "StarOffice Basic",
     "id": "staroffice-basic",
-    "url": "/rows/staroffice-basic.html"
+    "url": "/concepts/staroffice-basic.html"
   },
   {
     "label": "starpial",
     "id": "starpial",
-    "url": "/rows/starpial.html"
+    "url": "/concepts/starpial.html"
   },
   {
     "label": "Stata",
     "id": "stata",
-    "url": "/rows/stata.html"
+    "url": "/concepts/stata.html"
   },
   {
     "label": "statebox",
     "id": "statebox",
-    "url": "/rows/statebox.html"
+    "url": "/concepts/statebox.html"
   },
   {
     "label": "Statemate",
     "id": "statemate",
-    "url": "/rows/statemate.html"
+    "url": "/concepts/statemate.html"
   },
   {
     "label": "Static Typescript",
     "id": "static-typescript",
-    "url": "/rows/static-typescript.html"
+    "url": "/concepts/static-typescript.html"
   },
   {
     "label": "Statsplorer",
     "id": "statsplorer",
-    "url": "/rows/statsplorer.html"
+    "url": "/concepts/statsplorer.html"
   },
   {
     "label": "SQF",
     "id": "status-quo-function",
-    "url": "/rows/status-quo-function.html"
+    "url": "/concepts/status-quo-function.html"
   },
   {
     "label": "status-quo-script",
     "id": "status-quo-script",
-    "url": "/rows/status-quo-script.html"
+    "url": "/concepts/status-quo-script.html"
   },
   {
     "label": "Steinhaus-Moser notation",
     "id": "steinhaus-moser-notation",
-    "url": "/rows/steinhaus-moser-notation.html"
+    "url": "/concepts/steinhaus-moser-notation.html"
   },
   {
     "label": "stella",
     "id": "stella",
-    "url": "/rows/stella.html"
+    "url": "/concepts/stella.html"
   },
   {
     "label": "Stencil",
     "id": "stencil",
-    "url": "/rows/stencil.html"
+    "url": "/concepts/stencil.html"
   },
   {
     "label": "Statement List",
     "id": "stl",
-    "url": "/rows/stl.html"
+    "url": "/concepts/stl.html"
   },
   {
     "label": "Stockholm format",
     "id": "stockholm-format",
-    "url": "/rows/stockholm-format.html"
+    "url": "/concepts/stockholm-format.html"
   },
   {
     "label": "STOICAL",
     "id": "stoical",
-    "url": "/rows/stoical.html"
+    "url": "/concepts/stoical.html"
   },
   {
     "label": "STON",
     "id": "ston",
-    "url": "/rows/ston.html"
+    "url": "/concepts/ston.html"
   },
   {
     "label": "StoneCutter",
     "id": "stonecutter",
-    "url": "/rows/stonecutter.html"
+    "url": "/concepts/stonecutter.html"
   },
   {
     "label": "stoneknifeforth",
     "id": "stoneknifeforth",
-    "url": "/rows/stoneknifeforth.html"
+    "url": "/concepts/stoneknifeforth.html"
   },
   {
     "label": "Storymatic",
     "id": "storymatic",
-    "url": "/rows/storymatic.html"
+    "url": "/concepts/storymatic.html"
   },
   {
     "label": "storyscript",
     "id": "storyscript",
-    "url": "/rows/storyscript.html"
+    "url": "/concepts/storyscript.html"
   },
   {
     "label": "STOS BASIC",
     "id": "stos-basic",
-    "url": "/rows/stos-basic.html"
+    "url": "/concepts/stos-basic.html"
   },
   {
     "label": "Strand",
     "id": "strand-programming-language",
-    "url": "/rows/strand-programming-language.html"
+    "url": "/concepts/strand-programming-language.html"
   },
   {
     "label": "strat",
     "id": "strat",
-    "url": "/rows/strat.html"
+    "url": "/concepts/strat.html"
   },
   {
     "label": "Stratego/XT",
     "id": "stratego",
-    "url": "/rows/stratego.html"
+    "url": "/concepts/stratego.html"
   },
   {
     "label": "STRCMACS",
     "id": "strcmacs",
-    "url": "/rows/strcmacs.html"
+    "url": "/concepts/strcmacs.html"
   },
   {
     "label": "StreamIt",
     "id": "streamit",
-    "url": "/rows/streamit.html"
+    "url": "/concepts/streamit.html"
   },
   {
     "label": "Streem",
     "id": "streem",
-    "url": "/rows/streem.html"
+    "url": "/concepts/streem.html"
   },
   {
     "label": "STREMA",
     "id": "strema",
-    "url": "/rows/strema.html"
+    "url": "/concepts/strema.html"
   },
   {
     "label": "STRESS",
     "id": "stress",
-    "url": "/rows/stress.html"
+    "url": "/concepts/stress.html"
   },
   {
     "label": "String diagram",
     "id": "string-diagrams-notation",
-    "url": "/rows/string-diagrams-notation.html"
+    "url": "/concepts/string-diagrams-notation.html"
   },
   {
     "label": "stringbean",
     "id": "stringbean",
-    "url": "/rows/stringbean.html"
+    "url": "/concepts/stringbean.html"
   },
   {
     "label": "STRINGCOMP",
     "id": "stringcomp",
-    "url": "/rows/stringcomp.html"
+    "url": "/concepts/stringcomp.html"
   },
   {
     "label": "Stripe company",
     "id": "stripe",
-    "url": "/rows/stripe.html"
+    "url": "/concepts/stripe.html"
   },
   {
     "label": "Strips",
     "id": "strips",
-    "url": "/rows/strips.html"
+    "url": "/concepts/strips.html"
   },
   {
     "label": "Strongtalk",
     "id": "strongtalk",
-    "url": "/rows/strongtalk.html"
+    "url": "/concepts/strongtalk.html"
   },
   {
     "label": "COM Structured Storage",
     "id": "structured-storage",
-    "url": "/rows/structured-storage.html"
+    "url": "/concepts/structured-storage.html"
   },
   {
     "label": "Structured text",
     "id": "structured-text",
-    "url": "/rows/structured-text.html"
+    "url": "/concepts/structured-text.html"
   },
   {
     "label": "strudel",
     "id": "strudel",
-    "url": "/rows/strudel.html"
+    "url": "/concepts/strudel.html"
   },
   {
     "label": "STRUDL",
     "id": "strudl",
-    "url": "/rows/strudl.html"
+    "url": "/concepts/strudl.html"
   },
   {
     "label": "StruQL",
     "id": "struql",
-    "url": "/rows/struql.html"
+    "url": "/concepts/struql.html"
   },
   {
     "label": "Stutter",
     "id": "stutter-lang",
-    "url": "/rows/stutter-lang.html"
+    "url": "/concepts/stutter-lang.html"
   },
   {
     "label": "stx",
     "id": "stx",
-    "url": "/rows/stx.html"
+    "url": "/concepts/stx.html"
   },
   {
     "label": "Stylus",
     "id": "stylus",
-    "url": "/rows/stylus.html"
+    "url": "/concepts/stylus.html"
   },
   {
     "label": "sub",
     "id": "sub",
-    "url": "/rows/sub.html"
+    "url": "/concepts/sub.html"
   },
   {
     "label": "SubL",
     "id": "subl",
-    "url": "/rows/subl.html"
+    "url": "/concepts/subl.html"
   },
   {
     "label": "Subleq",
     "id": "subleq",
-    "url": "/rows/subleq.html"
+    "url": "/concepts/subleq.html"
   },
   {
     "label": "Sublime Text",
     "id": "sublime-editor",
-    "url": "/rows/sublime-editor.html"
+    "url": "/concepts/sublime-editor.html"
   },
   {
     "label": "Sublime Syntax Test Lang",
     "id": "sublime-syntax-test",
-    "url": "/rows/sublime-syntax-test.html"
+    "url": "/concepts/sublime-syntax-test.html"
   },
   {
     "label": "Sublime Syntax",
     "id": "sublime-syntax",
-    "url": "/rows/sublime-syntax.html"
+    "url": "/concepts/sublime-syntax.html"
   },
   {
     "label": "SubRip Text",
     "id": "subrip-text",
-    "url": "/rows/subrip-text.html"
+    "url": "/concepts/subrip-text.html"
   },
   {
     "label": "subscript",
     "id": "subscript",
-    "url": "/rows/subscript.html"
+    "url": "/concepts/subscript.html"
   },
   {
     "label": "Subtext",
     "id": "subtext",
-    "url": "/rows/subtext.html"
+    "url": "/concepts/subtext.html"
   },
   {
     "label": "Subversion",
     "id": "subversion",
-    "url": "/rows/subversion.html"
+    "url": "/concepts/subversion.html"
   },
   {
     "label": "SubX",
     "id": "subx",
-    "url": "/rows/subx.html"
+    "url": "/concepts/subx.html"
   },
   {
     "label": "Sue",
     "id": "sue",
-    "url": "/rows/sue.html"
+    "url": "/concepts/sue.html"
   },
   {
     "label": "Sugar",
     "id": "sugar",
-    "url": "/rows/sugar.html"
+    "url": "/concepts/sugar.html"
   },
   {
     "label": "sugarj",
     "id": "sugarj",
-    "url": "/rows/sugarj.html"
+    "url": "/concepts/sugarj.html"
   },
   {
     "label": "SugarSS",
     "id": "sugarss",
-    "url": "/rows/sugarss.html"
+    "url": "/concepts/sugarss.html"
   },
   {
     "label": "sugartex",
     "id": "sugartex",
-    "url": "/rows/sugartex.html"
+    "url": "/concepts/sugartex.html"
   },
   {
     "label": "Sugi",
     "id": "sugi",
-    "url": "/rows/sugi.html"
+    "url": "/concepts/sugi.html"
   },
   {
     "label": "SUMMER",
     "id": "summer",
-    "url": "/rows/summer.html"
+    "url": "/concepts/summer.html"
   },
   {
     "label": "Sun Raster",
     "id": "sun-raster-format",
-    "url": "/rows/sun-raster-format.html"
+    "url": "/concepts/sun-raster-format.html"
   },
   {
     "label": "Suneido",
     "id": "suneido",
-    "url": "/rows/suneido.html"
+    "url": "/concepts/suneido.html"
   },
   {
     "label": "SuperBASIC",
     "id": "superbasic",
-    "url": "/rows/superbasic.html"
+    "url": "/concepts/superbasic.html"
   },
   {
     "label": "SuperCollider",
     "id": "supercollider",
-    "url": "/rows/supercollider.html"
+    "url": "/concepts/supercollider.html"
   },
   {
     "label": "SuperForth",
     "id": "superforth",
-    "url": "/rows/superforth.html"
+    "url": "/concepts/superforth.html"
   },
   {
     "label": "Superjson",
     "id": "superjson",
-    "url": "/rows/superjson.html"
+    "url": "/concepts/superjson.html"
   },
   {
     "label": "SUPERMAC",
     "id": "supermac",
-    "url": "/rows/supermac.html"
+    "url": "/concepts/supermac.html"
   },
   {
     "label": "Superplan",
     "id": "superplan",
-    "url": "/rows/superplan.html"
+    "url": "/concepts/superplan.html"
   },
   {
     "label": "SuperTalk",
     "id": "supertalk",
-    "url": "/rows/supertalk.html"
+    "url": "/concepts/supertalk.html"
   },
   {
     "label": "Superx++",
     "id": "superxpp",
-    "url": "/rows/superxpp.html"
+    "url": "/concepts/superxpp.html"
   },
   {
     "label": "SURGE",
     "id": "surge",
-    "url": "/rows/surge.html"
+    "url": "/concepts/surge.html"
   },
   {
     "label": "Svelte",
     "id": "svelte",
-    "url": "/rows/svelte.html"
+    "url": "/concepts/svelte.html"
   },
   {
     "label": "SVG",
     "id": "svg",
-    "url": "/rows/svg.html"
+    "url": "/concepts/svg.html"
   },
   {
     "label": "svgbob",
     "id": "svgbob",
-    "url": "/rows/svgbob.html"
+    "url": "/concepts/svgbob.html"
   },
   {
     "label": "SVL",
     "id": "svl",
-    "url": "/rows/svl.html"
+    "url": "/concepts/svl.html"
   },
   {
     "label": "SW2",
     "id": "sw2",
-    "url": "/rows/sw2.html"
+    "url": "/concepts/sw2.html"
   },
   {
     "label": "Swagger",
     "id": "swagger",
-    "url": "/rows/swagger.html"
+    "url": "/concepts/swagger.html"
   },
   {
     "label": "Swallow",
     "id": "swallow",
-    "url": "/rows/swallow.html"
+    "url": "/concepts/swallow.html"
   },
   {
     "label": "Sweave",
     "id": "sweave",
-    "url": "/rows/sweave.html"
+    "url": "/concepts/sweave.html"
   },
   {
     "label": "Sweet Expressions",
     "id": "sweet-expressions",
-    "url": "/rows/sweet-expressions.html"
+    "url": "/concepts/sweet-expressions.html"
   },
   {
     "label": "Sweet.js",
     "id": "sweetjs",
-    "url": "/rows/sweetjs.html"
+    "url": "/concepts/sweetjs.html"
   },
   {
     "label": "SWI Prolog",
     "id": "swi-prolog",
-    "url": "/rows/swi-prolog.html"
+    "url": "/concepts/swi-prolog.html"
   },
   {
     "label": "SIL",
     "id": "swift-il",
-    "url": "/rows/swift-il.html"
+    "url": "/concepts/swift-il.html"
   },
   {
     "label": "Swift",
     "id": "swift",
-    "url": "/rows/swift.html"
+    "url": "/concepts/swift.html"
   },
   {
     "label": "swizzle",
     "id": "swizzle",
-    "url": "/rows/swizzle.html"
+    "url": "/concepts/swizzle.html"
   },
   {
     "label": "Semantic Web Rule Language",
     "id": "swrl",
-    "url": "/rows/swrl.html"
+    "url": "/concepts/swrl.html"
   },
   {
     "label": "Swym",
     "id": "swym",
-    "url": "/rows/swym.html"
+    "url": "/concepts/swym.html"
   },
   {
     "label": "SYBYL line notation",
     "id": "sybyl-notation",
-    "url": "/rows/sybyl-notation.html"
+    "url": "/concepts/sybyl-notation.html"
   },
   {
     "label": "SYMBAL",
     "id": "symbal",
-    "url": "/rows/symbal.html"
+    "url": "/concepts/symbal.html"
   },
   {
     "label": "SymbMath",
     "id": "symbmath",
-    "url": "/rows/symbmath.html"
+    "url": "/concepts/symbmath.html"
   },
   {
     "label": "SYMBOL",
     "id": "symbol",
-    "url": "/rows/symbol.html"
+    "url": "/concepts/symbol.html"
   },
   {
     "label": "SYMBOLIC ASSEMBLY",
     "id": "symbolic-assembly",
-    "url": "/rows/symbolic-assembly.html"
+    "url": "/concepts/symbolic-assembly.html"
   },
   {
     "label": "SYMPL",
     "id": "sympl",
-    "url": "/rows/sympl.html"
+    "url": "/concepts/sympl.html"
   },
   {
     "label": "SymPy",
     "id": "sympy",
-    "url": "/rows/sympy.html"
+    "url": "/concepts/sympy.html"
   },
   {
     "label": "SYNAPSE",
     "id": "synapse",
-    "url": "/rows/synapse.html"
+    "url": "/concepts/synapse.html"
   },
   {
     "label": "SMIL",
     "id": "synchronized-multimedia-integration-language",
-    "url": "/rows/synchronized-multimedia-integration-language.html"
+    "url": "/concepts/synchronized-multimedia-integration-language.html"
   },
   {
     "label": "syndicate",
     "id": "syndicate",
-    "url": "/rows/syndicate.html"
+    "url": "/concepts/syndicate.html"
   },
   {
     "label": "synergist",
     "id": "synergist",
-    "url": "/rows/synergist.html"
+    "url": "/concepts/synergist.html"
   },
   {
     "label": "SYNGLISH",
     "id": "synglish",
-    "url": "/rows/synglish.html"
+    "url": "/concepts/synglish.html"
   },
   {
     "label": "Synon",
     "id": "synon",
-    "url": "/rows/synon.html"
+    "url": "/concepts/synon.html"
   },
   {
     "label": "SYNPROC",
     "id": "synproc",
-    "url": "/rows/synproc.html"
+    "url": "/concepts/synproc.html"
   },
   {
     "label": "SYNTEX",
     "id": "syntex",
-    "url": "/rows/syntex.html"
+    "url": "/concepts/syntex.html"
   },
   {
     "label": "SYNTOL",
     "id": "syntol",
-    "url": "/rows/syntol.html"
+    "url": "/concepts/syntol.html"
   },
   {
     "label": "SysML",
     "id": "sysml",
-    "url": "/rows/sysml.html"
+    "url": "/concepts/sysml.html"
   },
   {
     "label": "System V ABI",
     "id": "system-v-abi",
-    "url": "/rows/system-v-abi.html"
+    "url": "/concepts/system-v-abi.html"
   },
   {
     "label": "SystemVerilog",
     "id": "systemverilog",
-    "url": "/rows/systemverilog.html"
+    "url": "/concepts/systemverilog.html"
   },
   {
     "label": "IBM System z",
     "id": "systemz",
-    "url": "/rows/systemz.html"
+    "url": "/concepts/systemz.html"
   },
   {
     "label": "t-lang",
     "id": "t-lang",
-    "url": "/rows/t-lang.html"
+    "url": "/concepts/t-lang.html"
   },
   {
     "label": "T",
     "id": "t",
-    "url": "/rows/t.html"
+    "url": "/concepts/t.html"
   },
   {
     "label": "t2b",
     "id": "t2b",
-    "url": "/rows/t2b.html"
+    "url": "/concepts/t2b.html"
   },
   {
     "label": "T3X",
     "id": "t3x",
-    "url": "/rows/t3x.html"
+    "url": "/concepts/t3x.html"
   },
   {
     "label": "tab",
     "id": "tab",
-    "url": "/rows/tab.html"
+    "url": "/concepts/tab.html"
   },
   {
     "label": "tablam",
     "id": "tablam",
-    "url": "/rows/tablam.html"
+    "url": "/concepts/tablam.html"
   },
   {
     "label": "tablatal",
     "id": "tablatal",
-    "url": "/rows/tablatal.html"
+    "url": "/concepts/tablatal.html"
   },
   {
     "label": "Tableau Software",
     "id": "tableau-app",
-    "url": "/rows/tableau-app.html"
+    "url": "/concepts/tableau-app.html"
   },
   {
     "label": "TABLOG",
     "id": "tablog",
-    "url": "/rows/tablog.html"
+    "url": "/concepts/tablog.html"
   },
   {
     "label": "Tabloid",
     "id": "tabloid",
-    "url": "/rows/tabloid.html"
+    "url": "/concepts/tabloid.html"
   },
   {
     "label": "TABSOL",
     "id": "tabsol",
-    "url": "/rows/tabsol.html"
+    "url": "/concepts/tabsol.html"
   },
   {
     "label": "TABTRAN",
     "id": "tabtran",
-    "url": "/rows/tabtran.html"
+    "url": "/concepts/tabtran.html"
   },
   {
     "label": "TAC",
     "id": "tac",
-    "url": "/rows/tac.html"
+    "url": "/concepts/tac.html"
   },
   {
     "label": "Tandem Advanced Command Language",
     "id": "tacl",
-    "url": "/rows/tacl.html"
+    "url": "/concepts/tacl.html"
   },
   {
     "label": "TACPOL",
     "id": "tacpol-programming-language",
-    "url": "/rows/tacpol-programming-language.html"
+    "url": "/concepts/tacpol-programming-language.html"
   },
   {
     "label": "TACTICS",
     "id": "tactics",
-    "url": "/rows/tactics.html"
+    "url": "/concepts/tactics.html"
   },
   {
     "label": "Text Adventure Development System",
     "id": "tads",
-    "url": "/rows/tads.html"
+    "url": "/concepts/tads.html"
   },
   {
     "label": "taf",
     "id": "taf",
-    "url": "/rows/taf.html"
+    "url": "/concepts/taf.html"
   },
   {
     "label": "Tahoe-LAFS",
     "id": "tahoe-lafs",
-    "url": "/rows/tahoe-lafs.html"
+    "url": "/concepts/tahoe-lafs.html"
   },
   {
     "label": "Taichi",
     "id": "taichi",
-    "url": "/rows/taichi.html"
+    "url": "/concepts/taichi.html"
   },
   {
     "label": "Taijilang",
     "id": "taijilang",
-    "url": "/rows/taijilang.html"
+    "url": "/concepts/taijilang.html"
   },
   {
     "label": "taktentus",
     "id": "taktentus",
-    "url": "/rows/taktentus.html"
+    "url": "/concepts/taktentus.html"
   },
   {
     "label": "TAL",
     "id": "tal",
-    "url": "/rows/tal.html"
+    "url": "/concepts/tal.html"
   },
   {
     "label": "TALE",
     "id": "tale",
-    "url": "/rows/tale.html"
+    "url": "/concepts/tale.html"
   },
   {
     "label": "TALL",
     "id": "tall",
-    "url": "/rows/tall.html"
+    "url": "/concepts/tall.html"
   },
   {
     "label": "tamgu",
     "id": "tamgu",
-    "url": "/rows/tamgu.html"
+    "url": "/concepts/tamgu.html"
   },
   {
     "label": "tampio",
     "id": "tampio",
-    "url": "/rows/tampio.html"
+    "url": "/concepts/tampio.html"
   },
   {
     "label": "tangledown",
     "id": "tangledown",
-    "url": "/rows/tangledown.html"
+    "url": "/concepts/tangledown.html"
   },
   {
     "label": "Tao",
     "id": "tao-lang",
-    "url": "/rows/tao-lang.html"
+    "url": "/concepts/tao-lang.html"
   },
   {
     "label": "TAO",
     "id": "tao",
-    "url": "/rows/tao.html"
+    "url": "/concepts/tao.html"
   },
   {
     "label": "tao3d",
     "id": "tao3d",
-    "url": "/rows/tao3d.html"
+    "url": "/concepts/tao3d.html"
   },
   {
     "label": "Tap code",
     "id": "tap-code",
-    "url": "/rows/tap-code.html"
+    "url": "/concepts/tap-code.html"
   },
   {
     "label": "TAP",
     "id": "tap",
-    "url": "/rows/tap.html"
+    "url": "/concepts/tap.html"
   },
   {
     "label": "Table Query Language",
     "id": "taql",
-    "url": "/rows/taql.html"
+    "url": "/concepts/taql.html"
   },
   {
     "label": "Tarmac",
     "id": "tarmac",
-    "url": "/rows/tarmac.html"
+    "url": "/concepts/tarmac.html"
   },
   {
     "label": "tarot",
     "id": "tarot",
-    "url": "/rows/tarot.html"
+    "url": "/concepts/tarot.html"
   },
   {
     "label": "TASM",
     "id": "tasm",
-    "url": "/rows/tasm.html"
+    "url": "/concepts/tasm.html"
   },
   {
     "label": "Tawa",
     "id": "tawa",
-    "url": "/rows/tawa.html"
+    "url": "/concepts/tawa.html"
   },
   {
     "label": "taxa",
     "id": "taxa",
-    "url": "/rows/taxa.html"
+    "url": "/concepts/taxa.html"
   },
   {
     "label": "Taxis",
     "id": "taxis",
-    "url": "/rows/taxis.html"
+    "url": "/concepts/taxis.html"
   },
   {
     "label": "tbox-lib",
     "id": "tbox-lib",
-    "url": "/rows/tbox-lib.html"
+    "url": "/concepts/tbox-lib.html"
   },
   {
     "label": "tcc",
     "id": "tcc",
-    "url": "/rows/tcc.html"
+    "url": "/concepts/tcc.html"
   },
   {
     "label": "Tcl",
     "id": "tcl",
-    "url": "/rows/tcl.html"
+    "url": "/concepts/tcl.html"
   },
   {
     "label": "TCOZ",
     "id": "tcoz",
-    "url": "/rows/tcoz.html"
+    "url": "/concepts/tcoz.html"
   },
   {
     "label": "TCP",
     "id": "tcp",
-    "url": "/rows/tcp.html"
+    "url": "/concepts/tcp.html"
   },
   {
     "label": "tcsh",
     "id": "tcsh",
-    "url": "/rows/tcsh.html"
+    "url": "/concepts/tcsh.html"
   },
   {
     "label": "TCSP",
     "id": "tcsp",
-    "url": "/rows/tcsp.html"
+    "url": "/concepts/tcsp.html"
   },
   {
     "label": "TDFL",
     "id": "tdfl",
-    "url": "/rows/tdfl.html"
+    "url": "/concepts/tdfl.html"
   },
   {
     "label": "TDMS",
     "id": "tdms",
-    "url": "/rows/tdms.html"
+    "url": "/concepts/tdms.html"
   },
   {
     "label": "Tea",
     "id": "tea-pl",
-    "url": "/rows/tea-pl.html"
+    "url": "/concepts/tea-pl.html"
   },
   {
     "label": "tea",
     "id": "tea-pm",
-    "url": "/rows/tea-pm.html"
+    "url": "/concepts/tea-pm.html"
   },
   {
     "label": "Tea",
     "id": "tea",
-    "url": "/rows/tea.html"
+    "url": "/concepts/tea.html"
   },
   {
     "label": "teal",
     "id": "teal",
-    "url": "/rows/teal.html"
+    "url": "/concepts/teal.html"
   },
   {
     "label": "TeaSharp",
     "id": "teasharp",
-    "url": "/rows/teasharp.html"
+    "url": "/concepts/teasharp.html"
   },
   {
     "label": "TECO",
     "id": "teco",
-    "url": "/rows/teco.html"
+    "url": "/concepts/teco.html"
   },
   {
     "label": "Tefkat",
     "id": "tefkat",
-    "url": "/rows/tefkat.html"
+    "url": "/concepts/tefkat.html"
   },
   {
     "label": "Tektronix 4050",
     "id": "tektronix",
-    "url": "/rows/tektronix.html"
+    "url": "/concepts/tektronix.html"
   },
   {
     "label": "TeLa",
     "id": "tela",
-    "url": "/rows/tela.html"
+    "url": "/concepts/tela.html"
   },
   {
     "label": "TELCOMP",
     "id": "telcomp",
-    "url": "/rows/telcomp.html"
+    "url": "/concepts/telcomp.html"
   },
   {
     "label": "telefile-assembly",
     "id": "telefile-assembly",
-    "url": "/rows/telefile-assembly.html"
+    "url": "/concepts/telefile-assembly.html"
   },
   {
     "label": "Telnet",
     "id": "telnet-protocol",
-    "url": "/rows/telnet-protocol.html"
+    "url": "/concepts/telnet-protocol.html"
   },
   {
     "label": "TELOS",
     "id": "telos",
-    "url": "/rows/telos.html"
+    "url": "/concepts/telos.html"
   },
   {
     "label": "TELSIM",
     "id": "telsim",
-    "url": "/rows/telsim.html"
+    "url": "/concepts/telsim.html"
   },
   {
     "label": "Templar",
     "id": "templar",
-    "url": "/rows/templar.html"
+    "url": "/concepts/templar.html"
   },
   {
     "label": "Template Attribute Language",
     "id": "template-attribute-language",
-    "url": "/rows/template-attribute-language.html"
+    "url": "/concepts/template-attribute-language.html"
   },
   {
     "label": "TEMPO",
     "id": "tempo",
-    "url": "/rows/tempo.html"
+    "url": "/concepts/tempo.html"
   },
   {
     "label": "Temporal Prolog",
     "id": "temporal-prolog",
-    "url": "/rows/temporal-prolog.html"
+    "url": "/concepts/temporal-prolog.html"
   },
   {
     "label": "ten",
     "id": "ten",
-    "url": "/rows/ten.html"
+    "url": "/concepts/ten.html"
   },
   {
     "label": "tengo",
     "id": "tengo",
-    "url": "/rows/tengo.html"
+    "url": "/concepts/tengo.html"
   },
   {
     "label": "TensorFlow",
     "id": "tensorflow",
-    "url": "/rows/tensorflow.html"
+    "url": "/concepts/tensorflow.html"
   },
   {
     "label": "Teradata Aster",
     "id": "teradata-aster",
-    "url": "/rows/teradata-aster.html"
+    "url": "/concepts/teradata-aster.html"
   },
   {
     "label": "Teradata",
     "id": "teradata",
-    "url": "/rows/teradata.html"
+    "url": "/concepts/teradata.html"
   },
   {
     "label": "tern",
     "id": "tern",
-    "url": "/rows/tern.html"
+    "url": "/concepts/tern.html"
   },
   {
     "label": "Ternary numeral system",
     "id": "ternary-notation",
-    "url": "/rows/ternary-notation.html"
+    "url": "/concepts/ternary-notation.html"
   },
   {
     "label": "Terra",
     "id": "terra",
-    "url": "/rows/terra.html"
+    "url": "/concepts/terra.html"
   },
   {
     "label": "terse",
     "id": "terse",
-    "url": "/rows/terse.html"
+    "url": "/concepts/terse.html"
   },
   {
     "label": "tetra",
     "id": "tetra",
-    "url": "/rows/tetra.html"
+    "url": "/concepts/tetra.html"
   },
   {
     "label": "tetruss-app",
     "id": "tetruss-app",
-    "url": "/rows/tetruss-app.html"
+    "url": "/concepts/tetruss-app.html"
   },
   {
     "label": "Tex",
     "id": "tex",
-    "url": "/rows/tex.html"
+    "url": "/concepts/tex.html"
   },
   {
     "label": "texpr",
     "id": "texpr",
-    "url": "/rows/texpr.html"
+    "url": "/concepts/texpr.html"
   },
   {
     "label": "Text Executive Programming Language",
     "id": "text-executive-programming-language",
-    "url": "/rows/text-executive-programming-language.html"
+    "url": "/concepts/text-executive-programming-language.html"
   },
   {
     "label": "Textadept",
     "id": "textadept-editor",
-    "url": "/rows/textadept-editor.html"
+    "url": "/concepts/textadept-editor.html"
   },
   {
     "label": "TextFrame",
     "id": "textframe",
-    "url": "/rows/textframe.html"
+    "url": "/concepts/textframe.html"
   },
   {
     "label": "texti",
     "id": "texti",
-    "url": "/rows/texti.html"
+    "url": "/concepts/texti.html"
   },
   {
     "label": "Textile",
     "id": "textile",
-    "url": "/rows/textile.html"
+    "url": "/concepts/textile.html"
   },
   {
     "label": "TextMate",
     "id": "textmate-editor",
-    "url": "/rows/textmate-editor.html"
+    "url": "/concepts/textmate-editor.html"
   },
   {
     "label": "Texy!",
     "id": "texy",
-    "url": "/rows/texy.html"
+    "url": "/concepts/texy.html"
   },
   {
     "label": "TFL",
     "id": "tfl",
-    "url": "/rows/tfl.html"
+    "url": "/concepts/tfl.html"
   },
   {
     "label": "The Message System",
     "id": "the-message-system",
-    "url": "/rows/the-message-system.html"
+    "url": "/concepts/the-message-system.html"
   },
   {
     "label": "THEOS",
     "id": "theos-multi-user-basic",
-    "url": "/rows/theos-multi-user-basic.html"
+    "url": "/concepts/theos-multi-user-basic.html"
   },
   {
     "label": "ThinBasic",
     "id": "thinbasic",
-    "url": "/rows/thinbasic.html"
+    "url": "/concepts/thinbasic.html"
   },
   {
     "label": "ThingLab",
     "id": "thinglab",
-    "url": "/rows/thinglab.html"
+    "url": "/concepts/thinglab.html"
   },
   {
     "label": "THINK C",
     "id": "think-c",
-    "url": "/rows/think-c.html"
+    "url": "/concepts/think-c.html"
   },
   {
     "label": "thorn",
     "id": "thorn",
-    "url": "/rows/thorn.html"
+    "url": "/concepts/thorn.html"
   },
   {
     "label": "THREADED LISTS",
     "id": "threaded-lists",
-    "url": "/rows/threaded-lists.html"
+    "url": "/concepts/threaded-lists.html"
   },
   {
     "label": "Thrift",
     "id": "thrift",
-    "url": "/rows/thrift.html"
+    "url": "/concepts/thrift.html"
   },
   {
     "label": "tht",
     "id": "tht",
-    "url": "/rows/tht.html"
+    "url": "/concepts/tht.html"
   },
   {
     "label": "Thue",
     "id": "thue-programming-language",
-    "url": "/rows/thue-programming-language.html"
+    "url": "/concepts/thue-programming-language.html"
   },
   {
     "label": "thune",
     "id": "thune",
-    "url": "/rows/thune.html"
+    "url": "/concepts/thune.html"
   },
   {
     "label": "Thymeleaf",
     "id": "thymeleaf",
-    "url": "/rows/thymeleaf.html"
+    "url": "/concepts/thymeleaf.html"
   },
   {
     "label": "TI-89 series",
     "id": "ti-89-basic",
-    "url": "/rows/ti-89-basic.html"
+    "url": "/concepts/ti-89-basic.html"
   },
   {
     "label": "TI Program",
     "id": "ti-basic-assembly",
-    "url": "/rows/ti-basic-assembly.html"
+    "url": "/concepts/ti-basic-assembly.html"
   },
   {
     "label": "TI-BASIC",
     "id": "ti-basic",
-    "url": "/rows/ti-basic.html"
+    "url": "/concepts/ti-basic.html"
   },
   {
     "label": "Tibbo BASIC",
     "id": "tibbo-basic",
-    "url": "/rows/tibbo-basic.html"
+    "url": "/concepts/tibbo-basic.html"
   },
   {
     "label": "tibet",
     "id": "tibet",
-    "url": "/rows/tibet.html"
+    "url": "/concepts/tibet.html"
   },
   {
     "label": "Tick C",
     "id": "tick-c",
-    "url": "/rows/tick-c.html"
+    "url": "/concepts/tick-c.html"
   },
   {
     "label": "TICS",
     "id": "tics",
-    "url": "/rows/tics.html"
+    "url": "/concepts/tics.html"
   },
   {
     "label": "TiDB",
     "id": "tidb",
-    "url": "/rows/tidb.html"
+    "url": "/concepts/tidb.html"
   },
   {
     "label": "tiddler",
     "id": "tiddler",
-    "url": "/rows/tiddler.html"
+    "url": "/concepts/tiddler.html"
   },
   {
     "label": "TiddlyWiki",
     "id": "tiddlywiki",
-    "url": "/rows/tiddlywiki.html"
+    "url": "/concepts/tiddlywiki.html"
   },
   {
     "label": "tidyverse",
     "id": "tidyverse",
-    "url": "/rows/tidyverse.html"
+    "url": "/concepts/tidyverse.html"
   },
   {
     "label": "Tagged Image File Format",
     "id": "tiff-format",
-    "url": "/rows/tiff-format.html"
+    "url": "/concepts/tiff-format.html"
   },
   {
     "label": "Tiger-BASIC",
     "id": "tiger-basic",
-    "url": "/rows/tiger-basic.html"
+    "url": "/concepts/tiger-basic.html"
   },
   {
     "label": "Tiki Wiki Markup",
     "id": "tikiwiki",
-    "url": "/rows/tikiwiki.html"
+    "url": "/concepts/tikiwiki.html"
   },
   {
     "label": "tiledb",
     "id": "tiledb",
-    "url": "/rows/tiledb.html"
+    "url": "/concepts/tiledb.html"
   },
   {
     "label": "tilton",
     "id": "tilton",
-    "url": "/rows/tilton.html"
+    "url": "/concepts/tilton.html"
   },
   {
     "label": "Timber",
     "id": "timber-programming-language",
-    "url": "/rows/timber-programming-language.html"
+    "url": "/concepts/timber-programming-language.html"
   },
   {
     "label": "Timed CSP",
     "id": "timed-csp",
-    "url": "/rows/timed-csp.html"
+    "url": "/concepts/timed-csp.html"
   },
   {
     "label": "Timpani",
     "id": "timpani",
-    "url": "/rows/timpani.html"
+    "url": "/concepts/timpani.html"
   },
   {
     "label": "Tinkertoy",
     "id": "tinkertoy",
-    "url": "/rows/tinkertoy.html"
+    "url": "/concepts/tinkertoy.html"
   },
   {
     "label": "Tiny BASIC",
     "id": "tiny-basic",
-    "url": "/rows/tiny-basic.html"
+    "url": "/concepts/tiny-basic.html"
   },
   {
     "label": "Tiny C Compiler",
     "id": "tinyc-compiler",
-    "url": "/rows/tinyc-compiler.html"
+    "url": "/concepts/tinyc-compiler.html"
   },
   {
     "label": "tinygo-compiler",
     "id": "tinygo-compiler",
-    "url": "/rows/tinygo-compiler.html"
+    "url": "/concepts/tinygo-compiler.html"
   },
   {
     "label": "TIScript",
     "id": "tiscript",
-    "url": "/rows/tiscript.html"
+    "url": "/concepts/tiscript.html"
   },
   {
     "label": "titan",
     "id": "titan",
-    "url": "/rows/titan.html"
+    "url": "/concepts/titan.html"
   },
   {
     "label": "Titanium",
     "id": "titanium",
-    "url": "/rows/titanium.html"
+    "url": "/concepts/titanium.html"
   },
   {
     "label": "Timeless Instruction Set (TL ISA)",
     "id": "tl-isa",
-    "url": "/rows/tl-isa.html"
+    "url": "/concepts/tl-isa.html"
   },
   {
     "label": "Typed Lua",
     "id": "tl",
-    "url": "/rows/tl.html"
+    "url": "/concepts/tl.html"
   },
   {
     "label": "TLA",
     "id": "tla",
-    "url": "/rows/tla.html"
+    "url": "/concepts/tla.html"
   },
   {
     "label": "Tag Line Commands",
     "id": "tlc",
-    "url": "/rows/tlc.html"
+    "url": "/concepts/tlc.html"
   },
   {
     "label": "tldr",
     "id": "tldr",
-    "url": "/rows/tldr.html"
+    "url": "/concepts/tldr.html"
   },
   {
     "label": "TLS",
     "id": "tls",
-    "url": "/rows/tls.html"
+    "url": "/concepts/tls.html"
   },
   {
     "label": "TMG",
     "id": "tmg",
-    "url": "/rows/tmg.html"
+    "url": "/concepts/tmg.html"
   },
   {
     "label": "TextMate Language",
     "id": "tmlanguage",
-    "url": "/rows/tmlanguage.html"
+    "url": "/concepts/tmlanguage.html"
   },
   {
     "label": "TMTP",
     "id": "tmtp",
-    "url": "/rows/tmtp.html"
+    "url": "/concepts/tmtp.html"
   },
   {
     "label": "toadskin",
     "id": "toadskin",
-    "url": "/rows/toadskin.html"
+    "url": "/concepts/toadskin.html"
   },
   {
     "label": "Todotxt",
     "id": "todotxt",
-    "url": "/rows/todotxt.html"
+    "url": "/concepts/todotxt.html"
   },
   {
     "label": "ToffeeScript",
     "id": "toffeescript",
-    "url": "/rows/toffeescript.html"
+    "url": "/concepts/toffeescript.html"
   },
   {
     "label": "Toi",
     "id": "toi",
-    "url": "/rows/toi.html"
+    "url": "/concepts/toi.html"
   },
   {
     "label": "toki sona",
     "id": "toki-sona",
-    "url": "/rows/toki-sona.html"
+    "url": "/concepts/toki-sona.html"
   },
   {
     "label": "TOM object-oriented",
     "id": "tom-oopl",
-    "url": "/rows/tom-oopl.html"
+    "url": "/concepts/tom-oopl.html"
   },
   {
     "label": "TOM",
     "id": "tom",
-    "url": "/rows/tom.html"
+    "url": "/concepts/tom.html"
   },
   {
     "label": "TOMAL",
     "id": "tomal",
-    "url": "/rows/tomal.html"
+    "url": "/concepts/tomal.html"
   },
   {
     "label": "TOML",
     "id": "toml",
-    "url": "/rows/toml.html"
+    "url": "/concepts/toml.html"
   },
   {
     "label": "TOOLBUS",
     "id": "toolbus",
-    "url": "/rows/toolbus.html"
+    "url": "/concepts/toolbus.html"
   },
   {
     "label": "ToonTalk",
     "id": "toontalk",
-    "url": "/rows/toontalk.html"
+    "url": "/concepts/toontalk.html"
   },
   {
     "label": "Topaz",
     "id": "topaz-lang",
-    "url": "/rows/topaz-lang.html"
+    "url": "/concepts/topaz-lang.html"
   },
   {
     "label": "topaz",
     "id": "topaz",
-    "url": "/rows/topaz.html"
+    "url": "/concepts/topaz.html"
   },
   {
     "label": "topshell",
     "id": "topshell",
-    "url": "/rows/topshell.html"
+    "url": "/concepts/topshell.html"
   },
   {
     "label": "torchscript",
     "id": "torchscript",
-    "url": "/rows/torchscript.html"
+    "url": "/concepts/torchscript.html"
   },
   {
     "label": "tornado",
     "id": "tornado",
-    "url": "/rows/tornado.html"
+    "url": "/concepts/tornado.html"
   },
   {
     "label": "Tosh",
     "id": "tosh",
-    "url": "/rows/tosh.html"
+    "url": "/concepts/tosh.html"
   },
   {
     "label": "Touch",
     "id": "touch",
-    "url": "/rows/touch.html"
+    "url": "/concepts/touch.html"
   },
   {
     "label": "TouchDevelop",
     "id": "touchdevelop",
-    "url": "/rows/touchdevelop.html"
+    "url": "/concepts/touchdevelop.html"
   },
   {
     "label": "Toy",
     "id": "toy-lang",
-    "url": "/rows/toy-lang.html"
+    "url": "/concepts/toy-lang.html"
   },
   {
     "label": "TPDL*",
     "id": "tpdl-star",
-    "url": "/rows/tpdl-star.html"
+    "url": "/concepts/tpdl-star.html"
   },
   {
     "label": "TQL",
     "id": "tql",
-    "url": "/rows/tql.html"
+    "url": "/concepts/tql.html"
   },
   {
     "label": "TRAC",
     "id": "trac",
-    "url": "/rows/trac.html"
+    "url": "/concepts/trac.html"
   },
   {
     "label": "TRACE",
     "id": "trace",
-    "url": "/rows/trace.html"
+    "url": "/concepts/trace.html"
   },
   {
     "label": "Trafola-H",
     "id": "trafola-h",
-    "url": "/rows/trafola-h.html"
+    "url": "/concepts/trafola-h.html"
   },
   {
     "label": "Traits",
     "id": "traits",
-    "url": "/rows/traits.html"
+    "url": "/concepts/traits.html"
   },
   {
     "label": "TRAMP",
     "id": "tramp",
-    "url": "/rows/tramp.html"
+    "url": "/concepts/tramp.html"
   },
   {
     "label": "TRANQUIL",
     "id": "tranquil",
-    "url": "/rows/tranquil.html"
+    "url": "/concepts/tranquil.html"
   },
   {
     "label": "Transact-SQL",
     "id": "transact-sql",
-    "url": "/rows/transact-sql.html"
+    "url": "/concepts/transact-sql.html"
   },
   {
     "label": "Transaction Language 1",
     "id": "transaction-language-1",
-    "url": "/rows/transaction-language-1.html"
+    "url": "/concepts/transaction-language-1.html"
   },
   {
     "label": "TRANSCODE",
     "id": "transcode",
-    "url": "/rows/transcode.html"
+    "url": "/concepts/transcode.html"
   },
   {
     "label": "Transforma",
     "id": "transforma",
-    "url": "/rows/transforma.html"
+    "url": "/concepts/transforma.html"
   },
   {
     "label": "TRANSLANG",
     "id": "translang",
-    "url": "/rows/translang.html"
+    "url": "/concepts/translang.html"
   },
   {
     "label": "TAO",
     "id": "tree-annotation-operator",
-    "url": "/rows/tree-annotation-operator.html"
+    "url": "/concepts/tree-annotation-operator.html"
   },
   {
     "label": "Treelang",
     "id": "treelang",
-    "url": "/rows/treelang.html"
+    "url": "/concepts/treelang.html"
   },
   {
     "label": "Tree Notation",
     "id": "treenotation",
-    "url": "/rows/treenotation.html"
+    "url": "/concepts/treenotation.html"
   },
   {
     "label": "TreeSheets",
     "id": "treesheets",
-    "url": "/rows/treesheets.html"
+    "url": "/concepts/treesheets.html"
   },
   {
     "label": "TREET",
     "id": "treet",
-    "url": "/rows/treet.html"
+    "url": "/concepts/treet.html"
   },
   {
     "label": "Trellis",
     "id": "trellis",
-    "url": "/rows/trellis.html"
+    "url": "/concepts/trellis.html"
   },
   {
     "label": "tremor-query",
     "id": "tremor-query",
-    "url": "/rows/tremor-query.html"
+    "url": "/concepts/tremor-query.html"
   },
   {
     "label": "Trex",
     "id": "trex",
-    "url": "/rows/trex.html"
+    "url": "/concepts/trex.html"
   },
   {
     "label": "tridash",
     "id": "tridash",
-    "url": "/rows/tridash.html"
+    "url": "/concepts/tridash.html"
   },
   {
     "label": "TriG syntax",
     "id": "trig-syntax",
-    "url": "/rows/trig-syntax.html"
+    "url": "/concepts/trig-syntax.html"
   },
   {
     "label": "TRIO",
     "id": "trio",
-    "url": "/rows/trio.html"
+    "url": "/concepts/trio.html"
   },
   {
     "label": "TRIPLE",
     "id": "triple",
-    "url": "/rows/triple.html"
+    "url": "/concepts/triple.html"
   },
   {
     "label": "triroff",
     "id": "triroff",
-    "url": "/rows/triroff.html"
+    "url": "/concepts/triroff.html"
   },
   {
     "label": "Triton",
     "id": "triton",
-    "url": "/rows/triton.html"
+    "url": "/concepts/triton.html"
   },
   {
     "label": "Troff",
     "id": "troff",
-    "url": "/rows/troff.html"
+    "url": "/concepts/troff.html"
   },
   {
     "label": "Lambda Diagrams",
     "id": "tromp-diagrams",
-    "url": "/rows/tromp-diagrams.html"
+    "url": "/concepts/tromp-diagrams.html"
   },
   {
     "label": "TRS-80 Color Computer",
     "id": "trs-80-color-computer",
-    "url": "/rows/trs-80-color-computer.html"
+    "url": "/concepts/trs-80-color-computer.html"
   },
   {
     "label": "truck",
     "id": "truck",
-    "url": "/rows/truck.html"
+    "url": "/concepts/truck.html"
   },
   {
     "label": "True BASIC",
     "id": "true-basic",
-    "url": "/rows/true-basic.html"
+    "url": "/concepts/true-basic.html"
   },
   {
     "label": "Truth",
     "id": "truth",
-    "url": "/rows/truth.html"
+    "url": "/concepts/truth.html"
   },
   {
     "label": "TS",
     "id": "ts",
-    "url": "/rows/ts.html"
+    "url": "/concepts/ts.html"
   },
   {
     "label": "tsar",
     "id": "tsar",
-    "url": "/rows/tsar.html"
+    "url": "/concepts/tsar.html"
   },
   {
     "label": "TScript",
     "id": "tscript",
-    "url": "/rows/tscript.html"
+    "url": "/concepts/tscript.html"
   },
   {
     "label": "TSL",
     "id": "tsl",
-    "url": "/rows/tsl.html"
+    "url": "/concepts/tsl.html"
   },
   {
     "label": "TSQL2",
     "id": "tsql2",
-    "url": "/rows/tsql2.html"
+    "url": "/concepts/tsql2.html"
   },
   {
     "label": "tsquery",
     "id": "tsquery",
-    "url": "/rows/tsquery.html"
+    "url": "/concepts/tsquery.html"
   },
   {
     "label": "TSV",
     "id": "tsv",
-    "url": "/rows/tsv.html"
+    "url": "/concepts/tsv.html"
   },
   {
     "label": "Tree and Tabular Combined Notation",
     "id": "ttcn",
-    "url": "/rows/ttcn.html"
+    "url": "/concepts/ttcn.html"
   },
   {
     "label": "TTM",
     "id": "ttm",
-    "url": "/rows/ttm.html"
+    "url": "/concepts/ttm.html"
   },
   {
     "label": "ttsneo",
     "id": "ttsneo",
-    "url": "/rows/ttsneo.html"
+    "url": "/concepts/ttsneo.html"
   },
   {
     "label": "Tuple space",
     "id": "tuple-space",
-    "url": "/rows/tuple-space.html"
+    "url": "/concepts/tuple-space.html"
   },
   {
     "label": "tuplemarkup",
     "id": "tuplemarkup",
-    "url": "/rows/tuplemarkup.html"
+    "url": "/concepts/tuplemarkup.html"
   },
   {
     "label": "Turbo Assembler",
     "id": "turbo-assembler",
-    "url": "/rows/turbo-assembler.html"
+    "url": "/concepts/turbo-assembler.html"
   },
   {
     "label": "Turbo-Basic XL",
     "id": "turbo-basic-xl",
-    "url": "/rows/turbo-basic-xl.html"
+    "url": "/concepts/turbo-basic-xl.html"
   },
   {
     "label": "Turbo Basic",
     "id": "turbo-basic",
-    "url": "/rows/turbo-basic.html"
+    "url": "/concepts/turbo-basic.html"
   },
   {
     "label": "Turbo Pascal",
     "id": "turbo-pascal",
-    "url": "/rows/turbo-pascal.html"
+    "url": "/concepts/turbo-pascal.html"
   },
   {
     "label": "Turing Plus",
     "id": "turing-plus",
-    "url": "/rows/turing-plus.html"
+    "url": "/concepts/turing-plus.html"
   },
   {
     "label": "Turing",
     "id": "turing",
-    "url": "/rows/turing.html"
+    "url": "/concepts/turing.html"
   },
   {
     "label": "turnstile-plus",
     "id": "turnstile-plus",
-    "url": "/rows/turnstile-plus.html"
+    "url": "/concepts/turnstile-plus.html"
   },
   {
     "label": "turnstile",
     "id": "turnstile",
-    "url": "/rows/turnstile.html"
+    "url": "/concepts/turnstile.html"
   },
   {
     "label": "Turtle",
     "id": "turtle",
-    "url": "/rows/turtle.html"
+    "url": "/concepts/turtle.html"
   },
   {
     "label": "TUTOR",
     "id": "tutor",
-    "url": "/rows/tutor.html"
+    "url": "/concepts/tutor.html"
   },
   {
     "label": "Tutorial D",
     "id": "tutorial-d",
-    "url": "/rows/tutorial-d.html"
+    "url": "/concepts/tutorial-d.html"
   },
   {
     "label": "Twelf",
     "id": "twelf",
-    "url": "/rows/twelf.html"
+    "url": "/concepts/twelf.html"
   },
   {
     "label": "Twig",
     "id": "twig",
-    "url": "/rows/twig.html"
+    "url": "/concepts/twig.html"
   },
   {
     "label": "TWiki",
     "id": "twiki",
-    "url": "/rows/twiki.html"
+    "url": "/concepts/twiki.html"
   },
   {
     "label": "TWO-D",
     "id": "two-d",
-    "url": "/rows/two-d.html"
+    "url": "/concepts/two-d.html"
   },
   {
     "label": "twoducks",
     "id": "twoducks",
-    "url": "/rows/twoducks.html"
+    "url": "/concepts/twoducks.html"
   },
   {
     "label": "TXL",
     "id": "txl",
-    "url": "/rows/txl.html"
+    "url": "/concepts/txl.html"
   },
   {
     "label": "txr",
     "id": "txr",
-    "url": "/rows/txr.html"
+    "url": "/concepts/txr.html"
   },
   {
     "label": "Txt2tags",
     "id": "txt2tags",
-    "url": "/rows/txt2tags.html"
+    "url": "/concepts/txt2tags.html"
   },
   {
     "label": "txtzyme",
     "id": "txtzyme",
-    "url": "/rows/txtzyme.html"
+    "url": "/concepts/txtzyme.html"
   },
   {
     "label": "Tyco",
     "id": "tyco",
-    "url": "/rows/tyco.html"
+    "url": "/concepts/tyco.html"
   },
   {
     "label": "Tymshare SuperBasic",
     "id": "tymshare-superbasic",
-    "url": "/rows/tymshare-superbasic.html"
+    "url": "/concepts/tymshare-superbasic.html"
   },
   {
     "label": "Tynker",
     "id": "tynker",
-    "url": "/rows/tynker.html"
+    "url": "/concepts/tynker.html"
   },
   {
     "label": "Type Language",
     "id": "type-language",
-    "url": "/rows/type-language.html"
+    "url": "/concepts/type-language.html"
   },
   {
     "label": "Typecast.js",
     "id": "typecastjs",
-    "url": "/rows/typecastjs.html"
+    "url": "/concepts/typecastjs.html"
   },
   {
     "label": "typecobol",
     "id": "typecobol",
-    "url": "/rows/typecobol.html"
+    "url": "/concepts/typecobol.html"
   },
   {
     "label": "typedefs",
     "id": "typedefs",
-    "url": "/rows/typedefs.html"
+    "url": "/concepts/typedefs.html"
   },
   {
     "label": "TypeScript",
     "id": "typescript",
-    "url": "/rows/typescript.html"
+    "url": "/concepts/typescript.html"
   },
   {
     "label": "Typographical Number Theory",
     "id": "typographical-number-theory",
-    "url": "/rows/typographical-number-theory.html"
+    "url": "/concepts/typographical-number-theory.html"
   },
   {
     "label": "Typoscript",
     "id": "typoscript",
-    "url": "/rows/typoscript.html"
+    "url": "/concepts/typoscript.html"
   },
   {
     "label": "Typst",
     "id": "typst",
-    "url": "/rows/typst.html"
+    "url": "/concepts/typst.html"
   },
   {
     "label": "TyRuBa",
     "id": "tyruba",
-    "url": "/rows/tyruba.html"
+    "url": "/concepts/tyruba.html"
   },
   {
     "label": "U-Datalog",
     "id": "u-datalog",
-    "url": "/rows/u-datalog.html"
+    "url": "/concepts/u-datalog.html"
   },
   {
     "label": "U",
     "id": "u",
-    "url": "/rows/u.html"
+    "url": "/concepts/u.html"
   },
   {
     "label": "UAN",
     "id": "uan",
-    "url": "/rows/uan.html"
+    "url": "/concepts/uan.html"
   },
   {
     "label": "UBASIC",
     "id": "ubasic",
-    "url": "/rows/ubasic.html"
+    "url": "/concepts/ubasic.html"
   },
   {
     "label": "Ubercode",
     "id": "ubercode",
-    "url": "/rows/ubercode.html"
+    "url": "/concepts/ubercode.html"
   },
   {
     "label": "UberScript",
     "id": "uberscript",
-    "url": "/rows/uberscript.html"
+    "url": "/concepts/uberscript.html"
   },
   {
     "label": "Ubik",
     "id": "ubik",
-    "url": "/rows/ubik.html"
+    "url": "/concepts/ubik.html"
   },
   {
     "label": "UBJSON",
     "id": "ubjson",
-    "url": "/rows/ubjson.html"
+    "url": "/concepts/ubjson.html"
   },
   {
     "label": "UC",
     "id": "uc",
-    "url": "/rows/uc.html"
+    "url": "/concepts/uc.html"
   },
   {
     "label": "UCG",
     "id": "ucg",
-    "url": "/rows/ucg.html"
+    "url": "/concepts/ucg.html"
   },
   {
     "label": "UCL",
     "id": "ucl",
-    "url": "/rows/ucl.html"
+    "url": "/concepts/ucl.html"
   },
   {
     "label": "UCSD Pascal",
     "id": "ucsd-pascal",
-    "url": "/rows/ucsd-pascal.html"
+    "url": "/concepts/ucsd-pascal.html"
   },
   {
     "label": "UDP",
     "id": "udp",
-    "url": "/rows/udp.html"
+    "url": "/concepts/udp.html"
   },
   {
     "label": "UFL",
     "id": "ufl",
-    "url": "/rows/ufl.html"
+    "url": "/concepts/ufl.html"
   },
   {
     "label": "UFO",
     "id": "ufo",
-    "url": "/rows/ufo.html"
+    "url": "/concepts/ufo.html"
   },
   {
     "label": "ugBASIC",
     "id": "ugbasic",
-    "url": "/rows/ugbasic.html"
+    "url": "/concepts/ugbasic.html"
   },
   {
     "label": "ugnis",
     "id": "ugnis",
-    "url": "/rows/ugnis.html"
+    "url": "/concepts/ugnis.html"
   },
   {
     "label": "UIML",
     "id": "uiml",
-    "url": "/rows/uiml.html"
+    "url": "/concepts/uiml.html"
   },
   {
     "label": "UJML",
     "id": "ujml",
-    "url": "/rows/ujml.html"
+    "url": "/concepts/ujml.html"
   },
   {
     "label": "ulisp",
     "id": "ulisp",
-    "url": "/rows/ulisp.html"
+    "url": "/concepts/ulisp.html"
   },
   {
     "label": "ultralisp-pm",
     "id": "ultralisp-pm",
-    "url": "/rows/ultralisp-pm.html"
+    "url": "/concepts/ultralisp-pm.html"
   },
   {
     "label": "Umka",
     "id": "umka",
-    "url": "/rows/umka.html"
+    "url": "/concepts/umka.html"
   },
   {
     "label": "UML",
     "id": "uml",
-    "url": "/rows/uml.html"
+    "url": "/concepts/uml.html"
   },
   {
     "label": "uml2-sp",
     "id": "uml2-sp",
-    "url": "/rows/uml2-sp.html"
+    "url": "/concepts/uml2-sp.html"
   },
   {
     "label": "Umple",
     "id": "umple",
-    "url": "/rows/umple.html"
+    "url": "/concepts/umple.html"
   },
   {
     "label": "UMTA",
     "id": "umta",
-    "url": "/rows/umta.html"
+    "url": "/concepts/umta.html"
   },
   {
     "label": "UNCOL",
     "id": "uncol",
-    "url": "/rows/uncol.html"
+    "url": "/concepts/uncol.html"
   },
   {
     "label": "underlay",
     "id": "underlay",
-    "url": "/rows/underlay.html"
+    "url": "/concepts/underlay.html"
   },
   {
     "label": "Unicode",
     "id": "unicode-lang",
-    "url": "/rows/unicode-lang.html"
+    "url": "/concepts/unicode-lang.html"
   },
   {
     "label": "Unicode",
     "id": "unicode",
-    "url": "/rows/unicode.html"
+    "url": "/concepts/unicode.html"
   },
   {
     "label": "unicon-adl",
     "id": "unicon-adl",
-    "url": "/rows/unicon-adl.html"
+    "url": "/concepts/unicon-adl.html"
   },
   {
     "label": "Unicon",
     "id": "unicon",
-    "url": "/rows/unicon.html"
+    "url": "/concepts/unicon.html"
   },
   {
     "label": "UNICORN",
     "id": "unicorn",
-    "url": "/rows/unicorn.html"
+    "url": "/concepts/unicorn.html"
   },
   {
     "label": "Uniface",
     "id": "uniface",
-    "url": "/rows/uniface.html"
+    "url": "/concepts/uniface.html"
   },
   {
     "label": "Unified Diff",
     "id": "unified-diff",
-    "url": "/rows/unified-diff.html"
+    "url": "/concepts/unified-diff.html"
   },
   {
     "label": "UPC",
     "id": "unified-parallel-c",
-    "url": "/rows/unified-parallel-c.html"
+    "url": "/concepts/unified-parallel-c.html"
   },
   {
     "label": "UNISIM",
     "id": "unisim",
-    "url": "/rows/unisim.html"
+    "url": "/concepts/unisim.html"
   },
   {
     "label": "unison",
     "id": "unison",
-    "url": "/rows/unison.html"
+    "url": "/concepts/unison.html"
   },
   {
     "label": "Unity",
     "id": "unity-engine",
-    "url": "/rows/unity-engine.html"
+    "url": "/concepts/unity-engine.html"
   },
   {
     "label": "UNITY",
     "id": "unity",
-    "url": "/rows/unity.html"
+    "url": "/concepts/unity.html"
   },
   {
     "label": "Unity3D Asset",
     "id": "unity3d-asset",
-    "url": "/rows/unity3d-asset.html"
+    "url": "/concepts/unity3d-asset.html"
   },
   {
     "label": "UniVerse",
     "id": "universe",
-    "url": "/rows/universe.html"
+    "url": "/concepts/universe.html"
   },
   {
     "label": "Unix",
     "id": "unix",
-    "url": "/rows/unix.html"
+    "url": "/concepts/unix.html"
   },
   {
     "label": "UNLAMBDA",
     "id": "unlambda",
-    "url": "/rows/unlambda.html"
+    "url": "/concepts/unlambda.html"
   },
   {
     "label": "unlws",
     "id": "unlws",
-    "url": "/rows/unlws.html"
+    "url": "/concepts/unlws.html"
   },
   {
     "label": "Uno",
     "id": "uno",
-    "url": "/rows/uno.html"
+    "url": "/concepts/uno.html"
   },
   {
     "label": "UnQL",
     "id": "unql-lang",
-    "url": "/rows/unql-lang.html"
+    "url": "/concepts/unql-lang.html"
   },
   {
     "label": "UnQL",
     "id": "unql",
-    "url": "/rows/unql.html"
+    "url": "/concepts/unql.html"
   },
   {
     "label": "UNRAVEL",
     "id": "unravel",
-    "url": "/rows/unravel.html"
+    "url": "/concepts/unravel.html"
   },
   {
     "label": "UnrealScript",
     "id": "unrealscript",
-    "url": "/rows/unrealscript.html"
+    "url": "/concepts/unrealscript.html"
   },
   {
     "label": "unseemly",
     "id": "unseemly",
-    "url": "/rows/unseemly.html"
+    "url": "/concepts/unseemly.html"
   },
   {
     "label": "Up-arrow notation",
     "id": "up-arrow-notation",
-    "url": "/rows/up-arrow-notation.html"
+    "url": "/concepts/up-arrow-notation.html"
   },
   {
     "label": "UPIC",
     "id": "upic",
-    "url": "/rows/upic.html"
+    "url": "/concepts/upic.html"
   },
   {
     "label": "Urbiscript",
     "id": "urbiscript",
-    "url": "/rows/urbiscript.html"
+    "url": "/concepts/urbiscript.html"
   },
   {
     "label": "URL",
     "id": "url",
-    "url": "/rows/url.html"
+    "url": "/concepts/url.html"
   },
   {
     "label": "urn",
     "id": "urn",
-    "url": "/rows/urn.html"
+    "url": "/concepts/urn.html"
   },
   {
     "label": "UrWeb",
     "id": "urweb",
-    "url": "/rows/urweb.html"
+    "url": "/concepts/urweb.html"
   },
   {
     "label": "USB",
     "id": "usb-standard",
-    "url": "/rows/usb-standard.html"
+    "url": "/concepts/usb-standard.html"
   },
   {
     "label": "uscript",
     "id": "uscript",
-    "url": "/rows/uscript.html"
+    "url": "/concepts/uscript.html"
   },
   {
     "label": "uscript2",
     "id": "uscript2",
-    "url": "/rows/uscript2.html"
+    "url": "/concepts/uscript2.html"
   },
   {
     "label": "USD",
     "id": "usd",
-    "url": "/rows/usd.html"
+    "url": "/concepts/usd.html"
   },
   {
     "label": "USSA",
     "id": "ussa",
-    "url": "/rows/ussa.html"
+    "url": "/concepts/ussa.html"
   },
   {
     "label": "UTC",
     "id": "utc-format",
-    "url": "/rows/utc-format.html"
+    "url": "/concepts/utc-format.html"
   },
   {
     "label": "UTF-8",
     "id": "utf-8",
-    "url": "/rows/utf-8.html"
+    "url": "/concepts/utf-8.html"
   },
   {
     "label": "Utopia 84",
     "id": "utopia-84",
-    "url": "/rows/utopia-84.html"
+    "url": "/concepts/utopia-84.html"
   },
   {
     "label": "Uniform eXchange Format",
     "id": "uxf",
-    "url": "/rows/uxf.html"
+    "url": "/concepts/uxf.html"
   },
   {
     "label": "V",
     "id": "v-golf",
-    "url": "/rows/v-golf.html"
+    "url": "/concepts/v-golf.html"
   },
   {
     "label": "V-Promela",
     "id": "v-promela",
-    "url": "/rows/v-promela.html"
+    "url": "/concepts/v-promela.html"
   },
   {
     "label": "V",
     "id": "v-visual-language",
-    "url": "/rows/v-visual-language.html"
+    "url": "/concepts/v-visual-language.html"
   },
   {
     "label": "V",
     "id": "v",
-    "url": "/rows/v.html"
+    "url": "/concepts/v.html"
   },
   {
     "label": "v8",
     "id": "v8",
-    "url": "/rows/v8.html"
+    "url": "/concepts/v8.html"
   },
   {
     "label": "v8torque",
     "id": "v8torque",
-    "url": "/rows/v8torque.html"
+    "url": "/concepts/v8torque.html"
   },
   {
     "label": "VAL II",
     "id": "val-ii",
-    "url": "/rows/val-ii.html"
+    "url": "/concepts/val-ii.html"
   },
   {
     "label": "VAL",
     "id": "val",
-    "url": "/rows/val.html"
+    "url": "/concepts/val.html"
   },
   {
     "label": "Vala",
     "id": "vala",
-    "url": "/rows/vala.html"
+    "url": "/concepts/vala.html"
   },
   {
     "label": "Vale",
     "id": "vale-assembly",
-    "url": "/rows/vale-assembly.html"
+    "url": "/concepts/vale-assembly.html"
   },
   {
     "label": "Vale",
     "id": "vale",
-    "url": "/rows/vale.html"
+    "url": "/concepts/vale.html"
   },
   {
     "label": "VARLIST",
     "id": "varlist",
-    "url": "/rows/varlist.html"
+    "url": "/concepts/varlist.html"
   },
   {
     "label": "VBA",
     "id": "vba",
-    "url": "/rows/vba.html"
+    "url": "/concepts/vba.html"
   },
   {
     "label": "VBScript",
     "id": "vbscript",
-    "url": "/rows/vbscript.html"
+    "url": "/concepts/vbscript.html"
   },
   {
     "label": "vCard",
     "id": "vcard",
-    "url": "/rows/vcard.html"
+    "url": "/concepts/vcard.html"
   },
   {
     "label": "VCF",
     "id": "vcf-format",
-    "url": "/rows/vcf-format.html"
+    "url": "/concepts/vcf-format.html"
   },
   {
     "label": "Varnish Configuration Language",
     "id": "vcl",
-    "url": "/rows/vcl.html"
+    "url": "/concepts/vcl.html"
   },
   {
     "label": "Vcpkg",
     "id": "vcpkg-pm",
-    "url": "/rows/vcpkg-pm.html"
+    "url": "/concepts/vcpkg-pm.html"
   },
   {
     "label": "Vienna Development Method Specification Language",
     "id": "vdm-sl",
-    "url": "/rows/vdm-sl.html"
+    "url": "/concepts/vdm-sl.html"
   },
   {
     "label": "vdscript",
     "id": "vdscript",
-    "url": "/rows/vdscript.html"
+    "url": "/concepts/vdscript.html"
   },
   {
     "label": "Vector PASCAL",
     "id": "vector-pascal",
-    "url": "/rows/vector-pascal.html"
+    "url": "/concepts/vector-pascal.html"
   },
   {
     "label": "vega-editor-app",
     "id": "vega-editor-app",
-    "url": "/rows/vega-editor-app.html"
+    "url": "/concepts/vega-editor-app.html"
   },
   {
     "label": "Velato",
     "id": "velato",
-    "url": "/rows/velato.html"
+    "url": "/concepts/velato.html"
   },
   {
     "label": "Vely",
     "id": "vely",
-    "url": "/rows/vely.html"
+    "url": "/concepts/vely.html"
   },
   {
     "label": "VENUS",
     "id": "venus",
-    "url": "/rows/venus.html"
+    "url": "/concepts/venus.html"
   },
   {
     "label": "verifpal",
     "id": "verifpal",
-    "url": "/rows/verifpal.html"
+    "url": "/concepts/verifpal.html"
   },
   {
     "label": "Verilog",
     "id": "verilog",
-    "url": "/rows/verilog.html"
+    "url": "/concepts/verilog.html"
   },
   {
     "label": "verona",
     "id": "verona",
-    "url": "/rows/verona.html"
+    "url": "/concepts/verona.html"
   },
   {
     "label": "Verse",
     "id": "verse",
-    "url": "/rows/verse.html"
+    "url": "/concepts/verse.html"
   },
   {
     "label": "versioned-text-markup-language",
     "id": "versioned-text-markup-language",
-    "url": "/rows/versioned-text-markup-language.html"
+    "url": "/concepts/versioned-text-markup-language.html"
   },
   {
     "label": "verve",
     "id": "verve",
-    "url": "/rows/verve.html"
+    "url": "/concepts/verve.html"
   },
   {
     "label": "VEX",
     "id": "vex",
-    "url": "/rows/vex.html"
+    "url": "/concepts/vex.html"
   },
   {
     "label": "Video Graphics Array",
     "id": "vga-standard",
-    "url": "/rows/vga-standard.html"
+    "url": "/concepts/vga-standard.html"
   },
   {
     "label": "VHDL-AMS",
     "id": "vhdl-ams",
-    "url": "/rows/vhdl-ams.html"
+    "url": "/concepts/vhdl-ams.html"
   },
   {
     "label": "VHDL",
     "id": "vhdl",
-    "url": "/rows/vhdl.html"
+    "url": "/concepts/vhdl.html"
   },
   {
     "label": "vi",
     "id": "vi-editor",
-    "url": "/rows/vi-editor.html"
+    "url": "/concepts/vi-editor.html"
   },
   {
     "label": "video",
     "id": "video",
-    "url": "/rows/video.html"
+    "url": "/concepts/video.html"
   },
   {
     "label": "Vienna Definition Language",
     "id": "vienna-definition-language",
-    "url": "/rows/vienna-definition-language.html"
+    "url": "/concepts/vienna-definition-language.html"
   },
   {
     "label": "Vienna Fortran",
     "id": "vienna-fortran",
-    "url": "/rows/vienna-fortran.html"
+    "url": "/concepts/vienna-fortran.html"
   },
   {
     "label": "Vigil",
     "id": "vigil",
-    "url": "/rows/vigil.html"
+    "url": "/concepts/vigil.html"
   },
   {
     "label": "Vilnius BASIC",
     "id": "vilnius-basic",
-    "url": "/rows/vilnius-basic.html"
+    "url": "/concepts/vilnius-basic.html"
   },
   {
     "label": "Vim",
     "id": "vim-editor",
-    "url": "/rows/vim-editor.html"
+    "url": "/concepts/vim-editor.html"
   },
   {
     "label": "Vim script",
     "id": "vim-script",
-    "url": "/rows/vim-script.html"
+    "url": "/concepts/vim-script.html"
   },
   {
     "label": "Vim Scripts",
     "id": "vim-scripts-pm",
-    "url": "/rows/vim-scripts-pm.html"
+    "url": "/concepts/vim-scripts-pm.html"
   },
   {
     "label": "Vimwiki",
     "id": "vimwiki",
-    "url": "/rows/vimwiki.html"
+    "url": "/concepts/vimwiki.html"
   },
   {
     "label": "Violent ES",
     "id": "violent-es",
-    "url": "/rows/violent-es.html"
+    "url": "/concepts/violent-es.html"
   },
   {
     "label": "VIPTRAN",
     "id": "viptran",
-    "url": "/rows/viptran.html"
+    "url": "/concepts/viptran.html"
   },
   {
     "label": "Virgil",
     "id": "virgil",
-    "url": "/rows/virgil.html"
+    "url": "/concepts/virgil.html"
   },
   {
     "label": "Viron",
     "id": "viron",
-    "url": "/rows/viron.html"
+    "url": "/concepts/viron.html"
   },
   {
     "label": "Virt",
     "id": "virt",
-    "url": "/rows/virt.html"
+    "url": "/concepts/virt.html"
   },
   {
     "label": "VisaVis",
     "id": "visavis",
-    "url": "/rows/visavis.html"
+    "url": "/concepts/visavis.html"
   },
   {
     "label": "visdown",
     "id": "visdown",
-    "url": "/rows/visdown.html"
+    "url": "/concepts/visdown.html"
   },
   {
     "label": "VisSim",
     "id": "vissim",
-    "url": "/rows/vissim.html"
+    "url": "/concepts/vissim.html"
   },
   {
     "label": "Visual Basic .NET",
     "id": "visual-basic.net",
-    "url": "/rows/visual-basic.net.html"
+    "url": "/concepts/visual-basic.net.html"
   },
   {
     "label": "Visual Basic",
     "id": "visual-basic",
-    "url": "/rows/visual-basic.html"
+    "url": "/concepts/visual-basic.html"
   },
   {
     "label": "Visual DataFlex",
     "id": "visual-dataflex",
-    "url": "/rows/visual-dataflex.html"
+    "url": "/concepts/visual-dataflex.html"
   },
   {
     "label": "Visual DialogScript",
     "id": "visual-dialogscript",
-    "url": "/rows/visual-dialogscript.html"
+    "url": "/concepts/visual-dialogscript.html"
   },
   {
     "label": "Visual Eiffel",
     "id": "visual-eiffel",
-    "url": "/rows/visual-eiffel.html"
+    "url": "/concepts/visual-eiffel.html"
   },
   {
     "label": "Visual FoxPro",
     "id": "visual-foxpro",
-    "url": "/rows/visual-foxpro.html"
+    "url": "/concepts/visual-foxpro.html"
   },
   {
     "label": "Visual Logic",
     "id": "visual-logic",
-    "url": "/rows/visual-logic.html"
+    "url": "/concepts/visual-logic.html"
   },
   {
     "label": "Visual Objects",
     "id": "visual-objects",
-    "url": "/rows/visual-objects.html"
+    "url": "/concepts/visual-objects.html"
   },
   {
     "label": "Visual Occam",
     "id": "visual-occam",
-    "url": "/rows/visual-occam.html"
+    "url": "/concepts/visual-occam.html"
   },
   {
     "label": "Visual Paradigm",
     "id": "visual-paradigm-app",
-    "url": "/rows/visual-paradigm-app.html"
+    "url": "/concepts/visual-paradigm-app.html"
   },
   {
     "label": "Visual Prolog",
     "id": "visual-prolog",
-    "url": "/rows/visual-prolog.html"
+    "url": "/concepts/visual-prolog.html"
   },
   {
     "label": "Visual Smalltalk Enterprise",
     "id": "visual-smalltalk-enterprise",
-    "url": "/rows/visual-smalltalk-enterprise.html"
+    "url": "/concepts/visual-smalltalk-enterprise.html"
   },
   {
     "label": "Visual Studio Code",
     "id": "visual-studio-code-editor",
-    "url": "/rows/visual-studio-code-editor.html"
+    "url": "/concepts/visual-studio-code-editor.html"
   },
   {
     "label": "Visual Studio",
     "id": "visual-studio-editor",
-    "url": "/rows/visual-studio-editor.html"
+    "url": "/concepts/visual-studio-editor.html"
   },
   {
     "label": "Visual Studio Marketplace",
     "id": "visual-studio-marketplace-pm",
-    "url": "/rows/visual-studio-marketplace-pm.html"
+    "url": "/concepts/visual-studio-marketplace-pm.html"
   },
   {
     "label": "Visual Test",
     "id": "visual-test",
-    "url": "/rows/visual-test.html"
+    "url": "/concepts/visual-test.html"
   },
   {
     "label": "Visual",
     "id": "visual",
-    "url": "/rows/visual.html"
+    "url": "/concepts/visual.html"
   },
   {
     "label": "VisualWorks",
     "id": "visualworks",
-    "url": "/rows/visualworks.html"
+    "url": "/concepts/visualworks.html"
   },
   {
     "label": "VIVA",
     "id": "viva",
-    "url": "/rows/viva.html"
+    "url": "/concepts/viva.html"
   },
   {
     "label": "vivaldi",
     "id": "vivaldi",
-    "url": "/rows/vivaldi.html"
+    "url": "/concepts/vivaldi.html"
   },
   {
     "label": "viz",
     "id": "viz",
-    "url": "/rows/viz.html"
+    "url": "/concepts/viz.html"
   },
   {
     "label": "VlibTemplate",
     "id": "vlibtemplate",
-    "url": "/rows/vlibtemplate.html"
+    "url": "/concepts/vlibtemplate.html"
   },
   {
     "label": "VML",
     "id": "vml",
-    "url": "/rows/vml.html"
+    "url": "/concepts/vml.html"
   },
   {
     "label": "Volt",
     "id": "volt",
-    "url": "/rows/volt.html"
+    "url": "/concepts/volt.html"
   },
   {
     "label": "Vortex",
     "id": "vortex",
-    "url": "/rows/vortex.html"
+    "url": "/concepts/vortex.html"
   },
   {
     "label": "VoxML",
     "id": "voxml",
-    "url": "/rows/voxml.html"
+    "url": "/concepts/voxml.html"
   },
   {
     "label": "VPL",
     "id": "vpl",
-    "url": "/rows/vpl.html"
+    "url": "/concepts/vpl.html"
   },
   {
     "label": "VRML",
     "id": "vrml",
-    "url": "/rows/vrml.html"
+    "url": "/concepts/vrml.html"
   },
   {
     "label": "VSPL",
     "id": "vspl",
-    "url": "/rows/vspl.html"
+    "url": "/concepts/vspl.html"
   },
   {
     "label": "VSXu",
     "id": "vsxu",
-    "url": "/rows/vsxu.html"
+    "url": "/concepts/vsxu.html"
   },
   {
     "label": "Velocity Template Language",
     "id": "vtl-lang",
-    "url": "/rows/vtl-lang.html"
+    "url": "/concepts/vtl-lang.html"
   },
   {
     "label": "Very Tiny Language",
     "id": "vtl",
-    "url": "/rows/vtl.html"
+    "url": "/concepts/vtl.html"
   },
   {
     "label": "Visual Tool Markup Language",
     "id": "vtml",
-    "url": "/rows/vtml.html"
+    "url": "/concepts/vtml.html"
   },
   {
     "label": "Vue",
     "id": "vuejs",
-    "url": "/rows/vuejs.html"
+    "url": "/concepts/vuejs.html"
   },
   {
     "label": "VULCAN",
     "id": "vulcan",
-    "url": "/rows/vulcan.html"
+    "url": "/concepts/vulcan.html"
   },
   {
     "label": "Vvvv",
     "id": "vvvv",
-    "url": "/rows/vvvv.html"
+    "url": "/concepts/vvvv.html"
   },
   {
     "label": "vyper",
     "id": "vyper",
-    "url": "/rows/vyper.html"
+    "url": "/concepts/vyper.html"
   },
   {
     "label": "Vyxal",
     "id": "vyxal",
-    "url": "/rows/vyxal.html"
+    "url": "/concepts/vyxal.html"
   },
   {
     "label": "w",
     "id": "w",
-    "url": "/rows/w.html"
+    "url": "/concepts/w.html"
   },
   {
     "label": "wah",
     "id": "wah",
-    "url": "/rows/wah.html"
+    "url": "/concepts/wah.html"
   },
   {
     "label": "walt",
     "id": "walt",
-    "url": "/rows/walt.html"
+    "url": "/concepts/walt.html"
   },
   {
     "label": "Wart",
     "id": "wart",
-    "url": "/rows/wart.html"
+    "url": "/concepts/wart.html"
   },
   {
     "label": "WebAssembly",
     "id": "wasm",
-    "url": "/rows/wasm.html"
+    "url": "/concepts/wasm.html"
   },
   {
     "label": "wasmer",
     "id": "wasmer",
-    "url": "/rows/wasmer.html"
+    "url": "/concepts/wasmer.html"
   },
   {
     "label": "Wasp",
     "id": "wasp-lang",
-    "url": "/rows/wasp-lang.html"
+    "url": "/concepts/wasp-lang.html"
   },
   {
     "label": "WebAssembly Text Format",
     "id": "wast",
-    "url": "/rows/wast.html"
+    "url": "/concepts/wast.html"
   },
   {
     "label": "WATBOL",
     "id": "watbol",
-    "url": "/rows/watbol.html"
+    "url": "/concepts/watbol.html"
   },
   {
     "label": "Watcom",
     "id": "watcom",
-    "url": "/rows/watcom.html"
+    "url": "/concepts/watcom.html"
   },
   {
     "label": "Water",
     "id": "water",
-    "url": "/rows/water.html"
+    "url": "/concepts/water.html"
   },
   {
     "label": "WATFIV",
     "id": "watfiv",
-    "url": "/rows/watfiv.html"
+    "url": "/concepts/watfiv.html"
   },
   {
     "label": "WATFOR",
     "id": "watfor",
-    "url": "/rows/watfor.html"
+    "url": "/concepts/watfor.html"
   },
   {
     "label": "wats",
     "id": "wats",
-    "url": "/rows/wats.html"
+    "url": "/concepts/wats.html"
   },
   {
     "label": "Wavefront Material",
     "id": "wavefront-material",
-    "url": "/rows/wavefront-material.html"
+    "url": "/concepts/wavefront-material.html"
   },
   {
     "label": "Wavefront Object",
     "id": "wavefront-object",
-    "url": "/rows/wavefront-object.html"
+    "url": "/concepts/wavefront-object.html"
   },
   {
     "label": "WCL",
     "id": "wcl",
-    "url": "/rows/wcl.html"
+    "url": "/concepts/wcl.html"
   },
   {
     "label": "WCPS",
     "id": "wcps",
-    "url": "/rows/wcps.html"
+    "url": "/concepts/wcps.html"
   },
   {
     "label": "WDDX",
     "id": "wddx",
-    "url": "/rows/wddx.html"
+    "url": "/concepts/wddx.html"
   },
   {
     "label": "Wolfram Data Framework",
     "id": "wdf",
-    "url": "/rows/wdf.html"
+    "url": "/concepts/wdf.html"
   },
   {
     "label": "WDL",
     "id": "wdl",
-    "url": "/rows/wdl.html"
+    "url": "/concepts/wdl.html"
   },
   {
     "label": "WebIDL",
     "id": "web-idl",
-    "url": "/rows/web-idl.html"
+    "url": "/concepts/web-idl.html"
   },
   {
     "label": "WebDNA",
     "id": "webdna",
-    "url": "/rows/webdna.html"
+    "url": "/concepts/webdna.html"
   },
   {
     "label": "WebGL",
     "id": "webgl",
-    "url": "/rows/webgl.html"
+    "url": "/concepts/webgl.html"
   },
   {
     "label": "WebKit",
     "id": "webkit",
-    "url": "/rows/webkit.html"
+    "url": "/concepts/webkit.html"
   },
   {
     "label": "WebL",
     "id": "webl",
-    "url": "/rows/webl.html"
+    "url": "/concepts/webl.html"
   },
   {
     "label": "WebP",
     "id": "webp-format",
-    "url": "/rows/webp-format.html"
+    "url": "/concepts/webp-format.html"
   },
   {
     "label": "webql",
     "id": "webql",
-    "url": "/rows/webql.html"
+    "url": "/concepts/webql.html"
   },
   {
     "label": "WebStorm",
     "id": "webstorm-editor",
-    "url": "/rows/webstorm-editor.html"
+    "url": "/concepts/webstorm-editor.html"
   },
   {
     "label": "weebasic",
     "id": "weebasic",
-    "url": "/rows/weebasic.html"
+    "url": "/concepts/weebasic.html"
   },
   {
     "label": "wescheme",
     "id": "wescheme",
-    "url": "/rows/wescheme.html"
+    "url": "/concepts/wescheme.html"
   },
   {
     "label": "WebGPU Shading Language",
     "id": "wgsl",
-    "url": "/rows/wgsl.html"
+    "url": "/concepts/wgsl.html"
   },
   {
     "label": "whack",
     "id": "whack",
-    "url": "/rows/whack.html"
+    "url": "/concepts/whack.html"
   },
   {
     "label": "whalecalf",
     "id": "whalecalf",
-    "url": "/rows/whalecalf.html"
+    "url": "/concepts/whalecalf.html"
   },
   {
     "label": "Whiley",
     "id": "whiley",
-    "url": "/rows/whiley.html"
+    "url": "/concepts/whiley.html"
   },
   {
     "label": "WHIRL",
     "id": "whirl",
-    "url": "/rows/whirl.html"
+    "url": "/concepts/whirl.html"
   },
   {
     "label": "Whirlwind",
     "id": "whirlwind",
-    "url": "/rows/whirlwind.html"
+    "url": "/concepts/whirlwind.html"
   },
   {
     "label": "Whitespace",
     "id": "whitespace",
-    "url": "/rows/whitespace.html"
+    "url": "/concepts/whitespace.html"
   },
   {
     "label": "WHOIS",
     "id": "whois-protocol",
-    "url": "/rows/whois-protocol.html"
+    "url": "/concepts/whois-protocol.html"
   },
   {
     "label": "Wikitax",
     "id": "wikitax",
-    "url": "/rows/wikitax.html"
+    "url": "/concepts/wikitax.html"
   },
   {
     "label": "Winbatch",
     "id": "winbatch",
-    "url": "/rows/winbatch.html"
+    "url": "/concepts/winbatch.html"
   },
   {
     "label": "WinDev",
     "id": "windev",
-    "url": "/rows/windev.html"
+    "url": "/concepts/windev.html"
   },
   {
     "label": "Windows Registry Entries",
     "id": "windows-registry-entries",
-    "url": "/rows/windows-registry-entries.html"
+    "url": "/concepts/windows-registry-entries.html"
   },
   {
     "label": "Wing",
     "id": "wing",
-    "url": "/rows/wing.html"
+    "url": "/concepts/wing.html"
   },
   {
     "label": "WinWrap Basic",
     "id": "winwrap-basic",
-    "url": "/rows/winwrap-basic.html"
+    "url": "/concepts/winwrap-basic.html"
   },
   {
     "label": "winxed",
     "id": "winxed",
-    "url": "/rows/winxed.html"
+    "url": "/concepts/winxed.html"
   },
   {
     "label": "WML",
     "id": "wireless-markup-language",
-    "url": "/rows/wireless-markup-language.html"
+    "url": "/concepts/wireless-markup-language.html"
   },
   {
     "label": "Wirth syntax notation",
     "id": "wirth-syntax-notation",
-    "url": "/rows/wirth-syntax-notation.html"
+    "url": "/concepts/wirth-syntax-notation.html"
   },
   {
     "label": "wisp",
     "id": "wisp",
-    "url": "/rows/wisp.html"
+    "url": "/concepts/wisp.html"
   },
   {
     "label": "Wiswesser line notation",
     "id": "wiswesser-line-notation",
-    "url": "/rows/wiswesser-line-notation.html"
+    "url": "/concepts/wiswesser-line-notation.html"
   },
   {
     "label": "wizml",
     "id": "wizml",
-    "url": "/rows/wizml.html"
+    "url": "/concepts/wizml.html"
   },
   {
     "label": "WIZOR",
     "id": "wizor",
-    "url": "/rows/wizor.html"
+    "url": "/concepts/wizor.html"
   },
   {
     "label": "WLambda",
     "id": "wlambda",
-    "url": "/rows/wlambda.html"
+    "url": "/concepts/wlambda.html"
   },
   {
     "label": "Wlanguage",
     "id": "wlanguage",
-    "url": "/rows/wlanguage.html"
+    "url": "/concepts/wlanguage.html"
   },
   {
     "label": "WML",
     "id": "wml",
-    "url": "/rows/wml.html"
+    "url": "/concepts/wml.html"
   },
   {
     "label": "WMLScript",
     "id": "wmlscript",
-    "url": "/rows/wmlscript.html"
+    "url": "/concepts/wmlscript.html"
   },
   {
     "label": "woe",
     "id": "woe",
-    "url": "/rows/woe.html"
+    "url": "/concepts/woe.html"
   },
   {
     "label": "WOL",
     "id": "wol",
-    "url": "/rows/wol.html"
+    "url": "/concepts/wol.html"
   },
   {
     "label": "Wolfram Language",
     "id": "wolfram",
-    "url": "/rows/wolfram.html"
+    "url": "/concepts/wolfram.html"
   },
   {
     "label": "Wolontis-Bell Interpreter",
     "id": "wolontis-bell-interpreter",
-    "url": "/rows/wolontis-bell-interpreter.html"
+    "url": "/concepts/wolontis-bell-interpreter.html"
   },
   {
     "label": "Wonkey",
     "id": "wonkey",
-    "url": "/rows/wonkey.html"
+    "url": "/concepts/wonkey.html"
   },
   {
     "label": "woofjs",
     "id": "woofjs",
-    "url": "/rows/woofjs.html"
+    "url": "/concepts/woofjs.html"
   },
   {
     "label": "WordPress",
     "id": "wordpress",
-    "url": "/rows/wordpress.html"
+    "url": "/concepts/wordpress.html"
   },
   {
     "label": "WFL",
     "id": "work-flow-language",
-    "url": "/rows/work-flow-language.html"
+    "url": "/concepts/work-flow-language.html"
   },
   {
     "label": "Workfl",
     "id": "workfl",
-    "url": "/rows/workfl.html"
+    "url": "/concepts/workfl.html"
   },
   {
     "label": "World of Warcraft Addon Data",
     "id": "world-of-warcraft-addon-data",
-    "url": "/rows/world-of-warcraft-addon-data.html"
+    "url": "/concepts/world-of-warcraft-addon-data.html"
   },
   {
     "label": "world",
     "id": "world",
-    "url": "/rows/world.html"
+    "url": "/concepts/world.html"
   },
   {
     "label": "Worst",
     "id": "worst",
-    "url": "/rows/worst.html"
+    "url": "/concepts/worst.html"
   },
   {
     "label": "Wren",
     "id": "wren",
-    "url": "/rows/wren.html"
+    "url": "/concepts/wren.html"
   },
   {
     "label": "WRITEACOURSE",
     "id": "writeacourse",
-    "url": "/rows/writeacourse.html"
+    "url": "/concepts/writeacourse.html"
   },
   {
     "label": "WSDL",
     "id": "wsdl",
-    "url": "/rows/wsdl.html"
+    "url": "/concepts/wsdl.html"
   },
   {
     "label": "WSFN",
     "id": "wsfn-programming-language",
-    "url": "/rows/wsfn-programming-language.html"
+    "url": "/concepts/wsfn-programming-language.html"
   },
   {
     "label": "Wu",
     "id": "wu",
-    "url": "/rows/wu.html"
+    "url": "/concepts/wu.html"
   },
   {
     "label": "WxBasic",
     "id": "wxbasic",
-    "url": "/rows/wxbasic.html"
+    "url": "/concepts/wxbasic.html"
   },
   {
     "label": "WYLBUR",
     "id": "wylbur",
-    "url": "/rows/wylbur.html"
+    "url": "/concepts/wylbur.html"
   },
   {
     "label": "Wyvern",
     "id": "wyvern",
-    "url": "/rows/wyvern.html"
+    "url": "/concepts/wyvern.html"
   },
   {
     "label": "X-BASIC",
     "id": "x-basic",
-    "url": "/rows/x-basic.html"
+    "url": "/concepts/x-basic.html"
   },
   {
     "label": "X BitMap",
     "id": "x-bitmap-format",
-    "url": "/rows/x-bitmap-format.html"
+    "url": "/concepts/x-bitmap-format.html"
   },
   {
     "label": "X BitMap",
     "id": "x-bitmap",
-    "url": "/rows/x-bitmap.html"
+    "url": "/concepts/x-bitmap.html"
   },
   {
     "label": "X Font Directory Index",
     "id": "x-font-directory-index",
-    "url": "/rows/x-font-directory-index.html"
+    "url": "/concepts/x-font-directory-index.html"
   },
   {
     "label": "[x]it!",
     "id": "x-it",
-    "url": "/rows/x-it.html"
+    "url": "/concepts/x-it.html"
   },
   {
     "label": "X-KLAIM",
     "id": "x-klaim",
-    "url": "/rows/x-klaim.html"
+    "url": "/concepts/x-klaim.html"
   },
   {
     "label": "X PixMap",
     "id": "x-pixmap",
-    "url": "/rows/x-pixmap.html"
+    "url": "/concepts/x-pixmap.html"
   },
   {
     "label": "X10",
     "id": "x10",
-    "url": "/rows/x10.html"
+    "url": "/concepts/x10.html"
   },
   {
     "label": "X11-Basic",
     "id": "x11-basic",
-    "url": "/rows/x11-basic.html"
+    "url": "/concepts/x11-basic.html"
   },
   {
     "label": "x86-64",
     "id": "x86-64-isa",
-    "url": "/rows/x86-64-isa.html"
+    "url": "/concepts/x86-64-isa.html"
   },
   {
     "label": "x86 Assembly",
     "id": "x86-assembly",
-    "url": "/rows/x86-assembly.html"
+    "url": "/concepts/x86-assembly.html"
   },
   {
     "label": "X86",
     "id": "x86-isa",
-    "url": "/rows/x86-isa.html"
+    "url": "/concepts/x86-isa.html"
   },
   {
     "label": "xADL",
     "id": "xadl",
-    "url": "/rows/xadl.html"
+    "url": "/concepts/xadl.html"
   },
   {
     "label": "XAML",
     "id": "xaml",
-    "url": "/rows/xaml.html"
+    "url": "/concepts/xaml.html"
   },
   {
     "label": "xBase",
     "id": "xbase",
-    "url": "/rows/xbase.html"
+    "url": "/concepts/xbase.html"
   },
   {
     "label": "XBase++",
     "id": "xbasepp",
-    "url": "/rows/xbasepp.html"
+    "url": "/concepts/xbasepp.html"
   },
   {
     "label": "Xbasic",
     "id": "xbasic",
-    "url": "/rows/xbasic.html"
+    "url": "/concepts/xbasic.html"
   },
   {
     "label": "XBEL",
     "id": "xbel",
-    "url": "/rows/xbel.html"
+    "url": "/concepts/xbel.html"
   },
   {
     "label": "XML Binding Language",
     "id": "xbl",
-    "url": "/rows/xbl.html"
+    "url": "/concepts/xbl.html"
   },
   {
     "label": "XBLite",
     "id": "xblite",
-    "url": "/rows/xblite.html"
+    "url": "/concepts/xblite.html"
   },
   {
     "label": "XBRL",
     "id": "xbrl",
-    "url": "/rows/xbrl.html"
+    "url": "/concepts/xbrl.html"
   },
   {
     "label": "XC",
     "id": "xc",
-    "url": "/rows/xc.html"
+    "url": "/concepts/xc.html"
   },
   {
     "label": "xCard",
     "id": "xcard",
-    "url": "/rows/xcard.html"
+    "url": "/concepts/xcard.html"
   },
   {
     "label": "XCAS",
     "id": "xcas",
-    "url": "/rows/xcas.html"
+    "url": "/concepts/xcas.html"
   },
   {
     "label": "XCompose",
     "id": "xcompose",
-    "url": "/rows/xcompose.html"
+    "url": "/concepts/xcompose.html"
   },
   {
     "label": "XCore Architecture",
     "id": "xcore",
-    "url": "/rows/xcore.html"
+    "url": "/concepts/xcore.html"
   },
   {
     "label": "XCY",
     "id": "xcy",
-    "url": "/rows/xcy.html"
+    "url": "/concepts/xcy.html"
   },
   {
     "label": "XDR Schema",
     "id": "xdr",
-    "url": "/rows/xdr.html"
+    "url": "/concepts/xdr.html"
   },
   {
     "label": "xduce",
     "id": "xduce",
-    "url": "/rows/xduce.html"
+    "url": "/concepts/xduce.html"
   },
   {
     "label": "XE",
     "id": "xe",
-    "url": "/rows/xe.html"
+    "url": "/concepts/xe.html"
   },
   {
     "label": "XeTeX",
     "id": "xetex",
-    "url": "/rows/xetex.html"
+    "url": "/concepts/xetex.html"
   },
   {
     "label": "Xgboost",
     "id": "xgboost-model",
-    "url": "/rows/xgboost-model.html"
+    "url": "/concepts/xgboost-model.html"
   },
   {
     "label": "XGBoost",
     "id": "xgboost",
-    "url": "/rows/xgboost.html"
+    "url": "/concepts/xgboost.html"
   },
   {
     "label": "XGMML",
     "id": "xgmml",
-    "url": "/rows/xgmml.html"
+    "url": "/concepts/xgmml.html"
   },
   {
     "label": "XHTML",
     "id": "xhtml",
-    "url": "/rows/xhtml.html"
+    "url": "/concepts/xhtml.html"
   },
   {
     "label": "Xidoc",
     "id": "xidoc",
-    "url": "/rows/xidoc.html"
+    "url": "/concepts/xidoc.html"
   },
   {
     "label": "XL",
     "id": "xl-lang",
-    "url": "/rows/xl-lang.html"
+    "url": "/concepts/xl-lang.html"
   },
   {
     "label": "xl",
     "id": "xl",
-    "url": "/rows/xl.html"
+    "url": "/concepts/xl.html"
   },
   {
     "label": "xlwings-editor",
     "id": "xlwings-editor",
-    "url": "/rows/xlwings-editor.html"
+    "url": "/concepts/xlwings-editor.html"
   },
   {
     "label": "XML Metadata Interchange",
     "id": "xmi",
-    "url": "/rows/xmi.html"
+    "url": "/concepts/xmi.html"
   },
   {
     "label": "Xmind Format",
     "id": "xmind",
-    "url": "/rows/xmind.html"
+    "url": "/concepts/xmind.html"
   },
   {
     "label": "XML-GL",
     "id": "xml-gl",
-    "url": "/rows/xml-gl.html"
+    "url": "/concepts/xml-gl.html"
   },
   {
     "label": "XML Query Language",
     "id": "xml-ql",
-    "url": "/rows/xml-ql.html"
+    "url": "/concepts/xml-ql.html"
   },
   {
     "label": "The Algebra",
     "id": "xml-query-algebra",
-    "url": "/rows/xml-query-algebra.html"
+    "url": "/concepts/xml-query-algebra.html"
   },
   {
     "label": "XML",
     "id": "xml",
-    "url": "/rows/xml.html"
+    "url": "/concepts/xml.html"
   },
   {
     "label": "xmpp-protocol",
     "id": "xmpp-protocol",
-    "url": "/rows/xmpp-protocol.html"
+    "url": "/concepts/xmpp-protocol.html"
   },
   {
     "label": "XMTC",
     "id": "xmtc",
-    "url": "/rows/xmtc.html"
+    "url": "/concepts/xmtc.html"
   },
   {
     "label": "Xoc",
     "id": "xoc-compiler",
-    "url": "/rows/xoc-compiler.html"
+    "url": "/concepts/xoc-compiler.html"
   },
   {
     "label": "xodio",
     "id": "xodio",
-    "url": "/rows/xodio.html"
+    "url": "/concepts/xodio.html"
   },
   {
     "label": "Xojo",
     "id": "xojo",
-    "url": "/rows/xojo.html"
+    "url": "/concepts/xojo.html"
   },
   {
     "label": "XOTcl",
     "id": "xotcl",
-    "url": "/rows/xotcl.html"
+    "url": "/concepts/xotcl.html"
   },
   {
     "label": "XPages",
     "id": "xpages",
-    "url": "/rows/xpages.html"
+    "url": "/concepts/xpages.html"
   },
   {
     "label": "XPath",
     "id": "xpath",
-    "url": "/rows/xpath.html"
+    "url": "/concepts/xpath.html"
   },
   {
     "label": "XPL",
     "id": "xpl",
-    "url": "/rows/xpl.html"
+    "url": "/concepts/xpl.html"
   },
   {
     "label": "XPL0",
     "id": "xpl0",
-    "url": "/rows/xpl0.html"
+    "url": "/concepts/xpl0.html"
   },
   {
     "label": "X PixMap",
     "id": "xpm-format",
-    "url": "/rows/xpm-format.html"
+    "url": "/concepts/xpm-format.html"
   },
   {
     "label": "XPOP",
     "id": "xpop",
-    "url": "/rows/xpop.html"
+    "url": "/concepts/xpop.html"
   },
   {
     "label": "XProc",
     "id": "xproc",
-    "url": "/rows/xproc.html"
+    "url": "/concepts/xproc.html"
   },
   {
     "label": "XProfan",
     "id": "xprofan",
-    "url": "/rows/xprofan.html"
+    "url": "/concepts/xprofan.html"
   },
   {
     "label": "XQL",
     "id": "xql-lang",
-    "url": "/rows/xql-lang.html"
+    "url": "/concepts/xql-lang.html"
   },
   {
     "label": "XQL",
     "id": "xql",
-    "url": "/rows/xql.html"
+    "url": "/concepts/xql.html"
   },
   {
     "label": "XQuery",
     "id": "xquery",
-    "url": "/rows/xquery.html"
+    "url": "/concepts/xquery.html"
   },
   {
     "label": "xs",
     "id": "xs-lang",
-    "url": "/rows/xs-lang.html"
+    "url": "/concepts/xs-lang.html"
   },
   {
     "label": "XS",
     "id": "xs",
-    "url": "/rows/xs.html"
+    "url": "/concepts/xs.html"
   },
   {
     "label": "XSD",
     "id": "xsd",
-    "url": "/rows/xsd.html"
+    "url": "/concepts/xsd.html"
   },
   {
     "label": "xsharp",
     "id": "xsharp",
-    "url": "/rows/xsharp.html"
+    "url": "/concepts/xsharp.html"
   },
   {
     "label": "XSIM",
     "id": "xsim",
-    "url": "/rows/xsim.html"
+    "url": "/concepts/xsim.html"
   },
   {
     "label": "XSLT",
     "id": "xslt",
-    "url": "/rows/xslt.html"
+    "url": "/concepts/xslt.html"
   },
   {
     "label": "xsv-app",
     "id": "xsv-app",
-    "url": "/rows/xsv-app.html"
+    "url": "/concepts/xsv-app.html"
   },
   {
     "label": "xt3d",
     "id": "xt3d",
-    "url": "/rows/xt3d.html"
+    "url": "/concepts/xt3d.html"
   },
   {
     "label": "xTAO Modeling Language",
     "id": "xtao",
-    "url": "/rows/xtao.html"
+    "url": "/concepts/xtao.html"
   },
   {
     "label": "Ecstasy",
     "id": "xtclang",
-    "url": "/rows/xtclang.html"
+    "url": "/concepts/xtclang.html"
   },
   {
     "label": "Xtend",
     "id": "xtend",
-    "url": "/rows/xtend.html"
+    "url": "/concepts/xtend.html"
   },
   {
     "label": "Xtext",
     "id": "xtext",
-    "url": "/rows/xtext.html"
+    "url": "/concepts/xtext.html"
   },
   {
     "label": "XTRAN",
     "id": "xtran",
-    "url": "/rows/xtran.html"
+    "url": "/concepts/xtran.html"
   },
   {
     "label": "XUML",
     "id": "xuml",
-    "url": "/rows/xuml.html"
+    "url": "/concepts/xuml.html"
   },
   {
     "label": "Xupdate",
     "id": "xupdate",
-    "url": "/rows/xupdate.html"
+    "url": "/concepts/xupdate.html"
   },
   {
     "label": "xxl",
     "id": "xxl",
-    "url": "/rows/xxl.html"
+    "url": "/concepts/xxl.html"
   },
   {
     "label": "y-lang",
     "id": "y-lang",
-    "url": "/rows/y-lang.html"
+    "url": "/concepts/y-lang.html"
   },
   {
     "label": "Y",
     "id": "y",
-    "url": "/rows/y.html"
+    "url": "/concepts/y.html"
   },
   {
     "label": "Yabasic",
     "id": "yabasic",
-    "url": "/rows/yabasic.html"
+    "url": "/concepts/yabasic.html"
   },
   {
     "label": "Yacas",
     "id": "yacas",
-    "url": "/rows/yacas.html"
+    "url": "/concepts/yacas.html"
   },
   {
     "label": "Yacc",
     "id": "yacc",
-    "url": "/rows/yacc.html"
+    "url": "/concepts/yacc.html"
   },
   {
     "label": "Yakou Lang",
     "id": "yakou-lang",
-    "url": "/rows/yakou-lang.html"
+    "url": "/concepts/yakou-lang.html"
   },
   {
     "label": "YAML",
     "id": "yaml",
-    "url": "/rows/yaml.html"
+    "url": "/concepts/yaml.html"
   },
   {
     "label": "YAMP",
     "id": "yamp",
-    "url": "/rows/yamp.html"
+    "url": "/concepts/yamp.html"
   },
   {
     "label": "YANG",
     "id": "yang",
-    "url": "/rows/yang.html"
+    "url": "/concepts/yang.html"
   },
   {
     "label": "YAP",
     "id": "yap-prolog",
-    "url": "/rows/yap-prolog.html"
+    "url": "/concepts/yap-prolog.html"
   },
   {
     "label": "YARA",
     "id": "yara",
-    "url": "/rows/yara.html"
+    "url": "/concepts/yara.html"
   },
   {
     "label": "YARV",
     "id": "yarv",
-    "url": "/rows/yarv.html"
+    "url": "/concepts/yarv.html"
   },
   {
     "label": "Yet Another Scripting Language",
     "id": "yasl",
-    "url": "/rows/yasl.html"
+    "url": "/concepts/yasl.html"
   },
   {
     "label": "YASnippet",
     "id": "yasnippet",
-    "url": "/rows/yasnippet.html"
+    "url": "/concepts/yasnippet.html"
   },
   {
     "label": "YAWL",
     "id": "yawl",
-    "url": "/rows/yawl.html"
+    "url": "/concepts/yawl.html"
   },
   {
     "label": "ycp",
     "id": "ycp",
-    "url": "/rows/ycp.html"
+    "url": "/concepts/ycp.html"
   },
   {
     "label": "Yedalog",
     "id": "yedalog",
-    "url": "/rows/yedalog.html"
+    "url": "/concepts/yedalog.html"
   },
   {
     "label": "YESS",
     "id": "yess",
-    "url": "/rows/yess.html"
+    "url": "/concepts/yess.html"
   },
   {
     "label": "yeti",
     "id": "yeti",
-    "url": "/rows/yeti.html"
+    "url": "/concepts/yeti.html"
   },
   {
     "label": "Yes It Is",
     "id": "yii",
-    "url": "/rows/yii.html"
+    "url": "/concepts/yii.html"
   },
   {
     "label": "yinyang",
     "id": "yinyang",
-    "url": "/rows/yinyang.html"
+    "url": "/concepts/yinyang.html"
   },
   {
     "label": "yoga",
     "id": "yoga",
-    "url": "/rows/yoga.html"
+    "url": "/concepts/yoga.html"
   },
   {
     "label": "Yoix",
     "id": "yoix",
-    "url": "/rows/yoix.html"
+    "url": "/concepts/yoix.html"
   },
   {
     "label": "YoptaScript",
     "id": "yoptascript",
-    "url": "/rows/yoptascript.html"
+    "url": "/concepts/yoptascript.html"
   },
   {
     "label": "Yorick",
     "id": "yorick",
-    "url": "/rows/yorick.html"
+    "url": "/concepts/yorick.html"
   },
   {
     "label": "YugabyteDB",
     "id": "yugabytedb",
-    "url": "/rows/yugabytedb.html"
+    "url": "/concepts/yugabytedb.html"
   },
   {
     "label": "Yum",
     "id": "yum-pm",
-    "url": "/rows/yum-pm.html"
+    "url": "/concepts/yum-pm.html"
   },
   {
     "label": "Z",
     "id": "z-expressions",
-    "url": "/rows/z-expressions.html"
+    "url": "/concepts/z-expressions.html"
   },
   {
     "label": "Z-flat",
     "id": "z-flat",
-    "url": "/rows/z-flat.html"
+    "url": "/concepts/z-flat.html"
   },
   {
     "label": "Z-machine",
     "id": "z-machine",
-    "url": "/rows/z-machine.html"
+    "url": "/concepts/z-machine.html"
   },
   {
     "label": "Z notation",
     "id": "z-notation",
-    "url": "/rows/z-notation.html"
+    "url": "/concepts/z-notation.html"
   },
   {
     "label": "Z shell",
     "id": "z-shell",
-    "url": "/rows/z-shell.html"
+    "url": "/concepts/z-shell.html"
   },
   {
     "label": "Z",
     "id": "z",
-    "url": "/rows/z.html"
+    "url": "/concepts/z.html"
   },
   {
     "label": "z2",
     "id": "z2",
-    "url": "/rows/z2.html"
+    "url": "/concepts/z2.html"
   },
   {
     "label": "z80",
     "id": "z80",
-    "url": "/rows/z80.html"
+    "url": "/concepts/z80.html"
   },
   {
     "label": "ZBasic",
     "id": "zbasic",
-    "url": "/rows/zbasic.html"
+    "url": "/concepts/zbasic.html"
   },
   {
     "label": "ZCCS",
     "id": "zccs",
-    "url": "/rows/zccs.html"
+    "url": "/concepts/zccs.html"
   },
   {
     "label": "Zed",
     "id": "zed",
-    "url": "/rows/zed.html"
+    "url": "/concepts/zed.html"
   },
   {
     "label": "Zeek",
     "id": "zeek",
-    "url": "/rows/zeek.html"
+    "url": "/concepts/zeek.html"
   },
   {
     "label": "ZENO",
     "id": "zeno",
-    "url": "/rows/zeno.html"
+    "url": "/concepts/zeno.html"
   },
   {
     "label": "zenscript",
     "id": "zenscript",
-    "url": "/rows/zenscript.html"
+    "url": "/concepts/zenscript.html"
   },
   {
     "label": "Zephir",
     "id": "zephir",
-    "url": "/rows/zephir.html"
+    "url": "/concepts/zephir.html"
   },
   {
     "label": "zephyr-asdl",
     "id": "zephyr-asdl",
-    "url": "/rows/zephyr-asdl.html"
+    "url": "/concepts/zephyr-asdl.html"
   },
   {
     "label": "Zeta",
     "id": "zeta",
-    "url": "/rows/zeta.html"
+    "url": "/concepts/zeta.html"
   },
   {
     "label": "ZGRASS",
     "id": "zgrass",
-    "url": "/rows/zgrass.html"
+    "url": "/concepts/zgrass.html"
   },
   {
     "label": "Zig",
     "id": "zig",
-    "url": "/rows/zig.html"
+    "url": "/concepts/zig.html"
   },
   {
     "label": "ZigZag",
     "id": "zigzag",
-    "url": "/rows/zigzag.html"
+    "url": "/concepts/zigzag.html"
   },
   {
     "label": "Zork Implementation Language",
     "id": "zil",
-    "url": "/rows/zil.html"
+    "url": "/concepts/zil.html"
   },
   {
     "label": "ZIM Format",
     "id": "zim-format",
-    "url": "/rows/zim-format.html"
+    "url": "/concepts/zim-format.html"
   },
   {
     "label": "Zimbu",
     "id": "zimbu",
-    "url": "/rows/zimbu.html"
+    "url": "/concepts/zimbu.html"
   },
   {
     "label": "Zimpl",
     "id": "zimpl",
-    "url": "/rows/zimpl.html"
+    "url": "/concepts/zimpl.html"
   },
   {
     "label": "Zip file format",
     "id": "zip-format",
-    "url": "/rows/zip-format.html"
+    "url": "/concepts/zip-format.html"
   },
   {
     "label": "zish",
     "id": "zish",
-    "url": "/rows/zish.html"
+    "url": "/concepts/zish.html"
   },
   {
     "label": "zl",
     "id": "zl",
-    "url": "/rows/zl.html"
+    "url": "/concepts/zl.html"
   },
   {
     "label": "zlang",
     "id": "zlang",
-    "url": "/rows/zlang.html"
+    "url": "/concepts/zlang.html"
   },
   {
     "label": "Zoem",
     "id": "zoem",
-    "url": "/rows/zoem.html"
+    "url": "/concepts/zoem.html"
   },
   {
     "label": "zolang",
     "id": "zolang",
-    "url": "/rows/zolang.html"
+    "url": "/concepts/zolang.html"
   },
   {
     "label": "DNS Zone",
     "id": "zone",
-    "url": "/rows/zone.html"
+    "url": "/concepts/zone.html"
   },
   {
     "label": "Zonnon",
     "id": "zonnon",
-    "url": "/rows/zonnon.html"
+    "url": "/concepts/zonnon.html"
   },
   {
     "label": "Zope",
     "id": "zope",
-    "url": "/rows/zope.html"
+    "url": "/concepts/zope.html"
   },
   {
     "label": "ZOPL",
     "id": "zopl",
-    "url": "/rows/zopl.html"
+    "url": "/concepts/zopl.html"
   },
   {
     "label": "Zot",
     "id": "zot",
-    "url": "/rows/zot.html"
+    "url": "/concepts/zot.html"
   },
   {
     "label": "ZPL",
     "id": "zpl",
-    "url": "/rows/zpl.html"
+    "url": "/concepts/zpl.html"
   },
   {
     "label": "Z++",
     "id": "zpp",
-    "url": "/rows/zpp.html"
+    "url": "/concepts/zpp.html"
   },
   {
     "label": "Zuo",
     "id": "zuo",
-    "url": "/rows/zuo.html"
+    "url": "/concepts/zuo.html"
   },
   {
     "label": "zz",
     "id": "zz",
-    "url": "/rows/zz.html"
+    "url": "/concepts/zz.html"
   }
 ]
 
@@ -41617,7 +41617,7 @@ get title() { return `Refinement Types` }
 
 class hasRegularExpressionsSyntaxSugarParser extends abstractFeatureParser {
       get pseudoExample() { return `/pldb/` }
-get reference() { return `https://pldb.com/rows/regex.html` }
+get reference() { return `https://pldb.com/concepts/regex.html` }
 get title() { return `Regular Expression Syntax Sugar` }
     }
 
@@ -44148,7 +44148,7 @@ hasRegularExpressionsSyntaxSugarParser
  extends abstractFeatureParser
  description Does the language have special syntax for regular expressions?
  string title Regular Expression Syntax Sugar
- string reference https://pldb.com/rows/regex.html
+ string reference https://pldb.com/concepts/regex.html
  string pseudoExample /pldb/
 hasRequiredMainFunctionParser
  description Does the language require a function named main (or similar)?
@@ -46328,7 +46328,7 @@ class TrueBaseBrowserApp {
     if (data.error) return (document.getElementById("formHolder").innerHTML = data.error)
 
     const id = this.currentFileId
-    document.getElementById("pageTitle").innerHTML = `Improve <i><a href="/rows/${id}.html">${filename}</a></i>`
+    document.getElementById("pageTitle").innerHTML = `Improve <i><a href="/concepts/${id}.html">${filename}</a></i>`
 
     this.codeMirrorInstance.setValue(localValue ? localValue.childrenToString() : data.content)
     const title = new TreeNode(this.value).get("title") || filename

@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasSingleTypeArrays.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasStatementTerminatorCharacter.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  {
   version: 3,
   file: &#39;min.js&#39;,
@@ -23,13 +23,13 @@ codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a
   mappings: &#39;CAAC,IAAI,IAAM,SAAUA,GAClB,OAAOC,IAAID;CCDb,IAAI,IAAM,SAAUE,GAClB,OAAOA&#39;
  };
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  linkage
   bannedclasses (file, process, shellstream, archive)
   // using these classes... even indirectly, will create an error
   // the error message will show the entire call-chain that reached these classes
 
-* Languages *with* Source Maps include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/speedie.html">Speedie</a>
+* Languages *with* Source Maps include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/speedie.html">Speedie</a>
 
 * This question asks: Does the language support the generation of source maps?
 

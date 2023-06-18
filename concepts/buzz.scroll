@@ -1,0 +1,51 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title buzz
+
+title buzz - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="kuka.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ulisp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/buzz.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/buzz-language/buzz" class="material-symbols-outlined">code</a> <a href="https://github.com/buzz-language/buzz/blob/main/README.md" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=buzz" class="material-symbols-outlined">edit</a></div>
+
+* buzz is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2021 by Benoit Giannangeli.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2021 2021
+ link ../lists/creators.html#benoitGiannangeli Benoit Giannangeli
+
+codeWithHeader Source code:
+ git clone https://github.com/buzz-language/buzz
+
+dashboard
+ #1382 <span title="TotalRank: 1920 Jobs: 103 Users: 830 Facts: 1087 Links: 987">on PLDB</span>
+ 2 Years Old
+
+openGraphImage https://raw.githubusercontent.com/buzz-language/buzz/main/example.png
+image https://raw.githubusercontent.com/buzz-language/buzz/main/example.png
+ caption A screenshot of the visual language buzz.
+  link /search.html?q=select+type%0D%0Awhere+type+%3D+visual visual language
+
+* A small/lightweight typed scripting language (in development)
+
+- buzz is developed on <a href="https://github.com/buzz-language/buzz">GitHub</a> and has 407 stars
+- buzz docs
+ https://github.com/buzz-language/buzz/blob/main/README.md
+- buzz first developed in <a href="../lists/originCommunities.html#httpsGithubComBuzzLanguage">https://github.com/buzz-language/</a>
+- file extensions for buzz include buzz
+- buzz is written in <a href="zig.html">Zig</a>
+- Release Notes for buzz
+ https://github.com/buzz-language/buzz/releases
+
+<br>
+
+endColumns
+
+keyboardNav kuka.html ulisp.html
+
+import ../footer.scroll

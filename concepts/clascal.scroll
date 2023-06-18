@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Clascal
+
+title Clascal - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="cl-i.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="classic-ada.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/clascal.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=clascal" class="material-symbols-outlined">edit</a></div>
+
+* Clascal is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1983.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1983 1983
+
+dashboard
+ #3597 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3251 Links: 987">on PLDB</span>
+ 40 Years Old
+
+* 
+
+- Clascal first developed in <a href="../lists/originCommunities.html#apple">Apple</a>
+- Clascal on HOPL
+ https://hopl.info/showlanguage.prx?exp=3710
+- Read more about Clascal on the web: 1.
+ https://en.wikipedia.org/wiki/Clascal 1.
+
+<br>
+
+endColumns
+
+keyboardNav cl-i.html classic-ada.html
+
+import ../footer.scroll

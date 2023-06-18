@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasTryCatch.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasTypeInference.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/ion.html">Ion</a>:
+codeWithHeader Example from <a href="../concepts/ion.html">Ion</a>:
  int32::12                                // Suggests 32 bits as end-user type
  &#39;my.custom.type&#39; :: { x : 12 , y : -1 }  // Gives a struct a user-defined type
  
@@ -24,10 +24,10 @@ codeWithHeader Example from <a href="../rows/ion.html">Ion</a>:
  &#39;&#39; :: 1                                  // An empty annotation
  null.symbol :: 1                         // ERROR: type annotation cannot be null 
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  let x: f64 = 89
 
-* Languages *with* Type Annotations include <a href="../rows/ion.html">Ion</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* Type Annotations include <a href="../concepts/ion.html">Ion</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language have a syntax for annotating the types of variables?
 

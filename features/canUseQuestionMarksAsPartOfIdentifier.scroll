@@ -9,16 +9,16 @@ html
  <a class="trueBaseThemePreviousItem" href="canReadCommandLineArgs.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="canWriteToDisk.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/slope.html">Slope</a>:
+codeWithHeader Example from <a href="../concepts/slope.html">Slope</a>:
  (define yes? #t)
 
-* Languages *with* canUseQuestionMarksAsPartOfIdentifier include <a href="../rows/slope.html">Slope</a>
+* Languages *with* canUseQuestionMarksAsPartOfIdentifier include <a href="../concepts/slope.html">Slope</a>
 
-* Languages *without* canUseQuestionMarksAsPartOfIdentifier include <a href="../rows/jule.html">Jule</a>
+* Languages *without* canUseQuestionMarksAsPartOfIdentifier include <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Is the question mark (?) allowed as part of an identifier?
 

@@ -9,17 +9,17 @@ html
  <a class="trueBaseThemePreviousItem" href="hasTypedHoles.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasUnicodeIdentifiers.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  || x = !0
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  * &amp; - + ^ !
 
-* Languages *with* Unary Operators include <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/c2.html">C2</a>
+* Languages *with* Unary Operators include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/c2.html">C2</a>
 
 * This question asks: Does the language have any unary operators like ++ or --?
 

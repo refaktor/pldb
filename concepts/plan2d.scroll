@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title PLAN2D
+
+title PLAN2D - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="patchwork.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pluk.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/plan2d.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=plan2d" class="material-symbols-outlined">edit</a></div>
+
+* PLAN2D is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1976.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1976 1976
+
+dashboard
+ #3062 <span title="TotalRank: 3788 Jobs: 103 Users: 2831 Facts: 2698 Links: 987">on PLDB</span>
+ 47 Years Old
+
+* 
+
+- PLAN2D first developed in <a href="../lists/originCommunities.html#technicalUniversityOfBerlin">Technical University of Berlin</a>
+- PLAN2D on HOPL
+ https://hopl.info/showlanguage.prx?exp=5381
+- Read more about PLAN2D on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/25e643ef1c44fed15fa34dd21a0e6183b976fd4e 1.
+
+<br>
+
+endColumns
+
+keyboardNav patchwork.html pluk.html
+
+import ../footer.scroll

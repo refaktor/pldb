@@ -1,0 +1,46 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title skew
+
+title skew - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="sdf-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="versioned-text-markup-language.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/skew.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://skew-lang.org" class="material-symbols-outlined">home</a> <a href="/edit.html?id=skew" class="material-symbols-outlined">edit</a></div>
+
+* skew is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015 by Evan Wallace.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+ link ../lists/creators.html#evanWallace Evan Wallace
+
+dashboard
+ #2959 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 2534 Links: 987">on PLDB</span>
+ 8 Years Old
+
+* 
+
+- skew website
+ http://skew-lang.org
+- skew first developed in <a href="../lists/originCommunities.html#httpsGithubComEvanwSkewIssues">https://github.com/evanw/skew/issues</a>
+- file extensions for skew include sk
+- <a href="http://skew-lang.org">skew-lang.org</a> was registered in 2014
+
+<br>
+
+endColumns
+
+## HackerNews discussions of skew
+
+pipeTable
+ title|titleLink|date|score|comments
+ Skew: A programming language for developing cross platform applications|https://news.ycombinator.com/item?id=11493721|04/14/2016|8|0
+
+keyboardNav sdf-format.html versioned-text-markup-language.html
+
+import ../footer.scroll

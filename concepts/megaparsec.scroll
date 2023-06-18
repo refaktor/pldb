@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Megaparsec
+
+title Megaparsec - Library
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="lmdb.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="colascript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/megaparsec.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/mrkkrp/megaparsec" class="material-symbols-outlined">code</a> <a href="/edit.html?id=megaparsec" class="material-symbols-outlined">edit</a></div>
+
+* Megaparsec is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+library">library</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+codeWithHeader Source code:
+ git clone https://github.com/mrkkrp/megaparsec
+
+dashboard
+ #987 on PLDB
+ 8 Years Old
+
+* Industrial-strength monadic parser combinator library
+
+- Megaparsec is developed on <a href="https://github.com/mrkkrp/megaparsec">GitHub</a> and has 832 stars
+- Megaparsec first developed in <a href="../lists/originCommunities.html#httpsGithubComMrkkrpMegaparsecIssues">https://github.com/mrkkrp/megaparsec/issues</a>
+- Megaparsec is written in <a href="haskell.html">Haskell</a>
+- See also: (1 related languages)<a href="antlr.html">ANTLR</a>
+
+<br>
+
+endColumns
+
+keyboardNav lmdb.html colascript.html
+
+import ../footer.scroll

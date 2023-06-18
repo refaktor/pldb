@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasModules.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasMultiLineComments.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/haskell.html">Haskell</a>:
+codeWithHeader Example from <a href="../concepts/haskell.html">Haskell</a>:
  -- https://stackoverflow.com/questions/44965/what-is-a-monad
  parseExpr = parseString &lt;|&gt; parseNumber
  
@@ -27,7 +27,7 @@ codeWithHeader Example from <a href="../rows/haskell.html">Haskell</a>:
      num &lt;- many1 digit
      return (NumberValue (read num))
 
-* Languages *with* Monad include <a href="../rows/haskell.html">Haskell</a>
+* Languages *with* Monad include <a href="../concepts/haskell.html">Haskell</a>
 
 * This question asks: Does the language have monads?
 

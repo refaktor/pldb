@@ -1,0 +1,60 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title xsharp
+
+title xsharp - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="markdeep.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="beta-basic.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xsharp.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.xsharp.info" class="material-symbols-outlined">home</a> <a href="/edit.html?id=xsharp" class="material-symbols-outlined">edit</a></div>
+
+* xsharp is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+dashboard
+ #1723 <span title="TotalRank: 2245 Jobs: 103 Users: 2435 Facts: 1155 Links: 987">on PLDB</span>
+ 8 Years Old
+
+* X# is an open source development language for .NET, based on the xBase language.
+
+- xsharp website
+ https://www.xsharp.info
+- <a href="https://www.xsharp.info">xsharp.info</a> was registered in 2015
+
+<br>
+
+codeWithHeader Example from the web:
+ FUNCTION start AS VOID 
+  LOCAL oErr AS OBJECT
+  LOCAL nI AS LONG
+  LOCAL f AS FLOAT
+  oErr := Error{} 
+  f := Seconds()
+  nI := 0
+  FOR VAR nX := 1 TO 10_000_000
+     IF IsInstanceOf(oErr, #Error)
+        nI++
+     ENDIF
+  NEXT 
+  ? Seconds() - f, nI
+  f := Seconds()
+  FOR VAR nX := 1 TO 10_000_000
+     IF oErr IS Error
+        nI++
+     ENDIF
+  NEXT 
+  ? Seconds() - f, nI
+  WAIT
+
+endColumns
+
+keyboardNav markdeep.html beta-basic.html
+
+import ../footer.scroll

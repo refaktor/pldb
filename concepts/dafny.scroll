@@ -1,0 +1,130 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Dafny
+
+title Dafny - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="isabelle.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="c--.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dafny.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/" class="material-symbols-outlined">home</a> <a href="https://riju.codes/dafny" class="material-symbols-outlined">terminal</a> <a href="https://github.com/Microsoft/dafny" class="material-symbols-outlined">code</a> <a href="https://en.wikipedia.org/wiki/Dafny_(programming_language)"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="98.05px" height="98.05px" viewBox="0 0 98.05 98.05" style="enable-background:new 0 0 98.05 98.05;" xml:space="preserve"><path d="M98.023,17.465l-19.584-0.056c-0.004,0.711-0.006,1.563-0.017,2.121c1.664,0.039,5.922,0.822,7.257,4.327L66.92,67.155 c-0.919-2.149-9.643-21.528-10.639-24.02l9.072-18.818c1.873-2.863,5.455-4.709,8.918-4.843l-0.01-1.968L55.42,17.489 c-0.045,0.499,0.001,1.548-0.068,2.069c5.315,0.144,7.215,1.334,5.941,4.508c-2.102,4.776-6.51,13.824-7.372,15.475 c-2.696-5.635-4.41-9.972-7.345-16.064c-1.266-2.823,1.529-3.922,4.485-4.004v-1.981l-21.82-0.067 c0.016,0.93-0.021,1.451-0.021,2.131c3.041,0.046,6.988,0.371,8.562,3.019c2.087,4.063,9.044,20.194,11.149,24.514 c-2.685,5.153-9.207,17.341-11.544,21.913c-3.348-7.43-15.732-36.689-19.232-44.241c-1.304-3.218,3.732-5.077,6.646-5.213 l0.019-2.148L0,17.398c0.005,0.646,0.027,1.71,0.029,2.187c4.025-0.037,9.908,6.573,11.588,10.683 c7.244,16.811,14.719,33.524,21.928,50.349c0.002,0.029,2.256,0.059,2.281,0.008c4.717-9.653,10.229-19.797,15.206-29.56 L63.588,80.64c0.005,0.004,2.082,0.016,2.093,0.007c7.962-18.196,19.892-46.118,23.794-54.933c1.588-3.767,4.245-6.064,8.543-6.194 l0.032-1.956L98.023,17.465z"/></svg></a> <a href="/edit.html?id=dafny" class="material-symbols-outlined">edit</a></div>
+
+* Dafny is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2009 by K. Rustan M. Leino.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
+ link ../lists/creators.html#kRustanMLeino K. Rustan M. Leino
+
+codeWithHeader Source code:
+ git clone https://github.com/Microsoft/dafny
+
+dashboard
+ #275 <span title="TotalRank: 665 Jobs: 103 Users: 330 Facts: 232 Links: 987">on PLDB</span>
+ 14 Years Old
+ 157 <span title="Dafny repos on GitHub.">Repos</span>
+
+* Try now: <a href="https://riju.codes/dafny">Riju</a> · <a href="https://tio.run/#dafny">TIO</a>
+
+* Dafny is an imperative compiled language that targets C# and supports formal specification through preconditions, postconditions, loop invariants and loop variants.  The language combines ideas primarily from the Functional and Imperative paradigms, and includes limited support for Object-Oriented Programming.  Features include generic classes, dynamic allocation, inductive datatypes and a variation of separation logic known as implicit dynamic frames for reasoning about side effects. Read more on Wikipedia...
+ https://en.wikipedia.org/wiki/Dafny_(programming_language) Read more on Wikipedia...
+
+- Dafny website
+ https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/
+- Dafny Wikipedia page
+ https://en.wikipedia.org/wiki/Dafny_(programming_language)
+- Dafny is developed on <a href="https://github.com/Microsoft/dafny">GitHub</a> and has 1,714 stars
+- There are at least 157 Dafny repos on <a href="https://github.com/search?q=language:Dafny">GitHub</a>
+- Dafny first developed in <a href="../lists/originCommunities.html#microsoft">Microsoft</a>
+- file extensions for Dafny include dfy
+- Dafny is written in <a href="csharp.html">C#</a>
+- The  Google BigQuery Public Dataset GitHub snapshot shows 1 users using Dafny in 1 repos on <a href="https://api.github.com/search/repositories?q=language:Dafny">GitHub</a>
+- Explore Dafny snippets on <a href="http://www.rosettacode.org/wiki/Category:Dafny">Rosetta Code</a>
+- Dafny Ubuntu package
+ https://packages.ubuntu.com/jammy/dafny
+- Dafny appears in the <a href="https://github.com/mame/quine-relay">Quine Relay</a> project
+- See also: (5 related languages)<a href="csharp.html">C#</a>, <a href="spec-sharp.html">Spec Sharp</a>, <a href="spark.html">SPARK</a>, <a href="idris.html">Idris</a>, <a href="agda.html">Agda</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://riju.codes/dafny'>Riju</a>:
+ method Main() {
+   print &quot;Hello, world!\n&quot;;
+ }
+ 
+
+codeWithHeader Example from <a href='http://helloworldcollection.de/#Dafny'>the Hello World Collection</a>:
+ // Hello world in Dafny
+ 
+ method Main() {
+   print &quot;Hello, World!\n&quot;;
+ }
+
+codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Dafny_(programming_language)'>Wikipedia</a>:
+ datatype List = Nil | Link(data:int,next:List)
+ 
+ function sum(l:List): int {
+   match l
+     case Nil =&gt; 0
+     case Link(d,n) =&gt; d + sum(n)
+ }
+ 
+ predicate isNatList(l:List) {
+   match l
+     case Nil =&gt; true
+     case Link(d,n) =&gt; d &gt;= 0 &amp;&amp; isNatList(n)
+ }
+ 
+ ghost method NatSumLemma(l:List, n:int)
+ requires isNatList(l) &amp;&amp; n == sum(l)
+ ensures n &gt;= 0 
+ {
+   match l
+     case Nil =&gt;
+       // Discharged Automatically
+     case Link(data,next) =&gt; {
+       // Apply Inductive Hypothesis
+       NatSumLemma(next,sum(next));
+       // Check what known by Dafny
+       assert data &gt;= 0;
+     }
+ }
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token print
+  Example
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token //
+  Example
+   // A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav isabelle.html c--.html
+
+import ../footer.scroll

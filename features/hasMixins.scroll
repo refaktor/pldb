@@ -9,15 +9,15 @@ html
  <a class="trueBaseThemePreviousItem" href="hasMethods.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasModules.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/python.html">Python</a>, <a href="../rows/cython.html">Cython</a>:
+codeWithHeader Example from <a href="../concepts/python.html">Python</a>, <a href="../concepts/cython.html">Cython</a>:
  # https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556
  class EssentialFunctioner(LoggerMixin, object):
 
-codeWithHeader Example from <a href="../rows/ruby.html">Ruby</a>:
+codeWithHeader Example from <a href="../concepts/ruby.html">Ruby</a>:
  module A
     def a1
     end
@@ -41,13 +41,13 @@ codeWithHeader Example from <a href="../rows/ruby.html">Ruby</a>:
  samp.a2
  samp.b1
 
-codeWithHeader Example from <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/static-typescript.html">Static Typescript</a>:
+codeWithHeader Example from <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>:
  // https://www.typescriptlang.org/docs/handbook/mixins.html
  class SmartObject implements Disposable, Activatable {
  }
  // Note: still need to do some runtime ops to make that work.
 
-codeWithHeader Example from <a href="../rows/julia.html">Julia</a>:
+codeWithHeader Example from <a href="../concepts/julia.html">Julia</a>:
  # Including the same code in different modules provides mixin-like behavior.
  module Normal
  include(&quot;mycode.jl&quot;)
@@ -58,11 +58,11 @@ codeWithHeader Example from <a href="../rows/julia.html">Julia</a>:
  include(&quot;mycode.jl&quot;)
  end
 
-codeWithHeader Example from <a href="../rows/racket.html">Racket</a>:
+codeWithHeader Example from <a href="../concepts/racket.html">Racket</a>:
  (mixin (interface-expr ...) (interface-expr ...)
   class-clause ...)
 
-codeWithHeader Example from <a href="../rows/sass.html">Sass</a>:
+codeWithHeader Example from <a href="../concepts/sass.html">Sass</a>:
  @mixin reset-list
    margin: 0
    padding: 0
@@ -77,11 +77,11 @@ codeWithHeader Example from <a href="../rows/sass.html">Sass</a>:
  nav ul
    @include horizontal-list
 
-codeWithHeader Example from <a href="../rows/xtext.html">Xtext</a>:
+codeWithHeader Example from <a href="../concepts/xtext.html">Xtext</a>:
  grammar org.example.domainmodel.Domainmodel
         with org.eclipse.xtext.common.Terminals
 
-codeWithHeader Example from <a href="../rows/scss.html">SCSS</a>:
+codeWithHeader Example from <a href="../concepts/scss.html">SCSS</a>:
  @mixin reset-list {
    margin: 0;
    padding: 0;
@@ -102,9 +102,9 @@ codeWithHeader Example from <a href="../rows/scss.html">SCSS</a>:
    @include horizontal-list;
  }
 
-* Languages *with* Mixins include <a href="../rows/python.html">Python</a>, <a href="../rows/ruby.html">Ruby</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/julia.html">Julia</a>, <a href="../rows/racket.html">Racket</a>, <a href="../rows/sass.html">Sass</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/xtext.html">Xtext</a>, <a href="../rows/scss.html">SCSS</a>, <a href="../rows/static-typescript.html">Static Typescript</a>
+* Languages *with* Mixins include <a href="../concepts/python.html">Python</a>, <a href="../concepts/ruby.html">Ruby</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/julia.html">Julia</a>, <a href="../concepts/racket.html">Racket</a>, <a href="../concepts/sass.html">Sass</a>, <a href="../concepts/cython.html">Cython</a>, <a href="../concepts/xtext.html">Xtext</a>, <a href="../concepts/scss.html">SCSS</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>
 
-* Languages *without* Mixins include <a href="../rows/css.html">CSS</a>
+* Languages *without* Mixins include <a href="../concepts/css.html">CSS</a>
 
 * This question asks: Does the language allow including methods from a class without inheriting from that class?
 

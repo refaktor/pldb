@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Water
+
+title Water - Template language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="verse.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="xs-lang.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/water.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=water" class="material-symbols-outlined">edit</a></div>
+
+* Water is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+template">template language</a> created in 2002.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
+
+dashboard
+ #3125 <span title="TotalRank: 3879 Jobs: 103 Users: 2831 Facts: 2789 Links: 987">on PLDB</span>
+ 21 Years Old
+
+* Water is a new native Web service programming language with a ConciseXML syntax. Data, logic, and presentation have a uniform XML representation in Water. Read how Water simplifies the creation of new Web services and programs.
+
+- Read more about Water on the web: 1.
+ http://www.informit.com/articles/article.aspx?p=27567 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ &lt;set the_date=
+      &lt;HTML&gt; Today is &lt;datetime.today/&gt; &lt;/HTML&gt;
+ /&gt;
+
+endColumns
+
+keyboardNav verse.html xs-lang.html
+
+import ../footer.scroll

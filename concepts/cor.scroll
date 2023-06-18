@@ -1,0 +1,70 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title cor
+
+title cor - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="zenscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="project-mentat.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cor.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://yosbelms.github.io/cor/" class="material-symbols-outlined">home</a> <a href="https://github.com/yosbelms/cor" class="material-symbols-outlined">code</a> <a href="/edit.html?id=cor" class="material-symbols-outlined">edit</a></div>
+
+* cor is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2016 by Yosbel Marin.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
+ link ../lists/creators.html#yosbelMarin Yosbel Marin
+
+codeWithHeader Source code:
+ git clone https://github.com/yosbelms/cor
+
+dashboard
+ #1389 <span title="TotalRank: 1922 Jobs: 103 Users: 1739 Facts: 832 Links: 987">on PLDB</span>
+ 7 Years Old
+
+* Straightforward language for the Web.
+
+- cor website
+ http://yosbelms.github.io/cor/
+- cor is developed on <a href="https://github.com/yosbelms/cor">GitHub</a> and has 52 stars
+- cor first developed in <a href="../lists/originCommunities.html#httpsGithubComYosbelmsCor">https://github.com/yosbelms/cor</a>
+- cor compiles to <a href="javascript.html">JavaScript</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/c/Cor.cor'>hello-world</a>:
+ func main() console.log(&quot;Hello World&quot;)
+ 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token console.log
+  Example
+
+## HackerNews discussions of cor
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: Cor - the language of the web|https://news.ycombinator.com/item?id=10555178|11/12/2015|4|7
+
+keyboardNav zenscript.html project-mentat.html
+
+import ../footer.scroll

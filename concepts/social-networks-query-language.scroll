@@ -1,0 +1,33 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title SoQL
+
+title SoQL - Query language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="soaplang.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="spec.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/social-networks-query-language.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=social-networks-query-language" class="material-symbols-outlined">edit</a></div>
+
+* SoQL, aka Social Networks Query language, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 2009.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
+
+dashboard
+ #3446 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3866 Links: 987">on PLDB</span>
+ 14 Years Old
+
+* language for querying and creating data in social networks. The language is designed to meet the growing need of social networks participants to efficiently manage the large, and quickly growing, amounts of data available to them, as well as automate processes of creating new data.
+
+<br>
+
+endColumns
+
+keyboardNav soaplang.html spec.html
+
+import ../footer.scroll

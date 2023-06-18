@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title souper
+
+title souper - Optimizing compiler
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="newick-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="speakeasy.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/souper.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/google/souper" class="material-symbols-outlined">code</a> <a href="/edit.html?id=souper" class="material-symbols-outlined">edit</a></div>
+
+* souper is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+optimizingCompiler">optimizing compiler</a> created in 2014.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
+
+codeWithHeader Source code:
+ git clone https://github.com/google/souper
+
+dashboard
+ #865 <span title="TotalRank: 1430 Jobs: 103 Users: 340 Facts: 1876 Links: 987">on PLDB</span>
+ 9 Years Old
+
+* A superoptimizer for LLVM IR
+
+- souper is developed on <a href="https://github.com/google/souper">GitHub</a> and has 1,782 stars
+
+<br>
+
+endColumns
+
+keyboardNav newick-format.html speakeasy.html
+
+import ../footer.scroll

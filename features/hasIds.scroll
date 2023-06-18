@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasHomoiconicity.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasIfElses.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/graphql.html">GraphQL</a>:
+codeWithHeader Example from <a href="../concepts/graphql.html">GraphQL</a>:
  # The ID scalar type represents a unique identifier, often used to refetch an object or as the key for a cache. The ID type is serialized in the same way as a String; however, defining it as an ID signifies that it is not intended to be human‐readable.
  query {
    hero {
@@ -24,7 +24,7 @@ codeWithHeader Example from <a href="../rows/graphql.html">GraphQL</a>:
    }
  }
 
-* Languages *with* hasIds include <a href="../rows/graphql.html">GraphQL</a>
+* Languages *with* hasIds include <a href="../concepts/graphql.html">GraphQL</a>
 
 * This question asks: Does the language have a concept of unique identifiers?
 

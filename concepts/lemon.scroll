@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title lemon
+
+title lemon - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="vsxu.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hush.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lemon.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.lemon-lang.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/lemon-lang/lemon" class="material-symbols-outlined">code</a> <a href="/edit.html?id=lemon" class="material-symbols-outlined">edit</a></div>
+
+* lemon is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2017 by Zhicheng Wei.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+ link ../lists/creators.html#zhichengWei Zhicheng Wei
+
+codeWithHeader Source code:
+ git clone https://github.com/lemon-lang/lemon
+
+dashboard
+ #1252 <span title="TotalRank: 1790 Jobs: 103 Users: 700 Facts: 1497 Links: 987">on PLDB</span>
+ 6 Years Old
+
+* Lemon is open source, embeddable, lightweight programming language http://www.lemon-lang.org
+
+- lemon website
+ http://www.lemon-lang.org/
+- lemon is developed on <a href="https://github.com/lemon-lang/lemon">GitHub</a> and has 489 stars
+- lemon first developed in <a href="../lists/originCommunities.html#httpsGithubComLemonLang">https://github.com/lemon-lang</a>
+- <a href="http://www.lemon-lang.org/">lemon-lang.org</a> was registered in 2016
+
+<br>
+
+endColumns
+
+keyboardNav vsxu.html hush.html
+
+import ../footer.scroll

@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title PUFFT
+
+title PUFFT - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="popasm.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="quexal.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pufft.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=pufft" class="material-symbols-outlined">edit</a></div>
+
+* PUFFT is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1965.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1965 1965
+
+dashboard
+ #3107 <span title="TotalRank: 3879 Jobs: 103 Users: 2831 Facts: 2789 Links: 987">on PLDB</span>
+ 58 Years Old
+
+* 
+
+- PUFFT first developed in <a href="../lists/originCommunities.html#purdueUniversity">Purdue University</a>
+- PUFFT on HOPL
+ https://hopl.info/showlanguage.prx?exp=235
+- Read more about PUFFT on Semantic Scholar: 1. 2.
+ https://www.semanticscholar.org/paper/PUFFT%E2%80%94The-Purdue-University-fast-FORTRAN-translator-Rosen-Spurgeon/b7c693622af63766b2d73bc52a515b5e1cb11715 1.
+ https://semanticscholar.org/paper/55394e8e351470c632b859f54556777436ae8079 2.
+
+<br>
+
+endColumns
+
+keyboardNav popasm.html quexal.html
+
+import ../footer.scroll

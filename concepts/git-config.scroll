@@ -1,0 +1,44 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title git-config
+
+title git-config - Application
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="emfatic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="larp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/git-config.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://git-scm.com/docs/git-config#_syntax" class="material-symbols-outlined">home</a> <a href="/edit.html?id=git-config" class="material-symbols-outlined">edit</a></div>
+
+* git-config is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+application">application</a> created in 2005.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2005 2005
+
+dashboard
+ #2337 on PLDB
+ 18 Years Old
+
+* 
+
+- git-config website
+ https://git-scm.com/docs/git-config#_syntax
+- git-config first developed in <a href="../lists/originCommunities.html#softwareFreedomConservancy">Software Freedom Conservancy</a>
+- file extensions for git-config include gitconfig
+
+<br>
+
+codeWithHeader Example from the web:
+ # Core variables
+ [core]
+   ; Don&#39;t trust file modes
+   filemode = false
+
+endColumns
+
+keyboardNav emfatic.html larp.html
+
+import ../footer.scroll

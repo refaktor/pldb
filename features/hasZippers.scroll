@@ -9,14 +9,14 @@ html
  <a class="trueBaseThemePreviousItem" href="hasZeroBasedNumbering.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="isCaseSensitive.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/haskell.html">Haskell</a>:
+codeWithHeader Example from <a href="../concepts/haskell.html">Haskell</a>:
  -- https://wiki.haskell.org/Zipper_monad/TravelTree
 
-* Languages *with* Zippers include <a href="../rows/haskell.html">Haskell</a>
+* Languages *with* Zippers include <a href="../concepts/haskell.html">Haskell</a>
 
 * This question asks: Does the language have zippers built in or as a library, which are roughly a pointer with context on a tree?
 

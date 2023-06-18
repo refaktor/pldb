@@ -1,0 +1,45 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title slim
+
+title slim - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="pop-pl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="srv.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/slim.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://slim-lang.com" class="material-symbols-outlined">home</a> <a href="https://www.slimframework.com/docs/v4/" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=slim" class="material-symbols-outlined">edit</a></div>
+
+* slim is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2010.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2010 2010
+
+dashboard
+ #2435 <span title="TotalRank: 2966 Jobs: 103 Users: 2435 Facts: 1876 Links: 987">on PLDB</span>
+ 13 Years Old
+
+* 
+
+- slim website
+ http://slim-lang.com
+- slim docs
+ https://www.slimframework.com/docs/v4/
+- <a href="http://slim-lang.com">slim-lang.com</a> was registered in 2010
+
+<br>
+
+endColumns
+
+## HackerNews discussions of slim
+
+pipeTable
+ title|titleLink|date|score|comments
+ Slim - A Fast, Lightweight Template Engine for Ruby|https://news.ycombinator.com/item?id=2821133|07/29/2011|5|7
+
+keyboardNav pop-pl.html srv.html
+
+import ../footer.scroll

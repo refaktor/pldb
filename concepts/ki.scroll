@@ -1,0 +1,44 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title ki
+
+title ki - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="kayia.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="libsvm-format.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ki.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://ki-lang.org" class="material-symbols-outlined">home</a> <a href="/edit.html?id=ki" class="material-symbols-outlined">edit</a></div>
+
+* ki is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2014.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
+
+dashboard
+ #2925 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 2614 Links: 987">on PLDB</span>
+ 9 Years Old
+
+* 
+
+- ki website
+ http://ki-lang.org
+- ki first developed in <a href="../lists/originCommunities.html#httpsGithubComLantigaKiIssues">https://github.com/lantiga/ki/issues</a>
+- <a href="http://ki-lang.org">ki-lang.org</a> was registered in 2014
+
+<br>
+
+endColumns
+
+## HackerNews discussions of ki
+
+pipeTable
+ title|titleLink|date|score|comments
+ Ki – A lisp for your JavaScript|https://news.ycombinator.com/item?id=7897724|06/16/2014|119|40
+
+keyboardNav kayia.html libsvm-format.html
+
+import ../footer.scroll

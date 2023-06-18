@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasIntegers.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasIterators.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/java.html">Java</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>:
+codeWithHeader Example from <a href="../concepts/java.html">Java</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>:
  interface MyInterface{  
     /* This is a default method so we need not
      * to implement this method in the implementation 
@@ -44,7 +44,7 @@ codeWithHeader Example from <a href="../rows/java.html">Java</a>, <a href="../ro
      }  
  }
 
-codeWithHeader Example from <a href="../rows/swift.html">Swift</a>:
+codeWithHeader Example from <a href="../concepts/swift.html">Swift</a>:
  protocol MyProtocol {
  init(parameter: Int)
  var myVariable: Int { get set }
@@ -58,7 +58,7 @@ codeWithHeader Example from <a href="../rows/swift.html">Swift</a>:
    }
  }
 
-codeWithHeader Example from <a href="../rows/kotlin.html">Kotlin</a>:
+codeWithHeader Example from <a href="../concepts/kotlin.html">Kotlin</a>:
  interface Named {
     val name: String
  }
@@ -69,19 +69,19 @@ codeWithHeader Example from <a href="../rows/kotlin.html">Kotlin</a>:
      override val name: String get() = &quot;$firstName $lastName&quot;
  }
 
-codeWithHeader Example from <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/static-typescript.html">Static Typescript</a>:
+codeWithHeader Example from <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>:
  // https://www.typescriptlang.org/docs/handbook/interfaces.html
  interface SquareConfig {
     color?: string;
     width?: number;
  }
 
-codeWithHeader Example from <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/cooc.html">cooC</a>:
+codeWithHeader Example from <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/cooc.html">cooC</a>:
  @protocol Printing
     -(void) print;
  @end
 
-codeWithHeader Example from <a href="../rows/graphql.html">GraphQL</a>:
+codeWithHeader Example from <a href="../concepts/graphql.html">GraphQL</a>:
  interface Character {
   id: ID!
   name: String!
@@ -104,9 +104,9 @@ codeWithHeader Example from <a href="../rows/graphql.html">GraphQL</a>:
    primaryFunction: String
  }
 
-* Languages *with* Interfaces include <a href="../rows/java.html">Java</a>, <a href="../rows/swift.html">Swift</a>, <a href="../rows/kotlin.html">Kotlin</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/graphql.html">GraphQL</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/cooc.html">cooC</a>, <a href="../rows/static-typescript.html">Static Typescript</a>
+* Languages *with* Interfaces include <a href="../concepts/java.html">Java</a>, <a href="../concepts/swift.html">Swift</a>, <a href="../concepts/kotlin.html">Kotlin</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/graphql.html">GraphQL</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/cooc.html">cooC</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>
 
-* Languages *without* Interfaces include <a href="../rows/progsbase.html">progsbase</a>
+* Languages *without* Interfaces include <a href="../concepts/progsbase.html">progsbase</a>
 
 * This question asks: Does this language have a concept of interfaces?
 

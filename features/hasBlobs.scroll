@@ -9,18 +9,18 @@ html
  <a class="trueBaseThemePreviousItem" href="hasBitWiseOperators.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasBooleans.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/ion.html">Ion</a>:
+codeWithHeader Example from <a href="../concepts/ion.html">Ion</a>:
  // In the text format, blob values are denoted as RFC 4648-compliant Base64 text within two pairs of curly braces.
  // A valid blob value with one required padding character.
  {{ VG8gaW5maW5pdHkuLi4gYW5kIGJleW9uZCE= }}
 
-* Languages *with* hasBlobs include <a href="../rows/ion.html">Ion</a>
+* Languages *with* hasBlobs include <a href="../concepts/ion.html">Ion</a>
 
-* Languages *without* hasBlobs include <a href="../rows/c2.html">C2</a>
+* Languages *without* hasBlobs include <a href="../concepts/c2.html">C2</a>
 
 * This question asks: Does the language have a blobs concept?
 

@@ -1,0 +1,49 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Functional PHP Preprocessor
+
+title Functional PHP Preprocessor - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="optimized-systems-software.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="chained-arrow-notation.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fpp.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/prolic/fpp" class="material-symbols-outlined">home</a> <a href="https://github.com/prolic/fpp" class="material-symbols-outlined">code</a> <a href="/edit.html?id=fpp" class="material-symbols-outlined">edit</a></div>
+
+* Functional PHP Preprocessor is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018 by Sascha-Oliver Prolic.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#saschaOliverProlic Sascha-Oliver Prolic
+
+codeWithHeader Source code:
+ git clone https://github.com/prolic/fpp
+
+dashboard
+ #1463 <span title="TotalRank: 1986 Jobs: 103 Users: 896 Facts: 1497 Links: 987">on PLDB</span>
+ 5 Years Old
+
+* Functional PHP Preprocessor - Generate Immutable Data Types
+
+- Functional PHP Preprocessor website
+ https://github.com/prolic/fpp
+- Functional PHP Preprocessor is developed on <a href="https://github.com/prolic/fpp">GitHub</a> and has 283 stars
+- Functional PHP Preprocessor first developed in <a href="../lists/originCommunities.html#httpsWwwSasaprolicCom">https://www.sasaprolic.com/</a>
+- file extensions for Functional PHP Preprocessor include fpp
+- Functional PHP Preprocessor is written in <a href="php.html">PHP</a>
+
+<br>
+
+<div class="keywordsBlock">
+codeWithHeader Functional PHP Preprocessor <a href="../lists/keywords.html?filter=fpp">Keywords</a>
+ namespace use data bool string float int enum uuid guid event command
+</div>
+
+endColumns
+
+keyboardNav optimized-systems-software.html chained-arrow-notation.html
+
+import ../footer.scroll

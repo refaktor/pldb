@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title mirth
+
+title mirth - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="tmlanguage.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="austral.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mirth.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/mirth-lang/mirth" class="material-symbols-outlined">code</a> <a href="/edit.html?id=mirth" class="material-symbols-outlined">edit</a></div>
+
+* mirth is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+codeWithHeader Source code:
+ git clone https://github.com/mirth-lang/mirth
+
+dashboard
+ #1373 <span title="TotalRank: 1902 Jobs: 103 Users: 812 Facts: 1876 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* Compiler for the Mirth programming language.
+
+- mirth is developed on <a href="https://github.com/mirth-lang/mirth">GitHub</a> and has 405 stars
+- mirth first developed in <a href="../lists/originCommunities.html#httpsGithubComMirthLang">https://github.com/mirth-lang</a>
+
+<br>
+
+endColumns
+
+keyboardNav tmlanguage.html austral.html
+
+import ../footer.scroll

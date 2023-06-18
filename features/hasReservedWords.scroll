@@ -9,13 +9,13 @@ html
  <a class="trueBaseThemePreviousItem" href="hasRequiredMainFunction.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasRunTimeGuards.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-* Languages *with* hasReservedWords include <a href="../rows/c3.html">C3</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* hasReservedWords include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/jule.html">Jule</a>
 
-* Languages *without* hasReservedWords include <a href="../rows/fortran.html">Fortran</a>, <a href="../rows/speedie.html">Speedie</a>
+* Languages *without* hasReservedWords include <a href="../concepts/fortran.html">Fortran</a>, <a href="../concepts/speedie.html">Speedie</a>
 
 * This question asks: Does a concept of reserved words exists, for example, not being able to use certain keywords as variable names.?
 

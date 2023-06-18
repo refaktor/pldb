@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title DINO
+
+title DINO - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="descartes.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="dlp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dino.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=dino" class="material-symbols-outlined">edit</a></div>
+
+* DINO is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1990.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1990 1990
+
+dashboard
+ #3000 <span title="TotalRank: 3624 Jobs: 103 Users: 2831 Facts: 2534 Links: 987">on PLDB</span>
+ 33 Years Old
+
+* 
+
+- DINO first developed in <a href="../lists/originCommunities.html#universityOfColorado">University of Colorado</a>
+- DINO on HOPL
+ https://hopl.info/showlanguage.prx?exp=1162
+- Read more about DINO on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/b531d1cac6ef5d6f778524425c60378980eeef2b 1.
+
+<br>
+
+endColumns
+
+keyboardNav descartes.html dlp.html
+
+import ../footer.scroll

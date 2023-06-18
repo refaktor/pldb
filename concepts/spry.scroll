@@ -1,0 +1,100 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title spry
+
+title spry - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="srl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="newick-format.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spry.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://sprylang.se/" class="material-symbols-outlined">home</a> <a href="https://github.com/gokr/spry" class="material-symbols-outlined">code</a> <a href="/edit.html?id=spry" class="material-symbols-outlined">edit</a></div>
+
+* spry is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015 by Göran Krampe.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+ link ../lists/creators.html#goranKrampe Göran Krampe
+
+codeWithHeader Source code:
+ git clone https://github.com/gokr/spry
+
+dashboard
+ #863 <span title="TotalRank: 1429 Jobs: 103 Users: 797 Facts: 529 Links: 987">on PLDB</span>
+ 8 Years Old
+
+* Spry borrows homoiconicity from Rebol and Lisp, free form syntax from Forth and Rebol, the word of different types from Rebol, good data structure literal support from JavaScript and the general coding experience and style from Smalltalk. It also has a few ideas of its own, like an interesting argument passing mechanism and a relatively novel take on OO.
+
+- spry website
+ http://sprylang.se/
+- spry is developed on <a href="https://github.com/gokr/spry">GitHub</a> and has 378 stars
+
+<br>
+
+codeWithHeader Example from the web:
+ # Let&#39;s add a method to:do: that works as in Smalltalk.
+ # Methods take the first argument, the &quot;receiver&quot;, from the left
+ # and binds it to &quot;self&quot;.
+ to:do: = method [:to :block
+   n = self
+   [n &lt;= to] whileTrue: [
+     do block n
+     ..n = (n + 1)]]
+ 
+ # Then we can loop in Smalltalk style echoing 1 to 5!
+ 1 to: 5 do: [echo :x]
+ 
+ # We can similarly implement select: from Smalltalk
+ select: = method [:pred
+   result = ([] clone)
+   self reset
+   [self end?] whileFalse: [
+     n = (self next)
+     do pred n then: [result add: n]]
+   ^result]
+ 
+ # Then use it to produce [3 4]
+ echo ([1 2 3 4] select: [:x &gt; 2])
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/n/Ni.nic'>hello-world</a>:
+ #48!#65!#6c!#6c!#6f!#20!#57!#6f!#72!#6c!#64!
+ 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Booleans
+  FeatureLink ../features/hasBooleans.html
+  Supported <span class="hasFeature">✓</span>
+  Token True False
+  Example
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token #
+  Example
+   # A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav srl.html newick-format.html
+
+import ../footer.scroll

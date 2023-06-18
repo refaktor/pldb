@@ -9,21 +9,21 @@ html
  <a class="trueBaseThemePreviousItem" href="hasVirtualFunctions.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasWhileLoops.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  || x = 123
  function abc
   x = 10
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  fn a_void_function() {
      // ...
  }
 
-* Languages *with* hasVoidFunctions include <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* hasVoidFunctions include <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language have void functions that return nothing?
 

@@ -1,0 +1,64 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title gravity
+
+title gravity - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="bbcode.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tiny-basic.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gravity.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://gravity-lang.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/marcobambini/gravity" class="material-symbols-outlined">code</a> <a href="/edit.html?id=gravity" class="material-symbols-outlined">edit</a></div>
+
+* gravity is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2017.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+
+codeWithHeader Source code:
+ git clone https://github.com/marcobambini/gravity
+
+dashboard
+ #459 <span title="TotalRank: 978 Jobs: 103 Users: 216 Facts: 659 Links: 987">on PLDB</span>
+ 6 Years Old
+
+* Gravity Programming Language
+
+- gravity website
+ http://gravity-lang.org/
+- gravity is developed on <a href="https://github.com/marcobambini/gravity">GitHub</a> and has 4,033 stars
+- gravity first developed in <a href="../lists/originCommunities.html#httpsGithubComMarcobambiniGravityIssues">https://github.com/marcobambini/gravity/issues</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/g/Gravity.gravity'>hello-world</a>:
+ func main() {
+   System.print(&quot;Hello World&quot;);
+ }
+ 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token System.print
+  Example
+
+keyboardNav bbcode.html tiny-basic.html
+
+import ../footer.scroll

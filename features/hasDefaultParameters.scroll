@@ -9,30 +9,30 @@ html
  <a class="trueBaseThemePreviousItem" href="hasDecimals.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasDependentTypes.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  function multiply(a, b = 1) {
   return a * b;
  }
 
-codeWithHeader Example from <a href="../rows/csharp.html">C#</a>:
+codeWithHeader Example from <a href="../concepts/csharp.html">C#</a>:
  public void ExampleMethod(string optionalstr = &quot;default string&quot;) {}
 
-codeWithHeader Example from <a href="../rows/elixir.html">Elixir</a>:
+codeWithHeader Example from <a href="../concepts/elixir.html">Elixir</a>:
  def multiply(a, b \\ 1) do
    a * b
  end
 
-codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+codeWithHeader Example from <a href="../concepts/c3.html">C3</a>:
  fn void test(int x = 10) { ... }  
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  function Find (|string| pattern, |int| pos=0, |int|)
 
-* Languages *with* Default Parameters Pattern include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/csharp.html">C#</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/elixir.html">Elixir</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>
+* Languages *with* Default Parameters Pattern include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/csharp.html">C#</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/elixir.html">Elixir</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>
 
 * This question asks: Does the language have a way to define default parameters for functions?
 

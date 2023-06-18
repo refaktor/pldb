@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title WCL
+
+title WCL - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="vulcan.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="webl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/wcl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=wcl" class="material-symbols-outlined">edit</a></div>
+
+* WCL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1991.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1991 1991
+
+dashboard
+ #3298 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 4071 Links: 987">on PLDB</span>
+ 32 Years Old
+
+* 
+
+- WCL on HOPL
+ https://hopl.info/showlanguage.prx?exp=7127
+- Read more about WCL on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/d0532045dfb27d18a33f80b31d32d0a22696cbbf 1.
+
+<br>
+
+endColumns
+
+keyboardNav vulcan.html webl.html
+
+import ../footer.scroll

@@ -9,16 +9,16 @@ html
  <a class="trueBaseThemePreviousItem" href="hasUserDefinedOperators.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasVariableSubstitutionSyntax.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  fn get_pi(): f64 {
      ret 3.14159265359
  }
 
-* Languages *with* hasValueReturnedFunctions include <a href="../rows/jule.html">Jule</a>
+* Languages *with* hasValueReturnedFunctions include <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Can functions return a value?
 

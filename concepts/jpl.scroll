@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title JPL
+
+title JPL - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="joycep.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jr.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jpl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=jpl" class="material-symbols-outlined">edit</a></div>
+
+* JPL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1991.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1991 1991
+
+dashboard
+ #4189 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 2912 Links: 987">on PLDB</span>
+ 32 Years Old
+
+* 
+
+- JPL first developed in <a href="../lists/originCommunities.html#prolificsInc">Prolifics, Inc</a>
+- JPL on HOPL
+ https://hopl.info/showlanguage.prx?exp=2138
+- Read more about JPL on the web: 1.
+ http://docs.prolifics.com/panther/html/dev_html/progjpl.htm 1.
+
+<br>
+
+endColumns
+
+keyboardNav joycep.html jr.html
+
+import ../footer.scroll

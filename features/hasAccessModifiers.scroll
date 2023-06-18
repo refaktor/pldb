@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasAbstractTypes.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasAlgebraicTypes.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/static-typescript.html">Static Typescript</a>:
+codeWithHeader Example from <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>:
  class Person {
    private _age = 2
    public get age() {
@@ -22,7 +22,7 @@ codeWithHeader Example from <a href="../rows/typescript.html">TypeScript</a>, <a
    protected year = 1990
  }
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  class Person
   |int| age
   setter age
@@ -33,12 +33,12 @@ codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
   p.age = -1     // calls a function rather than the property
   || n = p.age   // reads the property directly!
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  pub
 
-* Languages *with* Access Modifiers include <a href="../rows/java.html">Java</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/php.html">PHP</a>, <a href="../rows/csharp.html">C#</a>, <a href="../rows/swift.html">Swift</a>, <a href="../rows/kotlin.html">Kotlin</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/solidity.html">Solidity</a>, <a href="../rows/f-sharp.html">F#</a>, <a href="../rows/abap.html">ABAP</a>, <a href="../rows/protobuf.html">Protocol Buffers</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/koka.html">Koka</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/apex.html">Apex</a>, <a href="../rows/c2.html">C2</a>, <a href="../rows/sophia.html">Sophia</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>, <a href="../rows/static-typescript.html">Static Typescript</a>
+* Languages *with* Access Modifiers include <a href="../concepts/java.html">Java</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/php.html">PHP</a>, <a href="../concepts/csharp.html">C#</a>, <a href="../concepts/swift.html">Swift</a>, <a href="../concepts/kotlin.html">Kotlin</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/solidity.html">Solidity</a>, <a href="../concepts/f-sharp.html">F#</a>, <a href="../concepts/abap.html">ABAP</a>, <a href="../concepts/protobuf.html">Protocol Buffers</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/koka.html">Koka</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/apex.html">Apex</a>, <a href="../concepts/c2.html">C2</a>, <a href="../concepts/sophia.html">Sophia</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>
 
-* Languages *without* Access Modifiers include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/c.html">C</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/progsbase.html">progsbase</a>, <a href="../rows/tick-c.html">Tick C</a>
+* Languages *without* Access Modifiers include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/c.html">C</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/progsbase.html">progsbase</a>, <a href="../concepts/tick-c.html">Tick C</a>
 
 * This question asks: Does this language have access modifiers?
 

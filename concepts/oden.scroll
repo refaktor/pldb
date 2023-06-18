@@ -1,0 +1,50 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title oden
+
+title oden - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="sixten.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="rason.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/oden.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://oden-lang.github.io" class="material-symbols-outlined">home</a> <a href="https://github.com/oden-lang/oden" class="material-symbols-outlined">code</a> <a href="/edit.html?id=oden" class="material-symbols-outlined">edit</a></div>
+
+* oden is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2016 by Oskar Wickström.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
+ link ../lists/creators.html#oskarWickstrom Oskar Wickström
+
+codeWithHeader Source code:
+ git clone https://github.com/oden-lang/oden
+
+dashboard
+ #1160 <span title="TotalRank: 1708 Jobs: 103 Users: 618 Facts: 1374 Links: 987">on PLDB</span>
+ 7 Years Old
+
+* The Oden Programming Language (NO LONGER IN ACTIVE DEVELOPMENT)
+
+- oden website
+ https://oden-lang.github.io
+- oden is developed on <a href="https://github.com/oden-lang/oden">GitHub</a> and has 729 stars
+- oden first developed in <a href="../lists/originCommunities.html#httpsGithubComOdenLang">https://github.com/oden-lang</a>
+- Read more about oden on the web: 1.
+ https://web.archive.org/web/20160603002614/https://oden-lang.org 1.
+
+<br>
+
+endColumns
+
+## HackerNews discussions of oden
+
+pipeTable
+ title|titleLink|date|score|comments
+ Oden: experimental, statically-typed functional language, built for Go ecosystem|https://news.ycombinator.com/item?id=11183836|02/26/2016|127|80
+
+keyboardNav sixten.html rason.html
+
+import ../footer.scroll

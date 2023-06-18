@@ -9,18 +9,18 @@ html
  <a class="trueBaseThemePreviousItem" href="hasAnonymousFunctions.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasAssertStatements.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+codeWithHeader Example from <a href="../concepts/c3.html">C3</a>:
  int[] slice1 = array[0..5]; // start..end
  int[] slice2 = array[0:6]; // start:length
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  sliceable_expression[start_index:to_index]
 
-* Languages *with* hasArraySlicingSyntax include <a href="../rows/c3.html">C3</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* hasArraySlicingSyntax include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language have array slicing syntax, such as [0:2]?
 

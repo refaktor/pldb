@@ -1,0 +1,44 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title nirvana
+
+title nirvana - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="proset.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="x-basic.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nirvana.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/shreyasminocha/nirvana" class="material-symbols-outlined">code</a> <a href="/edit.html?id=nirvana" class="material-symbols-outlined">edit</a></div>
+
+* nirvana is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+
+codeWithHeader Source code:
+ git clone https://github.com/shreyasminocha/nirvana
+
+dashboard
+ #2547 <span title="TotalRank: 3187 Jobs: 103 Users: 2097 Facts: 2304 Links: 987">on PLDB</span>
+ 5 Years Old
+
+* [stalled] A language that aims to be conducive to writing beautiful, effective, maintainable code
+
+- nirvana is developed on <a href="https://github.com/shreyasminocha/nirvana">GitHub</a> and has 25 stars
+
+<br>
+
+endColumns
+
+## HackerNews discussions of nirvana
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: Nirvana, a WIP programming language|https://news.ycombinator.com/item?id=18369802|11/03/2018|8|18
+
+keyboardNav proset.html x-basic.html
+
+import ../footer.scroll

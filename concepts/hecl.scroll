@@ -1,0 +1,88 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title hecl
+
+title hecl - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="golfscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="indental.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hecl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.hecl.org/" class="material-symbols-outlined">home</a> <a href="https://www.hecl.org/docs/" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=hecl" class="material-symbols-outlined">edit</a></div>
+
+* hecl is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2004 by David N. Welton and Wolfgang Kechel.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
+ link ../lists/creators.html#davidNWelton David N. Welton
+ link ../lists/creators.html#wolfgangKechel Wolfgang Kechel
+
+dashboard
+ #2489 <span title="TotalRank: 3058 Jobs: 103 Users: 2435 Facts: 1968 Links: 987">on PLDB</span>
+ 19 Years Old
+
+* The Hecl Programming Language is a high-level, open source mobile scripting language inspired by the minimalism and power of tcl written in Java.
+
+- hecl website
+ https://www.hecl.org/
+- hecl docs
+ https://www.hecl.org/docs/
+- hecl first developed in <a href="../lists/originCommunities.html#httpsGroupsGoogleComGHecl">https://groups.google.com/g/hecl</a>
+- See also: (2 related languages)<a href="tcl.html">Tcl</a>, <a href="java.html">Java</a>
+
+<br>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature While Loops
+  FeatureLink ../features/hasWhileLoops.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature hasForLoops
+  FeatureLink ../features/hasForLoops.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature hasForEachLoops
+  FeatureLink ../features/hasForEachLoops.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Lists
+  FeatureLink ../features/hasLists.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token puts
+  Example
+ row
+  Feature Assignment
+  FeatureLink ../features/hasAssignment.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav golfscript.html indental.html
+
+import ../footer.scroll

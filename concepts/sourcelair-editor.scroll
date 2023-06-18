@@ -1,0 +1,33 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title sourcelair-editor
+
+title sourcelair-editor - Editor
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="schrodingers-equation.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="soql-lang.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sourcelair-editor.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=sourcelair-editor" class="material-symbols-outlined">edit</a></div>
+
+* sourcelair-editor is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+editor">editor</a> created in 2011.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
+
+dashboard
+ #3883 on PLDB
+ 12 Years Old
+
+* 
+
+<br>
+
+endColumns
+
+keyboardNav schrodingers-equation.html soql-lang.html
+
+import ../footer.scroll

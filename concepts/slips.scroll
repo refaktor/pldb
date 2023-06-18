@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title SLIPS
+
+title SLIPS - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="sl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="slog.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/slips.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=slips" class="material-symbols-outlined">edit</a></div>
+
+* SLIPS is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1984.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1984 1984
+
+dashboard
+ #4312 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 2912 Links: 987">on PLDB</span>
+ 39 Years Old
+
+* 
+
+- SLIPS first developed in <a href="../lists/originCommunities.html#universityOfPennsylvaniaAndIndianInstituteOfScience">University of Pennsylvania and Indian Institute of Science</a>
+- SLIPS on HOPL
+ https://hopl.info/showlanguage.prx?exp=1271
+- Read more about SLIPS on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/c02b5654ebb137f3023a56ba7ed8a1f3c445e6da 1.
+
+<br>
+
+endColumns
+
+keyboardNav sl.html slog.html
+
+import ../footer.scroll

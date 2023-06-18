@@ -1,0 +1,70 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title kitten
+
+title kitten - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="colascript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="scss.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/kitten.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://kittenlang.org/" class="material-symbols-outlined">home</a> <a href="https://riju.codes/kitten" class="material-symbols-outlined">terminal</a> <a href="https://github.com/evincarofautumn/kitten" class="material-symbols-outlined">code</a> <a href="/edit.html?id=kitten" class="material-symbols-outlined">edit</a></div>
+
+* kitten is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2012 by Jon Purdy.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
+ link ../lists/creators.html#jonPurdy Jon Purdy
+
+codeWithHeader Source code:
+ git clone https://github.com/evincarofautumn/kitten
+
+dashboard
+ #769 <span title="TotalRank: 1338 Jobs: 103 Users: 516 Facts: 719 Links: 987">on PLDB</span>
+ 11 Years Old
+
+* Try now: <a href="https://riju.codes/kitten">Riju</a>
+
+* <a href='http://kittenlang.org'>Kitten</a> is a statically typed concatenative language with effect types.
+
+- kitten website
+ http://kittenlang.org/
+- kitten is developed on <a href="https://github.com/evincarofautumn/kitten">GitHub</a> and has 978 stars
+- kitten first developed in <a href="../lists/originCommunities.html#httpsGithubComEvincarofautumnKittenIssues">https://github.com/evincarofautumn/kitten/issues</a>
+- Explore kitten snippets on <a href="http://www.rosettacode.org/wiki/Category:Kitten">Rosetta Code</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://riju.codes/kitten'>Riju</a>:
+ &quot;Hello, world!&quot; say
+ 
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/k/Kitten.ktn'>hello-world</a>:
+ &quot;Hello World&quot; say
+ 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token say
+  Example
+
+keyboardNav colascript.html scss.html
+
+import ../footer.scroll

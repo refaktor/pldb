@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Basis Codec
+
+title Basis Codec - Binary data format
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="mathics.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sql-psm.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/basis-universal-format.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/binomialLLC/basis_universal" class="material-symbols-outlined">code</a> <a href="/edit.html?id=basis-universal-format" class="material-symbols-outlined">edit</a></div>
+
+* Basis Codec is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+binaryDataFormat">binary data format</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+codeWithHeader Source code:
+ git clone https://github.com/binomialLLC/basis_universal
+
+dashboard
+ #1068 on PLDB
+ 4 Years Old
+
+* Basis Universal GPU Texture and Texture Video Compression Reference Codec
+
+- Basis Codec is developed on <a href="https://github.com/binomialLLC/basis_universal">GitHub</a> and has 2,127 stars
+- Basis Codec first developed in <a href="../lists/originCommunities.html#binomialLlc">BinomialLLC</a>
+- file extensions for Basis Codec include basis
+
+<br>
+
+endColumns
+
+keyboardNav mathics.html sql-psm.html
+
+import ../footer.scroll

@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title DAG
+
+title DAG - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="d4.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="dap-algol.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dag.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=dag" class="material-symbols-outlined">edit</a></div>
+
+* DAG is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1989.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1989 1989
+
+dashboard
+ #3639 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3251 Links: 987">on PLDB</span>
+ 34 Years Old
+
+* 
+
+- DAG first developed in <a href="../lists/originCommunities.html#atTBellLaboratories">AT&T Bell Laboratories</a>
+- DAG on HOPL
+ https://hopl.info/showlanguage.prx?exp=5678
+- Read more about DAG on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/1eed4238c3034e9a093bd4d9efe934031a4c6ed1 1.
+
+<br>
+
+endColumns
+
+keyboardNav d4.html dap-algol.html
+
+import ../footer.scroll

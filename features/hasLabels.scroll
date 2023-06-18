@@ -9,15 +9,15 @@ html
  <a class="trueBaseThemePreviousItem" href="hasIterators.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasLazyEvaluation.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  main:
  console.log(&quot;pldb&quot;)
 
-codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+codeWithHeader Example from <a href="../concepts/c3.html">C3</a>:
  while FOO: (x &gt; 0)
  {
    for (int i = 0; i &lt; 10; i++
@@ -27,10 +27,10 @@ codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
    }
  }
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  a_label:
 
-* Languages *with* Labels include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* Labels include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language have a way to label locations within the source code?
 

@@ -9,14 +9,14 @@ html
  <a class="trueBaseThemePreviousItem" href="hasMessagePassing.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasMethodOverloading.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  &quot;hello world&quot;.toString().substr(0, 1).length
 
-* Languages *with* Method Chaining include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>
+* Languages *with* Method Chaining include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>
 
 * This question asks: Does the language support method chaining?
 

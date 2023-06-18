@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasGlobalScope.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasHereDocs.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/tick-c.html">Tick C</a>:
+codeWithHeader Example from <a href="../concepts/c.html">C</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/tick-c.html">Tick C</a>:
  // C/C++ program to check if a number is 
  // even or not using goto statement 
  #include &lt;iostream&gt; 
@@ -42,23 +42,23 @@ codeWithHeader Example from <a href="../rows/c.html">C</a>, <a href="../rows/cpp
      return 0; 
  }
 
-codeWithHeader Example from <a href="../rows/basic.html">BASIC</a>:
+codeWithHeader Example from <a href="../concepts/basic.html">BASIC</a>:
  10 REM This BASIC program shows the use of the PRINT and GOTO Statements.
  15 REM It fills the screen with the phrase &quot;HELLO&quot;
  20 PRINT &quot;HELLO&quot;
  30 GOTO 20
 
-codeWithHeader Example from <a href="../rows/batch.html">Batchfile</a>:
+codeWithHeader Example from <a href="../concepts/batch.html">Batchfile</a>:
  :: this would create an endless loop
  :myLabel
  goto myLabel
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  goto a_label
 
-* Languages *with* Gotos include <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/basic.html">BASIC</a>, <a href="../rows/batch.html">Batchfile</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/tick-c.html">Tick C</a>
+* Languages *with* Gotos include <a href="../concepts/c.html">C</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/basic.html">BASIC</a>, <a href="../concepts/batch.html">Batchfile</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/tick-c.html">Tick C</a>
 
-* Languages *without* Gotos include <a href="../rows/nim.html">Nim</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/progsbase.html">progsbase</a>, <a href="../rows/slope.html">Slope</a>
+* Languages *without* Gotos include <a href="../concepts/nim.html">Nim</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/progsbase.html">progsbase</a>, <a href="../concepts/slope.html">Slope</a>
 
 * This question asks: Does the language have a concept of and syntax for gotos?
 

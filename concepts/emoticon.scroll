@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title emoticon
+
+title emoticon - Esoteric programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="eden.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mmix.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/emoticon.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://repl.it/languages/emoticon" class="material-symbols-outlined">terminal</a> <a href="/edit.html?id=emoticon" class="material-symbols-outlined">edit</a></div>
+
+* emoticon is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+esolang">esoteric programming language</a> created in 2004.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
+
+dashboard
+ #2440 <span title="TotalRank: 2966 Jobs: 103 Users: 2831 Facts: 1876 Links: 987">on PLDB</span>
+ 19 Years Old
+
+* Try now: <a href="https://repl.it/languages/emoticon">Replit</a>
+
+* 
+
+- emoticon first developed in <a href="../lists/originCommunities.html#httpsWwwTeutonOrg">https://www.teuton.org</a>
+- emoticon on Esolang
+ https://esolangs.org/wiki/Emoticon
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/e/Emoticon.emoticon'>hello-world</a>:
+ Hello World :Q S::P :P
+ 
+
+endColumns
+
+keyboardNav eden.html mmix.html
+
+import ../footer.scroll

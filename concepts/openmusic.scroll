@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title OpenMusic
+
+title OpenMusic - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="oopal.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ops-3.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/openmusic.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=openmusic" class="material-symbols-outlined">edit</a></div>
+
+* OpenMusic is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+dashboard
+ #3918 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3251 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* 
+
+- OpenMusic first developed in <a href="../lists/originCommunities.html#institutNationalDeRechercheEnSciencesEtTechnologiesDuNumerique">Institut national de recherche en sciences et technologies du numérique</a>
+- OpenMusic on HOPL
+ https://hopl.info/showlanguage.prx?exp=6433
+- Read more about OpenMusic on the web: 1.
+ https://www.sciencedirect.com/science/article/pii/S1045926X14000330 1.
+
+<br>
+
+endColumns
+
+keyboardNav oopal.html ops-3.html
+
+import ../footer.scroll

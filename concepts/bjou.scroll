@@ -1,0 +1,44 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title bjou
+
+title bjou - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="arend.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="charly.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bjou.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://bjou-lang.org" class="material-symbols-outlined">home</a> <a href="/edit.html?id=bjou" class="material-symbols-outlined">edit</a></div>
+
+* bjou is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+dashboard
+ #2884 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 2698 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* 
+
+- bjou website
+ https://bjou-lang.org
+- bjou first developed in <a href="../lists/originCommunities.html#kammerdienerb">kammerdienerb</a>
+- <a href="https://bjou-lang.org">bjou-lang.org</a> was registered in 2019
+
+<br>
+
+endColumns
+
+## HackerNews discussions of bjou
+
+pipeTable
+ title|titleLink|date|score|comments
+ Self Hosting a Million-Lines-per-Second Parser|https://news.ycombinator.com/item?id=20411255|07/11/2019|2|0
+
+keyboardNav arend.html charly.html
+
+import ../footer.scroll

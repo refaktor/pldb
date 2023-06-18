@@ -1,0 +1,60 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Blacklight
+
+title Blacklight - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="nice.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bancstar-programming-language.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/blacklight.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://blog.anthonymcook.com/blacklight/" class="material-symbols-outlined">home</a> <a href="https://github.com/acook/blacklight" class="material-symbols-outlined">code</a> <a href="/edit.html?id=blacklight" class="material-symbols-outlined">edit</a></div>
+
+* Blacklight is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015 by Anthony M. Cook.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+ link ../lists/creators.html#anthonyMCook Anthony M. Cook
+
+codeWithHeader Source code:
+ git clone https://github.com/acook/blacklight
+
+dashboard
+ #1478 <span title="TotalRank: 2002 Jobs: 103 Users: 1794 Facts: 912 Links: 987">on PLDB</span>
+ 8 Years Old
+
+* blacklight is a general-pupose multithreading concatenative stack-based programming language with first-class queues and objects with delegation.
+
+- Blacklight website
+ http://blog.anthonymcook.com/blacklight/
+- Blacklight is developed on <a href="https://github.com/acook/blacklight">GitHub</a> and has 42 stars
+- Blacklight first developed in <a href="../lists/originCommunities.html#httpAnthonymcookCom">http://anthonymcook.com/</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ newq newq                ;; create send and receive queues
+ [
+   [
+     deq                  ;; will block if the queue is empty
+     n-to-cv rot swap enq ;; convert number into a cv (string) and send back
+     swap                 ;; reorder queues so we can loop without confusion
+   ] loop                 ;; using loop since it goes forever
+ ] work                   ;; start new thread and swap the queues
+ swap                     ;; bring send queue to top
+ 1 enq 2 enq 3 enq 4 enq  ;; send some numbers to be converted
+ 0
+ [ 1 add ]
+ [ 1000 eq ]
+ until drop               ;; give the main thread busywork
+ swap q-to-v              ;; get contents of receive Q as V
+ print                    ;; display contents of V
+
+endColumns
+
+keyboardNav nice.html bancstar-programming-language.html
+
+import ../footer.scroll

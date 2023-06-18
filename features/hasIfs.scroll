@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasIfElses.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasImplicitArguments.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-* Languages *with* hasIfs include <a href="../rows/c3.html">C3</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* hasIfs include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language have "if" statements or expressoins?
 

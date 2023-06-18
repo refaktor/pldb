@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasVariadicFunctions.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasVoidFunctions.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/cpp.html">C++</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>:
+codeWithHeader Example from <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>:
  class Animal {
   public:
    // Intentionally not virtual:
@@ -32,13 +32,13 @@ codeWithHeader Example from <a href="../rows/cpp.html">C++</a>, <a href="../rows
    }
  };
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  class abc
   virtual DoSomething (|string| name)
   behaviour DoSomething
    printline &quot;hello: $name&quot;
 
-* Languages *with* Virtual function include <a href="../rows/cpp.html">C++</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>
+* Languages *with* Virtual function include <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>
 
 * This question asks: Does the language have virtual functions?
 

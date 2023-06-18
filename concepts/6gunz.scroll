@@ -1,0 +1,48 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title 6gunz
+
+title 6gunz - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="post-canonical-system.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tiger-basic.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/6gunz.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://6gu.nz" class="material-symbols-outlined">home</a> <a href="/edit.html?id=6gunz" class="material-symbols-outlined">edit</a></div>
+
+* 6gunz is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018 by Matthew Steel.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#matthewSteel Matthew Steel
+
+dashboard
+ #2301 <span title="TotalRank: 2819 Jobs: 103 Users: 2435 Facts: 2049 Links: 667">on PLDB</span>
+ 5 Years Old
+
+* 
+
+- 6gunz website
+ http://6gu.nz
+- Video demo of 6gunz
+ https://www.youtube.com/watch?v=qGOIt0xh0dw
+- 6gunz first developed in <a href="../lists/originCommunities.html#https6GuNz">https://6gu.nz/</a>
+- Read more about 6gunz on the web: 1.
+ https://6gu.nz/language/ 1.
+
+<br>
+
+endColumns
+
+## HackerNews discussions of 6gunz
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: 6gunz – spreadsheet / programming language / microservices framework|https://news.ycombinator.com/item?id=17544330|07/16/2018|9|5
+
+keyboardNav post-canonical-system.html tiger-basic.html
+
+import ../footer.scroll

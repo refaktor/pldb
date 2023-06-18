@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Imandra Protocol Language
+
+title Imandra Protocol Language - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="hsaml-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="klisp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/imandra.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://docs.imandra.ai/ipl/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=imandra" class="material-symbols-outlined">edit</a></div>
+
+* Imandra Protocol Language is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2017.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+
+dashboard
+ #2760 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 3866 Links: 987">on PLDB</span>
+ 6 Years Old
+
+* 
+
+- Imandra Protocol Language website
+ https://docs.imandra.ai/ipl/
+- Imandra Protocol Language first developed in <a href="../lists/originCommunities.html#aestheticIntegrationLimited">Aesthetic Integration Limited</a>
+- Read more about Imandra Protocol Language on the web: 1.
+ https://marketplace.visualstudio.com/items?itemName=aestheticintegration.ipl-vscode 1.
+
+<br>
+
+endColumns
+
+keyboardNav hsaml-format.html klisp.html
+
+import ../footer.scroll

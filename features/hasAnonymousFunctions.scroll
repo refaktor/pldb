@@ -9,29 +9,29 @@ html
  <a class="trueBaseThemePreviousItem" href="hasAlgebraicTypes.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasArraySlicingSyntax.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  (() =&gt; console.log(&quot;hello world&quot;))()
 
-codeWithHeader Example from <a href="../rows/elixir.html">Elixir</a>:
+codeWithHeader Example from <a href="../concepts/elixir.html">Elixir</a>:
  fn -&gt; IO.puts(&quot;hello world&quot;) end
 
-codeWithHeader Example from <a href="../rows/coconut.html">Coconut</a>:
+codeWithHeader Example from <a href="../concepts/coconut.html">Coconut</a>:
  x -&gt; x ** 2
 
-codeWithHeader Example from <a href="../rows/hope.html">HOPE</a>:
+codeWithHeader Example from <a href="../concepts/hope.html">HOPE</a>:
  lambda(x,y) =&gt; x + y
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  let anonymous = fn() {
      outln(&quot;Anonymous Function&quot;)
  }
  anonymous()
 
-* Languages *with* Anonymous Functions include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/elixir.html">Elixir</a>, <a href="../rows/coconut.html">Coconut</a>, <a href="../rows/hope.html">HOPE</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* Anonymous Functions include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/elixir.html">Elixir</a>, <a href="../concepts/coconut.html">Coconut</a>, <a href="../concepts/hope.html">HOPE</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language support anonymous functions, aka Lambdas?
 

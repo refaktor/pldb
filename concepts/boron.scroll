@@ -1,0 +1,135 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Boron
+
+title Boron - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="ubercode.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pop-2.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/boron.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://urlan.sourceforge.net/boron/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=boron" class="material-symbols-outlined">edit</a></div>
+
+* Boron is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2009 by Karl Robillard.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
+ link ../lists/creators.html#karlRobillard Karl Robillard
+
+dashboard
+ #1294 <span title="TotalRank: 1824 Jobs: 103 Users: 2435 Facts: 734 Links: 987">on PLDB</span>
+ 14 Years Old
+
+* Boron is a scripting language similar to REBOL. The interpreter is a C library which may be copied under the terms of the LGPLv3.
+
+- Boron website
+ http://urlan.sourceforge.net/boron/
+- file extensions for Boron include b and sb
+
+<br>
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Threads
+  FeatureLink ../features/hasThreads.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token " { } {{ }}
+  Example
+   "Hello world"
+   {He said "That looks good!"}
+ row
+  Feature Multiline Strings
+  FeatureLink ../features/hasMultilineStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   {{
+     Line 1
+     Line 2
+   }}
+ row
+  Feature MultiLine Comments
+  FeatureLink ../features/hasMultiLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token /* */
+  Example
+   /* A comment
+   */
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token print probe
+  Example
+ row
+  Feature Lists
+  FeatureLink ../features/hasLists.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   my-list: [1 two 3.0 "four"]
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token ;
+  Example
+   ; A comment
+ row
+  Feature Homoiconicity
+  FeatureLink ../features/hasHomoiconicity.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Garbage Collection
+  FeatureLink ../features/hasGarbageCollection.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Exceptions
+  FeatureLink ../features/hasExceptions.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   catch [throw 22 print "You'll never see this."]
+   
+   if error? try [read %does_not_exist] [print "File not found"]
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Disk Output
+  FeatureLink ../features/canWriteToDisk.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   write %helloworld.txt "Hello, world!^/"
+ row
+  Feature Shebang
+  FeatureLink ../features/canDoShebang.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   #!/usr/bin/env boron
+
+keyboardNav ubercode.html pop-2.html
+
+import ../footer.scroll

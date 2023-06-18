@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title klong
+
+title klong - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="genshi-text.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="kogut.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/klong.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://t3x.org/klong/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=klong" class="material-symbols-outlined">edit</a></div>
+
+* klong is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+dashboard
+ #2812 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 2912 Links: 987">on PLDB</span>
+ 8 Years Old
+
+* A Simple Array Language. Klong is an array language, like K, but without the ambiguity. If you know K or APL, you may be disappointed by Klong. If you don't know any array languages, it might explode your brain. Use at your own risk!
+
+- klong website
+ http://t3x.org/klong/
+- klong first developed in <a href="../lists/originCommunities.html#httpsT3XOrgKlong">https://t3x.org/klong/</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ {&amp;/x!:\2+!_x^1%2}
+
+endColumns
+
+keyboardNav genshi-text.html kogut.html
+
+import ../footer.scroll

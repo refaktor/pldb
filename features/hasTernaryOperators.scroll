@@ -9,37 +9,37 @@ html
  <a class="trueBaseThemePreviousItem" href="hasTemplates.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasThreads.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  let i = true ? 1 : 0
 
-codeWithHeader Example from <a href="../rows/python.html">Python</a>, <a href="../rows/cython.html">Cython</a>:
+codeWithHeader Example from <a href="../concepts/python.html">Python</a>, <a href="../concepts/cython.html">Cython</a>:
  print(1 if 1 else 0)
 
-codeWithHeader Example from <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/tick-c.html">Tick C</a>:
+codeWithHeader Example from <a href="../concepts/c.html">C</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/tick-c.html">Tick C</a>:
  #include &lt;stdio.h&gt;
  int main(void) { printf(&quot;%d&quot;, 1 ? 1 : 0); }
 
-codeWithHeader Example from <a href="../rows/php.html">PHP</a>:
+codeWithHeader Example from <a href="../concepts/php.html">PHP</a>:
  &lt;?php echo 1 ? 1 : 0;
 
-codeWithHeader Example from <a href="../rows/kotlin.html">Kotlin</a>:
+codeWithHeader Example from <a href="../concepts/kotlin.html">Kotlin</a>:
  // Since if statements are expressions
  println(if (true) true else false)
 
-codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+codeWithHeader Example from <a href="../concepts/c3.html">C3</a>:
  int foo = x ? 1 : 0;
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  while
   printline (1,0)(random[]&gt;0.5)
 
-* Languages *with* Ternary operators include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/python.html">Python</a>, <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/php.html">PHP</a>, <a href="../rows/kotlin.html">Kotlin</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/tick-c.html">Tick C</a>
+* Languages *with* Ternary operators include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/python.html">Python</a>, <a href="../concepts/c.html">C</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/php.html">PHP</a>, <a href="../concepts/kotlin.html">Kotlin</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/cython.html">Cython</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/tick-c.html">Tick C</a>
 
-* Languages *without* Ternary operators include <a href="../rows/html.html">HTML</a>, <a href="../rows/xml.html">XML</a>, <a href="../rows/json.html">JSON</a>, <a href="../rows/css.html">CSS</a>, <a href="../rows/json5.html">JSON5</a>, <a href="../rows/ion.html">Ion</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/jsoniq.html">JSONiq</a>, <a href="../rows/json-with-comments.html">JSON with Comments</a>, <a href="../rows/superjson.html">Superjson</a>, <a href="../rows/scroll.html">Scroll</a>, <a href="../rows/jsonnet.html">Jsonnet</a>, <a href="../rows/hocon.html">Hocon</a>, <a href="../rows/explorer.html">Explorer</a>
+* Languages *without* Ternary operators include <a href="../concepts/html.html">HTML</a>, <a href="../concepts/xml.html">XML</a>, <a href="../concepts/json.html">JSON</a>, <a href="../concepts/css.html">CSS</a>, <a href="../concepts/json5.html">JSON5</a>, <a href="../concepts/ion.html">Ion</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/jsoniq.html">JSONiq</a>, <a href="../concepts/json-with-comments.html">JSON with Comments</a>, <a href="../concepts/superjson.html">Superjson</a>, <a href="../concepts/scroll.html">Scroll</a>, <a href="../concepts/jsonnet.html">Jsonnet</a>, <a href="../concepts/hocon.html">Hocon</a>, <a href="../concepts/explorer.html">Explorer</a>
 
 * This question asks: Does the language have ternary operators?
 

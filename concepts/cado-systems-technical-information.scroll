@@ -1,0 +1,37 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title cado-systems-technical-information
+
+title cado-systems-technical-information - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="cactus.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cages.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cado-systems-technical-information.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=cado-systems-technical-information" class="material-symbols-outlined">edit</a></div>
+
+* cado-systems-technical-information is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1973.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1973 1973
+
+dashboard
+ #3570 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3251 Links: 987">on PLDB</span>
+ 50 Years Old
+
+* 
+
+- cado-systems-technical-information first developed in <a href="../lists/originCommunities.html#cadoSystems">CADO Systems</a>
+- Read more about cado-systems-technical-information on the web: 1.
+ https://en.wikipedia.org/wiki/CADO_Systems 1.
+
+<br>
+
+endColumns
+
+keyboardNav cactus.html cages.html
+
+import ../footer.scroll

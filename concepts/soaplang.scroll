@@ -1,0 +1,36 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Symbolic Optimal Assembly Program
+
+title Symbolic Optimal Assembly Program - Assembly language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="snostorm.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="social-networks-query-language.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/soaplang.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=soaplang" class="material-symbols-outlined">edit</a></div>
+
+* Symbolic Optimal Assembly Program is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+assembly">assembly language</a> created in 1955.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1955 1955
+
+dashboard
+ #3445 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3866 Links: 987">on PLDB</span>
+ 68 Years Old
+
+* 
+
+- Read more about Symbolic Optimal Assembly Program on the web: 1.
+ http://www.columbia.edu/cu/computinghistory/650.html 1.
+
+<br>
+
+endColumns
+
+keyboardNav snostorm.html social-networks-query-language.html
+
+import ../footer.scroll

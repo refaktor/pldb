@@ -9,18 +9,18 @@ html
  <a class="trueBaseThemePreviousItem" href="hasGotos.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasHexadecimals.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/bash.html">Bash</a>:
+codeWithHeader Example from <a href="../concepts/bash.html">Bash</a>:
  cat &lt;&lt;Message
   Hello world
  Message
 
-* Languages *with* Here Document include <a href="../rows/php.html">PHP</a>, <a href="../rows/perl.html">Perl</a>, <a href="../rows/ruby.html">Ruby</a>, <a href="../rows/bash.html">Bash</a>, <a href="../rows/bourne-shell.html">Bourne shell</a>, <a href="../rows/korn-shell.html">Korn shell</a>, <a href="../rows/z-shell.html">Z shell</a>, <a href="../rows/c-shell.html">C shell</a>
+* Languages *with* Here Document include <a href="../concepts/php.html">PHP</a>, <a href="../concepts/perl.html">Perl</a>, <a href="../concepts/ruby.html">Ruby</a>, <a href="../concepts/bash.html">Bash</a>, <a href="../concepts/bourne-shell.html">Bourne shell</a>, <a href="../concepts/korn-shell.html">Korn shell</a>, <a href="../concepts/z-shell.html">Z shell</a>, <a href="../concepts/c-shell.html">C shell</a>
 
-* Languages *without* Here Document include <a href="../rows/c3.html">C3</a>
+* Languages *without* Here Document include <a href="../concepts/c3.html">C3</a>
 
 * This question asks: Does the language have a syntax for multiline text blocks?
 

@@ -9,22 +9,22 @@ html
  <a class="trueBaseThemePreviousItem" href="hasSingleDispatch.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasSourceMaps.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/static-typescript.html">Static Typescript</a>:
+codeWithHeader Example from <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>:
  const scores: int[]
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  |array of string| s
  s &lt;~ &quot;abc&quot; // ok
  s &lt;~ 1 // fail
 
-codeWithHeader Example from <a href="../rows/hope.html">HOPE</a>:
+codeWithHeader Example from <a href="../concepts/hope.html">HOPE</a>:
  [1,2,3]
 
-* Languages *with* Single-Type Arrays include <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/hope.html">HOPE</a>, <a href="../rows/static-typescript.html">Static Typescript</a>
+* Languages *with* Single-Type Arrays include <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/hope.html">HOPE</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>
 
 * This question asks: Does the language have a list data structure that only can hold items of the same type?
 

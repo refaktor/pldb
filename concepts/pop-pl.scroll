@@ -1,0 +1,51 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Patient-Oriented Prescription Programming Language
+
+title Patient-Oriented Prescription Programming Language - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="nhx.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="slim.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pop-pl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://users.cs.northwestern.edu/~sfq833/pop-pl/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=pop-pl" class="material-symbols-outlined">edit</a></div>
+
+* Patient-Oriented Prescription Programming Language is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+dashboard
+ #2434 <span title="TotalRank: 2966 Jobs: 103 Users: 2435 Facts: 1876 Links: 987">on PLDB</span>
+ 8 Years Old
+
+* 
+
+- Patient-Oriented Prescription Programming Language website
+ https://users.cs.northwestern.edu/~sfq833/pop-pl/
+- Patient-Oriented Prescription Programming Language first developed in <a href="../lists/originCommunities.html#northwesternUniversity">Northwestern University</a>
+- Read more about Patient-Oriented Prescription Programming Language on the web: 1.
+ https://users.cs.northwestern.edu/~sfq833/resources/papers/GPCE_POP-PL_2015.pdf 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ #lang pop-pl
+ 
+ used by JessieBrownVA
+ 
+ initially
+  giveBolus 80 units/kg of: HEParin by: iv
+ 
+ infusion:
+  whenever new aPTTResult
+   aPTT &lt; 45 | giveBolus 80 units/kg of: HEParin by: iv
+
+endColumns
+
+keyboardNav nhx.html slim.html
+
+import ../footer.scroll

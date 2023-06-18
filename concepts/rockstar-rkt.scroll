@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title rockstar-rkt
+
+title rockstar-rkt - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="passambler.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="workfl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rockstar-rkt.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/whichxjy/rockstar-rkt" class="material-symbols-outlined">code</a> <a href="/edit.html?id=rockstar-rkt" class="material-symbols-outlined">edit</a></div>
+
+* rockstar-rkt is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+codeWithHeader Source code:
+ git clone https://github.com/whichxjy/rockstar-rkt
+
+dashboard
+ #2263 <span title="TotalRank: 2752 Jobs: 103 Users: 2392 Facts: 1662 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* Implementation of Rockstar in Racket.
+
+- rockstar-rkt is developed on <a href="https://github.com/whichxjy/rockstar-rkt">GitHub</a> and has 3 stars
+- rockstar-rkt first developed in <a href="../lists/originCommunities.html#httpsGithubComWhichxjyRockstarRktIssues">https://github.com/whichxjy/rockstar-rkt/issues</a>
+- See also: (1 related languages)<a href="rockstar.html">Rockstar</a>
+
+<br>
+
+endColumns
+
+keyboardNav passambler.html workfl.html
+
+import ../footer.scroll

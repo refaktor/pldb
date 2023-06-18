@@ -1,0 +1,96 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Spatial
+
+title Spatial - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="pan.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mech-lang.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spatial.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://spatial-lang.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/stanford-ppl/spatial" class="material-symbols-outlined">code</a> <a href="/edit.html?id=spatial" class="material-symbols-outlined">edit</a></div>
+
+* Spatial, aka Specify Parameterized Accelerators Through Inordinately Abstract Language, is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018 by David Koeplinger.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#davidKoeplinger David Koeplinger
+
+codeWithHeader Source code:
+ git clone https://github.com/stanford-ppl/spatial
+
+dashboard
+ #876 <span title="TotalRank: 1444 Jobs: 103 Users: 943 Facts: 398 Links: 987">on PLDB</span>
+ 5 Years Old
+
+* Spatial: A High Level Programming Language for FPGAs
+
+- Spatial website
+ https://spatial-lang.org/
+- Spatial is developed on <a href="https://github.com/stanford-ppl/spatial">GitHub</a> and has 225 stars
+- <a href="https://spatial-lang.org/">spatial-lang.org</a> was registered in 2018
+
+<br>
+
+codeWithHeader Example from the web:
+ import spatial.dsl._
+ 
+ @spatial object HelloSpatial extends SpatialApp {
+   def main(args: Array[String]): Void = {
+     // Create ArgIn
+     val x = ArgIn[Int]
+     
+     // Set `x` to the value of the first command line argument
+     setArg(x, args(0).to[Int])
+     
+     Accel {
+       // Create 16x32 SRAM and a Register
+       val s = SRAM[Int](16,32)
+       val r = Reg[Int]
+       
+       // Loop over each element in SRAM
+       Foreach(16 by 1, 32 by 1){(i,j) =&gt; 
+         s(i,j) = i + j
+       }
+       // Store element into the register, based on the input arg
+       r := s(x,x)
+ 
+       // Print value of register (only shows in Scala simulation)
+       println(r&quot;Value of SRAM at (${x.value},${x.value}) is ${r.value}&quot;)
+     }
+ 
+   }
+ } 
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token //
+  Example
+   // A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav pan.html mech-lang.html
+
+import ../footer.scroll

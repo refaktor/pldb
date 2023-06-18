@@ -9,22 +9,22 @@ html
  <a class="trueBaseThemePreviousItem" href="hasForEachLoops.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasFunctionComposition.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  while i in 10
    &quot;hello: $i&quot;
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  // Jule has for loops with while-next iterations
  let mut i = 0
  for i &lt; 10; i++ {
      // ...
  }
 
-codeWithHeader Example from <a href="../rows/bog.html">bog</a>:
+codeWithHeader Example from <a href="../concepts/bog.html">bog</a>:
  let mut sum = 0
  for let c in &quot;hellö wörld&quot;
    match c
@@ -35,7 +35,7 @@ codeWithHeader Example from <a href="../rows/bog.html">bog</a>:
        &quot;w&quot; =&gt; sum += 5
        &quot;d&quot; =&gt; sum += 6
 
-* Languages *with* hasForLoops include <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/bog.html">bog</a>, <a href="../rows/hecl.html">hecl</a>
+* Languages *with* hasForLoops include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/bog.html">bog</a>, <a href="../concepts/hecl.html">hecl</a>
 
 * This question asks: Does the language have a concept of and syntax for for-loops?
 

@@ -1047,7 +1047,7 @@ get title() { return `Refinement Types` }
 
 class hasRegularExpressionsSyntaxSugarParser extends abstractFeatureParser {
       get pseudoExample() { return `/pldb/` }
-get reference() { return `https://pldb.com/rows/regex.html` }
+get reference() { return `https://pldb.com/concepts/regex.html` }
 get title() { return `Regular Expression Syntax Sugar` }
     }
 
@@ -3578,7 +3578,7 @@ hasRegularExpressionsSyntaxSugarParser
  extends abstractFeatureParser
  description Does the language have special syntax for regular expressions?
  string title Regular Expression Syntax Sugar
- string reference https://pldb.com/rows/regex.html
+ string reference https://pldb.com/concepts/regex.html
  string pseudoExample /pldb/
 hasRequiredMainFunctionParser
  description Does the language require a function named main (or similar)?

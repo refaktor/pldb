@@ -1,0 +1,45 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title l2
+
+title l2 - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="scratchpad.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jisp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/l2.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/murisi/L2" class="material-symbols-outlined">code</a> <a href="/edit.html?id=l2" class="material-symbols-outlined">edit</a></div>
+
+* l2 is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2017.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+
+codeWithHeader Source code:
+ git clone https://github.com/murisi/L2
+
+dashboard
+ #1855 <span title="TotalRank: 2362 Jobs: 103 Users: 1272 Facts: 1586 Links: 987">on PLDB</span>
+ 6 Years Old
+
+* A minimalist type-inferred programming language with procedural macro support
+
+- l2 is developed on <a href="https://github.com/murisi/L2">GitHub</a> and has 127 stars
+- l2 first developed in <a href="../lists/originCommunities.html#httpsGithubComMurisiL2Issues">https://github.com/murisi/L2/issues</a>
+
+<br>
+
+endColumns
+
+## HackerNews discussions of l2
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: L2: An experiment/programming language|https://news.ycombinator.com/item?id=14510073|06/07/2017|2|0
+
+keyboardNav scratchpad.html jisp.html
+
+import ../footer.scroll

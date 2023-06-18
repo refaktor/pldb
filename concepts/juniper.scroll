@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title juniper
+
+title juniper - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="sing-sharp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pnuts.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/juniper.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.juniper-lang.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/calebh/Juniper" class="material-symbols-outlined">code</a> <a href="/edit.html?id=juniper" class="material-symbols-outlined">edit</a></div>
+
+* juniper is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2016 by Caleb Helbling.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
+ link ../lists/creators.html#calebHelbling Caleb Helbling
+
+codeWithHeader Source code:
+ git clone https://github.com/calebh/Juniper
+
+dashboard
+ #1805 <span title="TotalRank: 2341 Jobs: 103 Users: 1691 Facts: 1251 Links: 987">on PLDB</span>
+ 7 Years Old
+
+* <a href='http://www.juniper-lang.org/'>Juniper</a> is a functional reactive programming language for the Arduino and other related platforms.
+
+- juniper website
+ http://www.juniper-lang.org/
+- juniper is developed on <a href="https://github.com/calebh/Juniper">GitHub</a> and has 49 stars
+- juniper first developed in <a href="../lists/originCommunities.html#httpsGithubComCalebhJuniperIssues">https://github.com/calebh/Juniper/issues</a>
+- <a href="http://www.juniper-lang.org/">juniper-lang.org</a> was registered in 2016
+
+<br>
+
+endColumns
+
+keyboardNav sing-sharp.html pnuts.html
+
+import ../footer.scroll

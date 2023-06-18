@@ -1,0 +1,44 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title erg
+
+title erg - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="raku.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="flix.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/erg.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://erg-lang.github.io/" class="material-symbols-outlined">home</a> <a href="https://github.com/erg-lang/erg" class="material-symbols-outlined">code</a> <a href="/edit.html?id=erg" class="material-symbols-outlined">edit</a></div>
+
+* erg is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2022 by Shunsuke Shibayama.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2022 2022
+ link ../lists/creators.html#shunsukeShibayama Shunsuke Shibayama
+
+codeWithHeader Source code:
+ git clone https://github.com/erg-lang/erg
+
+dashboard
+ #890 <span title="TotalRank: 1454 Jobs: 103 Users: 364 Facts: 1497 Links: 987">on PLDB</span>
+ 1 Years Old
+
+* erg: A Python-compatible statically typed language written in Rust
+
+- erg website
+ http://erg-lang.github.io/
+- erg is developed on <a href="https://github.com/erg-lang/erg">GitHub</a> and has 1,864 stars
+- erg first developed in <a href="../lists/originCommunities.html#httpsGithubComErgLang">https://github.com/erg-lang</a>
+- Read more about erg on the web: 1.
+ https://reddit.com/r/ProgrammingLanguages/comments/wo9u8j/erg_a_pythoncompatible_statically_typed_language/ 1.
+
+<br>
+
+endColumns
+
+keyboardNav raku.html flix.html
+
+import ../footer.scroll

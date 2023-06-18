@@ -1,0 +1,37 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title iqr
+
+title iqr - Bar code format
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="datalisp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lunar.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/iqr.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.qrcode.com/en/codes/iqr.html" class="material-symbols-outlined">home</a> <a href="/edit.html?id=iqr" class="material-symbols-outlined">edit</a></div>
+
+* iqr is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+barCodeFormat">bar code format</a> created in 1994.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1994 1994
+
+dashboard
+ #2743 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 4071 Links: 987">on PLDB</span>
+ 29 Years Old
+
+* 
+
+- iqr website
+ https://www.qrcode.com/en/codes/iqr.html
+- iqr first developed in <a href="../lists/originCommunities.html#densoWaveIncorporated">Denso Wave Incorporated</a>
+
+<br>
+
+endColumns
+
+keyboardNav datalisp.html lunar.html
+
+import ../footer.scroll

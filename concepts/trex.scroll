@@ -1,0 +1,52 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Trex
+
+title Trex - Grammar language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="quorum.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="usd.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/trex.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.thaiopensource.com/trex/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=trex" class="material-symbols-outlined">edit</a></div>
+
+* Trex, aka Tree Regular Expressions for XML, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+grammarLanguage">grammar language</a> created in 2001 by James Clark.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2001 2001
+ link ../lists/creators.html#jamesClark James Clark
+
+dashboard
+ #2269 <span title="TotalRank: 2752 Jobs: 103 Users: 2435 Facts: 1662 Links: 987">on PLDB</span>
+ 22 Years Old
+
+* TREX is a new language for validating XML documents. A TREX pattern specifies a pattern for the structure and content of an XML document. A TREX pattern thus identifies a class of XML documents consisting of those documents that match the pattern. A TREX pattern is itself an XML document.
+
+- Trex website
+ http://www.thaiopensource.com/trex/
+- See also: (1 related languages)<a href="dtd.html">DTD</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ &lt;element name=&quot;addressBook&quot;&gt;
+   &lt;zeroOrMore&gt;
+     &lt;element name=&quot;card&quot;&gt;
+       &lt;element name=&quot;name&quot;&gt;
+         &lt;anyString/&gt;
+       &lt;/element&gt;
+       &lt;element name=&quot;email&quot;&gt;
+         &lt;anyString/&gt;
+       &lt;/element&gt;
+     &lt;/element&gt;
+   &lt;/zeroOrMore&gt;
+ &lt;/element&gt;
+
+endColumns
+
+keyboardNav quorum.html usd.html
+
+import ../footer.scroll

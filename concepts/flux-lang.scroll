@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title flux-lang
+
+title flux-lang - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="dragoon.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fox.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/flux-lang.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.usenix.org/legacy/event/usenix06/tech/full_papers/burns/burns_html/flux-usenix-06.html" class="material-symbols-outlined">home</a> <a href="/edit.html?id=flux-lang" class="material-symbols-outlined">edit</a></div>
+
+* flux-lang is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2006.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
+
+dashboard
+ #2854 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 2789 Links: 987">on PLDB</span>
+ 17 Years Old
+
+* A Language for Programming High-Performance Servers
+
+- flux-lang website
+ https://www.usenix.org/legacy/event/usenix06/tech/full_papers/burns/burns_html/flux-usenix-06.html
+- flux-lang first developed in <a href="../lists/originCommunities.html#universityOfMassachusettsAmherst">University of Massachusetts Amherst</a>
+- Read more about flux-lang on the web: 1.
+ http://static.usenix.org/legacy/events/usenix06/tech/full_papers/burns/burns.pdf 1.
+
+<br>
+
+endColumns
+
+keyboardNav dragoon.html fox.html
+
+import ../footer.scroll

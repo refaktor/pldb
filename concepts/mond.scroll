@@ -1,0 +1,81 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Mond
+
+title Mond - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="revolution-programming-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="maya.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mond.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://web.archive.org/web/20160429013247/https://rohbot.net/mond/" class="material-symbols-outlined">home</a> <a href="https://github.com/Rohansi/Mond" class="material-symbols-outlined">code</a> <a href="/edit.html?id=mond" class="material-symbols-outlined">edit</a></div>
+
+* Mond is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2014 by Rohan Singh.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
+ link ../lists/creators.html#rohanSingh Rohan Singh
+
+codeWithHeader Source code:
+ git clone https://github.com/Rohansi/Mond
+
+dashboard
+ #1026 <span title="TotalRank: 1597 Jobs: 103 Users: 897 Facts: 597 Links: 987">on PLDB</span>
+ 9 Years Old
+
+* A scripting language for C# which can be embedded in Lua-like manner.
+
+- Mond website
+ https://web.archive.org/web/20160429013247/https://rohbot.net/mond/
+- Mond is developed on <a href="https://github.com/Rohansi/Mond">GitHub</a> and has 292 stars
+- Mond first developed in <a href="../lists/originCommunities.html#httpsGithubComRohansiMond">https://github.com/Rohansi/Mond</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ // documentation can be found here: https://github.com/Rohansi/Mond/wiki
+ seq range(start, end) {
+     for (var i = start; i &lt;= end; i++)
+         yield i;
+ }
+ 
+ seq where(list, filter) {
+     foreach (var x in list) {
+         if (filter(x))
+             yield x;
+     }
+ }
+ 
+ seq select(list, transform) {
+     foreach (var x in list)
+         yield transform(x);
+ }
+ 
+ fun toArray(list) {
+     var array = [];
+ 
+     foreach (var value in list) {
+         array.add(value);
+     }
+ 
+     return array;
+ }
+ 
+ return range(0, 1000)
+        |&gt; where(x -&gt; x % 2 == 0)
+        |&gt; select(x -&gt; x / 2)
+        |&gt; toArray();
+
+<div class="keywordsBlock">
+codeWithHeader Mond <a href="../lists/keywords.html?filter=mond">Keywords</a>
+ Infinity NaN break case const continue debugger default do else false for foreach fun global if in null return seq switch true undefined var while yield
+</div>
+
+endColumns
+
+keyboardNav revolution-programming-language.html maya.html
+
+import ../footer.scroll

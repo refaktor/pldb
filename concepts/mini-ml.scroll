@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Mini-ML
+
+title Mini-ML - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="mike.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="minion.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mini-ml.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=mini-ml" class="material-symbols-outlined">edit</a></div>
+
+* Mini-ML is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1986.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1986 1986
+
+dashboard
+ #3857 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3251 Links: 987">on PLDB</span>
+ 37 Years Old
+
+* 
+
+- Mini-ML first developed in <a href="../lists/originCommunities.html#skemaBusinessSchoolSophiaAntipolis">SKEMA Business School - Sophia Antipolis</a> and <a href="../lists/originCommunities.html#institutNationalDeRechercheEnSciencesEtTechnologiesDuNumeriqueSophiaAntipolis">Institut national de recherche en sciences et technologies du numérique, Sophia Antipolis</a>
+- Mini-ML on HOPL
+ https://hopl.info/showlanguage.prx?exp=1239
+- Read more about Mini-ML on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/398d7e9c1aced07a508a45bbf269cc349569a6dc 1.
+
+<br>
+
+endColumns
+
+keyboardNav mike.html minion.html
+
+import ../footer.scroll

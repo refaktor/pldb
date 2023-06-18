@@ -9,18 +9,18 @@ html
  <a class="trueBaseThemePreviousItem" href="hasExplicitTypeCasting.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasExpressions.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  export function myFunction() {
  }
 
-codeWithHeader Example from <a href="../rows/erlang.html">Erlang</a>:
+codeWithHeader Example from <a href="../concepts/erlang.html">Erlang</a>:
  -export([start/0, codeswitch/1]).
 
-* Languages *with* hasExports include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/erlang.html">Erlang</a>
+* Languages *with* hasExports include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/erlang.html">Erlang</a>
 
 * This question asks: Does the language have a syntax for explicitly exporting items from a module or file?
 

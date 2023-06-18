@@ -1,0 +1,50 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Zuo
+
+title Zuo - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="modula.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lsl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zuo.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://racket-lang.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/racket/racket/tree/master/racket/src/zuo" class="material-symbols-outlined">code</a> <a href="https://docs.racket-lang.org/zuo/index.html" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=zuo" class="material-symbols-outlined">edit</a></div>
+
+* Zuo, aka derived from the Chinese word for “make.”, is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2022 by Matthew Flatt.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2022 2022
+ link ../lists/creators.html#matthewFlatt Matthew Flatt
+
+codeWithHeader Source code:
+ git clone https://github.com/racket/racket/tree/master/racket/src/zuo
+
+dashboard
+ #678 <span title="TotalRank: 1252 Jobs: 103 Users: 162 Facts: 1374 Links: 987">on PLDB</span>
+ 1 Years Old
+
+* A Tiny Racket for Scripting
+
+- Zuo website
+ https://racket-lang.org/
+- Zuo is developed on <a href="https://github.com/racket/racket/tree/master/racket/src/zuo">GitHub</a> and has 4,391 stars
+- Zuo docs
+ https://docs.racket-lang.org/zuo/index.html
+- Zuo specs
+ https://docs.racket-lang.org/zuo/zuo-base.html
+- Zuo first developed in <a href="../lists/originCommunities.html#httpsGithubComRacket">https://github.com/racket</a>
+- Zuo is written in <a href="c.html">C</a>
+- Events page for Zuo
+ https://github.com/racket/racket/wiki/Meetups
+- See also: (1 related languages)<a href="racket.html">Racket</a>
+
+<br>
+
+endColumns
+
+keyboardNav modula.html lsl.html
+
+import ../footer.scroll

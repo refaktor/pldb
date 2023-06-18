@@ -18,8 +18,8 @@
  <form style="display:inline-block;" method="get" action="/fullTextSearch">
   <input type="search" id="trueBaseThemeHeaderSearch" name="q" placeholder="Search" autocomplete="off"></input>
 </form>
- <a href="../csv.html">Columns</a>
- <a href="../queries/all.html">Rows</a>
+ <a href="../csv.html">Questions</a>
+ <a href="../queries/all.html">Concepts</a>
 </div>
 <a class="trueBaseThemeGitHubTopRight" href="https://github.com/breck7/pldb"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12  5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422  18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305  3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0  1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12  3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0  .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
 
@@ -30,15 +30,15 @@
 <a class="trueBaseThemePreviousItem" href="hasInterfaces.html">&lt;</a>
 <a class="trueBaseThemeNextItem" href="hasLabels.html">&gt;</a>
 <div class="scrollColumns" style="column-width:35ch;column-count:4;max-width:200ch;">
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/java.html">Java</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>:</div><code class="scrollCodeBlock">Iterator iter = list.iterator();
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/java.html">Java</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>:</div><code class="scrollCodeBlock">Iterator iter = list.iterator();
 //Iterator&lt;MyType&gt; iter = list.iterator();    in J2SE 5.0
 while (iter.hasNext()) {
     System.out.print(iter.next());
     if (iter.hasNext())
         System.out.print(&quot;, &quot;);
 }</code></div>
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/python.html">Python</a>, <a href="../rows/cython.html">Cython</a>:</div><code class="scrollCodeBlock">https://www.w3schools.com/python/python_iterators.asp</code></div>
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/cpp.html">C++</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>:</div><code class="scrollCodeBlock">std::vector&lt;int&gt; items;
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/python.html">Python</a>, <a href="../concepts/cython.html">Cython</a>:</div><code class="scrollCodeBlock">https://www.w3schools.com/python/python_iterators.asp</code></div>
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>:</div><code class="scrollCodeBlock">std::vector&lt;int&gt; items;
 items.push_back(5);  // Append integer value &#39;5&#39; to vector &#39;items&#39;.
 items.push_back(2);  // Append integer value &#39;2&#39; to vector &#39;items&#39;.
 items.push_back(9);  // Append integer value &#39;9&#39; to vector &#39;items&#39;.
@@ -46,24 +46,24 @@ items.push_back(9);  // Append integer value &#39;9&#39; to vector &#39;items&#3
 for (auto it = items.begin(); it != items.end(); ++it) {  // Iterate through &#39;items&#39;.
   std::cout &lt;&lt; *it;  // And print value of &#39;items&#39; for current index.
 }</code></div>
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/ruby.html">Ruby</a>:</div><code class="scrollCodeBlock">(0...42).each do |n|
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/ruby.html">Ruby</a>:</div><code class="scrollCodeBlock">(0...42).each do |n|
   puts n
 end</code></div>
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/matlab.html">MATLAB</a>:</div><code class="scrollCodeBlock">% Define an array of integers
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/matlab.html">MATLAB</a>:</div><code class="scrollCodeBlock">% Define an array of integers
 myArray = [1,3,5,7,11,13];
 
 for n = myArray
    % ... do something with n
    disp(n)  % Echo integer to Command Window
 end</code></div>
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/rust.html">Rust</a>:</div><code class="scrollCodeBlock">for n in 0..42 {
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/rust.html">Rust</a>:</div><code class="scrollCodeBlock">for n in 0..42 {
   println!(&quot;{}&quot;, n);
 }</code></div>
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/speedie.html">Speedie</a>:</div><code class="scrollCodeBlock">|| items = [5,6,7,8]
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/speedie.html">Speedie</a>:</div><code class="scrollCodeBlock">|| items = [5,6,7,8]
 for i in items
  printline i</code></div>
-<p class="scrollParagraph">Languages <strong>with</strong> Iterators include <a href="../rows/java.html">Java</a>, <a href="../rows/python.html">Python</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/ruby.html">Ruby</a>, <a href="../rows/matlab.html">MATLAB</a>, <a href="../rows/rust.html">Rust</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a></p>
-<p class="scrollParagraph">Languages <strong>without</strong> Iterators include <a href="../rows/progsbase.html">progsbase</a></p>
+<p class="scrollParagraph">Languages <strong>with</strong> Iterators include <a href="../concepts/java.html">Java</a>, <a href="../concepts/python.html">Python</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/ruby.html">Ruby</a>, <a href="../concepts/matlab.html">MATLAB</a>, <a href="../concepts/rust.html">Rust</a>, <a href="../concepts/cython.html">Cython</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a></p>
+<p class="scrollParagraph">Languages <strong>without</strong> Iterators include <a href="../concepts/progsbase.html">progsbase</a></p>
 <p class="scrollParagraph">This question asks: Does this language have iterators?</p>
 <p class="scrollParagraph">Read more about Iterators on the web: <a href="https://en.wikipedia.org/wiki/Iterator">1.</a></p>
 <p class="scrollParagraph">HTML of this page generated by <a href="https://github.com/breck7/pldb/blob/main/code/Features.ts">Features.ts</a></p>
@@ -77,7 +77,7 @@ for i in items
     getLinks()[1].click()
  });</script></div>
 <p class="scrollViewSource doNotPrint">
- <a href="https://github.com/breck7/pldb/blob/main/columns/.grammar">View source</a>
+ <a href="https://github.com/breck7/pldb/blob/main/questions/.grammar">View source</a>
 </p>
 
 <script>
@@ -156,7 +156,7 @@ li.scrollParagraph {
  <span>·</span>
  <a href="https://pldb.com/trafficToday.html">Traffic Today</a>
  <span>·</span>
- <a href="https://github.com/breck7/pldb/commits/main">Day 293</a>
+ <a href="https://github.com/breck7/pldb/commits/main">Day 294</a>
  <span>·</span>
  <a href="mailto:feedback@pldb.com">feedback@pldb.com</a>
  <span>·</span>

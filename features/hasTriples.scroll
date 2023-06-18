@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasTraits.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasTryCatch.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-* Languages *with* Triples include <a href="../rows/rdf.html">RDF</a>
+* Languages *with* Triples include <a href="../concepts/rdf.html">RDF</a>
 
 * This question asks: Does the language have a structure for subject–predicate–object expressions?
 

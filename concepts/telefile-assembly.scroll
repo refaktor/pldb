@@ -1,0 +1,36 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title telefile-assembly
+
+title telefile-assembly - Assembly language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="tdms.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="telsim.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/telefile-assembly.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=telefile-assembly" class="material-symbols-outlined">edit</a></div>
+
+* telefile-assembly is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+assembly">assembly language</a> created in 1952.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1952 1952
+
+dashboard
+ #3242 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 4071 Links: 987">on PLDB</span>
+ 71 Years Old
+
+* Assembly language for Teleregister Telefile.
+
+- Read more about telefile-assembly on the web: 1.
+ http://ed-thelen.org/comp-hist/BRL64-t.html#TELEREGISTER-TELEFILE 1.
+
+<br>
+
+endColumns
+
+keyboardNav tdms.html telsim.html
+
+import ../footer.scroll

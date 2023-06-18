@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title asterius-compiler
+
+title asterius-compiler - Compiler
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="violent-es.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/asterius-compiler.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/tweag/asterius" class="material-symbols-outlined">code</a> <a href="/edit.html?id=asterius-compiler" class="material-symbols-outlined">edit</a></div>
+
+* asterius-compiler is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+compiler">compiler</a> created in 2017 by Shao Cheng.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+ link ../lists/creators.html#shaoCheng Shao Cheng
+
+codeWithHeader Source code:
+ git clone https://github.com/tweag/asterius
+
+dashboard
+ #1141 on PLDB
+ 6 Years Old
+
+* A Haskell to WebAssembly compiler
+
+- asterius-compiler is developed on <a href="https://github.com/tweag/asterius">GitHub</a> and has 1,917 stars
+- asterius-compiler first developed in <a href="../lists/originCommunities.html#tweagIO">Tweag I/O</a>
+
+<br>
+
+endColumns
+
+keyboardNav violent-es.html fp.html
+
+import ../footer.scroll

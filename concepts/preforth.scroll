@@ -1,0 +1,42 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title preforth
+
+title preforth - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="scheme-2-d.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="quaint-lang.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/preforth.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/uho/preforth" class="material-symbols-outlined">code</a> <a href="/edit.html?id=preforth" class="material-symbols-outlined">edit</a></div>
+
+* preforth is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018 by Ulrich Hoffmann.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#ulrichHoffmann Ulrich Hoffmann
+
+codeWithHeader Source code:
+ git clone https://github.com/uho/preforth
+
+dashboard
+ #2155 <span title="TotalRank: 2676 Jobs: 103 Users: 1645 Facts: 1586 Links: 987">on PLDB</span>
+ 5 Years Old
+
+* a minimalistic Forth kernel that can bootstrap
+
+- preforth is developed on <a href="https://github.com/uho/preforth">GitHub</a> and has 51 stars
+- preforth first developed in <a href="../lists/originCommunities.html#httpsGithubComUhoPreForthIssues">https://github.com/uho/preForth/issues</a>
+- Read more about preforth on the web: 1.
+ https://fosdem.org/2020/schedule/event/forth_new_synthesis/ 1.
+
+<br>
+
+endColumns
+
+keyboardNav scheme-2-d.html quaint-lang.html
+
+import ../footer.scroll

@@ -9,18 +9,18 @@ html
  <a class="trueBaseThemePreviousItem" href="hasStatements.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasStaticTyping.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/static-typescript.html">Static Typescript</a>:
+codeWithHeader Example from <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>:
  class Person {
    static sayHi() {
      console.log(&quot;Hello world&quot;)
    }
  }
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  class abc
   module
    function Print
@@ -28,7 +28,7 @@ codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
  main
   abc.print
 
-* Languages *with* Static Methods include <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/static-typescript.html">Static Typescript</a>
+* Languages *with* Static Methods include <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>
 
 * This question asks: Can a class have static methods?
 

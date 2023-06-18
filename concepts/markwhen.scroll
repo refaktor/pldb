@@ -1,0 +1,99 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Markwhen
+
+title Markwhen - Text markup language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="yasnippet.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="twig.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/markwhen.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://markwhen.com/" class="material-symbols-outlined">home</a> <a href="https://markwhen.com/example" class="material-symbols-outlined">terminal</a> <a href="https://github.com/mark-when/markwhen" class="material-symbols-outlined">code</a> <a href="/edit.html?id=markwhen" class="material-symbols-outlined">edit</a></div>
+
+* Markwhen is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+textMarkup">text markup language</a> created in 2022 by Rob Koch.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2022 2022
+ link ../lists/creators.html#robKoch Rob Koch
+
+codeWithHeader Source code:
+ git clone https://github.com/mark-when/markwhen
+
+dashboard
+ #352 <span title="TotalRank: 813 Jobs: 103 Users: 312 Facts: 398 Links: 987">on PLDB</span>
+ 1 Years Old
+
+* Try now: <a href="https://markwhen.com/example">Web</a>
+
+* Make a cascading timeline from Markdown-like text.
+
+- Markwhen website
+ https://markwhen.com/
+- Markwhen is developed on <a href="https://github.com/mark-when/markwhen">GitHub</a> and has 2,263 stars
+- Markwhen first developed in <a href="../lists/originCommunities.html#httpsGithubComMarkWhen">https://github.com/mark-when</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ title: Welcome to Markwhen 👋
+ 
+ #Project1: #d336b1
+ 
+ section Welcome #welcome
+ now: This example timeline showcases some of markwhen&#39;s features.
+ 
+ Feel free to delete everything to start making your own timeline #welcome
+ 
+ 
+ now: You can also view this example timeline at [markwhen.com/example](https://markwhen.com/example) #welcome
+ 
+ Or you can save this timeline so you can refer to it later, by going to Browser storage &amp; files, and clicking Save current.
+ 
+ now: For more information, view the documentation [here](https://docs.markwhen.com) or join the [discord](https://discord.gg/kQbqP4uz)
+ #welcome
+ endSection
+ 
+ section All Projects
+ group Project 1 #Project1
+ // Supports ISO8601
+ 2023-01/2023-03: Sub task #John
+ 2023-03/2023-06: Sub task 2 #Michelle
+ More info about sub task 2
+ 
+ - [ ] We need to get this done
+ - [x] And this
+ - [ ] This one is extra
+ 
+ 2023-07: Yearly planning
+ endGroup
+  group Project 2 #Project2
+ 2023-04/4 months: Larger sub task #Danielle
+ 
+ // Supports American date formats
+ 03/2023 - 1 year: Longer ongoing task #Michelle
+ 
+ - [x] Sub task 1
+ - [x] Sub task 2
+ - [ ] Sub task 3
+ - [ ] Sub task 4
+ - [ ] so many checkboxes omg
+ 
+ 10/2023 - 2 months: Holiday season
+ endGroup
+ 
+ group Project 3
+ 01/2024: Project kickoff
+ 02/2024-04/2024: Other stuff
+ endGroup
+ endSection
+ 
+ 2023-01-03 every other week for 1 year: Biweekly meeting
+
+endColumns
+
+keyboardNav yasnippet.html twig.html
+
+import ../footer.scroll

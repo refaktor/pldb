@@ -1,0 +1,47 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Slick
+
+title Slick - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="plot-lang.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="4th-dimension.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/slick.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://riju.codes/slick" class="material-symbols-outlined">terminal</a> <a href="https://github.com/kwshi/slick" class="material-symbols-outlined">code</a> <a href="/edit.html?id=slick" class="material-symbols-outlined">edit</a></div>
+
+* Slick is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2020 by Kye W. Shi.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2020 2020
+ link ../lists/creators.html#kyeWShi Kye W. Shi
+
+codeWithHeader Source code:
+ git clone https://github.com/kwshi/slick
+
+dashboard
+ #1956 <span title="TotalRank: 2464 Jobs: 103 Users: 2435 Facts: 1374 Links: 987">on PLDB</span>
+ 3 Years Old
+
+* Try now: <a href="https://riju.codes/slick">Riju</a>
+
+* cool language thing
+
+- Slick is developed on <a href="https://github.com/kwshi/slick">GitHub</a> and has 0 stars
+- Slick first developed in <a href="../lists/originCommunities.html#httpsGithubComKwshiSlickIssues">https://github.com/kwshi/slick/issues</a>
+
+<br>
+
+codeWithHeader Example from <a href='https://riju.codes/slick'>Riju</a>:
+ def main:
+   print &quot;Hello, world!&quot;
+ 
+
+endColumns
+
+keyboardNav plot-lang.html 4th-dimension.html
+
+import ../footer.scroll

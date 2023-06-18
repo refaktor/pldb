@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title GUIDE
+
+title GUIDE - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="worst.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pbm-format.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/guide.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=guide" class="material-symbols-outlined">edit</a></div>
+
+* GUIDE is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1994.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1994 1994
+
+dashboard
+ #1825 <span title="TotalRank: 2341 Jobs: 103 Users: 2831 Facts: 1251 Links: 987">on PLDB</span>
+ 29 Years Old
+
+* 
+
+- GUIDE first developed in <a href="../lists/originCommunities.html#universiteSavoieMontBlancAnnecy">Université Savoie Mont BlancAnnecy</a>
+- GUIDE on HOPL
+ https://hopl.info/showlanguage.prx?exp=2838
+- Read more about GUIDE on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/0c77c5a8d458da76e8e142c7c2737811b3dddcd6 1.
+
+<br>
+
+endColumns
+
+keyboardNav worst.html pbm-format.html
+
+import ../footer.scroll

@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title DLP
+
+title DLP - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="dino.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dlp.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=dlp" class="material-symbols-outlined">edit</a></div>
+
+* DLP is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1992.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1992 1992
+
+dashboard
+ #3001 <span title="TotalRank: 3624 Jobs: 103 Users: 2831 Facts: 2534 Links: 987">on PLDB</span>
+ 31 Years Old
+
+* 
+
+- DLP first developed in <a href="../lists/originCommunities.html#brandeisUniversity">Brandeis University</a>
+- DLP on HOPL
+ https://hopl.info/showlanguage.prx?exp=1680
+- Read more about DLP on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/94a4c1af2a17e7d0ef65683b541e9ef8ae3d6a51 1.
+
+<br>
+
+endColumns
+
+keyboardNav dino.html hscript.html
+
+import ../footer.scroll

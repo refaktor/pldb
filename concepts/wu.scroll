@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Wu
+
+title Wu - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="bamboo.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lc-3.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/wu.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://wu-lang.gitbook.io/guide/" class="material-symbols-outlined">home</a> <a href="https://github.com/wu-lang/wu" class="material-symbols-outlined">code</a> <a href="/edit.html?id=wu" class="material-symbols-outlined">edit</a></div>
+
+* Wu is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018 by niql.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#niql niql
+
+codeWithHeader Source code:
+ git clone https://github.com/wu-lang/wu
+
+dashboard
+ #1367 <span title="TotalRank: 1897 Jobs: 103 Users: 807 Facts: 1876 Links: 987">on PLDB</span>
+ 5 Years Old
+
+* 🐉 A practical game and data language
+
+- Wu website
+ https://wu-lang.gitbook.io/guide/
+- Wu is developed on <a href="https://github.com/wu-lang/wu">GitHub</a> and has 388 stars
+
+<br>
+
+endColumns
+
+keyboardNav bamboo.html lc-3.html
+
+import ../footer.scroll

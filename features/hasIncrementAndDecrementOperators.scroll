@@ -9,35 +9,35 @@ html
  <a class="trueBaseThemePreviousItem" href="hasImports.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasInfixNotation.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  let i = 0
  i++
  i--
 
-codeWithHeader Example from <a href="../rows/go.html">Go</a>:
+codeWithHeader Example from <a href="../concepts/go.html">Go</a>:
  i := 0
  i++
  i--
 
-codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+codeWithHeader Example from <a href="../concepts/c3.html">C3</a>:
  i++; --j;
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  || x = 1
  x++
  x--
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  ++
  --
 
-* Languages *with* Increment and decrement operators include <a href="../rows/java.html">Java</a>, <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/c.html">C</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/php.html">PHP</a>, <a href="../rows/go.html">Go</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/tick-c.html">Tick C</a>
+* Languages *with* Increment and decrement operators include <a href="../concepts/java.html">Java</a>, <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/c.html">C</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/php.html">PHP</a>, <a href="../concepts/go.html">Go</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/tick-c.html">Tick C</a>
 
-* Languages *without* Increment and decrement operators include <a href="../rows/progsbase.html">progsbase</a>, <a href="../rows/slope.html">Slope</a>
+* Languages *without* Increment and decrement operators include <a href="../concepts/progsbase.html">progsbase</a>, <a href="../concepts/slope.html">Slope</a>
 
 * This question asks: Does this language have increment and decrement operators?
 

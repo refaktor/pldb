@@ -1,0 +1,89 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title silk
+
+title silk - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="hacspec.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="uxf.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/silk.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://ajaymt.github.io/silk/" class="material-symbols-outlined">home</a> <a href="https://github.com/AjayMT/silk" class="material-symbols-outlined">code</a> <a href="/edit.html?id=silk" class="material-symbols-outlined">edit</a></div>
+
+* silk is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+codeWithHeader Source code:
+ git clone https://github.com/AjayMT/silk
+
+dashboard
+ #1272 <span title="TotalRank: 1809 Jobs: 103 Users: 1637 Facts: 719 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* The Silk Programming Language
+
+- silk website
+ https://ajaymt.github.io/silk/
+- silk is developed on <a href="https://github.com/AjayMT/silk">GitHub</a> and has 68 stars
+- silk first developed in <a href="../lists/originCommunities.html#universityOfIllinoisAtUrbanaChampaign">University of Illinois at Urbana-Champaign</a>
+- Read more about silk on the web: 1.
+ https://news.ycombinator.com/item?id=22926080 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ // this is a comment
+ 
+ extern func printf(s *i8) void;
+ 
+ func main(argc i32, argv **i8) i32 {
+   printf(&quot;hello, world\n&quot;);
+ 
+   if argc &gt; 1 {
+     val arg = @(argv + 1);
+     printf(arg);
+   }
+ 
+   return 0;
+ }
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token printf
+  Example
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token //
+  Example
+   // A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav hacspec.html uxf.html
+
+import ../footer.scroll

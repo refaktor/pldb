@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title SmallVDM
+
+title SmallVDM - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="smalltalk-80.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="smolcs.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smallvdm.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=smallvdm" class="material-symbols-outlined">edit</a></div>
+
+* SmallVDM is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1993.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1993 1993
+
+dashboard
+ #3204 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 4071 Links: 987">on PLDB</span>
+ 30 Years Old
+
+* 
+
+- SmallVDM on HOPL
+ https://hopl.info/showlanguage.prx?exp=1749
+- Read more about SmallVDM on the web: 1.
+ http://www.lbd.dcc.ufmg.br/colecoes/sbes/1991/0016.pdf 1.
+
+<br>
+
+endColumns
+
+keyboardNav smalltalk-80.html smolcs.html
+
+import ../footer.scroll

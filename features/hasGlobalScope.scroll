@@ -9,16 +9,16 @@ html
  <a class="trueBaseThemePreviousItem" href="hasGenerics.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasGotos.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  || x = 123
  function abc
   x = 10
 
-* Languages *with* hasGlobalScope include <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* hasGlobalScope include <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Is there at least one top level scope?
 

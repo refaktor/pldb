@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasNamespaces.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasOctals.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  || msg = message()
  while
   if msg != nil
@@ -23,13 +23,13 @@ codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
    return
   msg = nil
 
-codeWithHeader Example from <a href="../rows/ion.html">Ion</a>:
+codeWithHeader Example from <a href="../concepts/ion.html">Ion</a>:
  null
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  nil
 
-* Languages *with* Null include <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/ion.html">Ion</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* Null include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/ion.html">Ion</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language have a null value?
 

@@ -1,0 +1,51 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title MathLingua
+
+title MathLingua - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="luau.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="michelson.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mathlingua.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://www.mathlingua.org/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=mathlingua" class="material-symbols-outlined">edit</a></div>
+
+* MathLingua is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+dashboard
+ #2359 <span title="TotalRank: 2867 Jobs: 103 Users: 2435 Facts: 1777 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* 
+
+- MathLingua website
+ https://www.mathlingua.org/
+- MathLingua first developed in <a href="../lists/originCommunities.html#httpsGithubComDominicKramerMathlinguaIssues">https://github.com/DominicKramer/mathlingua/issues</a>
+- <a href="https://www.mathlingua.org/">mathlingua.org</a> was registered in 2019
+
+<br>
+
+codeWithHeader Example from the web:
+ Result:
+ . for: X
+   where:
+   . &#39;X \subset \reals&#39;
+   then:
+   . iff:
+     . &#39;X is \real.compact \set&#39;
+     then:
+     . &#39;X is \real.closed \real.bounded \set&#39;
+ Metadata:
+ . name = &quot;Heine-Borel Theorem&quot;
+
+endColumns
+
+keyboardNav luau.html michelson.html
+
+import ../footer.scroll

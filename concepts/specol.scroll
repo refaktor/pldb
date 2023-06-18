@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title SPECOL
+
+title SPECOL - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="specl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="spil.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/specol.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=specol" class="material-symbols-outlined">edit</a></div>
+
+* SPECOL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1968.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1968 1968
+
+dashboard
+ #3211 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 4071 Links: 987">on PLDB</span>
+ 55 Years Old
+
+* 
+
+- SPECOL on HOPL
+ https://hopl.info/showlanguage.prx?exp=3229
+- Read more about SPECOL on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/cfbe65b69c50cf500260f3bf2434c04f90387e7e 1.
+
+<br>
+
+endColumns
+
+keyboardNav specl.html spil.html
+
+import ../footer.scroll

@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title DETAB-X
+
+title DETAB-X - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="detab-65.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="detap.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/detab-x.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=detab-x" class="material-symbols-outlined">edit</a></div>
+
+* DETAB-X is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1960.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1960 1960
+
+dashboard
+ #3649 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3251 Links: 987">on PLDB</span>
+ 63 Years Old
+
+* An Improved Business-Oriented Computer Language
+
+- DETAB-X first developed in <a href="../lists/originCommunities.html#randCorporation">RAND Corporation</a>
+- DETAB-X on HOPL
+ https://hopl.info/showlanguage.prx?exp=3038
+- Read more about DETAB-X on the web: 1.
+ https://www.rand.org/content/dam/rand/pubs/research_memoranda/2007/RM3273.pdf 1.
+
+<br>
+
+endColumns
+
+keyboardNav detab-65.html detap.html
+
+import ../footer.scroll

@@ -1,0 +1,50 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title SRL
+
+title SRL - Query language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="cesil.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="spry.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/srl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://simple-regex.com/" class="material-symbols-outlined">home</a> <a href="https://github.com/SimpleRegex/SRL-PHP" class="material-symbols-outlined">code</a> <a href="/edit.html?id=srl" class="material-symbols-outlined">edit</a></div>
+
+* SRL, aka Simple Regex Language, is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 2016 by Karim Geiger.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
+ link ../lists/creators.html#karimGeiger Karim Geiger
+
+codeWithHeader Source code:
+ git clone https://github.com/SimpleRegex/SRL-PHP
+
+dashboard
+ #862 <span title="TotalRank: 1429 Jobs: 103 Users: 359 Facts: 967 Links: 987">on PLDB</span>
+ 7 Years Old
+
+* Simple Regex Language
+
+- SRL website
+ https://simple-regex.com/
+- SRL is developed on <a href="https://github.com/SimpleRegex/SRL-PHP">GitHub</a> and has 1,806 stars
+- <a href="https://simple-regex.com/">simple-regex.com</a> was registered in 2016
+
+<br>
+
+codeWithHeader Example from the web:
+ begin with any of (digit, letter, one of &quot;._%+-&quot;) once or more,
+ literally &quot;@&quot;,
+ any of (digit, letter, one of &quot;.-&quot;) once or more,
+ literally &quot;.&quot;,
+ letter at least 2 times,
+ must end, case insensitive
+
+endColumns
+
+keyboardNav cesil.html spry.html
+
+import ../footer.scroll

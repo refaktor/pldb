@@ -1,0 +1,49 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title obsidian
+
+title obsidian - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="kalyn.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="flatline.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/obsidian.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://obsidian-lang.com" class="material-symbols-outlined">home</a> <a href="https://github.com/mcoblenz/Obsidian" class="material-symbols-outlined">code</a> <a href="/edit.html?id=obsidian" class="material-symbols-outlined">edit</a></div>
+
+* obsidian is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018 by Michael Coblenz.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#michaelCoblenz Michael Coblenz
+
+codeWithHeader Source code:
+ git clone https://github.com/mcoblenz/Obsidian
+
+dashboard
+ #1746 <span title="TotalRank: 2288 Jobs: 103 Users: 1438 Facts: 1198 Links: 987">on PLDB</span>
+ 5 Years Old
+
+* Obsidian language development
+
+- obsidian website
+ http://obsidian-lang.com
+- obsidian is developed on <a href="https://github.com/mcoblenz/Obsidian">GitHub</a> and has 74 stars
+- obsidian first developed in <a href="../lists/originCommunities.html#universityOfCaliforniaSanDiego">University of California San Diego</a>
+- <a href="http://obsidian-lang.com">obsidian-lang.com</a> was registered in 2018
+
+<br>
+
+endColumns
+
+## HackerNews discussions of obsidian
+
+pipeTable
+ title|titleLink|date|score|comments
+ Obsidian: A safer blockchain programming language|https://news.ycombinator.com/item?id=20061546|05/31/2019|67|31
+
+keyboardNav kalyn.html flatline.html
+
+import ../footer.scroll

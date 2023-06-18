@@ -9,17 +9,17 @@ html
  <a class="trueBaseThemePreviousItem" href="hasUnicodeIdentifiers.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasUnitsOfMeasure.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/static-typescript.html">Static Typescript</a>:
+codeWithHeader Example from <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>:
  declare type numOrString = string | number
 
-codeWithHeader Example from <a href="../rows/graphql.html">GraphQL</a>:
+codeWithHeader Example from <a href="../concepts/graphql.html">GraphQL</a>:
  union SearchResult = Human | Droid | Starship
 
-codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+codeWithHeader Example from <a href="../concepts/c3.html">C3</a>:
  union Foo
  {
    int x;
@@ -30,7 +30,7 @@ codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
    }  
  }  
 
-* Languages *with* Union Types include <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/graphql.html">GraphQL</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/c2.html">C2</a>, <a href="../rows/static-typescript.html">Static Typescript</a>
+* Languages *with* Union Types include <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/graphql.html">GraphQL</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/c2.html">C2</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>
 
 * This question asks: Does the language support union types?
 

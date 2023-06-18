@@ -9,18 +9,18 @@ html
  <a class="trueBaseThemePreviousItem" href="hasSourceMaps.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasStatements.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  if x: x++, x*=2, return
  
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  ;
 
-* Languages *with* hasStatementTerminatorCharacter include <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* hasStatementTerminatorCharacter include <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language have a statement terminator character such as ";"?
 

@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasTimestamps.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasTriples.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/php.html">PHP</a>:
+codeWithHeader Example from <a href="../concepts/php.html">PHP</a>:
  // The template
  trait TSingleton
  {
@@ -38,13 +38,13 @@ codeWithHeader Example from <a href="../rows/php.html">PHP</a>:
      use TSingleton;
  }
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  trait Person {
      fn get_full_name(self): str
      fn get_age(self): byte
  }
 
-* Languages *with* Traits include <a href="../rows/php.html">PHP</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* Traits include <a href="../concepts/php.html">PHP</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does the language support traits?
 

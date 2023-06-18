@@ -1,0 +1,100 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Ron
+
+title Ron - Data notation
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="ragel.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="xtend.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ron.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/ron-rs/ron" class="material-symbols-outlined">code</a> <a href="/edit.html?id=ron" class="material-symbols-outlined">edit</a></div>
+
+* Ron, aka Rusty Object Notation, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+dataNotation">data notation</a> created in 2015 by Juniper Tyree.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+ link ../lists/creators.html#juniperTyree Juniper Tyree
+
+codeWithHeader Source code:
+ git clone https://github.com/ron-rs/ron
+
+dashboard
+ #455 <span title="TotalRank: 966 Jobs: 103 Users: 334 Facts: 529 Links: 987">on PLDB</span>
+ 8 Years Old
+
+* RON is a simple readable data serialization format that looks similar to Rust syntax. It's designed to support all of Serde's data model, so structs, enums, tuples, arrays, generic maps, and primitive values.
+
+- Ron is developed on <a href="https://github.com/ron-rs/ron">GitHub</a> and has 2,045 stars
+- Ron first developed in <a href="../lists/originCommunities.html#httpsGithubComRonRs">https://github.com/ron-rs</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ GameConfig( // optional struct name
+     window_size: (800, 600),
+     window_title: &quot;PAC-MAN&quot;,
+     fullscreen: false,
+     
+     mouse_sensitivity: 1.4,
+     key_bindings: {
+         &quot;up&quot;: Up,
+         &quot;down&quot;: Down,
+         &quot;left&quot;: Left,
+         &quot;right&quot;: Right,
+         
+         // Uncomment to enable WASD controls
+         /*
+         &quot;W&quot;: Up,
+         &quot;A&quot;: Down,
+         &quot;S&quot;: Left,
+         &quot;D&quot;: Right,
+         */
+     },
+     
+     difficulty_options: (
+         start_difficulty: Easy,
+         adaptive: false,
+     ),
+ )
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature MultiLine Comments
+  FeatureLink ../features/hasMultiLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token /* */
+  Example
+   /* A comment
+   */
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   // A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token //
+  Example
+   // A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav ragel.html xtend.html
+
+import ../footer.scroll

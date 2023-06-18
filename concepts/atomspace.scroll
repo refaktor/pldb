@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title atomspace
+
+title atomspace - Application
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="dub-pm.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bee.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/atomspace.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://wiki.opencog.org/w/AtomSpace" class="material-symbols-outlined">home</a> <a href="https://github.com/opencog/atomspace" class="material-symbols-outlined">code</a> <a href="/edit.html?id=atomspace" class="material-symbols-outlined">edit</a></div>
+
+* atomspace is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+application">application</a> created in 2008.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
+
+codeWithHeader Source code:
+ git clone https://github.com/opencog/atomspace
+
+dashboard
+ #1319 on PLDB
+ 15 Years Old
+
+* The OpenCog (hyper-)graph database and graph rewriting system
+
+- atomspace website
+ https://wiki.opencog.org/w/AtomSpace
+- atomspace is developed on <a href="https://github.com/opencog/atomspace">GitHub</a> and has 617 stars
+- atomspace first developed in <a href="../lists/originCommunities.html#openCogFoundation">OpenCog Foundation</a>
+
+<br>
+
+endColumns
+
+keyboardNav dub-pm.html bee.html
+
+import ../footer.scroll

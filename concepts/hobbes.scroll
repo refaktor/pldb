@@ -1,0 +1,44 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title hobbes
+
+title hobbes - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="tl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="quaint.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hobbes.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://hobbes.readthedocs.io/" class="material-symbols-outlined">home</a> <a href="https://github.com/Morgan-Stanley/hobbes" class="material-symbols-outlined">code</a> <a href="/edit.html?id=hobbes" class="material-symbols-outlined">edit</a></div>
+
+* hobbes is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2017 by Kalani Thielen.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+ link ../lists/creators.html#kalaniThielen Kalani Thielen
+
+codeWithHeader Source code:
+ git clone https://github.com/Morgan-Stanley/hobbes
+
+dashboard
+ #981 <span title="TotalRank: 1543 Jobs: 103 Users: 453 Facts: 1442 Links: 987">on PLDB</span>
+ 6 Years Old
+
+* A language and an embedded JIT compiler
+
+- hobbes website
+ http://hobbes.readthedocs.io/
+- hobbes is developed on <a href="https://github.com/Morgan-Stanley/hobbes">GitHub</a> and has 1,098 stars
+- hobbes first developed in <a href="../lists/originCommunities.html#httpsGithubComMorganstanley">https://github.com/morganstanley</a>
+- Read more about hobbes on the web: 1.
+ http://lists.llvm.org/pipermail/llvm-dev/2017-June/114307.htmlreference 1.
+
+<br>
+
+endColumns
+
+keyboardNav tl.html quaint.html
+
+import ../footer.scroll

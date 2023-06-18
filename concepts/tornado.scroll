@@ -1,0 +1,56 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title tornado
+
+title tornado - Template language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="nsis.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="altair-basic.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tornado.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.tornadoweb.org/en/stable/guide/templates.html" class="material-symbols-outlined">home</a> <a href="https://github.com/tornadoweb/tornado" class="material-symbols-outlined">code</a> <a href="/edit.html?id=tornado" class="material-symbols-outlined">edit</a></div>
+
+* tornado is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+template">template language</a> created in 2009.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
+
+codeWithHeader Source code:
+ git clone https://github.com/tornadoweb/tornado
+
+dashboard
+ #414 <span title="TotalRank: 914 Jobs: 103 Users: 52 Facts: 759 Links: 987">on PLDB</span>
+ 14 Years Old
+
+* Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+
+- tornado website
+ http://www.tornadoweb.org/en/stable/guide/templates.html
+- tornado is developed on <a href="https://github.com/tornadoweb/tornado">GitHub</a> and has 20,633 stars
+- tornado first developed in <a href="../lists/originCommunities.html#facebook">Facebook</a>
+- <a href="codemirror.html">CodeMirror</a> <a href="https://github.com/codemirror/codemirror5/tree/master/mode/tornado">package</a> for syntax highlighting tornado
+
+<br>
+
+codeWithHeader Example from the web:
+ &lt;html&gt;
+   &lt;head&gt;
+      &lt;title&gt;{{ title }}&lt;/title&gt;
+   &lt;/head&gt;
+   &lt;body&gt;
+     &lt;ul&gt;
+       {% for item in items %}
+         &lt;li&gt;{{ escape(item) }}&lt;/li&gt;
+       {% end %}
+     &lt;/ul&gt;
+   &lt;/body&gt;
+ &lt;/html&gt;
+
+endColumns
+
+keyboardNav nsis.html altair-basic.html
+
+import ../footer.scroll

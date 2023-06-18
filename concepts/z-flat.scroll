@@ -1,0 +1,61 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Z-flat
+
+title Z-flat - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="project-mentat.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="incipit.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/z-flat.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/adamhutchings/zflat" class="material-symbols-outlined">code</a> <a href="/edit.html?id=z-flat" class="material-symbols-outlined">edit</a></div>
+
+* Z-flat is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2021 by Adam Hutchings.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2021 2021
+ link ../lists/creators.html#adamHutchings Adam Hutchings
+
+codeWithHeader Source code:
+ git clone https://github.com/adamhutchings/zflat
+
+dashboard
+ #1391 <span title="TotalRank: 1922 Jobs: 103 Users: 2246 Facts: 832 Links: 987">on PLDB</span>
+ 2 Years Old
+
+* Z-flat is a compiled, statically-typed programming language. Its design goals are intuitive syntax, type-safety, and easy library management.
+
+- Z-flat is developed on <a href="https://github.com/adamhutchings/zflat">GitHub</a> and has 7 stars
+- file extensions for Z-flat include zf
+
+<br>
+
+codeWithHeader Example from the web:
+ ~/ factorial /~
+ 
+ ~ recursive implementation ~
+ factorial_r(x: int): int {
+     if (x &lt; 2) {
+         return 1;
+     } else {
+         return x * factorial_r(x - 1);
+     }
+ }
+ 
+ ~ iterative implementation ~
+ factorial_i(x: int): int {
+     ret: int = 1;
+     loop(x): i: int {
+         ret *= (i + 1);
+     }
+     return ret;
+ }
+
+endColumns
+
+keyboardNav project-mentat.html incipit.html
+
+import ../footer.scroll

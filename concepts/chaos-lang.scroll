@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title chaos-lang
+
+title chaos-lang - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="calc-var.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cobol-net.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/chaos-lang.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://chaos-lang.org/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=chaos-lang" class="material-symbols-outlined">edit</a></div>
+
+* chaos-lang is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2020.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2020 2020
+
+dashboard
+ #2804 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 2912 Links: 987">on PLDB</span>
+ 3 Years Old
+
+* 
+
+- chaos-lang website
+ https://chaos-lang.org/
+- chaos-lang first developed in <a href="../lists/originCommunities.html#httpsGithubComChaosLang">https://github.com/chaos-lang</a>
+- <a href="https://chaos-lang.org/">chaos-lang.org</a> was registered in 2019
+
+<br>
+
+endColumns
+
+keyboardNav calc-var.html cobol-net.html
+
+import ../footer.scroll

@@ -1,0 +1,37 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title spir-v
+
+title spir-v - Intermediate representation language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="spil.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="splaw.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spir-v.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=spir-v" class="material-symbols-outlined">edit</a></div>
+
+* spir-v is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+ir">intermediate representation language</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+dashboard
+ #3213 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 4071 Links: 987">on PLDB</span>
+ 8 Years Old
+
+* Abstract. SPIR-V is a new platform-independent intermediate language. It is a self-contained, fully specified, binary format for representing graphical-shader stages and compute kernels for multiple APIs. Physically, it is a stream of 32-bit words. Logically, it is a header and a linear stream of instructions. These encode, first, a set of annotations and decorations, and second a collection of functions. Each function encodes a control-flow graph (CFG) of basic blocks, with additional instructions to preserve source-code structured flow control. Load/store instructions are used to access declared variables, which includes all input/output (IO). Intermediate results bypassing load/store use single static-assignment (SSA) representation. Data objects are represented logically, with hierarchical type information: There is no flattening of aggregates or assignment to physical register banks, etc. Selectable addressing models establish whether general pointers may be used, or if memory access is purely logical.
+
+- See also: (1 related languages)<a href="spir.html">Standard Portable Intermediate Representation</a>
+- Read more about spir-v on the web: 1.
+ https://www.khronos.org/registry/spir-v/papers/WhitePaper.html 1.
+
+<br>
+
+endColumns
+
+keyboardNav spil.html splaw.html
+
+import ../footer.scroll

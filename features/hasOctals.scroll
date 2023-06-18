@@ -9,95 +9,95 @@ html
  <a class="trueBaseThemePreviousItem" href="hasNull.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasOperatorOverloading.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/java.html">Java</a>, <a href="../rows/aspectj.html">AspectJ</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>:
+codeWithHeader Example from <a href="../concepts/java.html">Java</a>, <a href="../concepts/aspectj.html">AspectJ</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>:
  // 0[0-7_]+[lL]?
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  // 0[oO]?[0-7]+n?
  0o464063622
 
-codeWithHeader Example from <a href="../rows/python.html">Python</a>:
+codeWithHeader Example from <a href="../concepts/python.html">Python</a>:
  # 0[oO](?:_?[0-7])+
 
-codeWithHeader Example from <a href="../rows/perl.html">Perl</a>:
+codeWithHeader Example from <a href="../concepts/perl.html">Perl</a>:
  # 0_?[0-7]+(_[0-7]+)*
 
-codeWithHeader Example from <a href="../rows/go.html">Go</a>:
+codeWithHeader Example from <a href="../concepts/go.html">Go</a>:
  // 0[0-7]+
 
-codeWithHeader Example from <a href="../rows/swift.html">Swift</a>:
+codeWithHeader Example from <a href="../concepts/swift.html">Swift</a>:
  // 0o[0-7_]+
 
-codeWithHeader Example from <a href="../rows/haskell.html">Haskell</a>:
+codeWithHeader Example from <a href="../concepts/haskell.html">Haskell</a>:
  -- 0[oO]_*[0-7](_*[0-7])*
 
-codeWithHeader Example from <a href="../rows/julia.html">Julia</a>:
+codeWithHeader Example from <a href="../concepts/julia.html">Julia</a>:
  # 0o[0-7]+((_[0-7]+)+)?
 
-codeWithHeader Example from <a href="../rows/prolog.html">Prolog</a>, <a href="../rows/clpr.html">CLPR</a>, <a href="../rows/gaea.html">GAEA</a>, <a href="../rows/progol.html">Progol</a>:
+codeWithHeader Example from <a href="../concepts/prolog.html">Prolog</a>, <a href="../concepts/clpr.html">CLPR</a>, <a href="../concepts/gaea.html">GAEA</a>, <a href="../concepts/progol.html">Progol</a>:
  % 0o[0-7]+
 
-codeWithHeader Example from <a href="../rows/elixir.html">Elixir</a>:
+codeWithHeader Example from <a href="../concepts/elixir.html">Elixir</a>:
  # 0o[0-7]+
 
-codeWithHeader Example from <a href="../rows/verilog.html">Verilog</a>:
+codeWithHeader Example from <a href="../concepts/verilog.html">Verilog</a>:
  // ([0-9]+)|(\&#39;o)[0-7]+
 
-codeWithHeader Example from <a href="../rows/reason.html">Reason</a>:
+codeWithHeader Example from <a href="../concepts/reason.html">Reason</a>:
  // 0[oO][0-7][0-7_]*
 
-codeWithHeader Example from <a href="../rows/f-sharp.html">F#</a>:
+codeWithHeader Example from <a href="../concepts/f-sharp.html">F#</a>:
  // 0[oO][0-7][0-7_]*[uU]?[yslLn]?
 
-codeWithHeader Example from <a href="../rows/eiffel.html">Eiffel</a>:
+codeWithHeader Example from <a href="../concepts/eiffel.html">Eiffel</a>:
  -- 0[cC][0-7]+
 
-codeWithHeader Example from <a href="../rows/d.html">D</a>:
+codeWithHeader Example from <a href="../concepts/d.html">D</a>:
  // 0[0-7_]+
 
-codeWithHeader Example from <a href="../rows/vhdl.html">VHDL</a>:
+codeWithHeader Example from <a href="../concepts/vhdl.html">VHDL</a>:
  -- O&quot;[0-7_]+&quot;
 
-codeWithHeader Example from <a href="../rows/postscript.html">PostScript</a>:
+codeWithHeader Example from <a href="../concepts/postscript.html">PostScript</a>:
  % [0-9]+\#(\-|\+)?([0-9]+\.?|[0-9]*\.[0-9]+|[0-9]+\.[0-9]*)((e|E)[0-9]+)?(?=[()&lt;&gt;\[\]{}/%\s])
 
-codeWithHeader Example from <a href="../rows/chapel.html">Chapel</a>:
+codeWithHeader Example from <a href="../concepts/chapel.html">Chapel</a>:
  // 0[oO][0-7]+
 
-codeWithHeader Example from <a href="../rows/protobuf.html">Protocol Buffers</a>:
+codeWithHeader Example from <a href="../concepts/protobuf.html">Protocol Buffers</a>:
  // 0[0-7]+[LlUu]*
 
-codeWithHeader Example from <a href="../rows/autoit.html">AutoIt</a>, <a href="../rows/autohotkey.html">AutoHotkey</a>:
+codeWithHeader Example from <a href="../concepts/autoit.html">AutoIt</a>, <a href="../concepts/autohotkey.html">AutoHotkey</a>:
  ; 0\d+
 
-codeWithHeader Example from <a href="../rows/hy.html">Hy</a>:
+codeWithHeader Example from <a href="../concepts/hy.html">Hy</a>:
  ; 0[0-7]+j?
 
-codeWithHeader Example from <a href="../rows/boo.html">Boo</a>:
+codeWithHeader Example from <a href="../concepts/boo.html">Boo</a>:
  # 0\d+
 
-codeWithHeader Example from <a href="../rows/systemverilog.html">SystemVerilog</a>:
+codeWithHeader Example from <a href="../concepts/systemverilog.html">SystemVerilog</a>:
  // ([1-9][_0-9]*)?\s*\&#39;[sS]?[oO]\s*[xXzZ?0-7][_xXzZ?0-7]*
 
-codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+codeWithHeader Example from <a href="../concepts/c3.html">C3</a>:
  0o177
 
-codeWithHeader Example from <a href="../rows/golo.html">Golo</a>:
+codeWithHeader Example from <a href="../concepts/golo.html">Golo</a>:
  # 0[0-7]+j?
 
-codeWithHeader Example from <a href="../rows/felix.html">Felix</a>:
+codeWithHeader Example from <a href="../concepts/felix.html">Felix</a>:
  // 0[0-7_]+([tTsSiIlLvV]|ll|LL|([iIuU])(8|16|32|64))?
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  0455
 
-* Languages *with* Octals include <a href="../rows/java.html">Java</a>, <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/python.html">Python</a>, <a href="../rows/perl.html">Perl</a>, <a href="../rows/go.html">Go</a>, <a href="../rows/swift.html">Swift</a>, <a href="../rows/haskell.html">Haskell</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/julia.html">Julia</a>, <a href="../rows/prolog.html">Prolog</a>, <a href="../rows/elixir.html">Elixir</a>, <a href="../rows/verilog.html">Verilog</a>, <a href="../rows/reason.html">Reason</a>, <a href="../rows/f-sharp.html">F#</a>, <a href="../rows/eiffel.html">Eiffel</a>, <a href="../rows/ocaml.html">OCaml</a>, <a href="../rows/d.html">D</a>, <a href="../rows/vhdl.html">VHDL</a>, <a href="../rows/postscript.html">PostScript</a>, <a href="../rows/chapel.html">Chapel</a>, <a href="../rows/protobuf.html">Protocol Buffers</a>, <a href="../rows/coq.html">Coq</a>, <a href="../rows/zig.html">Zig</a>, <a href="../rows/autoit.html">AutoIt</a>, <a href="../rows/hy.html">Hy</a>, <a href="../rows/opa.html">Opa</a>, <a href="../rows/idl.html">IDL</a>, <a href="../rows/boo.html">Boo</a>, <a href="../rows/fstar.html">F*</a>, <a href="../rows/systemverilog.html">SystemVerilog</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/isabelle.html">Isabelle</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/puppet.html">Puppet</a>, <a href="../rows/autohotkey.html">AutoHotkey</a>, <a href="../rows/aspectj.html">AspectJ</a>, <a href="../rows/golo.html">Golo</a>, <a href="../rows/sourcepawn.html">SourcePawn</a>, <a href="../rows/hlsl.html">HLSL</a>, <a href="../rows/glsl.html">GLSL</a>, <a href="../rows/felix.html">Felix</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/cryptol.html">Cryptol</a>, <a href="../rows/ooc.html">ooc</a>, <a href="../rows/meson.html">Meson</a>, <a href="../rows/logtalk.html">Logtalk</a>, <a href="../rows/earl-grey.html">Earl Grey</a>, <a href="../rows/pawn-scripting-language.html">Pawn</a>, <a href="../rows/floscript.html">FloScript</a>, <a href="../rows/clpr.html">CLPR</a>, <a href="../rows/nimrod.html">nimrod</a>, <a href="../rows/cddl.html">CBOR data definition language</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/gaea.html">GAEA</a>, <a href="../rows/progol.html">Progol</a>
+* Languages *with* Octals include <a href="../concepts/java.html">Java</a>, <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/python.html">Python</a>, <a href="../concepts/perl.html">Perl</a>, <a href="../concepts/go.html">Go</a>, <a href="../concepts/swift.html">Swift</a>, <a href="../concepts/haskell.html">Haskell</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/julia.html">Julia</a>, <a href="../concepts/prolog.html">Prolog</a>, <a href="../concepts/elixir.html">Elixir</a>, <a href="../concepts/verilog.html">Verilog</a>, <a href="../concepts/reason.html">Reason</a>, <a href="../concepts/f-sharp.html">F#</a>, <a href="../concepts/eiffel.html">Eiffel</a>, <a href="../concepts/ocaml.html">OCaml</a>, <a href="../concepts/d.html">D</a>, <a href="../concepts/vhdl.html">VHDL</a>, <a href="../concepts/postscript.html">PostScript</a>, <a href="../concepts/chapel.html">Chapel</a>, <a href="../concepts/protobuf.html">Protocol Buffers</a>, <a href="../concepts/coq.html">Coq</a>, <a href="../concepts/zig.html">Zig</a>, <a href="../concepts/autoit.html">AutoIt</a>, <a href="../concepts/hy.html">Hy</a>, <a href="../concepts/opa.html">Opa</a>, <a href="../concepts/idl.html">IDL</a>, <a href="../concepts/boo.html">Boo</a>, <a href="../concepts/fstar.html">F*</a>, <a href="../concepts/systemverilog.html">SystemVerilog</a>, <a href="../concepts/cython.html">Cython</a>, <a href="../concepts/isabelle.html">Isabelle</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/puppet.html">Puppet</a>, <a href="../concepts/autohotkey.html">AutoHotkey</a>, <a href="../concepts/aspectj.html">AspectJ</a>, <a href="../concepts/golo.html">Golo</a>, <a href="../concepts/sourcepawn.html">SourcePawn</a>, <a href="../concepts/hlsl.html">HLSL</a>, <a href="../concepts/glsl.html">GLSL</a>, <a href="../concepts/felix.html">Felix</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/cryptol.html">Cryptol</a>, <a href="../concepts/ooc.html">ooc</a>, <a href="../concepts/meson.html">Meson</a>, <a href="../concepts/logtalk.html">Logtalk</a>, <a href="../concepts/earl-grey.html">Earl Grey</a>, <a href="../concepts/pawn-scripting-language.html">Pawn</a>, <a href="../concepts/floscript.html">FloScript</a>, <a href="../concepts/clpr.html">CLPR</a>, <a href="../concepts/nimrod.html">nimrod</a>, <a href="../concepts/cddl.html">CBOR data definition language</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/gaea.html">GAEA</a>, <a href="../concepts/progol.html">Progol</a>
 
-* Languages *without* Octals include <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/progsbase.html">progsbase</a>
+* Languages *without* Octals include <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/progsbase.html">progsbase</a>
 
 * This question asks: Does the language have a syntax for octal numbers?
 

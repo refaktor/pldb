@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasRunTimeGuards.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasScientificNotation.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/ion.html">Ion</a>:
+codeWithHeader Example from <a href="../concepts/ion.html">Ion</a>:
  null.sexp         // A null S-expression value
  ()                // An empty expression value
  (cons 1 2)        // S-expression of three values
@@ -22,9 +22,9 @@ codeWithHeader Example from <a href="../rows/ion.html">Ion</a>:
  (a+-b)  ( &#39;a&#39; &#39;+-&#39; &#39;b&#39; )    // Equivalent; three symbols
  (a.b;)  ( &#39;a&#39; &#39;.&#39; &#39;b&#39; &#39;;&#39;)  // Equivalent; four symbols
 
-* Languages *with* S-Expressions include <a href="../rows/ion.html">Ion</a>
+* Languages *with* S-Expressions include <a href="../concepts/ion.html">Ion</a>
 
-* Languages *without* S-Expressions include <a href="../rows/java.html">Java</a>, <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>
+* Languages *without* S-Expressions include <a href="../concepts/java.html">Java</a>, <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>
 
 * This question asks: Does the language have S Expressions?
 

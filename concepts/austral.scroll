@@ -1,0 +1,52 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Austral
+
+title Austral - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="mirth.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="stoneknifeforth.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/austral.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://austral-lang.org/" class="material-symbols-outlined">home</a> <a href="https://github.com/austral/austral/" class="material-symbols-outlined">code</a> <a href="/edit.html?id=austral" class="material-symbols-outlined">edit</a></div>
+
+* Austral is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018 by Fernando Borretti.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#fernandoBorretti Fernando Borretti
+
+codeWithHeader Source code:
+ git clone https://github.com/austral/austral/
+
+dashboard
+ #1374 <span title="TotalRank: 1905 Jobs: 103 Users: 815 Facts: 1155 Links: 987">on PLDB</span>
+ 5 Years Old
+
+* Austral is a new systems programming language. You can think of it as Rust: The Good Parts or a modernized, stripped-down Ada. It features a strong static type system, linear types, capability-based security, and strong modularity.
+
+- Austral website
+ https://austral-lang.org/
+- Austral is developed on <a href="https://github.com/austral/austral/">GitHub</a> and has 408 stars
+- Austral first developed in <a href="../lists/originCommunities.html#httpsGithubComAustral">https://github.com/austral/</a>
+- Read more about Austral on the web: 1.
+ https://borretti.me/article/introducing-austral 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ let db: Db := connect(&quot;localhost&quot;);
+ close(db);
+ -- The below is tuple destructuring notation.
+ let { first as db1: Db, second: Rows } := query(db, &quot;SELECT ...&quot;);
+ close(db); -- error: `db` consumed again.
+ -- another error: `db1` never consumed.
+
+endColumns
+
+keyboardNav mirth.html stoneknifeforth.html
+
+import ../footer.scroll

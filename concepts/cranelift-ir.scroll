@@ -1,0 +1,42 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Cranelift
+
+title Cranelift - Intermediate representation language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="context-diff.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="powerbasic.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cranelift-ir.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://cranelift.readthedocs.io/en/latest/ir.html" class="material-symbols-outlined">home</a> <a href="https://github.com/CraneStation/cranelift" class="material-symbols-outlined">code</a> <a href="/edit.html?id=cranelift-ir" class="material-symbols-outlined">edit</a></div>
+
+* Cranelift is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+ir">intermediate representation language</a> created in 2016 by Jakob Olesen.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
+ link ../lists/creators.html#jakobOlesen Jakob Olesen
+
+codeWithHeader Source code:
+ git clone https://github.com/CraneStation/cranelift
+
+dashboard
+ #808 <span title="TotalRank: 1367 Jobs: 103 Users: 277 Facts: 1662 Links: 987">on PLDB</span>
+ 7 Years Old
+
+* Cranelift code generator
+
+- Cranelift website
+ https://cranelift.readthedocs.io/en/latest/ir.html
+- Cranelift is developed on <a href="https://github.com/CraneStation/cranelift">GitHub</a> and has 2,474 stars
+- Cranelift first developed in <a href="../lists/originCommunities.html#httpsGithubComCraneStation">https://github.com/CraneStation/</a>
+
+<br>
+
+endColumns
+
+keyboardNav context-diff.html powerbasic.html
+
+import ../footer.scroll

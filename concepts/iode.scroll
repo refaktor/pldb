@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Iode
+
+title Iode - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="lamderp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pearscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/iode.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://danilolekovic.com/iode-lang/index.html" class="material-symbols-outlined">home</a> <a href="https://github.com/danilolekovic/iode-d" class="material-symbols-outlined">code</a> <a href="/edit.html?id=iode" class="material-symbols-outlined">edit</a></div>
+
+* Iode is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015 by Danilo Lekovic.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+ link ../lists/creators.html#daniloLekovic Danilo Lekovic
+
+codeWithHeader Source code:
+ git clone https://github.com/danilolekovic/iode-d
+
+dashboard
+ #2340 <span title="TotalRank: 2867 Jobs: 103 Users: 2327 Facts: 1777 Links: 987">on PLDB</span>
+ 8 Years Old
+
+* a programming language
+
+- Iode website
+ https://danilolekovic.com/iode-lang/index.html
+- Iode is developed on <a href="https://github.com/danilolekovic/iode-d">GitHub</a> and has 10 stars
+- Iode first developed in <a href="../lists/originCommunities.html#simonFraserUniversity">Simon Fraser University</a>
+- Iode is written in <a href="d.html">D</a>
+
+<br>
+
+endColumns
+
+keyboardNav lamderp.html pearscript.html
+
+import ../footer.scroll

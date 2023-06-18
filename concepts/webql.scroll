@@ -1,0 +1,49 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title webql
+
+title webql - Query language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="subx.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hummingbird-quickscript.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/webql.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=webql" class="material-symbols-outlined">edit</a></div>
+
+* webql is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 2001.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2001 2001
+
+dashboard
+ #2372 <span title="TotalRank: 2867 Jobs: 103 Users: 2831 Facts: 1777 Links: 987">on PLDB</span>
+ 22 Years Old
+
+* WebQL was developed by QL2 Softaware in 2006. It is used for data integration and collection of unstructured and structured sources including the Web, PDF and Word documents, spreadsheets, email repositories, corporate data stores and more. It is also capable of Optical Character Recognition that enables it to retrive text within images. WebQL also support XML data of arbitrary size, and APIs for embedding WebQL in C, Java or .NET programs.
+
+- webql first developed in <a href="../lists/originCommunities.html#ql2Software">QL2 Software</a>
+- Read more about webql on the web: 1.
+ https://wikivisually.com/wiki/WebQL 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ select
+   URL,
+   clean(CONTENT) as TITLE
+ from
+   links
+ within
+   http://blogsearch.google.com
+   submitting values &#39;wikipedia&#39; for &#39;q&#39;
+ where
+   url_host(URL) not matching &#39;google&#39;
+
+endColumns
+
+keyboardNav subx.html hummingbird-quickscript.html
+
+import ../footer.scroll

@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasInterfaces.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasLabels.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/java.html">Java</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>:
+codeWithHeader Example from <a href="../concepts/java.html">Java</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>:
  Iterator iter = list.iterator();
  //Iterator&lt;MyType&gt; iter = list.iterator();    in J2SE 5.0
  while (iter.hasNext()) {
@@ -22,10 +22,10 @@ codeWithHeader Example from <a href="../rows/java.html">Java</a>, <a href="../ro
          System.out.print(&quot;, &quot;);
  }
 
-codeWithHeader Example from <a href="../rows/python.html">Python</a>, <a href="../rows/cython.html">Cython</a>:
+codeWithHeader Example from <a href="../concepts/python.html">Python</a>, <a href="../concepts/cython.html">Cython</a>:
  https://www.w3schools.com/python/python_iterators.asp
 
-codeWithHeader Example from <a href="../rows/cpp.html">C++</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>:
+codeWithHeader Example from <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>:
  std::vector&lt;int&gt; items;
  items.push_back(5);  // Append integer value &#39;5&#39; to vector &#39;items&#39;.
  items.push_back(2);  // Append integer value &#39;2&#39; to vector &#39;items&#39;.
@@ -35,12 +35,12 @@ codeWithHeader Example from <a href="../rows/cpp.html">C++</a>, <a href="../rows
    std::cout &lt;&lt; *it;  // And print value of &#39;items&#39; for current index.
  }
 
-codeWithHeader Example from <a href="../rows/ruby.html">Ruby</a>:
+codeWithHeader Example from <a href="../concepts/ruby.html">Ruby</a>:
  (0...42).each do |n|
    puts n
  end
 
-codeWithHeader Example from <a href="../rows/matlab.html">MATLAB</a>:
+codeWithHeader Example from <a href="../concepts/matlab.html">MATLAB</a>:
  % Define an array of integers
  myArray = [1,3,5,7,11,13];
  
@@ -49,19 +49,19 @@ codeWithHeader Example from <a href="../rows/matlab.html">MATLAB</a>:
     disp(n)  % Echo integer to Command Window
  end
 
-codeWithHeader Example from <a href="../rows/rust.html">Rust</a>:
+codeWithHeader Example from <a href="../concepts/rust.html">Rust</a>:
  for n in 0..42 {
    println!(&quot;{}&quot;, n);
  }
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  || items = [5,6,7,8]
  for i in items
   printline i
 
-* Languages *with* Iterators include <a href="../rows/java.html">Java</a>, <a href="../rows/python.html">Python</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/ruby.html">Ruby</a>, <a href="../rows/matlab.html">MATLAB</a>, <a href="../rows/rust.html">Rust</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>
+* Languages *with* Iterators include <a href="../concepts/java.html">Java</a>, <a href="../concepts/python.html">Python</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/ruby.html">Ruby</a>, <a href="../concepts/matlab.html">MATLAB</a>, <a href="../concepts/rust.html">Rust</a>, <a href="../concepts/cython.html">Cython</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>
 
-* Languages *without* Iterators include <a href="../rows/progsbase.html">progsbase</a>
+* Languages *without* Iterators include <a href="../concepts/progsbase.html">progsbase</a>
 
 * This question asks: Does this language have iterators?
 

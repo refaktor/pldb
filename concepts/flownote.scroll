@@ -1,0 +1,47 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title flownote
+
+title flownote - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="emesh.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="oopsilon.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/flownote.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://gitter.im/flownote/community" class="material-symbols-outlined">home</a> <a href="https://github.com/Emblem21-OpenSource/flownote" class="material-symbols-outlined">code</a> <a href="/edit.html?id=flownote" class="material-symbols-outlined">edit</a></div>
+
+* flownote is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+codeWithHeader Source code:
+ git clone https://github.com/Emblem21-OpenSource/flownote
+
+dashboard
+ #2078 <span title="TotalRank: 2587 Jobs: 103 Users: 2336 Facts: 1497 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* FlowNote lets developers create, organize, and reason about event-oriented applications with a simple flow-based language.
+
+- flownote website
+ https://gitter.im/flownote/community
+- flownote is developed on <a href="https://github.com/Emblem21-OpenSource/flownote">GitHub</a> and has 6 stars
+- flownote first developed in <a href="../lists/originCommunities.html#httpsGithubComEmblem21OpenSource">https://github.com/Emblem21-OpenSource</a>
+
+<br>
+
+endColumns
+
+## HackerNews discussions of flownote
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: Preview of FlowNote, a language for flow-based paradigms|https://news.ycombinator.com/item?id=19440418|03/20/2019|1|0
+
+keyboardNav emesh.html oopsilon.html
+
+import ../footer.scroll

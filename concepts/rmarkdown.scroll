@@ -1,0 +1,58 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title RMarkdown
+
+title RMarkdown - Text markup language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="starlark.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jflex.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rmarkdown.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://rmarkdown.rstudio.com/" class="material-symbols-outlined">home</a> <a href="https://github.com/rstudio/rmarkdown" class="material-symbols-outlined">code</a> <a href="/edit.html?id=rmarkdown" class="material-symbols-outlined">edit</a></div>
+
+* RMarkdown is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+textMarkup">text markup language</a> created in 2014 by JJ Allaire.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
+ link ../lists/creators.html#jjAllaire JJ Allaire
+
+codeWithHeader Source code:
+ git clone https://github.com/rstudio/rmarkdown
+
+dashboard
+ #376 <span title="TotalRank: 850 Jobs: 103 Users: 195 Facts: 552 Links: 987">on PLDB</span>
+ 9 Years Old
+ 198 <span title="RMarkdown repos on GitHub.">Repos</span>
+
+* Dynamic Documents for R
+
+- RMarkdown website
+ https://rmarkdown.rstudio.com/
+- RMarkdown is developed on <a href="https://github.com/rstudio/rmarkdown">GitHub</a> and has 2,471 stars
+- There are at least 198 RMarkdown repos on <a href="https://github.com/search?q=language:RMarkdown">GitHub</a>
+- RMarkdown first developed in <a href="../lists/originCommunities.html#httpsGithubComRstudio">https://github.com/rstudio</a>
+- file extensions for RMarkdown include rmd and qmd
+- GitHub supports <a href="https://github.com/atom/language-gfm" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for RMarkdown
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/atom/language-gfm'>Linguist</a>:
+ # An example RMarkdown
+ 
+ Some text.
+ 
+ ## A graphic in R
+ 
+ ```{r}
+ plot(1:10)
+ hist(rnorm(10000))
+ ```
+
+endColumns
+
+keyboardNav starlark.html jflex.html
+
+import ../footer.scroll

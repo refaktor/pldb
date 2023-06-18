@@ -18,8 +18,8 @@
  <form style="display:inline-block;" method="get" action="/fullTextSearch">
   <input type="search" id="trueBaseThemeHeaderSearch" name="q" placeholder="Search" autocomplete="off"></input>
 </form>
- <a href="../csv.html">Columns</a>
- <a href="../queries/all.html">Rows</a>
+ <a href="../csv.html">Questions</a>
+ <a href="../queries/all.html">Concepts</a>
 </div>
 <a class="trueBaseThemeGitHubTopRight" href="https://github.com/breck7/pldb"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12  5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422  18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305  3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0  1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12  3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0  .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
 
@@ -30,7 +30,7 @@
 <a class="trueBaseThemePreviousItem" href="hasOctals.html">&lt;</a>
 <a class="trueBaseThemeNextItem" href="hasOperators.html">&gt;</a>
 <div class="scrollColumns" style="column-width:35ch;column-count:4;max-width:200ch;">
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/python.html">Python</a>, <a href="../rows/cython.html">Cython</a>:</div><code class="scrollCodeBlock"># Python Program illustrate how  
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/python.html">Python</a>, <a href="../concepts/cython.html">Cython</a>:</div><code class="scrollCodeBlock"># Python Program illustrate how  
 # to overload an binary + operator 
   
 class A: 
@@ -47,20 +47,20 @@ ob4 = A(&quot;For&quot;)
   
 print(ob1 + ob2) 
 print(ob3 + ob4)</code></div>
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/c3.html">C3</a>:</div><code class="scrollCodeBlock">fn int IntList.get(IntList* this, int idx) @operator([])
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/c3.html">C3</a>:</div><code class="scrollCodeBlock">fn int IntList.get(IntList* this, int idx) @operator([])
 {
    return this.vals[idx];
 }
 ...
 IntList x = ...
 foo(x[1]);</code></div>
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/wolfram.html">Wolfram Language</a>:</div><code class="scrollCodeBlock">f[x_Integer] := x^2;
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/wolfram.html">Wolfram Language</a>:</div><code class="scrollCodeBlock">f[x_Integer] := x^2;
 f[x_String] := &quot;not a number&quot;;
 f[x_Symbol] := x^2;</code></div>
-<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../rows/speedie.html">Speedie</a>:</div><code class="scrollCodeBlock">str = &quot;a&quot; + &quot;b&quot;
+<div class="codeWithHeader"><div class="codeHeader">Example from <a href="../concepts/speedie.html">Speedie</a>:</div><code class="scrollCodeBlock">str = &quot;a&quot; + &quot;b&quot;
 array &lt;~ str</code></div>
-<p class="scrollParagraph">Languages <strong>with</strong> Operator Overloading include <a href="../rows/python.html">Python</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/php.html">PHP</a>, <a href="../rows/perl.html">Perl</a>, <a href="../rows/ruby.html">Ruby</a>, <a href="../rows/matlab.html">MATLAB</a>, <a href="../rows/csharp.html">C#</a>, <a href="../rows/r.html">R</a>, <a href="../rows/swift.html">Swift</a>, <a href="../rows/scala.html">Scala</a>, <a href="../rows/ada.html">Ada</a>, <a href="../rows/rust.html">Rust</a>, <a href="../rows/kotlin.html">Kotlin</a>, <a href="../rows/haskell.html">Haskell</a>, <a href="../rows/lua.html">Lua</a>, <a href="../rows/clojure.html">Clojure</a>, <a href="../rows/dart.html">Dart</a>, <a href="../rows/f-sharp.html">F#</a>, <a href="../rows/eiffel.html">Eiffel</a>, <a href="../rows/smalltalk.html">Smalltalk</a>, <a href="../rows/d.html">D</a>, <a href="../rows/groovy.html">Groovy</a>, <a href="../rows/visual-basic.net.html">Visual Basic .NET</a>, <a href="../rows/io.html">Io</a>, <a href="../rows/ceylon.html">Ceylon</a>, <a href="../rows/object-pascal.html">Object Pascal</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/perl-6.html">Perl 6</a>, <a href="../rows/wolfram.html">Wolfram Language</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/seed7.html">Seed7</a>, <a href="../rows/freebasic.html">FreeBASIC</a>, <a href="../rows/free-pascal.html">Free Pascal</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a></p>
-<p class="scrollParagraph">Languages <strong>without</strong> Operator Overloading include <a href="../rows/java.html">Java</a>, <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/c.html">C</a>, <a href="../rows/go.html">Go</a>, <a href="../rows/pascal.html">Pascal</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/visual-basic.html">Visual Basic</a>, <a href="../rows/modula-2.html">Modula-2</a>, <a href="../rows/basic.html">BASIC</a>, <a href="../rows/progsbase.html">progsbase</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/tick-c.html">Tick C</a>, <a href="../rows/cooc.html">cooC</a>, <a href="../rows/adlib.html">ADLIB</a>, <a href="../rows/static-typescript.html">Static Typescript</a>, <a href="../rows/extended-pascal.html">Extended Pascal</a>, <a href="../rows/modula-2p.html">Modula-2+</a></p>
+<p class="scrollParagraph">Languages <strong>with</strong> Operator Overloading include <a href="../concepts/python.html">Python</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/php.html">PHP</a>, <a href="../concepts/perl.html">Perl</a>, <a href="../concepts/ruby.html">Ruby</a>, <a href="../concepts/matlab.html">MATLAB</a>, <a href="../concepts/csharp.html">C#</a>, <a href="../concepts/r.html">R</a>, <a href="../concepts/swift.html">Swift</a>, <a href="../concepts/scala.html">Scala</a>, <a href="../concepts/ada.html">Ada</a>, <a href="../concepts/rust.html">Rust</a>, <a href="../concepts/kotlin.html">Kotlin</a>, <a href="../concepts/haskell.html">Haskell</a>, <a href="../concepts/lua.html">Lua</a>, <a href="../concepts/clojure.html">Clojure</a>, <a href="../concepts/dart.html">Dart</a>, <a href="../concepts/f-sharp.html">F#</a>, <a href="../concepts/eiffel.html">Eiffel</a>, <a href="../concepts/smalltalk.html">Smalltalk</a>, <a href="../concepts/d.html">D</a>, <a href="../concepts/groovy.html">Groovy</a>, <a href="../concepts/visual-basic.net.html">Visual Basic .NET</a>, <a href="../concepts/io.html">Io</a>, <a href="../concepts/ceylon.html">Ceylon</a>, <a href="../concepts/object-pascal.html">Object Pascal</a>, <a href="../concepts/cython.html">Cython</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/perl-6.html">Perl 6</a>, <a href="../concepts/wolfram.html">Wolfram Language</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/seed7.html">Seed7</a>, <a href="../concepts/freebasic.html">FreeBASIC</a>, <a href="../concepts/free-pascal.html">Free Pascal</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a></p>
+<p class="scrollParagraph">Languages <strong>without</strong> Operator Overloading include <a href="../concepts/java.html">Java</a>, <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/c.html">C</a>, <a href="../concepts/go.html">Go</a>, <a href="../concepts/pascal.html">Pascal</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/visual-basic.html">Visual Basic</a>, <a href="../concepts/modula-2.html">Modula-2</a>, <a href="../concepts/basic.html">BASIC</a>, <a href="../concepts/progsbase.html">progsbase</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/tick-c.html">Tick C</a>, <a href="../concepts/cooc.html">cooC</a>, <a href="../concepts/adlib.html">ADLIB</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>, <a href="../concepts/extended-pascal.html">Extended Pascal</a>, <a href="../concepts/modula-2p.html">Modula-2+</a></p>
 <p class="scrollParagraph">This question asks: Does the language allow operator overloading?</p>
 <p class="scrollParagraph">Read more about Operator Overloading on the web: <a href="https://en.wikibooks.org/wiki/Introduction_to_Programming_Languages/Overloading">1.</a> <a href="https://en.wikipedia.org/wiki/Operator_overloading">2.</a></p>
 <p class="scrollParagraph">HTML of this page generated by <a href="https://github.com/breck7/pldb/blob/main/code/Features.ts">Features.ts</a></p>
@@ -74,7 +74,7 @@ array &lt;~ str</code></div>
     getLinks()[1].click()
  });</script></div>
 <p class="scrollViewSource doNotPrint">
- <a href="https://github.com/breck7/pldb/blob/main/columns/.grammar">View source</a>
+ <a href="https://github.com/breck7/pldb/blob/main/questions/.grammar">View source</a>
 </p>
 
 <script>
@@ -153,7 +153,7 @@ li.scrollParagraph {
  <span>·</span>
  <a href="https://pldb.com/trafficToday.html">Traffic Today</a>
  <span>·</span>
- <a href="https://github.com/breck7/pldb/commits/main">Day 293</a>
+ <a href="https://github.com/breck7/pldb/commits/main">Day 294</a>
  <span>·</span>
  <a href="mailto:feedback@pldb.com">feedback@pldb.com</a>
  <span>·</span>

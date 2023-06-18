@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasIfs.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasImplicitTypeConversions.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/scala.html">Scala</a>:
+codeWithHeader Example from <a href="../concepts/scala.html">Scala</a>:
  // https://docs.scala-lang.org/tour/implicit-parameters.html
  abstract class Monoid[A] {
    def add(x: A, y: A): A
@@ -41,7 +41,7 @@ codeWithHeader Example from <a href="../rows/scala.html">Scala</a>:
    }
  }
 
-* Languages *with* Implicit Arguments include <a href="../rows/scala.html">Scala</a>
+* Languages *with* Implicit Arguments include <a href="../concepts/scala.html">Scala</a>
 
 * This question asks: Does the language have a concept of contextual or implicit parameters?
 

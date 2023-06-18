@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title BUSH
+
+title BUSH - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="air.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="chirp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bush.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://bush.sourceforge.net/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=bush" class="material-symbols-outlined">edit</a></div>
+
+* BUSH is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2002.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
+
+dashboard
+ #2845 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 2789 Links: 987">on PLDB</span>
+ 21 Years Old
+
+* 
+
+- BUSH website
+ http://bush.sourceforge.net/
+- BUSH first developed in <a href="../lists/originCommunities.html#pegaSoft">PegaSoft</a>
+- BUSH on HOPL
+ https://hopl.info/showlanguage.prx?exp=8524
+
+<br>
+
+endColumns
+
+keyboardNav air.html chirp.html
+
+import ../footer.scroll

@@ -1,0 +1,45 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title httplang
+
+title httplang - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="quel.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lil-pl.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/httplang.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/Max00355/HTTPLang" class="material-symbols-outlined">code</a> <a href="/edit.html?id=httplang" class="material-symbols-outlined">edit</a></div>
+
+* httplang is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+codeWithHeader Source code:
+ git clone https://github.com/Max00355/HTTPLang
+
+dashboard
+ #1268 <span title="TotalRank: 1804 Jobs: 103 Users: 714 Facts: 1586 Links: 987">on PLDB</span>
+ 8 Years Old
+
+* A scripting langauge to do HTTP routines. 
+
+- httplang is developed on <a href="https://github.com/Max00355/HTTPLang">GitHub</a> and has 504 stars
+- httplang first developed in <a href="../lists/originCommunities.html#httpsGithubComFPrime">https://github.com/f-prime</a>
+
+<br>
+
+endColumns
+
+## HackerNews discussions of httplang
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: HTTPLang – a scripting language for making HTTP requests|https://news.ycombinator.com/item?id=9598443|05/25/2015|44|8
+
+keyboardNav quel.html lil-pl.html
+
+import ../footer.scroll

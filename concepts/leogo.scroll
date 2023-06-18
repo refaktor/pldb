@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Leogo
+
+title Leogo - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="legol.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="leopard.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/leogo.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=leogo" class="material-symbols-outlined">edit</a></div>
+
+* Leogo is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1997.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
+
+dashboard
+ #3807 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3251 Links: 987">on PLDB</span>
+ 26 Years Old
+
+* 
+
+- Leogo first developed in <a href="../lists/originCommunities.html#universityOfCanterbury">University of Canterbury</a> and <a href="../lists/originCommunities.html#christchurchSchoolOfMedicine">Christchurch School of Medicine</a>
+- Leogo on HOPL
+ https://hopl.info/showlanguage.prx?exp=5767
+- Read more about Leogo on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/b74ed46ea1c409b76ff8dc48b7ed1f32c5db4da8 1.
+
+<br>
+
+endColumns
+
+keyboardNav legol.html leopard.html
+
+import ../footer.scroll

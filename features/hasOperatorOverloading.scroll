@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasOctals.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasOperators.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/python.html">Python</a>, <a href="../rows/cython.html">Cython</a>:
+codeWithHeader Example from <a href="../concepts/python.html">Python</a>, <a href="../concepts/cython.html">Cython</a>:
  # Python Program illustrate how  
  # to overload an binary + operator 
    
@@ -32,7 +32,7 @@ codeWithHeader Example from <a href="../rows/python.html">Python</a>, <a href=".
  print(ob1 + ob2) 
  print(ob3 + ob4)
 
-codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
+codeWithHeader Example from <a href="../concepts/c3.html">C3</a>:
  fn int IntList.get(IntList* this, int idx) @operator([])
  {
     return this.vals[idx];
@@ -41,18 +41,18 @@ codeWithHeader Example from <a href="../rows/c3.html">C3</a>:
  IntList x = ...
  foo(x[1]);
 
-codeWithHeader Example from <a href="../rows/wolfram.html">Wolfram Language</a>:
+codeWithHeader Example from <a href="../concepts/wolfram.html">Wolfram Language</a>:
  f[x_Integer] := x^2;
  f[x_String] := &quot;not a number&quot;;
  f[x_Symbol] := x^2;
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  str = &quot;a&quot; + &quot;b&quot;
  array &lt;~ str
 
-* Languages *with* Operator Overloading include <a href="../rows/python.html">Python</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/php.html">PHP</a>, <a href="../rows/perl.html">Perl</a>, <a href="../rows/ruby.html">Ruby</a>, <a href="../rows/matlab.html">MATLAB</a>, <a href="../rows/csharp.html">C#</a>, <a href="../rows/r.html">R</a>, <a href="../rows/swift.html">Swift</a>, <a href="../rows/scala.html">Scala</a>, <a href="../rows/ada.html">Ada</a>, <a href="../rows/rust.html">Rust</a>, <a href="../rows/kotlin.html">Kotlin</a>, <a href="../rows/haskell.html">Haskell</a>, <a href="../rows/lua.html">Lua</a>, <a href="../rows/clojure.html">Clojure</a>, <a href="../rows/dart.html">Dart</a>, <a href="../rows/f-sharp.html">F#</a>, <a href="../rows/eiffel.html">Eiffel</a>, <a href="../rows/smalltalk.html">Smalltalk</a>, <a href="../rows/d.html">D</a>, <a href="../rows/groovy.html">Groovy</a>, <a href="../rows/visual-basic.net.html">Visual Basic .NET</a>, <a href="../rows/io.html">Io</a>, <a href="../rows/ceylon.html">Ceylon</a>, <a href="../rows/object-pascal.html">Object Pascal</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/perl-6.html">Perl 6</a>, <a href="../rows/wolfram.html">Wolfram Language</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/seed7.html">Seed7</a>, <a href="../rows/freebasic.html">FreeBASIC</a>, <a href="../rows/free-pascal.html">Free Pascal</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>
+* Languages *with* Operator Overloading include <a href="../concepts/python.html">Python</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/php.html">PHP</a>, <a href="../concepts/perl.html">Perl</a>, <a href="../concepts/ruby.html">Ruby</a>, <a href="../concepts/matlab.html">MATLAB</a>, <a href="../concepts/csharp.html">C#</a>, <a href="../concepts/r.html">R</a>, <a href="../concepts/swift.html">Swift</a>, <a href="../concepts/scala.html">Scala</a>, <a href="../concepts/ada.html">Ada</a>, <a href="../concepts/rust.html">Rust</a>, <a href="../concepts/kotlin.html">Kotlin</a>, <a href="../concepts/haskell.html">Haskell</a>, <a href="../concepts/lua.html">Lua</a>, <a href="../concepts/clojure.html">Clojure</a>, <a href="../concepts/dart.html">Dart</a>, <a href="../concepts/f-sharp.html">F#</a>, <a href="../concepts/eiffel.html">Eiffel</a>, <a href="../concepts/smalltalk.html">Smalltalk</a>, <a href="../concepts/d.html">D</a>, <a href="../concepts/groovy.html">Groovy</a>, <a href="../concepts/visual-basic.net.html">Visual Basic .NET</a>, <a href="../concepts/io.html">Io</a>, <a href="../concepts/ceylon.html">Ceylon</a>, <a href="../concepts/object-pascal.html">Object Pascal</a>, <a href="../concepts/cython.html">Cython</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/perl-6.html">Perl 6</a>, <a href="../concepts/wolfram.html">Wolfram Language</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/seed7.html">Seed7</a>, <a href="../concepts/freebasic.html">FreeBASIC</a>, <a href="../concepts/free-pascal.html">Free Pascal</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>
 
-* Languages *without* Operator Overloading include <a href="../rows/java.html">Java</a>, <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/c.html">C</a>, <a href="../rows/go.html">Go</a>, <a href="../rows/pascal.html">Pascal</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/visual-basic.html">Visual Basic</a>, <a href="../rows/modula-2.html">Modula-2</a>, <a href="../rows/basic.html">BASIC</a>, <a href="../rows/progsbase.html">progsbase</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/tick-c.html">Tick C</a>, <a href="../rows/cooc.html">cooC</a>, <a href="../rows/adlib.html">ADLIB</a>, <a href="../rows/static-typescript.html">Static Typescript</a>, <a href="../rows/extended-pascal.html">Extended Pascal</a>, <a href="../rows/modula-2p.html">Modula-2+</a>
+* Languages *without* Operator Overloading include <a href="../concepts/java.html">Java</a>, <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/c.html">C</a>, <a href="../concepts/go.html">Go</a>, <a href="../concepts/pascal.html">Pascal</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/visual-basic.html">Visual Basic</a>, <a href="../concepts/modula-2.html">Modula-2</a>, <a href="../concepts/basic.html">BASIC</a>, <a href="../concepts/progsbase.html">progsbase</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/tick-c.html">Tick C</a>, <a href="../concepts/cooc.html">cooC</a>, <a href="../concepts/adlib.html">ADLIB</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>, <a href="../concepts/extended-pascal.html">Extended Pascal</a>, <a href="../concepts/modula-2p.html">Modula-2+</a>
 
 * This question asks: Does the language allow operator overloading?
 

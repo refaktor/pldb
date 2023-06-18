@@ -1,0 +1,48 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title h
+
+title h - Esoteric programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="yamp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="icalendar-format.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/h-lang.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://h.christine.website/" class="material-symbols-outlined">home</a> <a href="https://github.com/Xe/hlang" class="material-symbols-outlined">code</a> <a href="/edit.html?id=h-lang" class="material-symbols-outlined">edit</a></div>
+
+* h is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+esolang">esoteric programming language</a> created in 2019 by Christine Dodrill.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+ link ../lists/creators.html#christineDodrill Christine Dodrill
+
+codeWithHeader Source code:
+ git clone https://github.com/Xe/hlang
+
+dashboard
+ #1885 <span title="TotalRank: 2396 Jobs: 103 Users: 2239 Facts: 1306 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* The h programming language
+
+- h website
+ https://h.christine.website/
+- h is developed on <a href="https://github.com/Xe/hlang">GitHub</a> and has 14 stars
+- h first developed in <a href="../lists/originCommunities.html#httpsGithubComXeHlangIssues">https://github.com/Xe/hlang/issues</a>
+- Read more about h on the web: 1. 2.
+ https://xeiaso.net/blog/h-language-2019-06-30 1.
+ https://www.reddit.com/r/programming/comments/c7ch43/the_h_programming_language/ 2.
+
+<br>
+
+codeWithHeader Example from the web:
+ h
+
+endColumns
+
+keyboardNav yamp.html icalendar-format.html
+
+import ../footer.scroll

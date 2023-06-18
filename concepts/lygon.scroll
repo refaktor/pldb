@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Lygon
+
+title Lygon - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="lucid-representations.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mac.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lygon.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=lygon" class="material-symbols-outlined">edit</a></div>
+
+* Lygon is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1995.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1995 1995
+
+dashboard
+ #4215 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 2912 Links: 987">on PLDB</span>
+ 28 Years Old
+
+* 
+
+- Lygon first developed in <a href="../lists/originCommunities.html#australianNationalUniversity">Australian National University</a>
+- Explore Lygon snippets on <a href="http://www.rosettacode.org/wiki/Category:Lygon">Rosetta Code</a>
+- Lygon on HOPL
+ https://hopl.info/showlanguage.prx?exp=2564
+- Read more about Lygon on Semantic Scholar: 1.
+ https://semanticscholar.org/paper/13269feafaf99d803fa9f560f2555dd07e104713 1.
+
+<br>
+
+endColumns
+
+keyboardNav lucid-representations.html mac.html
+
+import ../footer.scroll

@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasFunctionComposition.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasFunctions.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/cpp.html">C++</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>:
+codeWithHeader Example from <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>:
  // volume of a cube
  int volume(const int s) {
   return s*s*s;
@@ -23,7 +23,7 @@ codeWithHeader Example from <a href="../rows/cpp.html">C++</a>, <a href="../rows
    return 3.1415926*r*r*static_cast&lt;double&gt;(h);
  }
 
-codeWithHeader Example from <a href="../rows/pascal.html">Pascal</a>, <a href="../rows/adlib.html">ADLIB</a>, <a href="../rows/extended-pascal.html">Extended Pascal</a>:
+codeWithHeader Example from <a href="../concepts/pascal.html">Pascal</a>, <a href="../concepts/adlib.html">ADLIB</a>, <a href="../concepts/extended-pascal.html">Extended Pascal</a>:
  program Adhoc;
  
  function Add(x, y : Integer) : Integer;
@@ -41,16 +41,16 @@ codeWithHeader Example from <a href="../rows/pascal.html">Pascal</a>, <a href=".
      Writeln(Add(&#39;Hello, &#39;, &#39;World!&#39;));    (* Prints &quot;Hello, World!&quot; *)
  end.
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  function volume (|float| a, |float|)
   return a*a*a
  function volume (|float| r, |float| h, |float|)
   // volume of a cylinder
   return math.pi*r*r*h
 
-* Languages *with* Function Overloading include <a href="../rows/cpp.html">C++</a>, <a href="../rows/pascal.html">Pascal</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/dale.html">Dale</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>, <a href="../rows/adlib.html">ADLIB</a>, <a href="../rows/extended-pascal.html">Extended Pascal</a>
+* Languages *with* Function Overloading include <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/pascal.html">Pascal</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/dale.html">Dale</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>, <a href="../concepts/adlib.html">ADLIB</a>, <a href="../concepts/extended-pascal.html">Extended Pascal</a>
 
-* Languages *without* Function Overloading include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/ruby.html">Ruby</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *without* Function Overloading include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/ruby.html">Ruby</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Can you have multiple functions with the same name but different parameters?
 

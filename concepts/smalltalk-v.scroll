@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Smalltalk/V
+
+title Smalltalk/V - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="siri.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="smart.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smalltalk-v.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=smalltalk-v" class="material-symbols-outlined">edit</a></div>
+
+* Smalltalk/V is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1986.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1986 1986
+
+dashboard
+ #3439 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3866 Links: 987">on PLDB</span>
+ 37 Years Old
+
+* 
+
+- Smalltalk/V on HOPL
+ https://hopl.info/showlanguage.prx?exp=1274
+- Read more about Smalltalk/V on the web: 1.
+ https://www.springer.com/la/book/9780387973944 1.
+
+<br>
+
+endColumns
+
+keyboardNav siri.html smart.html
+
+import ../footer.scroll

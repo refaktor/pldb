@@ -1,0 +1,188 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title GDScript
+
+title GDScript - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="visual-prolog.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="arexx.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gdscript.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_basics.html" class="material-symbols-outlined">home</a> <a href="/edit.html?id=gdscript" class="material-symbols-outlined">edit</a></div>
+
+* GDScript is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2008.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
+
+dashboard
+ #689 <span title="TotalRank: 1261 Jobs: 103 Users: 1125 Facts: 171 Links: 987">on PLDB</span>
+ 15 Years Old
+ 39k <span title="GDScript repos on GitHub.">Repos</span>
+
+* GDScript is a high level, dynamically typed programming language used to create content. It uses a syntax similar to Python (blocks are indent-based and many keywords are similar). Its goal is to be optimized for and tightly integrated with Godot Engine, allowing great flexibility for content creation and integration.
+
+- GDScript website
+ http://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_basics.html
+- There are at least 39,447 GDScript repos on <a href="https://github.com/search?q=language:GDScript">GitHub</a>
+- GDScript first developed in <a href="../lists/originCommunities.html#httpsGithubComGodotengine">https://github.com/godotengine</a>
+- file extensions for GDScript include gd
+- The  Google BigQuery Public Dataset GitHub snapshot shows 513 users using GDScript in 681 repos on <a href="https://api.github.com/search/repositories?q=language:GDScript">GitHub</a>
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/gdscript.py">syntax highlighting</a> for GDScript
+- GitHub supports <a href="https://github.com/beefsack/GDScript-sublime" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for GDScript
+- Read more about GDScript on the web: 1.
+ https://en.wikipedia.org/wiki/Godot_(game_engine) 1.
+
+<br>
+
+codeWithHeader Example from the web:
+ # A file is a class!
+ 
+ # Inheritance
+ 
+ extends BaseClass
+ 
+ # Member Variables
+ 
+ var a = 5
+ var s = &quot;Hello&quot;
+ var arr = [1, 2, 3]
+ var dict = {&quot;key&quot;: &quot;value&quot;, 2:3}
+ 
+ # Constants
+ 
+ const ANSWER = 42
+ const THE_NAME = &quot;Charly&quot;
+
+codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/g/GDScript.gd'>hello-world</a>:
+ extends Node2D
+ 
+ func _ready():
+ 	print(&quot;Hello World&quot;)
+ 
+
+codeWithHeader Example from <a href='https://github.com/beefsack/GDScript-sublime'>Linguist</a>:
+ # Taken from https://github.com/okamstudio/godot/wiki/gdscript
+ # a file is a class!
+ 
+ # inheritance
+ 
+ extends BaseClass
+ 
+ # member variables
+ 
+ var a = 5 
+ var s = &quot;Hello&quot;
+ var arr = [1, 2, 3]
+ var dict = {&quot;key&quot;:&quot;value&quot;, 2:3}
+ 
+ # constants
+ 
+ const answer = 42
+ const thename = &quot;Charly&quot;
+ 
+ # built-in vector types
+ 
+ var v2 = Vector2(1, 2)
+ var v3 = Vector3(1, 2, 3)
+ 
+ # function
+ 
+ func some_function(param1, param2):
+     var local_var = 5
+ 
+     if param1 &lt; local_var:
+         print(param1)
+     elif param2 &gt; 5:
+         print(param2)
+     else:
+         print(&quot;fail!&quot;)
+ 
+     for i in range(20):
+         print(i)
+ 
+     while(param2 != 0):
+         param2 -= 1
+ 
+     var local_var2 = param1+3
+     return local_var2
+ 
+ 
+ # subclass
+ 
+ class Something:
+     var a = 10
+ 
+ # constructor
+ 
+ func _init():
+     print(&quot;constructed!&quot;)
+     var lv = Something.new()
+     print(lv.a)
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # \d+j?
+ row
+  Feature Floats
+  FeatureLink ../features/hasFloats.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # (\d+\.\d*|\d*\.\d+)([eE][+-]?[0-9]+)?j?
+ row
+  Feature Hexadecimals
+  FeatureLink ../features/hasHexadecimals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # 0[xX][a-fA-F0-9]+
+ row
+  Feature Strings
+  FeatureLink ../features/hasStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token "
+  Example
+   "Hello world"
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token print
+  Example
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token #
+  Example
+   # A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav visual-prolog.html arexx.html
+
+import ../footer.scroll

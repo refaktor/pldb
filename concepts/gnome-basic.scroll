@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Gnome Basic
+
+title Gnome Basic - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="gemini-protocol.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gp.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gnome-basic.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://www.fact-index.com/g/gn/gnome_basic.html" class="material-symbols-outlined">home</a> <a href="/edit.html?id=gnome-basic" class="material-symbols-outlined">edit</a></div>
+
+* Gnome Basic is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1999.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1999 1999
+
+dashboard
+ #2782 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 3251 Links: 987">on PLDB</span>
+ 24 Years Old
+
+* 
+
+- Gnome Basic website
+ http://www.fact-index.com/g/gn/gnome_basic.html
+- Gnome Basic first developed in <a href="../lists/originCommunities.html#ximian">Ximian</a>
+- Read more about Gnome Basic on the web: 1.
+ https://en.wikipedia.org/wiki/Ximian 1.
+
+<br>
+
+endColumns
+
+keyboardNav gemini-protocol.html gp.html
+
+import ../footer.scroll

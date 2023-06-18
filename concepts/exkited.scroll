@@ -1,0 +1,84 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title exkited
+
+title exkited - Template language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="logos.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="markus.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/exkited.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://exkited.com" class="material-symbols-outlined">home</a> <a href="https://github.com/maelswarm/exkited" class="material-symbols-outlined">code</a> <a href="/edit.html?id=exkited" class="material-symbols-outlined">edit</a></div>
+
+* exkited is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+template">template language</a> created in 2018 by Brandon Barber.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#brandonBarber Brandon Barber
+
+codeWithHeader Source code:
+ git clone https://github.com/maelswarm/exkited
+
+dashboard
+ #1029 <span title="TotalRank: 1597 Jobs: 103 Users: 2373 Facts: 507 Links: 987">on PLDB</span>
+ 5 Years Old
+
+* A minimalistic templating language that lets you generate markup with JavaScript.
+
+- exkited website
+ https://exkited.com
+- exkited is developed on <a href="https://github.com/maelswarm/exkited">GitHub</a> and has 4 stars
+- exkited first developed in <a href="../lists/originCommunities.html#httpsExkitedCom">https://exkited.com</a>
+- <a href="https://exkited.com">exkited.com</a> was registered in 2020
+
+<br>
+
+codeWithHeader Example from the web:
+ &lt;html&gt;
+     &lt;div class=&quot;title&quot;&gt;
+         &lt;@ return data.title @&gt; // A &#39;data&#39; object may be passed rendering.
+     &lt;/div&gt;
+     &lt;@
+         let result = &#39;&#39;;
+         for(let x=0;x&lt;10;x++) {
+             for(let i=0;i&lt;4;i++) {
+                 for(let j=0;j&lt;4;j++){
+                     result += `&lt;div&gt;@{i+j}&lt;/div&gt;`;
+                 }
+             }
+         }
+         return result;
+     @&gt;
+     &lt;div class=&quot;average-price&quot;&gt;
+         &lt;@ return data.prices.reduce((accum, val) =&gt; accum += val) / data.prices.length; @&gt;
+     &lt;/div&gt;
+     &lt;div class=&quot;day-of-week&quot;&gt;
+         &lt;@
+             switch(data.dayIdx) {
+                 case 0:
+                 return &#39;Sunday&#39;;
+                 case 1:
+                 return &#39;Monday&#39;;
+                 case 2:
+                 return &#39;Tuesday&#39;;
+                 case 3:
+                 return &#39;Wednesday&#39;;
+                 case 4:
+                 return &#39;Thursday&#39;;
+                 case 5:
+                 return &#39;Friday&#39;;
+                 case 6:
+                 return &#39;Saturday&#39;;
+             }
+         @&gt;
+     &lt;/div&gt;
+ &lt;/html&gt;
+
+endColumns
+
+keyboardNav logos.html markus.html
+
+import ../footer.scroll

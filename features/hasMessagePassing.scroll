@@ -9,21 +9,21 @@ html
  <a class="trueBaseThemePreviousItem" href="hasMemberVariables.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasMethodChaining.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/elixir.html">Elixir</a>:
+codeWithHeader Example from <a href="../concepts/elixir.html">Elixir</a>:
  send(pid, :ping)
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  || chld = app.fork(&quot;ipc_identifier_123&quot;, app.rawargs)
  chld &lt;~ &quot;send message&quot;
  printline chld.get // receive message
 
-* Languages *with* Message Passing include <a href="../rows/go.html">Go</a>, <a href="../rows/scala.html">Scala</a>, <a href="../rows/objective-c.html">Objective-C</a>, <a href="../rows/elixir.html">Elixir</a>, <a href="../rows/erlang.html">Erlang</a>, <a href="../rows/smalltalk.html">Smalltalk</a>, <a href="../rows/applescript.html">Applescript</a>, <a href="../rows/self.html">Self</a>, <a href="../rows/hypercard.html">HyperCard</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/progsbase.html">progsbase</a>, <a href="../rows/concurrent-ml.html">Concurrent ML</a>, <a href="../rows/cooc.html">cooC</a>
+* Languages *with* Message Passing include <a href="../concepts/go.html">Go</a>, <a href="../concepts/scala.html">Scala</a>, <a href="../concepts/objective-c.html">Objective-C</a>, <a href="../concepts/elixir.html">Elixir</a>, <a href="../concepts/erlang.html">Erlang</a>, <a href="../concepts/smalltalk.html">Smalltalk</a>, <a href="../concepts/applescript.html">Applescript</a>, <a href="../concepts/self.html">Self</a>, <a href="../concepts/hypercard.html">HyperCard</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/progsbase.html">progsbase</a>, <a href="../concepts/concurrent-ml.html">Concurrent ML</a>, <a href="../concepts/cooc.html">cooC</a>
 
-* Languages *without* Message Passing include <a href="../rows/c3.html">C3</a>
+* Languages *without* Message Passing include <a href="../concepts/c3.html">C3</a>
 
 * This question asks: Does the language support message passing?
 

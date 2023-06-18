@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title nlpl
+
+title nlpl - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="jammy.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lsd.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nlpl.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/nlpl-lang/nlpl-editor" class="material-symbols-outlined">code</a> <a href="/edit.html?id=nlpl" class="material-symbols-outlined">edit</a></div>
+
+* nlpl is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2018 by Daniel Garcia.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2018 2018
+ link ../lists/creators.html#danielGarcia Daniel Garcia
+
+codeWithHeader Source code:
+ git clone https://github.com/nlpl-lang/nlpl-editor
+
+dashboard
+ #2170 <span title="TotalRank: 2676 Jobs: 103 Users: 2357 Facts: 1586 Links: 987">on PLDB</span>
+ 5 Years Old
+
+* A notebook like programming environment with code written in plain English
+
+- nlpl is developed on <a href="https://github.com/nlpl-lang/nlpl-editor">GitHub</a> and has 1 stars
+- nlpl first developed in <a href="../lists/originCommunities.html#httpsGithubComNlplLang">https://github.com/nlpl-lang</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ Draw a red circle
+
+endColumns
+
+keyboardNav jammy.html lsd.html
+
+import ../footer.scroll

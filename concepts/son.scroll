@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title son
+
+title son - Text markup language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="datafun.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="synapse.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/son.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/seagreen/Son" class="material-symbols-outlined">code</a> <a href="/edit.html?id=son" class="material-symbols-outlined">edit</a></div>
+
+* son is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+textMarkup">text markup language</a> created in 2017 by Ian Grant Jeffries.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+ link ../lists/creators.html#ianGrantJeffries Ian Grant Jeffries
+
+codeWithHeader Source code:
+ git clone https://github.com/seagreen/Son
+
+dashboard
+ #1432 <span title="TotalRank: 1960 Jobs: 103 Users: 870 Facts: 1442 Links: 987">on PLDB</span>
+ 6 Years Old
+
+* A minimal subset of JSON for machine-to-machine communication
+
+- son is developed on <a href="https://github.com/seagreen/Son">GitHub</a> and has 357 stars
+- Read more about son on the web: 1.
+ https://www.reddit.com/r/haskell/comments/5zdq5y/rfc_son_subset_of_json_for_machinetomachine/ 1.
+
+<br>
+
+endColumns
+
+keyboardNav datafun.html synapse.html
+
+import ../footer.scroll

@@ -1,0 +1,38 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Unicode
+
+title Unicode - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="statemate.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="virt.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/unicode-lang.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=unicode-lang" class="material-symbols-outlined">edit</a></div>
+
+* Unicode is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1955.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1955 1955
+
+dashboard
+ #4316 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 2912 Links: 987">on PLDB</span>
+ 68 Years Old
+
+* 
+
+- Unicode on HOPL
+ https://hopl.info/showlanguage.prx?exp=29
+- Read more about Unicode on the web: 1.
+ https://sci-hub.tw/https://doi.org/10.1080/01621459.1959.11683594 1.
+
+<br>
+
+endColumns
+
+keyboardNav statemate.html virt.html
+
+import ../footer.scroll

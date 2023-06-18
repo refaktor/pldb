@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasMacros.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasManualMemoryManagement.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  // Can be implemented in ES6 using proxies:
  &quot;use strict&quot;;
  if (typeof Proxy == &quot;undefined&quot;) {
@@ -34,7 +34,7 @@ codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a
  console.log(`original.foo = ${original.foo}`); // &quot;original.foo = bar&quot;
  console.log(`proxy.foo = ${proxy.foo}`);       // &quot;proxy.foo = BAR&quot;
 
-codeWithHeader Example from <a href="../rows/php.html">PHP</a>:
+codeWithHeader Example from <a href="../concepts/php.html">PHP</a>:
      public function __set($name, $value)
     {
         echo &quot;Setting &#39;$name&#39; to &#39;$value&#39;\n&quot;;
@@ -57,9 +57,9 @@ codeWithHeader Example from <a href="../rows/php.html">PHP</a>:
         return null;
     }
 
-* Languages *with* Magic Getters and Setters include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/php.html">PHP</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/speedie.html">Speedie</a>
+* Languages *with* Magic Getters and Setters include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/php.html">PHP</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/speedie.html">Speedie</a>
 
-* Languages *without* Magic Getters and Setters include <a href="../rows/cpp.html">C++</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>
+* Languages *without* Magic Getters and Setters include <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>
 
 * This question asks: Does the language have a way to handle undefined getters and setters?
 

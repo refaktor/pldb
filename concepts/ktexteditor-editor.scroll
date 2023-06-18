@@ -1,0 +1,42 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title ktexteditor-editor
+
+title ktexteditor-editor - Editor
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="pact-i.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ccr.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ktexteditor-editor.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://invent.kde.org/frameworks/ktexteditor" class="material-symbols-outlined">home</a> <a href="https://github.com/KDE/ktexteditor" class="material-symbols-outlined">code</a> <a href="/edit.html?id=ktexteditor-editor" class="material-symbols-outlined">edit</a></div>
+
+* ktexteditor-editor is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+editor">editor</a> created in 2014 by Christoph Cullmann.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
+ link ../lists/creators.html#christophCullmann Christoph Cullmann
+
+codeWithHeader Source code:
+ git clone https://github.com/KDE/ktexteditor
+
+dashboard
+ #2380 on PLDB
+ 9 Years Old
+
+* KTextEditor Framework
+
+- ktexteditor-editor website
+ https://invent.kde.org/frameworks/ktexteditor
+- ktexteditor-editor is developed on <a href="https://github.com/KDE/ktexteditor">GitHub</a> and has 60 stars
+- ktexteditor-editor first developed in <a href="../lists/originCommunities.html#kdeEV">KDE e.V.</a>
+
+<br>
+
+endColumns
+
+keyboardNav pact-i.html ccr.html
+
+import ../footer.scroll

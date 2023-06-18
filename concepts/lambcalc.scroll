@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title lambcalc
+
+title lambcalc - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="mountain.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="broccoli-1.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lambcalc.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/WilliamRutherford/LambCalc" class="material-symbols-outlined">code</a> <a href="/edit.html?id=lambcalc" class="material-symbols-outlined">edit</a></div>
+
+* lambcalc is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019 by William Rutherford.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+ link ../lists/creators.html#williamRutherford William Rutherford
+
+codeWithHeader Source code:
+ git clone https://github.com/WilliamRutherford/LambCalc
+
+dashboard
+ #2350 <span title="TotalRank: 2867 Jobs: 103 Users: 2402 Facts: 1777 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* a Lambda Calculus Interpreter
+
+- lambcalc is developed on <a href="https://github.com/WilliamRutherford/LambCalc">GitHub</a> and has 2 stars
+- lambcalc first developed in <a href="../lists/originCommunities.html#httpsGithubComWilliamRutherfordLambCalcIssues">https://github.com/WilliamRutherford/LambCalc/issues</a>
+
+<br>
+
+endColumns
+
+keyboardNav mountain.html broccoli-1.html
+
+import ../footer.scroll

@@ -9,20 +9,20 @@ html
  <a class="trueBaseThemePreviousItem" href="hasBoundedCheckedArrays.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasBuiltInRegex.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  for i in 10
   if i &gt; 3: exit
   printline i // 1,2,3
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  break
  break a_label
 
-* Languages *with* hasBreak include <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/c2.html">C2</a>
+* Languages *with* hasBreak include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/c2.html">C2</a>
 
 * This question asks: Does the language have a keyword for breaking out of a loop?
 

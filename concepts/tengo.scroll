@@ -1,0 +1,42 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title tengo
+
+title tengo - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="sierra.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tromp-diagrams.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tengo.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://tengolang.com/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=tengo" class="material-symbols-outlined">edit</a></div>
+
+* tengo is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+dashboard
+ #2793 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 3251 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* 
+
+- tengo website
+ https://tengolang.com/
+
+<br>
+
+endColumns
+
+## HackerNews discussions of tengo
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: Tengo lang – A fast script language for Go|https://news.ycombinator.com/item?id=18943482|01/18/2019|6|1
+
+keyboardNav sierra.html tromp-diagrams.html
+
+import ../footer.scroll

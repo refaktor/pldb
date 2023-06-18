@@ -1,0 +1,37 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Reuse Description Language
+
+title Reuse Description Language - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="relix.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="robotalk.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/reuse-description-language.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=reuse-description-language" class="material-symbols-outlined">edit</a></div>
+
+* Reuse Description Language is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2005.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2005 2005
+
+dashboard
+ #4289 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 2912 Links: 987">on PLDB</span>
+ 18 Years Old
+
+* RDL: A Language for Framework Instantiation Representation
+
+- Reuse Description Language first developed in <a href="../lists/originCommunities.html#pontificalUniversityCatholicOfRioGrandeDoSul">Pontifical University Catholic of Rio Grande do Sul</a> and <a href="../lists/originCommunities.html#pontificalUniversityOfRioDeJaneiro">Pontifical University of Rio de Janeiro</a> and <a href="../lists/originCommunities.html#universityOfWaterloo">University of Waterloo</a>
+- Read more about Reuse Description Language on the web: 1.
+ https://cs.uwaterloo.ca/research/tr/2005/CS-2005-11.pdf 1.
+
+<br>
+
+endColumns
+
+keyboardNav relix.html robotalk.html
+
+import ../footer.scroll

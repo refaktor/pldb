@@ -1,0 +1,41 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title duro
+
+title duro - Query language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="latte-js.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="blue-programming-language.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/duro.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://duro.sourceforge.net/" class="material-symbols-outlined">home</a> <a href="https://github.com/rehartmann/durodbms" class="material-symbols-outlined">code</a> <a href="/edit.html?id=duro" class="material-symbols-outlined">edit</a></div>
+
+* duro is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 2003.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2003 2003
+
+codeWithHeader Source code:
+ git clone https://github.com/rehartmann/durodbms
+
+dashboard
+ #2249 <span title="TotalRank: 2752 Jobs: 103 Users: 2246 Facts: 1662 Links: 987">on PLDB</span>
+ 20 Years Old
+
+* Relational Database Management System
+
+- duro website
+ http://duro.sourceforge.net/
+- duro is developed on <a href="https://github.com/rehartmann/durodbms">GitHub</a> and has 12 stars
+- duro first developed in <a href="../lists/originCommunities.html#httpsSourceforgeNetPDuroMailmanDuroDevel">https://sourceforge.net/p/duro/mailman/duro-devel/</a>
+
+<br>
+
+endColumns
+
+keyboardNav latte-js.html blue-programming-language.html
+
+import ../footer.scroll

@@ -9,11 +9,11 @@ html
  <a class="trueBaseThemePreviousItem" href="hasTernaryOperators.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasTimestamps.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  fn my_thread() {
      outln(&quot;Hello from thread&quot;)
  }
@@ -22,9 +22,9 @@ codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
      co my_thread()
  }
 
-* Languages *with* Threads include <a href="../rows/java.html">Java</a>, <a href="../rows/python.html">Python</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/pl-i.html">PL/I</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/progsbase.html">progsbase</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/boron.html">Boron</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>, <a href="../rows/hoot-smalltalk.html">hoot-smalltalk</a>, <a href="../rows/pl-i-formac.html">PL/I-FORMAC</a>
+* Languages *with* Threads include <a href="../concepts/java.html">Java</a>, <a href="../concepts/python.html">Python</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/pl-i.html">PL/I</a>, <a href="../concepts/cython.html">Cython</a>, <a href="../concepts/progsbase.html">progsbase</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/boron.html">Boron</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>, <a href="../concepts/hoot-smalltalk.html">hoot-smalltalk</a>, <a href="../concepts/pl-i-formac.html">PL/I-FORMAC</a>
 
-* Languages *without* Threads include <a href="../rows/speedie.html">Speedie</a>
+* Languages *without* Threads include <a href="../concepts/speedie.html">Speedie</a>
 
 * This question asks: Does the language support a concept of threads?
 

@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title emu
+
+title emu - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="dss.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fmj.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/emu.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://calebwin.github.io/emu/" class="material-symbols-outlined">home</a> <a href="/edit.html?id=emu" class="material-symbols-outlined">edit</a></div>
+
+* emu is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+
+dashboard
+ #2809 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 2912 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* 
+
+- emu website
+ https://calebwin.github.io/emu/
+- emu first developed in <a href="../lists/originCommunities.html#httpsGithubComBanyanTeam">https://github.com/banyan-team</a>
+
+<br>
+
+endColumns
+
+## HackerNews discussions of emu
+
+pipeTable
+ title|titleLink|date|score|comments
+ Show HN: Emu – language for numerical computing embedded in Rust|https://news.ycombinator.com/item?id=20030491|05/28/2019|1|0
+
+keyboardNav dss.html fmj.html
+
+import ../footer.scroll

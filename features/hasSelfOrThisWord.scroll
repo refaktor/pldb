@@ -9,18 +9,18 @@ html
  <a class="trueBaseThemePreviousItem" href="hasScientificNotation.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasSemanticIndentation.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  self.Remove
  .remove
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  self
 
-* Languages *with* hasSelfOrThisWord include <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* hasSelfOrThisWord include <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does a language have a keyword or syntax to refer to the current instance?
 

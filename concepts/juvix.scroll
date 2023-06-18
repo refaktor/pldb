@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title juvix
+
+title juvix - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="crmsh.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="short-code-computer-language.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/juvix.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://juvix.org" class="material-symbols-outlined">home</a> <a href="https://github.com/cryptiumlabs/juvix" class="material-symbols-outlined">code</a> <a href="/edit.html?id=juvix" class="material-symbols-outlined">edit</a></div>
+
+* juvix is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2017 by Christopher Goes.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+ link ../lists/creators.html#christopherGoes Christopher Goes
+
+codeWithHeader Source code:
+ git clone https://github.com/cryptiumlabs/juvix
+
+dashboard
+ #1466 <span title="TotalRank: 1993 Jobs: 103 Users: 903 Facts: 1497 Links: 987">on PLDB</span>
+ 6 Years Old
+
+* Juvix empowers developers to write code in a high-level, functional language, compile it to gas-efficient output VM instructions, and formally verify the safety of their contracts prior to deployment and execution.
+
+- juvix website
+ https://juvix.org
+- juvix is developed on <a href="https://github.com/cryptiumlabs/juvix">GitHub</a> and has 301 stars
+- juvix first developed in <a href="../lists/originCommunities.html#httpsGithubComAnoma">https://github.com/anoma/</a>
+- <a href="https://juvix.org">juvix.org</a> was registered in 2017
+
+<br>
+
+endColumns
+
+keyboardNav crmsh.html short-code-computer-language.html
+
+import ../footer.scroll

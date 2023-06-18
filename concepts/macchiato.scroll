@@ -1,0 +1,56 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Macchiato
+
+title Macchiato - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="ceu.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="concurnas.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/macchiato.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/tamamu/macchiato" class="material-symbols-outlined">home</a> <a href="https://github.com/tamamu/macchiato" class="material-symbols-outlined">code</a> <a href="/edit.html?id=macchiato" class="material-symbols-outlined">edit</a></div>
+
+* Macchiato is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2019 by Eddie aka. tamamu.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
+ link ../lists/creators.html#eddieAkaTamamu Eddie aka. tamamu
+
+codeWithHeader Source code:
+ git clone https://github.com/tamamu/macchiato
+
+dashboard
+ #1633 <span title="TotalRank: 2142 Jobs: 103 Users: 2414 Facts: 1052 Links: 987">on PLDB</span>
+ 4 Years Old
+
+* An AltJS of a dialect of Lisp
+
+- Macchiato website
+ https://github.com/tamamu/macchiato
+- Macchiato is developed on <a href="https://github.com/tamamu/macchiato">GitHub</a> and has 0 stars
+- Macchiato first developed in <a href="../lists/originCommunities.html#httpsGithubComTamamuMacchiatoIssues">https://github.com/tamamu/macchiato/issues</a>
+- file extensions for Macchiato include at
+- Macchiato compiles to <a href="javascript.html">JavaScript</a>
+- Macchiato is written in <a href="elixir.html">Elixir</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ (defn inc (x) (+ 1 x))
+ (defn fizzbuzz (n)
+   (doseq (i (range 1 n#inc))
+          (match (list (mod i 3) (mod i 5))
+                 (0 0) (console:log &quot;FizzBuzz&quot;)
+                 (0 _) (console:log &quot;Fizz&quot;)
+                 (_ 0) (console:log &quot;Buzz&quot;)
+                 _     (console:log i))))
+ (fizzbuzz 20)
+
+endColumns
+
+keyboardNav ceu.html concurnas.html
+
+import ../footer.scroll

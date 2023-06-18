@@ -1,0 +1,104 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Closure Templates
+
+title Closure Templates - Template language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="korn-shell.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="luna.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/closure-templates.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/google/closure-templates" class="material-symbols-outlined">code</a> <a href="/edit.html?id=closure-templates" class="material-symbols-outlined">edit</a></div>
+
+* Closure Templates is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+template">template language</a> created in 2009.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
+
+codeWithHeader Source code:
+ git clone https://github.com/google/closure-templates
+
+dashboard
+ #436 <span title="TotalRank: 939 Jobs: 103 Users: 466 Facts: 370 Links: 987">on PLDB</span>
+ 14 Years Old
+ 424k <span title="Closure Templates repos on GitHub.">Repos</span>
+
+* A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements
+
+- Closure Templates is developed on <a href="https://github.com/google/closure-templates">GitHub</a> and has 561 stars
+- There are at least 424,389 Closure Templates repos on <a href="https://github.com/search?q=language:Closure Templates">GitHub</a>
+- Closure Templates first developed in <a href="../lists/originCommunities.html#google">Google</a>
+- file extensions for Closure Templates include soy
+- The  Google BigQuery Public Dataset GitHub snapshot shows 18 users using Closure Templates in 25 repos on <a href="https://api.github.com/search/repositories?q=language:Closure Templates">GitHub</a>
+- GitHub supports <a href="https://github.com/mthadley/language-closure-templates" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for Closure Templates
+
+<br>
+
+codeWithHeader Example from the web:
+ /**
+  * Says hello to the world.
+  */
+ {template .helloWorld}
+   Hello world!
+ {/template}
+
+codeWithHeader Example from <a href='https://github.com/mthadley/language-closure-templates'>Linguist</a>:
+ {namespace Exmaple}
+ 
+ /**
+  * Example
+  */
+ {template .foo}
+   {@param count: string}
+   {@param? name: int}
+ 
+   {if isNonnull($name)}
+     &lt;h1&gt;{$name}&lt;/h1&gt;
+   {/if}
+ 
+   &lt;div class=&quot;content&quot;&gt;
+     {switch count}
+       {case 0}
+         {call Empty.view}
+           {param count: $count /}
+         {/call}
+       {default}
+         &lt;h2&gt;Wow, so many!&lt;/h2&gt;
+     {/switch}
+   &lt;/div&gt;
+ {/template}
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   /* A comment
+   */
+ row
+  Feature MultiLine Comments
+  FeatureLink ../features/hasMultiLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token /* */
+  Example
+   /* A comment
+   */
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav korn-shell.html luna.html
+
+import ../footer.scroll

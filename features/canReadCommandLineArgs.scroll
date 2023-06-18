@@ -9,21 +9,21 @@ html
  <a class="trueBaseThemePreviousItem" href="canDoShebang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="canUseQuestionMarksAsPartOfIdentifier.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  printline app[0]
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  use std::os::{ARGS}
  
  fn main() {
      outln(ARGS)
  }
 
-* Languages *with* canReadCommandLineArgs include <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* canReadCommandLineArgs include <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Does this language support command line arguments?
 

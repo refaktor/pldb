@@ -1,0 +1,48 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title runic
+
+title runic - Template language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="qed-lang.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="seq.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/runic.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://wiki.xxiivv.com/#runic" class="material-symbols-outlined">home</a> <a href="/edit.html?id=runic" class="material-symbols-outlined">edit</a></div>
+
+* runic is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+template">template language</a> created in 2017.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+
+dashboard
+ #2495 <span title="TotalRank: 3058 Jobs: 103 Users: 2435 Facts: 1968 Links: 987">on PLDB</span>
+ 6 Years Old
+
+* Runic is a first order templating language operating on arrays of strings.
+
+- runic website
+ https://wiki.xxiivv.com/#runic
+- runic first developed in <a href="../lists/originCommunities.html#httpsGithubComXxiivv">https://github.com/XXIIVV</a>
+
+<br>
+
+codeWithHeader Example from the web:
+ * Header
+ &amp; Paragraph
+ - List Element 1
+ - List Element 2
+ | table | row1
+ | table | row2
+ # -- CODE BLOCK
+ &gt; -- HTML BLOCK
+ λ -- LAIN BLOCK
+
+endColumns
+
+keyboardNav qed-lang.html seq.html
+
+import ../footer.scroll

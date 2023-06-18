@@ -1,0 +1,44 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title crmsh
+
+title crmsh - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="chained-arrow-notation.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="juvix.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/crmsh.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://crmsh.github.io/" class="material-symbols-outlined">home</a> <a href="https://github.com/ClusterLabs/crmsh" class="material-symbols-outlined">code</a> <a href="/edit.html?id=crmsh" class="material-symbols-outlined">edit</a></div>
+
+* crmsh is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2008 by Dejan Muhamedagic.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
+ link ../lists/creators.html#dejanMuhamedagic Dejan Muhamedagic
+
+codeWithHeader Source code:
+ git clone https://github.com/ClusterLabs/crmsh
+
+dashboard
+ #1465 <span title="TotalRank: 1987 Jobs: 103 Users: 897 Facts: 1306 Links: 987">on PLDB</span>
+ 15 Years Old
+
+* crmsh is a cluster management shell for the Pacemaker High Availability stack.
+
+- crmsh website
+ http://crmsh.github.io/
+- crmsh is developed on <a href="https://github.com/ClusterLabs/crmsh">GitHub</a> and has 115 stars
+- crmsh first developed in <a href="../lists/originCommunities.html#httpsGithubComClusterLabs">https://github.com/ClusterLabs/</a>
+- file extensions for crmsh include crmsh and pcmk
+- <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/dsls.py">syntax highlighting</a> for crmsh
+
+<br>
+
+endColumns
+
+keyboardNav chained-arrow-notation.html juvix.html
+
+import ../footer.scroll

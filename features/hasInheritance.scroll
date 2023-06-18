@@ -9,15 +9,15 @@ html
  <a class="trueBaseThemePreviousItem" href="hasInfixNotation.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasIntegers.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/static-typescript.html">Static Typescript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>:
  class B {}
  class A extends B {}
 
-codeWithHeader Example from <a href="../rows/python.html">Python</a>, <a href="../rows/cython.html">Cython</a>:
+codeWithHeader Example from <a href="../concepts/python.html">Python</a>, <a href="../concepts/cython.html">Cython</a>:
  class SumComputer(object):
     def __init__(self, a, b):
         self.a = a
@@ -35,12 +35,12 @@ codeWithHeader Example from <a href="../rows/python.html">Python</a>, <a href=".
       def transform(self, x):
           return x * x * x
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  class Person (Animal)
 
-* Languages *with* Inheritance include <a href="../rows/java.html">Java</a>, <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/python.html">Python</a>, <a href="../rows/php.html">PHP</a>, <a href="../rows/scala.html">Scala</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/dart.html">Dart</a>, <a href="../rows/coffeescript.html">CoffeeScript</a>, <a href="../rows/groovy.html">Groovy</a>, <a href="../rows/pug.html">Pug</a>, <a href="../rows/systemverilog.html">SystemVerilog</a>, <a href="../rows/cython.html">Cython</a>, <a href="../rows/c3.html">C3</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/twig.html">Twig</a>, <a href="../rows/pizza.html">Pizza</a>, <a href="../rows/apex.html">Apex</a>, <a href="../rows/spider.html">spider</a>, <a href="../rows/jspp.html">JS++</a>, <a href="../rows/spiderbasic.html">SpiderBasic</a>, <a href="../rows/oracle-java.html">Oracle Java</a>, <a href="../rows/deesel.html">Deesel</a>, <a href="../rows/static-typescript.html">Static Typescript</a>
+* Languages *with* Inheritance include <a href="../concepts/java.html">Java</a>, <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/python.html">Python</a>, <a href="../concepts/php.html">PHP</a>, <a href="../concepts/scala.html">Scala</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/dart.html">Dart</a>, <a href="../concepts/coffeescript.html">CoffeeScript</a>, <a href="../concepts/groovy.html">Groovy</a>, <a href="../concepts/pug.html">Pug</a>, <a href="../concepts/systemverilog.html">SystemVerilog</a>, <a href="../concepts/cython.html">Cython</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/twig.html">Twig</a>, <a href="../concepts/pizza.html">Pizza</a>, <a href="../concepts/apex.html">Apex</a>, <a href="../concepts/spider.html">spider</a>, <a href="../concepts/jspp.html">JS++</a>, <a href="../concepts/spiderbasic.html">SpiderBasic</a>, <a href="../concepts/oracle-java.html">Oracle Java</a>, <a href="../concepts/deesel.html">Deesel</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>
 
-* Languages *without* Inheritance include <a href="../rows/progsbase.html">progsbase</a>
+* Languages *without* Inheritance include <a href="../concepts/progsbase.html">progsbase</a>
 
 * This question asks: Does this language have class inheritance?
 

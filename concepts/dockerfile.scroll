@@ -1,0 +1,134 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title Dockerfile
+
+title Dockerfile - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="tsv.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="rust-mir.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dockerfile.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://docs.docker.com/engine/reference/builder/" class="material-symbols-outlined">home</a> <a href="https://twitter.com/docker"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></a> <a href="/edit.html?id=dockerfile" class="material-symbols-outlined">edit</a></div>
+
+* Dockerfile is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2013.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2013 2013
+
+dashboard
+ #573 <span title="TotalRank: 1140 Jobs: 103 Users: 1125 Facts: 370 Links: 667">on PLDB</span>
+ 10 Years Old
+ 340k <span title="Dockerfile repos on GitHub.">Repos</span>
+
+monacoEditor dockerfile
+ # This file describes the standard way to build Docker, using docker
+ docker-version 0.4.2
+ from	ubuntu:12.04
+ maintainer	Solomon Hykes <solomon@dotcloud.com>
+ # Build dependencies
+ run	apt-get install -y -q curl
+ run	apt-get install -y -q git
+ # Install Go
+ run	curl -s https://go.googlecode.com/files/go1.1.1.linux-amd64.tar.gz | tar -v -C /usr/local -xz
+ env	PATH	/usr/local/go/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin
+ env	GOPATH	/go
+ env	CGO_ENABLED 0
+ run	cd /tmp && echo 'package main' > t.go && go test -a -i -v
+ # Download dependencies
+ run	PKG=github.com/kr/pty REV=27435c699;		 git clone http://$PKG /go/src/$PKG && cd /go/src/$PKG && git checkout -f $REV
+ run	PKG=github.com/gorilla/context/ REV=708054d61e5; git clone http://$PKG /go/src/$PKG && cd /go/src/$PKG && git checkout -f $REV
+ run	PKG=github.com/gorilla/mux/ REV=9b36453141c;	 git clone http://$PKG /go/src/$PKG && cd /go/src/$PKG && git checkout -f $REV
+ # Run dependencies
+ run	apt-get install -y iptables
+ # lxc requires updating ubuntu sources
+ run	echo 'deb http://archive.ubuntu.com/ubuntu precise main universe' > /etc/apt/sources.list
+ run	apt-get update
+ run	apt-get install -y lxc
+ run	apt-get install -y aufs-tools
+ # Upload docker source
+ add	.       /go/src/github.com/dotcloud/docker
+ # Build the binary
+ run	cd /go/src/github.com/dotcloud/docker/docker && go install -ldflags "-X main.GITCOMMIT '??' -d -w"
+ env	PATH	/usr/local/go/bin:/go/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin
+ cmd	["docker"]
+
+* 
+
+- Dockerfile website
+ https://docs.docker.com/engine/reference/builder/
+- There are at least 339,978 Dockerfile repos on <a href="https://github.com/search?q=language:Dockerfile">GitHub</a>
+- Dockerfile first developed in <a href="../lists/originCommunities.html#dockerInc">Docker, Inc.</a>
+- file extensions for Dockerfile include dockerfile
+- Dockerfile on Twitter
+ https://twitter.com/docker
+- The  Google BigQuery Public Dataset GitHub snapshot shows 20k users using Dockerfile in 26k repos on <a href="https://api.github.com/search/repositories?q=language:Dockerfile">GitHub</a>
+- Dockerfile <a href="language-server-protocol.html">LSP</a> <a href="https://github.com/rcjsuen/dockerfile-language-server-nodejs">implementation</a>
+- <a href="monaco.html">Monaco</a> <a href="https://github.com/microsoft/monaco-editor/tree/main/src/basic-languages/dockerfile">package</a> for syntax highlighting Dockerfile
+- GitHub supports <a href="https://github.com/asbjornenge/Docker.tmbundle" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for Dockerfile
+
+<br>
+
+codeWithHeader Example from <a href='https://github.com/asbjornenge/Docker.tmbundle'>Linguist</a>:
+ # This file describes the standard way to build Docker, using docker
+ docker-version 0.4.2
+ from	ubuntu:12.04
+ maintainer	Solomon Hykes &lt;solomon@dotcloud.com&gt;
+ # Build dependencies
+ run	apt-get install -y -q curl
+ run	apt-get install -y -q git
+ # Install Go
+ run	curl -s https://go.googlecode.com/files/go1.1.1.linux-amd64.tar.gz | tar -v -C /usr/local -xz
+ env	PATH	/usr/local/go/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin
+ env	GOPATH	/go
+ env	CGO_ENABLED 0
+ run	cd /tmp &amp;&amp; echo &#39;package main&#39; &gt; t.go &amp;&amp; go test -a -i -v
+ # Download dependencies
+ run	PKG=github.com/kr/pty REV=27435c699;		 git clone http://$PKG /go/src/$PKG &amp;&amp; cd /go/src/$PKG &amp;&amp; git checkout -f $REV
+ run	PKG=github.com/gorilla/context/ REV=708054d61e5; git clone http://$PKG /go/src/$PKG &amp;&amp; cd /go/src/$PKG &amp;&amp; git checkout -f $REV
+ run	PKG=github.com/gorilla/mux/ REV=9b36453141c;	 git clone http://$PKG /go/src/$PKG &amp;&amp; cd /go/src/$PKG &amp;&amp; git checkout -f $REV
+ # Run dependencies
+ run	apt-get install -y iptables
+ # lxc requires updating ubuntu sources
+ run	echo &#39;deb http://archive.ubuntu.com/ubuntu precise main universe&#39; &gt; /etc/apt/sources.list
+ run	apt-get update
+ run	apt-get install -y lxc
+ run	apt-get install -y aufs-tools
+ # Upload docker source
+ add	.       /go/src/github.com/dotcloud/docker
+ # Build the binary
+ run	cd /go/src/github.com/dotcloud/docker/docker &amp;&amp; go install -ldflags &quot;-X main.GITCOMMIT &#39;??&#39; -d -w&quot;
+ env	PATH	/usr/local/go/bin:/go/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin
+ cmd	[&quot;docker&quot;]
+
+endColumns
+
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   # A comment
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token #
+  Example
+   # A comment
+ row
+  Feature Semantic Indentation
+  FeatureLink ../features/hasSemanticIndentation.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+
+keyboardNav tsv.html rust-mir.html
+
+import ../footer.scroll

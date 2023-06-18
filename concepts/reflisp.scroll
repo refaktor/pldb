@@ -1,0 +1,39 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title RefLisp
+
+title RefLisp - Programming language
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="ref-arf.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="regent.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/reflisp.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=reflisp" class="material-symbols-outlined">edit</a></div>
+
+* RefLisp is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 1988.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
+
+dashboard
+ #4005 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3251 Links: 987">on PLDB</span>
+ 35 Years Old
+
+* 
+
+- RefLisp first developed in <a href="../lists/originCommunities.html#httpsSourceforgeNetPReflispBugs">https://sourceforge.net/p/reflisp/bugs</a>
+- RefLisp on HOPL
+ https://hopl.info/showlanguage.prx?exp=1022
+- Read more about RefLisp on the web: 1.
+ https://sourceforge.net/projects/reflisp/ 1.
+
+<br>
+
+endColumns
+
+keyboardNav ref-arf.html regent.html
+
+import ../footer.scroll

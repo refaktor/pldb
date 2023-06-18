@@ -9,15 +9,15 @@ html
  <a class="trueBaseThemePreviousItem" href="hasStaticMethods.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasStreams.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  || x = &quot;Hello&quot;
  x = 1 // fails to compile... because x is a string
 
-* Languages *with* Static Typing include <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/nim.html">Nim</a>, <a href="../rows/haxe.html">Haxe</a>, <a href="../rows/ceylon.html">Ceylon</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/xtend.html">Xtend</a>, <a href="../rows/carp.html">carp</a>, <a href="../rows/progsbase.html">progsbase</a>, <a href="../rows/jule.html">Jule</a>, <a href="../rows/sisal.html">SISAL</a>, <a href="../rows/static-typescript.html">Static Typescript</a>
+* Languages *with* Static Typing include <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/nim.html">Nim</a>, <a href="../concepts/haxe.html">Haxe</a>, <a href="../concepts/ceylon.html">Ceylon</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/xtend.html">Xtend</a>, <a href="../concepts/carp.html">carp</a>, <a href="../concepts/progsbase.html">progsbase</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/sisal.html">SISAL</a>, <a href="../concepts/static-typescript.html">Static Typescript</a>
 
 * This question asks: Does the language have static typing at compile time?
 

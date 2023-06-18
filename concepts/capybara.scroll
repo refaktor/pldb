@@ -1,0 +1,43 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title capybara
+
+title capybara - Library
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="semver.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="karel.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/capybara.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="http://teamcapybara.github.io/capybara/" class="material-symbols-outlined">home</a> <a href="https://github.com/teamcapybara/capybara" class="material-symbols-outlined">code</a> <a href="/edit.html?id=capybara" class="material-symbols-outlined">edit</a></div>
+
+* capybara is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+library">library</a> created in 2009 by Jonas Nicklas and Kevin Fitzpatrick.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
+ link ../lists/creators.html#jonasNicklas Jonas Nicklas
+ link ../lists/creators.html#kevinFitzpatrick Kevin Fitzpatrick
+
+codeWithHeader Source code:
+ git clone https://github.com/teamcapybara/capybara
+
+dashboard
+ #771 on PLDB
+ 14 Years Old
+
+* Acceptance test framework for web applications
+
+- capybara website
+ http://teamcapybara.github.io/capybara/
+- capybara is developed on <a href="https://github.com/teamcapybara/capybara">GitHub</a> and has 9,606 stars
+- capybara first developed in <a href="../lists/originCommunities.html#teamcapybara">teamcapybara</a>
+
+<br>
+
+endColumns
+
+keyboardNav semver.html karel.html
+
+import ../footer.scroll

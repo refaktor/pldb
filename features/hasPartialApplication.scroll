@@ -9,15 +9,15 @@ html
  <a class="trueBaseThemePreviousItem" href="hasPairs.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasPatternMatching.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/typescript.html">TypeScript</a>:
+codeWithHeader Example from <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>:
  const addNumbers = (num1, num2) =&gt; num1 + num2
  const add5 = num =&gt; addNumbers(10, num)
 
-codeWithHeader Example from <a href="../rows/cpp.html">C++</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>:
+codeWithHeader Example from <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>:
  // http://www.cplusplus.com/reference/functional/bind/
  // bind example
  #include &lt;iostream&gt;     // std::cout
@@ -59,29 +59,29 @@ codeWithHeader Example from <a href="../rows/cpp.html">C++</a>, <a href="../rows
    return 0;
  }
 
-codeWithHeader Example from <a href="../rows/perl.html">Perl</a>:
+codeWithHeader Example from <a href="../concepts/perl.html">Perl</a>:
  sub first-and-last ( $first, $last ) {
     say &quot;Name is $first $last&quot;;
  }
  my &amp;surname-smith = &amp;first-and-last.assuming( *, &#39;Smith&#39; );
  &amp;surname-smith.( &#39;Joe&#39; ); # OUTPUT: «Name is Joe Smith␤» 
 
-codeWithHeader Example from <a href="../rows/scala.html">Scala</a>:
+codeWithHeader Example from <a href="../concepts/scala.html">Scala</a>:
  def add(x: Int, y: Int) = {x+y}; add(1, _: Int)
 
-codeWithHeader Example from <a href="../rows/clojure.html">Clojure</a>:
+codeWithHeader Example from <a href="../concepts/clojure.html">Clojure</a>:
  (defn fun-full [x y] (+ x y))
  (fun-full 2 3)
  (def fun-half (partial fun-full 2))
  (fun-half 3)
 
-codeWithHeader Example from <a href="../rows/speedie.html">Speedie</a>:
+codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  
  main
  &quot;hello world ${app.args[0]}&quot;
  
 
-* Languages *with* Partial Application include <a href="../rows/javascript.html">JavaScript</a>, <a href="../rows/cpp.html">C++</a>, <a href="../rows/perl.html">Perl</a>, <a href="../rows/scala.html">Scala</a>, <a href="../rows/typescript.html">TypeScript</a>, <a href="../rows/clojure.html">Clojure</a>, <a href="../rows/speedie.html">Speedie</a>, <a href="../rows/real-time-concurrent-c.html">Real-Time Concurrent C</a>
+* Languages *with* Partial Application include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/cpp.html">C++</a>, <a href="../concepts/perl.html">Perl</a>, <a href="../concepts/scala.html">Scala</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/clojure.html">Clojure</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/real-time-concurrent-c.html">Real-Time Concurrent C</a>
 
 * This question asks: Does the language support partial application?
 

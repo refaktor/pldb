@@ -1,0 +1,40 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title vega-editor-app
+
+title vega-editor-app - Application
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="winbatch.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gist.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/vega-editor-app.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="https://vega.github.io/editor/" class="material-symbols-outlined">home</a> <a href="https://github.com/vega/editor" class="material-symbols-outlined">code</a> <a href="/edit.html?id=vega-editor-app" class="material-symbols-outlined">edit</a></div>
+
+* vega-editor-app is an <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+application">application</a> created in 2015.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
+
+codeWithHeader Source code:
+ git clone https://github.com/vega/editor
+
+dashboard
+ #1887 on PLDB
+ 8 Years Old
+
+* Editor/IDE for Vega and Vega-Lite
+
+- vega-editor-app website
+ https://vega.github.io/editor/
+- vega-editor-app is developed on <a href="https://github.com/vega/editor">GitHub</a> and has 116 stars
+
+<br>
+
+endColumns
+
+keyboardNav winbatch.html gist.html
+
+import ../footer.scroll

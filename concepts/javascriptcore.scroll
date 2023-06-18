@@ -1,0 +1,37 @@
+import ../header.scroll
+baseUrl https://pldb.com/concepts/
+title JavaScriptCore
+
+title JavaScriptCore - Virtual machine
+ hidden
+
+html
+ <a class="trueBaseThemePreviousItem" href="jacal.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jbc.html">&gt;</a>
+
+viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/javascriptcore.pldb
+
+startColumns 4
+
+<div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=javascriptcore" class="material-symbols-outlined">edit</a></div>
+
+* JavaScriptCore is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+vm">virtual machine</a> created in 2002.
+ link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
+
+dashboard
+ #4548 on PLDB
+ 21 Years Old
+
+* The JavaScriptCore framework provides the ability to evaluate JavaScript programs from within Swift, Objective-C, and C-based apps. You can use also use JavaScriptCore to insert custom objects into the JavaScript environment.
+
+- JavaScriptCore first developed in <a href="../lists/originCommunities.html#appleInc">Apple, Inc</a>
+- Read more about JavaScriptCore on the web: 1.
+ https://en.wikipedia.org/wiki/WebKit#JavaScriptCore 1.
+
+<br>
+
+endColumns
+
+keyboardNav jacal.html jbc.html
+
+import ../footer.scroll

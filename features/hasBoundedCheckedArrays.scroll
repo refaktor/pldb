@@ -9,14 +9,14 @@ html
  <a class="trueBaseThemePreviousItem" href="hasBooleans.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasBreak.html">&gt;</a>
 
-viewSourceUrl https://github.com/breck7/pldb/blob/main/columns/.grammar
+viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-codeWithHeader Example from <a href="../rows/jule.html">Jule</a>:
+codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  let arr: [5]byte = [&#39;a&#39;, &#39;b&#39;, &#39;c&#39;, &#39;d&#39;, &#39;e&#39;]
 
-* Languages *with* hasBoundedCheckedArrays include <a href="../rows/c3.html">C3</a>, <a href="../rows/jule.html">Jule</a>
+* Languages *with* hasBoundedCheckedArrays include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/jule.html">Jule</a>
 
 * This question asks: Are array boundaries checked by the language?
 
