@@ -197,7 +197,7 @@
 <td><a href="search.html?q=select+creators%0D%0AnotMissing+creators%0D%0AsortBy+creators%0D%0Areverse">creators</a></td>
 <td>What are the name(s) of the original creators of the language delimited by " and "?</td>
 <td>Matthew Steel</td>
-<td>1247</td>
+<td>1249</td>
 <td>26%</td>
 <td>string[]</td>
 <td></td>
@@ -227,7 +227,7 @@
 <td><a href="search.html?q=select+wikipedia%0D%0AnotMissing+wikipedia%0D%0AsortBy+wikipedia%0D%0Areverse">wikipedia</a></td>
 <td>What is the URL of this entity on Wikipedia, if and only if it has a page dedicated to it?</td>
 <td><a href="https://en.wikipedia.org/wiki/">https://en.wikipedia.org/wiki/</a></td>
-<td>1862</td>
+<td>1861</td>
 <td>38%</td>
 <td>url</td>
 <td><a href="https://wikipedia.org">wikipedia.org</a></td>
@@ -257,8 +257,8 @@
 <td><a href="search.html?q=select+originCommunity%0D%0AnotMissing+originCommunity%0D%0AsortBy+originCommunity%0D%0Areverse">originCommunity</a></td>
 <td>In what community(ies) did the language first originate?</td>
 <td>Department of Computer Science</td>
-<td>3781</td>
-<td>78%</td>
+<td>3802</td>
+<td>79%</td>
 <td>string[]</td>
 <td></td>
 <td><a href="https://github.com/breck7/pldb/blob/main/questions/originCommunity.grammar#L1">originCommunity.grammar</a></td>
@@ -267,8 +267,8 @@
 <td><a href="search.html?q=select+country%0D%0AnotMissing+country%0D%0AsortBy+country%0D%0Areverse">country</a></td>
 <td>What country was this language first developed in?</td>
 <td>Russia</td>
-<td>3556</td>
-<td>73%</td>
+<td>3574</td>
+<td>74%</td>
 <td>unspecified</td>
 <td></td>
 <td><a href="https://github.com/breck7/pldb/blob/main/questions/country.grammar#L3">country.grammar</a></td>
@@ -287,7 +287,7 @@
 <td><a href="search.html?q=select+reference%0D%0AnotMissing+reference%0D%0AsortBy+reference%0D%0Areverse">reference</a></td>
 <td>What is a URL to more info about this thing?</td>
 <td><a href="https://pdfs.semanticscholar.o">https://pdfs.semanticscholar.o</a></td>
-<td>2122</td>
+<td>2124</td>
 <td>44%</td>
 <td>url</td>
 <td></td>
@@ -317,7 +317,7 @@
 <td><a href="search.html?q=select+wikipedia_dailyPageViews+wikipedia%0D%0AnotMissing+wikipedia_dailyPageViews%0D%0AsortBy+wikipedia_dailyPageViews%0D%0Areverse">wikipedia_dailyPageViews</a></td>
 <td>How many page views per day does this Wikipedia page get? Useful as a signal for rankings. Available via WP api.</td>
 <td>60</td>
-<td>1673</td>
+<td>1672</td>
 <td>35%</td>
 <td>integer</td>
 <td></td>
@@ -1404,6 +1404,16 @@
 <td><a href="https://github.com/breck7/pldb/blob/main/questions/hasOctals.grammar#L1">hasOctals.grammar</a></td>
 </tr>
 <tr><td>136</td>
+<td><a href="search.html?q=select+gitRepo%0D%0AnotMissing+gitRepo%0D%0AsortBy+gitRepo%0D%0Areverse">gitRepo</a></td>
+<td>What is the URL of the official git repo for the language project if not hosted on GitHub or GitLab or Sourcehut?</td>
+<td><a href="https://gcc.gnu.org/git.html">https://gcc.gnu.org/git.html</a></td>
+<td>52</td>
+<td>1%</td>
+<td>url</td>
+<td></td>
+<td><a href="https://github.com/breck7/pldb/blob/main/questions/gitRepo.grammar#L1">gitRepo.grammar</a></td>
+</tr>
+<tr><td>137</td>
 <td><a href="search.html?q=select+influencedBy%0D%0AnotMissing+influencedBy%0D%0AsortBy+influencedBy%0D%0Areverse">influencedBy</a></td>
 <td>What languages influenced this one?</td>
 <td>rust</td>
@@ -1413,7 +1423,7 @@
 <td></td>
 <td><a href="https://github.com/breck7/pldb/blob/main/questions/relationships.grammar#L12">relationships.grammar</a></td>
 </tr>
-<tr><td>137</td>
+<tr><td>138</td>
 <td><a href="search.html?q=select+hasAssignment%0D%0AnotMissing+hasAssignment%0D%0AsortBy+hasAssignment%0D%0Areverse">hasAssignment</a></td>
 <td>Does the language allow assigning values to variables?</td>
 <td>true</td>
@@ -1422,16 +1432,6 @@
 <td>boolean</td>
 <td></td>
 <td><a href="https://github.com/breck7/pldb/blob/main/questions/hasAssignment.grammar#L1">hasAssignment.grammar</a></td>
-</tr>
-<tr><td>138</td>
-<td><a href="search.html?q=select+gitRepo%0D%0AnotMissing+gitRepo%0D%0AsortBy+gitRepo%0D%0Areverse">gitRepo</a></td>
-<td>What is the URL of the official git repo for the language project if not hosted on GitHub or GitLab or Sourcehut?</td>
-<td><a href="https://gcc.gnu.org/git.html">https://gcc.gnu.org/git.html</a></td>
-<td>51</td>
-<td>1%</td>
-<td>url</td>
-<td></td>
-<td><a href="https://github.com/breck7/pldb/blob/main/questions/gitRepo.grammar#L1">gitRepo.grammar</a></td>
 </tr>
 <tr><td>139</td>
 <td><a href="search.html?q=select+tiobe_currentRank+tiobe%0D%0AnotMissing+tiobe_currentRank%0D%0AsortBy+tiobe_currentRank%0D%0Areverse">tiobe_currentRank</a></td>
@@ -3694,7 +3694,7 @@ li.scrollParagraph {
  <span>·</span>
  <a href="https://pldb.com/trafficToday.html">Traffic Today</a>
  <span>·</span>
- <a href="https://github.com/breck7/pldb/commits/main">Day 294</a>
+ <a href="https://github.com/breck7/pldb/commits/main">Day 295</a>
  <span>·</span>
  <a href="mailto:feedback@pldb.com">feedback@pldb.com</a>
  <span>·</span>

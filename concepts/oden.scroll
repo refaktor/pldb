@@ -7,7 +7,7 @@ title oden - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="sixten.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rason.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="graphml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/oden.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/oden-lang/oden
 
 dashboard
- #1160 <span title="TotalRank: 1708 Jobs: 103 Users: 618 Facts: 1374 Links: 987">on PLDB</span>
+ #1160 <span title="TotalRank: 1708 Jobs: 103 Users: 618 Facts: 1375 Links: 987">on PLDB</span>
  7 Years Old
 
 * The Oden Programming Language (NO LONGER IN ACTIVE DEVELOPMENT)
@@ -45,6 +45,6 @@ pipeTable
  title|titleLink|date|score|comments
  Oden: experimental, statically-typed functional language, built for Go ecosystem|https://news.ycombinator.com/item?id=11183836|02/26/2016|127|80
 
-keyboardNav sixten.html rason.html
+keyboardNav sixten.html graphml.html
 
 import ../footer.scroll

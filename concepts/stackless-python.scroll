@@ -6,7 +6,7 @@ title Stackless Python - Interpreter
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="doh.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="iswim.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="asterisk.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stackless-python.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav doh.html asterisk.html
+keyboardNav iswim.html asterisk.html
 
 import ../footer.scroll

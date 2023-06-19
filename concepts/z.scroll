@@ -6,7 +6,7 @@ title Z - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="claire.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="small.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="clpr.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/z.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/zlanguage/zcomp
 
 dashboard
- #1880 <span title="TotalRank: 2396 Jobs: 103 Users: 1845 Facts: 1306 Links: 987">on PLDB</span>
+ #1881 <span title="TotalRank: 2396 Jobs: 103 Users: 1845 Facts: 1306 Links: 987">on PLDB</span>
  4 Years Old
 
 * The compiler for the Z programming language - a procedural and functional language that transpiles to JavaScript. It integrates syntactic sugar like pattern matching, operator overloading, and macros while still remaining compatible with the existing JavaScript ecosystem. 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav claire.html clpr.html
+keyboardNav small.html clpr.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title SmallVDM - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="smalltalk-80.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smolcs.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="smalltalk-v.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="smart.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smallvdm.pldb
 
@@ -19,20 +19,22 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1993 1993
 
 dashboard
- #3204 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 4071 Links: 987">on PLDB</span>
+ #4312 <span title="TotalRank: 3920 Jobs: 103 Users: 2830 Facts: 2914 Links: 987">on PLDB</span>
  30 Years Old
 
 * 
 
+- SmallVDM first developed in <a href="../lists/originCommunities.html#universidadeFederalDePernambuco">Universidade Federal de Pernambuco</a>
 - SmallVDM on HOPL
  https://hopl.info/showlanguage.prx?exp=1749
-- Read more about SmallVDM on the web: 1.
- http://www.lbd.dcc.ufmg.br/colecoes/sbes/1991/0016.pdf 1.
+- Read more about SmallVDM on the web: 1. 2.
+ https://dl.acm.org/doi/abs/10.5555/187621.187647 1.
+ https://sol.sbc.org.br/index.php/sbes/article/download/24269/24092 2.
 
 <br>
 
 endColumns
 
-keyboardNav smalltalk-80.html smolcs.html
+keyboardNav smalltalk-v.html smart.html
 
 import ../footer.scroll

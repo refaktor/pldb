@@ -33,6 +33,7 @@ dashboard
 - Jule is developed on <a href="https://github.com/julelang/jule">GitHub</a> and has 67 stars
 - Jule docs
  https://jule.dev/pages/manual.html?page=jule-lang
+- Jule first developed in <a href="../lists/originCommunities.html#httpsGithubComJulelang">https://github.com/julelang</a>
 - file extensions for Jule include .jule
 - Jule is written in <a href="go.html">Go</a> & <a href="c.html">C</a> & <a href="cpp.html">C++</a>
 - Jule is written with the native language of false

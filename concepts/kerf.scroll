@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/kevinlawler/kerf
 
 dashboard
- #2016 <span title="TotalRank: 2532 Jobs: 103 Users: 2383 Facts: 1442 Links: 987">on PLDB</span>
+ #2016 <span title="TotalRank: 2533 Jobs: 103 Users: 2382 Facts: 1443 Links: 987">on PLDB</span>
  8 Years Old
 
 * Kerf is a columnar tick database and time-series language for Linux/OSX/BSD/iOS/Android. It is written in C and natively speaks JSON and SQL. Kerf can be used for trading platforms, feedhandlers, low-latency networking, high-volume analysis of realtime and historical data, logfile processing, and more.

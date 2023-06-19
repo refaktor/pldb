@@ -6,8 +6,8 @@ title gleam - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="icd.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ucl.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="penrose.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="visual-prolog.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gleam.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/lpil/gleam
 
 dashboard
- #685 <span title="TotalRank: 1259 Jobs: 103 Users: 217 Facts: 939 Links: 987">on PLDB</span>
+ #687 <span title="TotalRank: 1260 Jobs: 103 Users: 217 Facts: 940 Links: 987">on PLDB</span>
  7 Years Old
  104 <span title="gleam repos on GitHub.">Repos</span>
 
@@ -44,6 +44,6 @@ dashboard
 
 endColumns
 
-keyboardNav icd.html ucl.html
+keyboardNav penrose.html visual-prolog.html
 
 import ../footer.scroll

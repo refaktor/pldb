@@ -7,7 +7,7 @@ title specrtl - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="scl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smalltalk-mt.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="minc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/specrtl.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
 
 dashboard
- #2276 <span title="TotalRank: 2752 Jobs: 103 Users: 2831 Facts: 1662 Links: 987">on PLDB</span>
+ #2276 <span title="TotalRank: 2752 Jobs: 103 Users: 2830 Facts: 1662 Links: 987">on PLDB</span>
  12 Years Old
 
 * specRTL (Spec Register Transfer Language) is a language designed to replace the existing RTL form machine descriptions which along with C Code forms the backend of GCC.
@@ -47,6 +47,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav scl.html smalltalk-mt.html
+keyboardNav scl.html minc.html
 
 import ../footer.scroll

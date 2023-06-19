@@ -6,8 +6,8 @@ title SmallBASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="nesc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="google-apps-script.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="activevfp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gopher-protocol.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smallbasic.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/smallbasic/SmallBASIC
 
 dashboard
- #855 <span title="TotalRank: 1420 Jobs: 103 Users: 927 Facts: 1027 Links: 390">on PLDB</span>
+ #841 <span title="TotalRank: 1405 Jobs: 103 Users: 927 Facts: 912 Links: 390">on PLDB</span>
  22 Years Old
 
 * SmallBASIC is a BASIC programming language dialect with interpreters released as  free software under the GNU General Public License version 2.. Read more on Wikipedia...
@@ -33,14 +33,17 @@ dashboard
 - SmallBASIC Wikipedia page
  https://en.wikipedia.org/wiki/SmallBASIC
 - SmallBASIC is developed on <a href="https://github.com/smallbasic/SmallBASIC">GitHub</a> and has 153 stars
+- SmallBASIC first developed in <a href="../lists/originCommunities.html#httpsSourceforgeNetPSmallbasicListTickets">https://sourceforge.net/p/smallbasic/_list/tickets</a>
 - See also: (8 related languages)<a href="microsoft-small-basic.html">Microsoft Small Basic</a>, <a href="basic.html">BASIC</a>, <a href="qbasic.html">QBasic</a>, <a href="c.html">C</a>, <a href="gw-basic.html">GW-BASIC</a>, <a href="brainfuck.html">Brainfuck</a>, <a href="linux.html">Linux</a>, <a href="android.html">Android</a>
-- Read more about SmallBASIC on the web: 1.
- https://sourceforge.net/projects/smallbasic/ 1.
+- Read more about SmallBASIC on the web: 1. 2. 3.
+ https://learnxinyminutes.com/docs/smallbasic/ 1.
+ https://github.com/chrisws/SmallBASIC 2.
+ https://sourceforge.net/projects/smallbasic/ 3.
 
 <br>
 
 endColumns
 
-keyboardNav nesc.html google-apps-script.html
+keyboardNav activevfp.html gopher-protocol.html
 
 import ../footer.scroll

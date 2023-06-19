@@ -6,8 +6,8 @@ title AsciiMath - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="coldfusion-components.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="spider.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="netrexx.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="natural.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/asciimath.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/mathjax/asciimathml
 
 dashboard
- #976 <span title="TotalRank: 1535 Jobs: 103 Users: 445 Facts: 1306 Links: 987">on PLDB</span>
+ #973 <span title="TotalRank: 1535 Jobs: 103 Users: 445 Facts: 1306 Links: 987">on PLDB</span>
  9 Years Old
 
 * AsciiMath is an easy-to-write markup language for mathematics.
@@ -40,6 +40,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav coldfusion-components.html spider.html
+keyboardNav netrexx.html natural.html
 
 import ../footer.scroll

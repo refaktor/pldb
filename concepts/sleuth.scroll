@@ -7,7 +7,7 @@ title SLEUTH - Assembly language
 
 html
  <a class="trueBaseThemePreviousItem" href="slam-ii.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ssl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="slpl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sleuth.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1962 1962
 
 dashboard
- #4054 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3251 Links: 987">on PLDB</span>
+ #4045 <span title="TotalRank: 3920 Jobs: 103 Users: 2830 Facts: 3256 Links: 987">on PLDB</span>
  61 Years Old
 
 * 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav slam-ii.html ssl.html
+keyboardNav slam-ii.html slpl.html
 
 import ../footer.scroll

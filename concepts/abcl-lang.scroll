@@ -7,7 +7,7 @@ title Armed Bear Common Lisp - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="jsl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="easytrieve.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="redprl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/abcl-lang.pldb
 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav jsl.html easytrieve.html
+keyboardNav jsl.html redprl.html
 
 import ../footer.scroll

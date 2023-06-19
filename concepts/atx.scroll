@@ -6,8 +6,8 @@ title atx - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="fortran-77.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cish.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="smarts.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="draconian.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/atx.pldb
 
@@ -20,13 +20,15 @@ startColumns 4
  link ../lists/creators.html#aaronSwartz Aaron Swartz
 
 dashboard
- #2991 <span title="TotalRank: 3601 Jobs: 103 Users: 2831 Facts: 2912 Links: 667">on PLDB</span>
+ #2701 <span title="TotalRank: 3384 Jobs: 103 Users: 2830 Facts: 2614 Links: 667">on PLDB</span>
  21 Years Old
 
 * 
 
-- Read more about atx on the web: 1.
+- atx first developed in <a href="../lists/originCommunities.html#httpsListsW3OrgArchivesPublicWwwArchive">https://lists.w3.org/Archives/Public/www-archive/</a>
+- Read more about atx on the web: 1. 2.
  http://www.aaronsw.com/2002/atx/intro 1.
+ https://lists.w3.org/Archives/Public/www-archive/2003Feb/0019.html 2.
 
 <br>
 
@@ -37,6 +39,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav fortran-77.html cish.html
+keyboardNav smarts.html draconian.html
 
 import ../footer.scroll

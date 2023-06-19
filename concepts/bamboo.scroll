@@ -6,8 +6,8 @@ title bamboo - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="bro.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="wu.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="hmmm.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bro.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bamboo.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/pirapira/bamboo
 
 dashboard
- #1366 <span title="TotalRank: 1896 Jobs: 103 Users: 806 Facts: 1586 Links: 987">on PLDB</span>
+ #1365 <span title="TotalRank: 1896 Jobs: 103 Users: 806 Facts: 1586 Links: 987">on PLDB</span>
  7 Years Old
 
 * Bamboo is a programming language for Ethereum contracts.
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav bro.html wu.html
+keyboardNav hmmm.html bro.html
 
 import ../footer.scroll

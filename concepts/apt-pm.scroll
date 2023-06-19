@@ -7,7 +7,7 @@ title APT Debian - Package manager
 
 html
  <a class="trueBaseThemePreviousItem" href="bloom.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hocon.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="djangoql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/apt-pm.pldb
 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav bloom.html hocon.html
+keyboardNav bloom.html djangoql.html
 
 import ../footer.scroll

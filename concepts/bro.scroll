@@ -6,8 +6,8 @@ title Bro - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="hmmm.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="bamboo.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="bamboo.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="wu.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bro.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1994 1994
 
 dashboard
- #1365 <span title="TotalRank: 1895 Jobs: 103 Users: 825 Facts: 967 Links: 987">on PLDB</span>
+ #1366 <span title="TotalRank: 1896 Jobs: 103 Users: 825 Facts: 968 Links: 987">on PLDB</span>
  29 Years Old
  1k <span title="Bro repos on GitHub.">Repos</span>
 
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav hmmm.html bamboo.html
+keyboardNav bamboo.html wu.html
 
 import ../footer.scroll

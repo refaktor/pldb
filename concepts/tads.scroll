@@ -7,7 +7,7 @@ title Text Adventure Development System - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="orca-pl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="bro.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="trac.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tads.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#michaelJRoberts Michael J. Roberts
 
 dashboard
- #1698 on PLDB
+ #1697 on PLDB
  35 Years Old
 
 * Text Adventure Development System (TADS) is a prototype-based domain-specific programming language and set of standard libraries for creating interactive fiction (IF) games.. Read more on Wikipedia...
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav orca-pl.html bro.html
+keyboardNav orca-pl.html trac.html
 
 import ../footer.scroll

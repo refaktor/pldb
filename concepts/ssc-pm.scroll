@@ -6,7 +6,7 @@ title Boston College Statistical Software Components - Package manager
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="smalltalkhub-pm.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sierra.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tengo.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ssc-pm.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1996 1996
 
 dashboard
- #3304 on PLDB
+ #3303 on PLDB
  27 Years Old
 
 * 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav smalltalkhub-pm.html tengo.html
+keyboardNav sierra.html tengo.html
 
 import ../footer.scroll

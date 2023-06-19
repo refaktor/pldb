@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/zaibacu/rita-dsl
 
 dashboard
- #1934 <span title="TotalRank: 2464 Jobs: 103 Users: 1645 Facts: 1374 Links: 987">on PLDB</span>
+ #1935 <span title="TotalRank: 2465 Jobs: 103 Users: 1645 Facts: 1375 Links: 987">on PLDB</span>
  4 Years Old
 
 * A Domain Specific Language (DSL) for building language patterns. These can be later compiled into spaCy patterns, pure regex, or any other format

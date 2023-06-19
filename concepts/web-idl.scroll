@@ -7,7 +7,7 @@ title WebIDL - Interface design language
 
 html
  <a class="trueBaseThemePreviousItem" href="please-build.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="game-maker-language.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="opl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/web-idl.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
 
 dashboard
- #790 <span title="TotalRank: 1351 Jobs: 103 Users: 804 Facts: 444 Links: 987">on PLDB</span>
+ #791 <span title="TotalRank: 1352 Jobs: 103 Users: 804 Facts: 445 Links: 987">on PLDB</span>
  11 Years Old
  17 <span title="WebIDL repos on GitHub.">Repos</span>
 
@@ -93,6 +93,6 @@ treeTable
   Token 
   Example
 
-keyboardNav please-build.html game-maker-language.html
+keyboardNav please-build.html opl.html
 
 import ../footer.scroll

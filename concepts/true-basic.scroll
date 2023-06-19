@@ -7,7 +7,7 @@ title True BASIC - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="commodore-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sourcepawn.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sather.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/true-basic.pldb
 
@@ -94,6 +94,6 @@ treeTable
   Token 
   Example
 
-keyboardNav commodore-basic.html sourcepawn.html
+keyboardNav commodore-basic.html sather.html
 
 import ../footer.scroll

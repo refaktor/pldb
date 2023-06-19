@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/mrkkrp/megaparsec
 
 dashboard
- #987 on PLDB
+ #988 on PLDB
  8 Years Old
 
 * Industrial-strength monadic parser combinator library

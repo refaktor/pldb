@@ -6,7 +6,7 @@ title hasklig - Font
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="skulpt.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="arkscript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="shaderlab.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hasklig.pldb
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav skulpt.html shaderlab.html
+keyboardNav arkscript.html shaderlab.html
 
 import ../footer.scroll

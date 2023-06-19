@@ -6,8 +6,8 @@ title Nit - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ldap.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="bucklescript.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="bucklescript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="synchronized-multimedia-integration-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nit.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/nitlang/nit
 
 dashboard
- #658 <span title="TotalRank: 1237 Jobs: 103 Users: 690 Facts: 444 Links: 987">on PLDB</span>
+ #659 <span title="TotalRank: 1238 Jobs: 103 Users: 690 Facts: 445 Links: 987">on PLDB</span>
  15 Years Old
  29 <span title="Nit repos on GitHub.">Repos</span>
 
@@ -106,6 +106,6 @@ treeTable
   Token print
   Example
 
-keyboardNav ldap.html bucklescript.html
+keyboardNav bucklescript.html synchronized-multimedia-integration-language.html
 
 import ../footer.scroll

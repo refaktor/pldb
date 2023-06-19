@@ -6,8 +6,8 @@ title SmartGameFormat - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="rlmeta.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="snbt.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="skookumscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="smithy.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smartgameformat.pldb
 
@@ -19,13 +19,14 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1987 1987
 
 dashboard
- #2768 <span title="TotalRank: 3525 Jobs: 103 Users: 2435 Facts: 3866 Links: 987">on PLDB</span>
+ #2828 <span title="TotalRank: 3524 Jobs: 103 Users: 2434 Facts: 2914 Links: 987">on PLDB</span>
  36 Years Old
 
 * 
 
 - SmartGameFormat website
  https://www.red-bean.com/sgf/
+- SmartGameFormat first developed in <a href="../lists/originCommunities.html#httpsWwwRedBeanComSgfDiscussion">https://www.red-bean.com/sgf/discussion/</a>
 - file extensions for SmartGameFormat include sgf
 - <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/sgf.py">syntax highlighting</a> for SmartGameFormat
 
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav rlmeta.html snbt.html
+keyboardNav skookumscript.html smithy.html
 
 import ../footer.scroll

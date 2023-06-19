@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/e-wrks/edh
 
 dashboard
- #1547 <span title="TotalRank: 2057 Jobs: 103 Users: 1943 Facts: 967 Links: 987">on PLDB</span>
+ #1547 <span title="TotalRank: 2058 Jobs: 103 Users: 1943 Facts: 968 Links: 987">on PLDB</span>
  4 Years Old
 
 * Edh is a dynamically & strongly typed, procedural (thus imperative), value-oriented (i.e. immutable first, yet with non-traditional Object constructs), interpreted programming language, that parasitic on GHC and heavily relying on the Haskell implementation of Software Transactional Memory for unified intuition of concurrency and data-consistency.

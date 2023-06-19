@@ -6,8 +6,8 @@ title oil - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="telcomp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="arc-isa.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="arc-isa.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="rtp-protocol.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/oil.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/oilshell/oil
 
 dashboard
- #795 <span title="TotalRank: 1354 Jobs: 103 Users: 284 Facts: 967 Links: 987">on PLDB</span>
+ #796 <span title="TotalRank: 1355 Jobs: 103 Users: 284 Facts: 968 Links: 987">on PLDB</span>
  7 Years Old
 
 * Oil is a new Unix shell.
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav telcomp.html arc-isa.html
+keyboardNav arc-isa.html rtp-protocol.html
 
 import ../footer.scroll

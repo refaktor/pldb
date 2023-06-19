@@ -7,7 +7,7 @@ title APL - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="tls.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="markdown.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="smali.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/apl.pldb
 
@@ -124,6 +124,6 @@ treeTable
   Token 
   Example
 
-keyboardNav tls.html markdown.html
+keyboardNav tls.html smali.html
 
 import ../footer.scroll

@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2003 2003
 
 dashboard
- #1701 <span title="TotalRank: 2212 Jobs: 103 Users: 1445 Facts: 1442 Links: 667">on PLDB</span>
+ #1701 <span title="TotalRank: 2213 Jobs: 103 Users: 1445 Facts: 1443 Links: 667">on PLDB</span>
  20 Years Old
 
 * Sawzall is a procedural domain-specific programming language, used by Google to process large numbers of individual log records. Sawzall was first described in 2003, and the szl runtime was open-sourced in August 2010. However, since the MapReduce table aggregators have not been released, the open-sourced runtime is not useful for large-scale data analysis of multiple log files off the shelf. Read more on Wikipedia...

@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/JohnSundell/Plot
 
 dashboard
- #874 <span title="TotalRank: 1442 Jobs: 103 Users: 352 Facts: 992 Links: 987">on PLDB</span>
+ #874 <span title="TotalRank: 1442 Jobs: 103 Users: 352 Facts: 993 Links: 987">on PLDB</span>
  4 Years Old
 
 * A DSL for writing type-safe HTML, XML and RSS in Swift.

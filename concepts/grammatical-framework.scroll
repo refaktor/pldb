@@ -6,7 +6,7 @@ title Grammatical Framework - Grammar language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="graphml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="rason.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="qore.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/grammatical-framework.pldb
@@ -76,6 +76,6 @@ treeTable
   Token 
   Example
 
-keyboardNav graphml.html qore.html
+keyboardNav rason.html qore.html
 
 import ../footer.scroll

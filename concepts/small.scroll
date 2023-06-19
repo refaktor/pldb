@@ -6,8 +6,8 @@ title Small - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="fp3.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="zl.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="claire.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="z.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/small.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#nevilBrownlee Nevil Brownlee
 
 dashboard
- #2004 <span title="TotalRank: 2532 Jobs: 103 Users: 1808 Facts: 1442 Links: 987">on PLDB</span>
+ #1880 <span title="TotalRank: 2396 Jobs: 103 Users: 1808 Facts: 1306 Links: 987">on PLDB</span>
  43 Years Old
 
 * SMALL, Small Machine Algol Like Language, is a programming language developed by Dr. Nevil Brownlee of Auckland University.. Read more on Wikipedia...
@@ -28,6 +28,7 @@ dashboard
 
 - Small Wikipedia page
  https://en.wikipedia.org/wiki/SMALL
+- Small first developed in <a href="../lists/originCommunities.html#universityOfAuckland">University of Auckland</a>
 - Small on HOPL
  https://hopl.info/showlanguage.prx?exp=871
 - See also: (4 related languages)<a href="algol.html">Algol</a>, <a href="fortran.html">Fortran</a>, <a href="lua.html">Lua</a>, <a href="squirrel.html">Squirrel</a>
@@ -36,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav fp3.html zl.html
+keyboardNav claire.html z.html
 
 import ../footer.scroll

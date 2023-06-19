@@ -6,7 +6,7 @@ title Blade - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="circle-lang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sheep-lang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="extensible-embeddable-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/blade.pldb
@@ -79,6 +79,6 @@ codeWithHeader Example from <a href='https://github.com/jawee/language-blade'>Li
 
 endColumns
 
-keyboardNav circle-lang.html extensible-embeddable-language.html
+keyboardNav sheep-lang.html extensible-embeddable-language.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title REDUCE - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="kid.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="spec-sharp.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="t2b.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/reduce.pldb
 
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav kid.html spec-sharp.html
+keyboardNav kid.html t2b.html
 
 import ../footer.scroll

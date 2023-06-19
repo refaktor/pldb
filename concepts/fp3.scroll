@@ -7,7 +7,7 @@ title fp - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="kaleidoscope.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="small.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="zl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fp3.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/japiirainen/fp
 
 dashboard
- #2003 <span title="TotalRank: 2532 Jobs: 103 Users: 1801 Facts: 1442 Links: 987">on PLDB</span>
+ #2004 <span title="TotalRank: 2533 Jobs: 103 Users: 1801 Facts: 1443 Links: 987">on PLDB</span>
  1 Years Old
 
 * a programming language inspired by the fp language described in the 1977 Turing Award lecture by John Backus.
@@ -66,6 +66,6 @@ treeTable
   Token 
   Example
 
-keyboardNav kaleidoscope.html small.html
+keyboardNav kaleidoscope.html zl.html
 
 import ../footer.scroll

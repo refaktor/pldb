@@ -6,7 +6,7 @@ title Subtext - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ramis-software.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="smalltalk-mt.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="squire.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/subtext.pldb
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav ramis-software.html squire.html
+keyboardNav smalltalk-mt.html squire.html
 
 import ../footer.scroll

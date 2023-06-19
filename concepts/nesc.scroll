@@ -7,7 +7,7 @@ title nesC - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ssi.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smallbasic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="google-apps-script.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nesc.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/tinyos/nesc
 
 dashboard
- #854 <span title="TotalRank: 1418 Jobs: 103 Users: 668 Facts: 647 Links: 987">on PLDB</span>
+ #855 <span title="TotalRank: 1418 Jobs: 103 Users: 668 Facts: 647 Links: 987">on PLDB</span>
  21 Years Old
  2k <span title="nesC repos on GitHub.">Repos</span>
 
@@ -44,6 +44,6 @@ dashboard
 
 endColumns
 
-keyboardNav ssi.html smallbasic.html
+keyboardNav ssi.html google-apps-script.html
 
 import ../footer.scroll

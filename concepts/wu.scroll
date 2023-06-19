@@ -6,7 +6,7 @@ title Wu - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="bamboo.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="bro.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="lc-3.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/wu.pldb
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav bamboo.html lc-3.html
+keyboardNav bro.html lc-3.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Smali - Assembly language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="markdown.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nginx-config.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="apl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="markdown.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smali.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/JesusFreke/smali
 
 dashboard
- #93 <span title="TotalRank: 293 Jobs: 103 Users: 125 Facts: 65 Links: 987">on PLDB</span>
+ #92 <span title="TotalRank: 292 Jobs: 103 Users: 125 Facts: 64 Links: 987">on PLDB</span>
  13 Years Old
  2k <span title="Smali repos on GitHub.">Repos</span>
 
@@ -32,6 +32,7 @@ dashboard
 - Smali docs
  https://github.com/JesusFreke/smali/wiki
 - There are at least 2,479 Smali repos on <a href="https://github.com/search?q=language:Smali">GitHub</a>
+- Smali first developed in <a href="../lists/originCommunities.html#httpsGithubComJesusFrekeSmaliIssues">https://github.com/JesusFreke/smali/issues</a>
 - file extensions for Smali include smali
 - The  Google BigQuery Public Dataset GitHub snapshot shows 195 users using Smali in 212 repos on <a href="https://api.github.com/search/repositories?q=language:Smali">GitHub</a>
 - <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/dalvik.py">syntax highlighting</a> for Smali
@@ -249,6 +250,6 @@ treeTable
   Token 
   Example
 
-keyboardNav markdown.html nginx-config.html
+keyboardNav apl.html markdown.html
 
 import ../footer.scroll

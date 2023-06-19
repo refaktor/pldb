@@ -7,7 +7,7 @@ title Java EE version history - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="unlambda.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="euphoria.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="slope.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/java-ee-version-history.pldb
 
@@ -74,6 +74,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Java_EE_versi
 
 endColumns
 
-keyboardNav unlambda.html euphoria.html
+keyboardNav unlambda.html slope.html
 
 import ../footer.scroll

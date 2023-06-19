@@ -6,7 +6,7 @@ title zl - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="small.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="fp3.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="3apl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zl.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/kevina/zl
 
 dashboard
- #2005 <span title="TotalRank: 2532 Jobs: 103 Users: 1887 Facts: 1442 Links: 987">on PLDB</span>
+ #2005 <span title="TotalRank: 2533 Jobs: 103 Users: 1887 Facts: 1443 Links: 987">on PLDB</span>
  11 Years Old
 
 * A C compatible and C++ like programming language that focuses on extensiblilty and giving the programmer control over how high-level constructs (such as classes) are implemented.
@@ -43,6 +43,6 @@ pipeTable
  title|titleLink|date|score|comments
  ZL: A C/C++ Compatible Language with Hygienic Macros|https://news.ycombinator.com/item?id=11008170|01/31/2016|42|7
 
-keyboardNav small.html 3apl.html
+keyboardNav fp3.html 3apl.html
 
 import ../footer.scroll

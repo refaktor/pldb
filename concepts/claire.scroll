@@ -7,7 +7,7 @@ title CLAIRE - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="json-script.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="z.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="small.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/claire.pldb
 
@@ -43,6 +43,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Claire_(progr
 
 endColumns
 
-keyboardNav json-script.html z.html
+keyboardNav json-script.html small.html
 
 import ../footer.scroll

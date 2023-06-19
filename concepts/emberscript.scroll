@@ -6,8 +6,8 @@ title EmberScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="telnet-protocol.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gettext.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="gettext.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="providex.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/emberscript.pldb
 
@@ -24,7 +24,7 @@ codeWithHeader Source code:
  git clone https://github.com/ghempton/ember-script
 
 dashboard
- #662 <span title="TotalRank: 1239 Jobs: 103 Users: 682 Facts: 454 Links: 987">on PLDB</span>
+ #663 <span title="TotalRank: 1240 Jobs: 103 Users: 682 Facts: 455 Links: 987">on PLDB</span>
  11 Years Old
  206 <span title="EmberScript repos on GitHub.">Repos</span>
 
@@ -70,6 +70,6 @@ codeWithHeader Example from <a href='https://github.com/atom/language-coffee-scr
 
 endColumns
 
-keyboardNav telnet-protocol.html gettext.html
+keyboardNav gettext.html providex.html
 
 import ../footer.scroll

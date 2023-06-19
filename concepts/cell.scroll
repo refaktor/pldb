@@ -6,7 +6,7 @@ title Cell - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="islisp.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="alef.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="groff.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cell.pldb
@@ -113,6 +113,6 @@ treeTable
   Token 
   Example
 
-keyboardNav islisp.html groff.html
+keyboardNav alef.html groff.html
 
 import ../footer.scroll

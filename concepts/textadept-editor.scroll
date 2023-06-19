@@ -7,7 +7,7 @@ title Textadept - Editor
 
 html
  <a class="trueBaseThemePreviousItem" href="topshell.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ok.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="linearml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/textadept-editor.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav topshell.html ok.html
+keyboardNav topshell.html linearml.html
 
 import ../footer.scroll

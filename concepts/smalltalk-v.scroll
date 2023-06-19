@@ -6,8 +6,8 @@ title Smalltalk/V - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="siri.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smart.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="slog.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="smallvdm.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smalltalk-v.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1986 1986
 
 dashboard
- #3439 <span title="TotalRank: 3921 Jobs: 103 Users: 2831 Facts: 3866 Links: 987">on PLDB</span>
+ #4311 <span title="TotalRank: 3920 Jobs: 103 Users: 2830 Facts: 2914 Links: 987">on PLDB</span>
  37 Years Old
 
 * 
 
+- Smalltalk/V first developed in <a href="../lists/originCommunities.html#xeroxParc">Xerox PARC</a>
 - Smalltalk/V on HOPL
  https://hopl.info/showlanguage.prx?exp=1274
 - Read more about Smalltalk/V on the web: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav siri.html smart.html
+keyboardNav slog.html smallvdm.html
 
 import ../footer.scroll

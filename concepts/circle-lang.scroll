@@ -7,7 +7,7 @@ title circle-lang - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="pl360.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="blade.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="quaint.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/circle-lang.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/seanbaxter/circle
 
 dashboard
- #985 <span title="TotalRank: 1545 Jobs: 103 Users: 455 Facts: 1306 Links: 987">on PLDB</span>
+ #983 <span title="TotalRank: 1545 Jobs: 103 Users: 455 Facts: 1306 Links: 987">on PLDB</span>
  4 Years Old
 
 * The C++ Automation Language
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav pl360.html blade.html
+keyboardNav pl360.html quaint.html
 
 import ../footer.scroll

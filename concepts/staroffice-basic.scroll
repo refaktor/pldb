@@ -7,7 +7,7 @@ title StarOffice Basic - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="cartocss.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pop-11.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="plist.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/staroffice-basic.pldb
 
@@ -83,6 +83,6 @@ treeTable
   Token 
   Example
 
-keyboardNav cartocss.html pop-11.html
+keyboardNav cartocss.html plist.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Prism - Library
 
 html
  <a class="trueBaseThemePreviousItem" href="dm.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="semver.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="capybara.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/prismjs.pldb
 
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav dm.html semver.html
+keyboardNav dm.html capybara.html
 
 import ../footer.scroll

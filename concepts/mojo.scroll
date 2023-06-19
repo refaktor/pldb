@@ -6,7 +6,7 @@ title Mojo - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="plist.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="pop-11.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="chuck.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mojo.pldb
@@ -55,6 +55,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav plist.html chuck.html
+keyboardNav pop-11.html chuck.html
 
 import ../footer.scroll

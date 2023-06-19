@@ -6,8 +6,8 @@ title Smalltalk - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="doi.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rest.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="yacc.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="doi.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smalltalk.pldb
 
@@ -22,7 +22,7 @@ startColumns 4
  link ../lists/creators.html#adeleGoldberg Adele Goldberg
 
 dashboard
- #77 <span title="TotalRank: 264 Jobs: 103 Users: 197 Facts: 144 Links: 17">on PLDB</span>
+ #76 <span title="TotalRank: 261 Jobs: 103 Users: 197 Facts: 141 Links: 17">on PLDB</span>
  51 Years Old
  9k <span title="Smalltalk repos on GitHub.">Repos</span>
 
@@ -36,6 +36,7 @@ dashboard
 - Smalltalk docs
  https://www.gnu.org/software/smalltalk/manual/html_node/
 - There are at least 9,336 Smalltalk repos on <a href="https://github.com/search?q=language:Smalltalk">GitHub</a>
+- Smalltalk first developed in <a href="../lists/originCommunities.html#xeroxParc">Xerox PARC</a>
 - file extensions for Smalltalk include st and cs
 - The  Google BigQuery Public Dataset GitHub snapshot shows 5k users using Smalltalk in 6k repos on <a href="https://api.github.com/search/repositories?q=language:Smalltalk">GitHub</a>
 - There are 111 <a href="https://projecteuler.net/language=Smalltalk">Project Euler</a> users using Smalltalk
@@ -162,6 +163,6 @@ treeTable
   Token 
   Example
 
-keyboardNav doi.html rest.html
+keyboardNav yacc.html doi.html
 
 import ../footer.scroll

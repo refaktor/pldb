@@ -6,8 +6,8 @@ title F - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="redcode.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gherkin.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="mpl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="planner.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/f.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1996 1996
 
 dashboard
- #1191 <span title="TotalRank: 1737 Jobs: 103 Users: 994 Facts: 967 Links: 667">on PLDB</span>
+ #1194 <span title="TotalRank: 1738 Jobs: 103 Users: 994 Facts: 968 Links: 667">on PLDB</span>
  27 Years Old
 
 * F is a modular, compiled, numeric programming language, designed for scientific programming and scientific computation. F was developed as a modern Fortran, thus making it a subset of Fortran 95. It combines both numerical and data abstraction features from these languages. Read more on Wikipedia...
@@ -65,6 +65,6 @@ treeTable
   Token print
   Example
 
-keyboardNav redcode.html gherkin.html
+keyboardNav mpl.html planner.html
 
 import ../footer.scroll
