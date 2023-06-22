@@ -6,7 +6,7 @@ title Sourcetree - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="soulver.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="kernel.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="abacus-machine.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sourcetree.pldb
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav soulver.html abacus-machine.html
+keyboardNav kernel.html abacus-machine.html
 
 import ../footer.scroll

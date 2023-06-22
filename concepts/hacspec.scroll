@@ -6,7 +6,7 @@ title hacspec - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="algebraic-modeling-language.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="lil-pl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="silk.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hacspec.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/hacspec/hacspec
 
 dashboard
- #1271 <span title="TotalRank: 1809 Jobs: 103 Users: 1099 Facts: 719 Links: 987">on PLDB</span>
+ #1272 <span title="TotalRank: 1809 Jobs: 103 Users: 1099 Facts: 719 Links: 987">on PLDB</span>
  5 Years Old
 
 * A specification language for crypto primitives and more in Rust.
@@ -60,6 +60,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav algebraic-modeling-language.html silk.html
+keyboardNav lil-pl.html silk.html
 
 import ../footer.scroll

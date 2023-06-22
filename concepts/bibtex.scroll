@@ -6,8 +6,8 @@ title BibTeX - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="miranda.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sgml.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="less.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="miranda.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bibtex.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1985 1985
 
 dashboard
- #402 on PLDB
+ #400 on PLDB
  38 Years Old
 
 * BibTeX is reference management software for formatting lists of references. The BibTeX tool is typically used together with the LaTeX document preparation system. Within the typesetting system, its name is styled as                                                 B                                                                I                   B                                                                       T                                                                               E                                                                       X                                     {\displaystyle {\mathrm {B{\scriptstyle {IB}}\!T\!_{\displaystyle E}\!X} }}   . Read more on Wikipedia...
@@ -80,6 +80,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/BibTeX'>Wikip
 
 endColumns
 
-keyboardNav miranda.html sgml.html
+keyboardNav less.html miranda.html
 
 import ../footer.scroll

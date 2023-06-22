@@ -7,7 +7,7 @@ title manhood - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="rant.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="game-maker-language.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="web-idl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/manhood.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/TheBerkin/Manhood
 
 dashboard
- #788 <span title="TotalRank: 1351 Jobs: 103 Users: 261 Facts: 1251 Links: 987">on PLDB</span>
+ #788 <span title="TotalRank: 1351 Jobs: 103 Users: 261 Facts: 1252 Links: 987">on PLDB</span>
  9 Years Old
 
 * (Obsolete) Archive of Rant 3.x.
@@ -42,6 +42,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Manhood – a powerful templating language for random text generation|https://news.ycombinator.com/item?id=8311269|09/13/2014|22|5
 
-keyboardNav rant.html game-maker-language.html
+keyboardNav rant.html web-idl.html
 
 import ../footer.scroll

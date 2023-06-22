@@ -6,8 +6,8 @@ title Coconut - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="objective-j.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="wisp.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="autohotkey.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="objective-j.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/coconut.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/evhub/coconut
 
 dashboard
- #324 <span title="TotalRank: 753 Jobs: 103 Users: 238 Facts: 412 Links: 987">on PLDB</span>
+ #322 <span title="TotalRank: 752 Jobs: 103 Users: 238 Facts: 411 Links: 987">on PLDB</span>
  9 Years Old
 
 * Try now: <a href="https://cs121-team-panda.github.io/coconut-interpreter/">Web</a> · <a href="https://riju.codes/coconut">Riju</a> · <a href="https://tio.run/#coconut">TIO</a>
@@ -120,6 +120,6 @@ treeTable
    match [head] + tail in [0, 1, 2, 3]:
       print(head, tail)
 
-keyboardNav objective-j.html wisp.html
+keyboardNav autohotkey.html objective-j.html
 
 import ../footer.scroll

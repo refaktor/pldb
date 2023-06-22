@@ -6,7 +6,7 @@ title Hummingbird QuickScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="webql.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="lse.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="high-tech-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hummingbird-quickscript.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1990 1990
 
 dashboard
- #2371 <span title="TotalRank: 2869 Jobs: 103 Users: 2099 Facts: 2445 Links: 667">on PLDB</span>
+ #2321 <span title="TotalRank: 2869 Jobs: 103 Users: 2099 Facts: 2445 Links: 667">on PLDB</span>
  33 Years Old
 
 * Hummingbird Ltd. (previously NASDAQ: HUMC, TSX: HUM) is a subsidiary of OpenText and is a provider of enterprise software solutions including Exceed.  Initially founded as a consulting business in 1984, Hummingbird moved into the connectivity market. Read more on Wikipedia...
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav webql.html high-tech-basic.html
+keyboardNav lse.html high-tech-basic.html
 
 import ../footer.scroll

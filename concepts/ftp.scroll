@@ -6,8 +6,8 @@ title FTP - Protocol
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="x86-isa.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sagemath.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="d.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="x86-isa.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ftp.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1971 1971
 
 dashboard
- #81 <span title="TotalRank: 271 Jobs: 103 Users: 99 Facts: 1444 Links: 69">on PLDB</span>
+ #80 <span title="TotalRank: 270 Jobs: 103 Users: 99 Facts: 1445 Links: 68">on PLDB</span>
  52 Years Old
 
 * The File Transfer Protocol (FTP) is the standard network protocol used for the transfer of computer files between a client and server on a computer network. FTP is built on a client-server model architecture and uses separate control and data connections between the client and the server. FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. Read more on Wikipedia...
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav x86-isa.html sagemath.html
+keyboardNav d.html x86-isa.html
 
 import ../footer.scroll

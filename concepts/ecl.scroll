@@ -6,8 +6,8 @@ title ECL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="general-algebraic-modeling-system.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="erb.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="modelica.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="general-algebraic-modeling-system.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ecl.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/hpcc-systems/HPCC-Platform
 
 dashboard
- #319 <span title="TotalRank: 741 Jobs: 103 Users: 401 Facts: 237 Links: 987">on PLDB</span>
+ #317 <span title="TotalRank: 740 Jobs: 103 Users: 400 Facts: 237 Links: 987">on PLDB</span>
  23 Years Old
  234 <span title="ECL repos on GitHub.">Repos</span>
 
@@ -128,6 +128,6 @@ treeTable
   Token 
   Example
 
-keyboardNav general-algebraic-modeling-system.html erb.html
+keyboardNav modelica.html general-algebraic-modeling-system.html
 
 import ../footer.scroll

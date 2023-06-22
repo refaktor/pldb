@@ -7,7 +7,7 @@ title YoptaScript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="atari-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cpl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="zuo.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/yoptascript.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/samgozman/YoptaScript
 
 dashboard
- #674 <span title="TotalRank: 1249 Jobs: 103 Users: 366 Facts: 780 Links: 987">on PLDB</span>
+ #674 <span title="TotalRank: 1248 Jobs: 103 Users: 365 Facts: 780 Links: 987">on PLDB</span>
  7 Years Old
 
 * Try now: <a href="https://riju.codes/yoptascript">Riju</a>
@@ -65,6 +65,6 @@ treeTable
   Token ксива.малява
   Example
 
-keyboardNav atari-basic.html cpl.html
+keyboardNav atari-basic.html zuo.html
 
 import ../footer.scroll

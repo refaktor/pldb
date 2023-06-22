@@ -6,8 +6,8 @@ title Smalltalk - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="yacc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="doi.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="doi.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="rest.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smalltalk.pldb
 
@@ -22,7 +22,7 @@ startColumns 4
  link ../lists/creators.html#adeleGoldberg Adele Goldberg
 
 dashboard
- #76 <span title="TotalRank: 261 Jobs: 103 Users: 197 Facts: 141 Links: 17">on PLDB</span>
+ #77 <span title="TotalRank: 262 Jobs: 103 Users: 197 Facts: 142 Links: 17">on PLDB</span>
  51 Years Old
  9k <span title="Smalltalk repos on GitHub.">Repos</span>
 
@@ -163,6 +163,6 @@ treeTable
   Token 
   Example
 
-keyboardNav yacc.html doi.html
+keyboardNav doi.html rest.html
 
 import ../footer.scroll

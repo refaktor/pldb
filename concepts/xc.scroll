@@ -6,8 +6,8 @@ title XC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="hedy.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="bog.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="maxscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ferret.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xc.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2005 2005
 
 dashboard
- #923 <span title="TotalRank: 1495 Jobs: 103 Users: 875 Facts: 517 Links: 987">on PLDB</span>
+ #925 <span title="TotalRank: 1495 Jobs: 103 Users: 875 Facts: 517 Links: 987">on PLDB</span>
  18 Years Old
  342 <span title="XC repos on GitHub.">Repos</span>
 
@@ -68,6 +68,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/XC_(programmi
 
 endColumns
 
-keyboardNav hedy.html bog.html
+keyboardNav maxscript.html ferret.html
 
 import ../footer.scroll

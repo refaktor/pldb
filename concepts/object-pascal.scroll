@@ -6,8 +6,8 @@ title Object Pascal - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="arc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="supercollider.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="hcl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="arc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/object-pascal.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1986 1986
 
 dashboard
- #244 <span title="TotalRank: 616 Jobs: 103 Users: 638 Facts: 425 Links: 88">on PLDB</span>
+ #243 <span title="TotalRank: 615 Jobs: 103 Users: 638 Facts: 424 Links: 88">on PLDB</span>
  37 Years Old
 
 * Object Pascal refers to a branch of object-oriented derivatives of Pascal, mostly known as the primary programming language of Embarcadero Delphi.. Read more on Wikipedia...
@@ -126,6 +126,6 @@ treeTable
   Token 
   Example
 
-keyboardNav arc.html supercollider.html
+keyboardNav hcl.html arc.html
 
 import ../footer.scroll

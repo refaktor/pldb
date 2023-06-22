@@ -6,8 +6,8 @@ title Spatial - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pan.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mech-lang.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="express.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="compiler-compiler.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spatial.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/stanford-ppl/spatial
 
 dashboard
- #876 <span title="TotalRank: 1444 Jobs: 103 Users: 943 Facts: 398 Links: 987">on PLDB</span>
+ #873 <span title="TotalRank: 1438 Jobs: 103 Users: 943 Facts: 392 Links: 987">on PLDB</span>
  5 Years Old
 
 * Spatial: A High Level Programming Language for FPGAs
@@ -31,6 +31,7 @@ dashboard
 - Spatial website
  https://spatial-lang.org/
 - Spatial is developed on <a href="https://github.com/stanford-ppl/spatial">GitHub</a> and has 225 stars
+- Spatial first developed in <a href="../lists/originCommunities.html#stanfordUniversity">Stanford University</a>
 - <a href="https://spatial-lang.org/">spatial-lang.org</a> was registered in 2018
 
 <br>
@@ -91,6 +92,6 @@ treeTable
   Token 
   Example
 
-keyboardNav pan.html mech-lang.html
+keyboardNav express.html compiler-compiler.html
 
 import ../footer.scroll

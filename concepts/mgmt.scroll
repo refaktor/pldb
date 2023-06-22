@@ -7,7 +7,7 @@ title mgmt - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="pl-m.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lilypond.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="progsbase.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mgmt.pldb
 
@@ -77,6 +77,6 @@ treeTable
   Token 
   Example
 
-keyboardNav pl-m.html lilypond.html
+keyboardNav pl-m.html progsbase.html
 
 import ../footer.scroll

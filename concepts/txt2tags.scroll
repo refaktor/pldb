@@ -6,7 +6,7 @@ title Txt2tags - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="passerine.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="snap.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="nestedtext.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/txt2tags.pldb
@@ -51,6 +51,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Txt2tags'>Wik
 
 endColumns
 
-keyboardNav passerine.html nestedtext.html
+keyboardNav snap.html nestedtext.html
 
 import ../footer.scroll

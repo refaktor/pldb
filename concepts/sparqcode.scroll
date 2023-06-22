@@ -6,8 +6,8 @@ title SPARQCode - Bar code format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="roman-numerals.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="alohanet.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sk8.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="stringcomp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sparqcode.pldb
 
@@ -19,18 +19,21 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2010 2010
 
 dashboard
- #2573 <span title="TotalRank: 3234 Jobs: 103 Users: 2144 Facts: 4308 Links: 987">on PLDB</span>
+ #2597 <span title="TotalRank: 3234 Jobs: 103 Users: 2144 Facts: 3892 Links: 987">on PLDB</span>
  13 Years Old
 
 * 
 
 - SPARQCode Wikipedia page
  https://en.wikipedia.org/wiki/SPARQCode
+- SPARQCode first developed in <a href="../lists/originCommunities.html#mskynetInc">MSKYNET, Inc</a>
+- Read more about SPARQCode on the web: 1.
+ https://web.archive.org/web/20130516001058/https://www.sparqcode.com/static/tos 1.
 
 <br>
 
 endColumns
 
-keyboardNav roman-numerals.html alohanet.html
+keyboardNav sk8.html stringcomp.html
 
 import ../footer.scroll

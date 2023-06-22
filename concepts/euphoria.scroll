@@ -6,7 +6,7 @@ title Euphoria - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="slope.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="java-ee-version-history.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="qb64.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/euphoria.pldb
@@ -117,6 +117,6 @@ treeTable
   Token 
   Example
 
-keyboardNav slope.html qb64.html
+keyboardNav java-ee-version-history.html qb64.html
 
 import ../footer.scroll

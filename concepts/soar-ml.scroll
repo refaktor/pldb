@@ -7,7 +7,7 @@ title Soar Markup Language - Xml format
 
 html
  <a class="trueBaseThemePreviousItem" href="soaplang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="squidconf.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spec.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/soar-ml.pldb
 
@@ -21,7 +21,7 @@ startColumns 4
  link ../lists/creators.html#ricoAngell Rico Angell
 
 dashboard
- #4313 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 2921 Links: 987">on PLDB</span>
+ #4312 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 2921 Links: 987">on PLDB</span>
  9 Years Old
 
 * 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav soaplang.html squidconf.html
+keyboardNav soaplang.html spec.html
 
 import ../footer.scroll

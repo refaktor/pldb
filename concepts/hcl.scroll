@@ -7,7 +7,7 @@ title HCL - Data notation
 
 html
  <a class="trueBaseThemePreviousItem" href="stata.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="arc.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="object-pascal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hcl.pldb
 
@@ -129,6 +129,6 @@ treeTable
   Token 
   Example
 
-keyboardNav stata.html arc.html
+keyboardNav stata.html object-pascal.html
 
 import ../footer.scroll

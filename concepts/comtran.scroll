@@ -6,8 +6,8 @@ title COMTRAN - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="less.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ejs.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="oxygene.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="less.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/comtran.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1957 1957
 
 dashboard
- #356 <span title="TotalRank: 817 Jobs: 103 Users: 302 Facts: 412 Links: 492">on PLDB</span>
+ #354 <span title="TotalRank: 816 Jobs: 103 Users: 302 Facts: 411 Links: 492">on PLDB</span>
  66 Years Old
 
 * COMTRAN (COMmercial TRANslator) is an early programming language developed at IBM.  It was intended as the business programming equivalent of the scientific programming language FORTRAN (FORmula TRANslator).  It served as one of the forerunners to the COBOL language. Read more on Wikipedia...
@@ -95,6 +95,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/COMTRAN'>Wiki
 
 endColumns
 
-keyboardNav less.html ejs.html
+keyboardNav oxygene.html less.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Atmel AVR - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="dc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="falcon.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spark.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/atmel-avr.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1996 1996
 
 dashboard
- #398 <span title="TotalRank: 884 Jobs: 103 Users: 633 Facts: 2169 Links: 148">on PLDB</span>
+ #397 <span title="TotalRank: 884 Jobs: 103 Users: 633 Facts: 2169 Links: 148">on PLDB</span>
  27 Years Old
 
 * AVR is a family of microcontrollers developed since 1996 by Atmel, acquired by Microchip Technology in 2016. These are modified Harvard architecture 8-bit RISC single-chip microcontrollers. AVR was one of the first microcontroller families to use on-chip flash memory for program storage, as opposed to one-time programmable ROM, EPROM, or EEPROM used by other microcontrollers at the time. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav dc.html falcon.html
+keyboardNav dc.html spark.html
 
 import ../footer.scroll

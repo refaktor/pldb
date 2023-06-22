@@ -7,7 +7,7 @@ title muPad - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="imap-protocol.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="assemblyscript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="mirah.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mupad.pldb
 
@@ -66,6 +66,6 @@ treeTable
   Token 
   Example
 
-keyboardNav imap-protocol.html assemblyscript.html
+keyboardNav imap-protocol.html mirah.html
 
 import ../footer.scroll

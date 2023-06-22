@@ -6,8 +6,8 @@ title HLSL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="hexagon.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="java-properties.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="java-properties.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ring.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hlsl.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
 
 dashboard
- #469 <span title="TotalRank: 994 Jobs: 103 Users: 685 Facts: 224 Links: 667">on PLDB</span>
+ #470 <span title="TotalRank: 994 Jobs: 103 Users: 685 Facts: 224 Links: 667">on PLDB</span>
  21 Years Old
  2k <span title="HLSL repos on GitHub.">Repos</span>
 
@@ -148,6 +148,6 @@ treeTable
   Token 
   Example
 
-keyboardNav hexagon.html java-properties.html
+keyboardNav java-properties.html ring.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title LINQ - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="setl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="maxima.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="free-pascal.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="setl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/linq.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2007 2007
 
 dashboard
- #394 <span title="TotalRank: 871 Jobs: 103 Users: 573 Facts: 495 Links: 273">on PLDB</span>
+ #392 <span title="TotalRank: 870 Jobs: 103 Users: 573 Facts: 495 Links: 272">on PLDB</span>
  16 Years Old
 
 * Language Integrated Query (LINQ, pronounced "link") is a Microsoft .NET Framework component that adds native data querying capabilities to .NET languages, although ports exist for PHP (PHPLinq), JavaScript (linq.js), TypeScript (linq.ts), and ActionScript (ActionLinq) - but none of these ports are strictly equivalent to LINQ in C# for example (where it is a part of the language, not an external library, and where it often addresses a wider range of needs). LINQ extends the language by the addition of query expressions, which are akin to SQL statements, and can be used to conveniently extract and process data from arrays, enumerable classes, XML documents, relational databases, and third-party data sources. Other uses, which utilize query expressions as a general framework for readably composing arbitrary computations, include the construction of event handlers or monadic parsers. Read more on Wikipedia...
@@ -45,6 +45,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Language_Inte
 
 endColumns
 
-keyboardNav setl.html maxima.html
+keyboardNav free-pascal.html setl.html
 
 import ../footer.scroll

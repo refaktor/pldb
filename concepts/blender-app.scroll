@@ -6,7 +6,7 @@ title Blender - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="hfs-plus.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="streem.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="m3db.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/blender-app.pldb
@@ -44,6 +44,6 @@ codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blo
 
 endColumns
 
-keyboardNav hfs-plus.html m3db.html
+keyboardNav streem.html m3db.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title ToffeeScript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="unified-parallel-c.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="asciidots.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="arexx.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/toffeescript.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/jiangmiao/toffeescript
 
 dashboard
- #691 <span title="TotalRank: 1263 Jobs: 103 Users: 173 Facts: 1878 Links: 987">on PLDB</span>
+ #692 <span title="TotalRank: 1263 Jobs: 103 Users: 173 Facts: 1879 Links: 987">on PLDB</span>
  10 Years Old
 
 * CoffeeScript with async syntax and some additional features
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav unified-parallel-c.html asciidots.html
+keyboardNav unified-parallel-c.html arexx.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title PL/pgSQL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="whitespace.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="morse-code.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="mariadb.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="whitespace.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/plpgsql.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#janWieck Jan Wieck
 
 dashboard
- #265 <span title="TotalRank: 651 Jobs: 103 Users: 764 Facts: 384 Links: 164">on PLDB</span>
+ #264 <span title="TotalRank: 650 Jobs: 103 Users: 764 Facts: 383 Links: 164">on PLDB</span>
  25 Years Old
  25k <span title="PL/pgSQL repos on GitHub.">Repos</span>
 
@@ -111,6 +111,6 @@ treeTable
   Token 
   Example
 
-keyboardNav whitespace.html morse-code.html
+keyboardNav mariadb.html whitespace.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title ActiveVFP - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="jupyter-notebook.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smallbasic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="gopher-protocol.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/activevfp.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2001 2001
 
 dashboard
- #840 <span title="TotalRank: 1403 Jobs: 103 Users: 1548 Facts: 313 Links: 987">on PLDB</span>
+ #841 <span title="TotalRank: 1403 Jobs: 103 Users: 1548 Facts: 313 Links: 987">on PLDB</span>
  22 Years Old
 
 * ActiveVFP (also known as AVFP) is a server-side scripting framework designed for Web development to produce dynamic Web pages. Similar to PHP, but using the native Visual Foxpro (VFP) language and database (or other databases like Microsoft SQL and MySQL), ActiveVFP can also be used in Model-View-Controller (MVC) web applications as well as RESTful API.  ActiveVFP is completely free and open source and does not require the purchase of Microsoft Visual FoxPro or any additional software. Read more on Wikipedia...
@@ -134,6 +134,6 @@ treeTable
   Token 
   Example
 
-keyboardNav jupyter-notebook.html smallbasic.html
+keyboardNav jupyter-notebook.html gopher-protocol.html
 
 import ../footer.scroll

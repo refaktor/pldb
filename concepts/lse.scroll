@@ -7,7 +7,7 @@ title Langage Sans Espoir - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="yap-prolog.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flapjax.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="hummingbird-quickscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lse.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1971 1971
 
 dashboard
- #2320 <span title="TotalRank: 2843 Jobs: 103 Users: 1753 Facts: 1778 Links: 987">on PLDB</span>
+ #2320 <span title="TotalRank: 2843 Jobs: 103 Users: 1753 Facts: 1779 Links: 987">on PLDB</span>
  52 Years Old
 
 * LSE (French: Langage symbolique d'enseignement) is a programming language developed at Supélec in the late 1970s/early 1980s. It is similar to BASIC, except with French-language instead of English-language keywords. It was derived from an earlier language called LSD, also developed at Supélec. Read more on Wikipedia...
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav yap-prolog.html flapjax.html
+keyboardNav yap-prolog.html hummingbird-quickscript.html
 
 import ../footer.scroll

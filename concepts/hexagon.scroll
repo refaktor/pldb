@@ -7,7 +7,7 @@ title Qualcomm Hexagon - Assembly language
 
 html
  <a class="trueBaseThemePreviousItem" href="microsoft-small-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hlsl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="java-properties.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hexagon.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
 
 dashboard
- #468 <span title="TotalRank: 991 Jobs: 90 Users: 409 Facts: 1444 Links: 492">on PLDB</span>
+ #468 <span title="TotalRank: 990 Jobs: 90 Users: 408 Facts: 1445 Links: 492">on PLDB</span>
  17 Years Old
 
 * Hexagon (QDSP6) is the brand for a family of 32-bit multi-threaded microarchitectures implementing the same instruction set for a digital signal processor (DSP) developed by Qualcomm. According to 2012 estimation, Qualcomm shipped 1.2 billion DSP cores inside its system on a chip (SoCs) (average 2.3 DSP core per SoC) in 2011 year, and 1.5 billion cores were planned for 2012, making the QDSP6 the most shipped architecture of DSP (CEVA had around 1 billion of DSP cores shipped in 2011 with 90% of IP-licenseable DSP market). The Hexagon architecture is designed to deliver performance with low power over a variety of applications. Read more on Wikipedia...
@@ -41,6 +41,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Qualcomm_Hexa
 
 endColumns
 
-keyboardNav microsoft-small-basic.html hlsl.html
+keyboardNav microsoft-small-basic.html java-properties.html
 
 import ../footer.scroll

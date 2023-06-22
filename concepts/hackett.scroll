@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/lexi-lambda/hackett
 
 dashboard
- #757 <span title="TotalRank: 1324 Jobs: 103 Users: 487 Facts: 734 Links: 987">on PLDB</span>
+ #757 <span title="TotalRank: 1323 Jobs: 103 Users: 486 Facts: 734 Links: 987">on PLDB</span>
  6 Years Old
 
 * Hackett is an attempt to implement a Haskell-like language with support for Racket’s macro system, built using the techniques described in the paper Type Systems as Macros.

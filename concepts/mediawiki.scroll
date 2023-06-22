@@ -6,8 +6,8 @@ title MediaWiki - Wiki markup
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="llvmir.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="spss.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="spss.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="nim.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mediawiki.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
 
 dashboard
- #103 <span title="TotalRank: 307 Jobs: 76 Users: 142 Facts: 108 Links: 123">on PLDB</span>
+ #104 <span title="TotalRank: 307 Jobs: 76 Users: 142 Facts: 108 Links: 123">on PLDB</span>
  21 Years Old
  10 <span title="MediaWiki repos on GitHub.">Repos</span>
 
@@ -183,6 +183,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/MediaWiki'>Wi
 
 endColumns
 
-keyboardNav llvmir.html spss.html
+keyboardNav spss.html nim.html
 
 import ../footer.scroll

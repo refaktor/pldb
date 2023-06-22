@@ -6,8 +6,8 @@ title YANG - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ia-32.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="perl-6.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="perl-6.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="turtle.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/yang.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/YangModels/yang
 
 dashboard
- #316 on PLDB
+ #317 on PLDB
  9 Years Old
  0 <span title="YANG repos on GitHub.">Repos</span>
 
@@ -115,6 +115,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ia-32.html perl-6.html
+keyboardNav perl-6.html turtle.html
 
 import ../footer.scroll

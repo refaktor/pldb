@@ -6,8 +6,8 @@ title DNS Zone - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="conan-pm.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="meson.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sha-2-hash-function.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="conan-pm.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zone.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2001 2001
 
 dashboard
- #830 on PLDB
+ #829 on PLDB
  22 Years Old
  30k <span title="DNS Zone repos on GitHub.">Repos</span>
 
@@ -56,6 +56,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Zone_file'>Wi
 
 endColumns
 
-keyboardNav conan-pm.html meson.html
+keyboardNav sha-2-hash-function.html conan-pm.html
 
 import ../footer.scroll

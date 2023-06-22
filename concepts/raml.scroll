@@ -6,8 +6,8 @@ title RAML - Yaml format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="clean.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="systemverilog.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="systemverilog.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="clips.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/raml.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/raml-org/raml-spec
 
 dashboard
- #238 <span title="TotalRank: 607 Jobs: 103 Users: 156 Facts: 348 Links: 987">on PLDB</span>
+ #239 <span title="TotalRank: 607 Jobs: 103 Users: 156 Facts: 348 Links: 987">on PLDB</span>
  10 Years Old
  4k <span title="RAML repos on GitHub.">Repos</span>
 
@@ -85,6 +85,6 @@ codeWithHeader Example from <a href='https://github.com/atom/language-yaml'>Ling
 
 endColumns
 
-keyboardNav clean.html systemverilog.html
+keyboardNav systemverilog.html clips.html
 
 import ../footer.scroll

@@ -23,7 +23,7 @@ startColumns 4
  link ../lists/creators.html#jamesCordy James Cordy
 
 dashboard
- #1830 <span title="TotalRank: 2344 Jobs: 103 Users: 1851 Facts: 2051 Links: 390">on PLDB</span>
+ #1831 <span title="TotalRank: 2344 Jobs: 103 Users: 1851 Facts: 1971 Links: 390">on PLDB</span>
  49 Years Old
 
 * SP/k is a programming language developed circa 1974 by R.C. Holt, D.B. Wortman, D.T. Read more on Wikipedia...
@@ -31,6 +31,7 @@ dashboard
 
 - SP/k Wikipedia page
  https://en.wikipedia.org/wiki/SP/k
+- SP/k first developed in <a href="../lists/originCommunities.html#universityOfToronto">University of Toronto</a>
 - SP/k on HOPL
  https://hopl.info/showlanguage.prx?exp=784
 - See also: (4 related languages)<a href="pl-i.html">PL/I</a>, <a href="turing.html">Turing</a>, <a href="pl-c.html">PL/C</a>, <a href="watfiv.html">WATFIV</a>

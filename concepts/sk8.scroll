@@ -7,7 +7,7 @@ title SK8 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="razor.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="stringcomp.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sparqcode.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sk8.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #2597 <span title="TotalRank: 3234 Jobs: 103 Users: 2144 Facts: 3890 Links: 987">on PLDB</span>
+ #2596 <span title="TotalRank: 3234 Jobs: 103 Users: 2144 Facts: 3892 Links: 987">on PLDB</span>
  35 Years Old
 
 * 
@@ -32,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav razor.html stringcomp.html
+keyboardNav razor.html sparqcode.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title vi - Editor
 
 html
  <a class="trueBaseThemePreviousItem" href="snobol.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="json5.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="restructuredtext.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/vi-editor.pldb
 
@@ -52,6 +52,6 @@ codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blo
 
 endColumns
 
-keyboardNav snobol.html json5.html
+keyboardNav snobol.html restructuredtext.html
 
 import ../footer.scroll

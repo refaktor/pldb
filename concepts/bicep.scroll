@@ -6,7 +6,7 @@ title Bicep - Json format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="z-notation.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="livescript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="modelica.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bicep.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/Azure/bicep
 
 dashboard
- #316 <span title="TotalRank: 733 Jobs: 103 Users: 225 Facts: 405 Links: 987">on PLDB</span>
+ #315 <span title="TotalRank: 732 Jobs: 103 Users: 225 Facts: 404 Links: 987">on PLDB</span>
  3 Years Old
  3k <span title="Bicep repos on GitHub.">Repos</span>
 
@@ -144,6 +144,6 @@ treeTable
   Example
    // A comment
 
-keyboardNav z-notation.html modelica.html
+keyboardNav livescript.html modelica.html
 
 import ../footer.scroll

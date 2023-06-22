@@ -6,8 +6,8 @@ title spark-pm - Package manager
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sosl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="stringbean.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="souffle.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="versioned-text-markup-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spark-pm.pldb
 
@@ -19,19 +19,22 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
 
 dashboard
- #3402 on PLDB
+ #3201 on PLDB
  9 Years Old
 
 * 
 
 - spark-pm website
  https://spark-packages.org/
+- spark-pm first developed in <a href="../lists/originCommunities.html#universityOfCaliforniaBerkeley">University of California, Berkeley</a>
 - <a href="https://spark-packages.org/">spark-packages.org</a> was registered in 2014
+- Read more about spark-pm on the web: 1.
+ https://spark.apache.org/contributing.html 1.
 
 <br>
 
 endColumns
 
-keyboardNav sosl.html stringbean.html
+keyboardNav souffle.html versioned-text-markup-language.html
 
 import ../footer.scroll

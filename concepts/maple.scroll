@@ -6,7 +6,7 @@ title Maple - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="yaml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="elm.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="powerpc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/maple.pldb
@@ -96,6 +96,6 @@ treeTable
   Token 
   Example
 
-keyboardNav yaml.html powerpc.html
+keyboardNav elm.html powerpc.html
 
 import ../footer.scroll

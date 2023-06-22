@@ -6,7 +6,7 @@ title Base64 - Text encoding format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="autolisp.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="puppet.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="simulink.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/base64.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav autolisp.html simulink.html
+keyboardNav puppet.html simulink.html
 
 import ../footer.scroll

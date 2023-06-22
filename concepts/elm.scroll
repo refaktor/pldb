@@ -6,8 +6,8 @@ title Elm - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="f-sharp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="yaml.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="yaml.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="maple.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/elm.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/elm-lang/elm-compiler
 
 dashboard
- #66 <span title="TotalRank: 243 Jobs: 70 Users: 111 Facts: 62 Links: 113">on PLDB</span>
+ #67 <span title="TotalRank: 243 Jobs: 70 Users: 111 Facts: 62 Links: 113">on PLDB</span>
  11 Years Old
  20k <span title="Elm repos on GitHub.">Repos</span>
 
@@ -260,6 +260,6 @@ treeTable
   Token 
   Example
 
-keyboardNav f-sharp.html yaml.html
+keyboardNav yaml.html maple.html
 
 import ../footer.scroll

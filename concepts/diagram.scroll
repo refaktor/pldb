@@ -7,7 +7,7 @@ title DIAGRAM - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="jscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="urweb.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="powerbuilder.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/diagram.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav jscript.html urweb.html
+keyboardNav jscript.html powerbuilder.html
 
 import ../footer.scroll

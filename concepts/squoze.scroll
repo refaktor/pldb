@@ -6,7 +6,7 @@ title SQUOZE - Binary data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sk8.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sparqcode.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="stringcomp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/squoze.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav sk8.html stringcomp.html
+keyboardNav sparqcode.html stringcomp.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title zz - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="impala.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mckeeman-form.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="hyperscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="apt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zz.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/aep/zz
 
 dashboard
- #754 <span title="TotalRank: 1322 Jobs: 103 Users: 387 Facts: 832 Links: 987">on PLDB</span>
+ #752 <span title="TotalRank: 1321 Jobs: 103 Users: 386 Facts: 832 Links: 987">on PLDB</span>
  4 Years Old
 
 * 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
@@ -63,6 +63,6 @@ treeTable
   Token printf
   Example
 
-keyboardNav impala.html mckeeman-form.html
+keyboardNav hyperscript.html apt.html
 
 import ../footer.scroll

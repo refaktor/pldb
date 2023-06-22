@@ -7,7 +7,7 @@ title Python for S60 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="rocky-mountain-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="trac.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="kuin.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/python-for-s60.pldb
 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav rocky-mountain-basic.html trac.html
+keyboardNav rocky-mountain-basic.html kuin.html
 
 import ../footer.scroll

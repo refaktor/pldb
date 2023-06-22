@@ -6,8 +6,8 @@ title Jison Lex - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tap.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="femtolisp.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ti-basic-assembly.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="xbl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jison-lex.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/zaach/jison-lex
 
 dashboard
- #910 <span title="TotalRank: 1478 Jobs: 103 Users: 915 Facts: 460 Links: 987">on PLDB</span>
+ #908 <span title="TotalRank: 1477 Jobs: 103 Users: 915 Facts: 459 Links: 987">on PLDB</span>
  10 Years Old
  0 <span title="Jison Lex repos on GitHub.">Repos</span>
 
@@ -79,6 +79,6 @@ treeTable
   Token true false
   Example
 
-keyboardNav tap.html femtolisp.html
+keyboardNav ti-basic-assembly.html xbl.html
 
 import ../footer.scroll

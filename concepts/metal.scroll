@@ -6,7 +6,7 @@ title Metal - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="netlogo.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="numpy.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="raml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/metal.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
 
 dashboard
- #291 on PLDB
+ #292 on PLDB
  9 Years Old
  79 <span title="Metal repos on GitHub.">Repos</span>
 
@@ -140,6 +140,6 @@ codeWithHeader Example from <a href='https://github.com/textmate/c.tmbundle'>Lin
 
 endColumns
 
-keyboardNav netlogo.html raml.html
+keyboardNav numpy.html raml.html
 
 import ../footer.scroll

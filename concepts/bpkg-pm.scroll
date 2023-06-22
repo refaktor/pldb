@@ -6,8 +6,8 @@ title bpkg-pm - Package manager
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="query-by-example.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="crush.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="molfile-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="query-by-example.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bpkg-pm.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/bpkg/bpkg
 
 dashboard
- #1169 on PLDB
+ #1168 on PLDB
  6 Years Old
 
 * Lightweight bash package manager
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav query-by-example.html crush.html
+keyboardNav molfile-format.html query-by-example.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title ToonTalk - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="comal.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="scribe.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mdx-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/toontalk.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/ToonTalk/ToonTalk
 
 dashboard
- #1265 <span title="TotalRank: 1799 Jobs: 103 Users: 1339 Facts: 1029 Links: 667">on PLDB</span>
+ #1264 <span title="TotalRank: 1799 Jobs: 103 Users: 1339 Facts: 1029 Links: 667">on PLDB</span>
  28 Years Old
 
 * ToonTalk is a computer programming system intended to be programmed by children.  The "Toon" part stands for cartoon.  The system's presentation is in the form of animated characters, including robots that can be trained by example. Read more on Wikipedia...
@@ -43,6 +43,6 @@ dashboard
 
 endColumns
 
-keyboardNav comal.html mdx-lang.html
+keyboardNav scribe.html mdx-lang.html
 
 import ../footer.scroll

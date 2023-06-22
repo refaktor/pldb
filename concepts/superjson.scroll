@@ -7,7 +7,7 @@ title Superjson - Data notation
 
 html
  <a class="trueBaseThemePreviousItem" href="shakespeare-programming-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="creative-basic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="clash.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/superjson.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/blitz-js/superjson
 
 dashboard
- #934 <span title="TotalRank: 1503 Jobs: 103 Users: 413 Facts: 1198 Links: 987">on PLDB</span>
+ #934 <span title="TotalRank: 1502 Jobs: 103 Users: 412 Facts: 1198 Links: 987">on PLDB</span>
  9 Years Old
 
 * A superset of JSON adding: undefined bigint Date RegExp Set Map Error
@@ -156,6 +156,6 @@ treeTable
   Token 
   Example
 
-keyboardNav shakespeare-programming-language.html creative-basic.html
+keyboardNav shakespeare-programming-language.html clash.html
 
 import ../footer.scroll

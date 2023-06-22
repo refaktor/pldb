@@ -6,7 +6,7 @@ title SquidConf - Config format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="soar-ml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="spec.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="statemate.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/squidconf.pldb
@@ -48,6 +48,6 @@ treeTable
   Token 
   Example
 
-keyboardNav soar-ml.html statemate.html
+keyboardNav spec.html statemate.html
 
 import ../footer.scroll

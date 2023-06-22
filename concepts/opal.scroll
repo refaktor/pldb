@@ -6,8 +6,8 @@ title Opal - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="joss.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="harlan.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="miniml-error.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="joss.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/opal.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/TU-Berlin/opal
 
 dashboard
- #968 <span title="TotalRank: 1532 Jobs: 103 Users: 984 Facts: 445 Links: 987">on PLDB</span>
+ #967 <span title="TotalRank: 1531 Jobs: 103 Users: 984 Facts: 444 Links: 987">on PLDB</span>
  29 Years Old
  14 <span title="Opal repos on GitHub.">Repos</span>
 
@@ -88,6 +88,6 @@ treeTable
   Token 
   Example
 
-keyboardNav joss.html harlan.html
+keyboardNav miniml-error.html joss.html
 
 import ../footer.scroll

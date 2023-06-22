@@ -7,7 +7,7 @@ title IPL - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ssml.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="astatine.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="space.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/intuitionistic.pldb
 
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav ssml.html astatine.html
+keyboardNav ssml.html space.html
 
 import ../footer.scroll

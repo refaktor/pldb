@@ -6,8 +6,8 @@ title Ren'Py - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="argdown.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cilk.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="cilk.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="nu.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/renpy.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #463 <span title="TotalRank: 985 Jobs: 103 Users: 595 Facts: 287 Links: 987">on PLDB</span>
+ #464 <span title="TotalRank: 985 Jobs: 103 Users: 595 Facts: 287 Links: 987">on PLDB</span>
  19 Years Old
  3k <span title="Ren'Py repos on GitHub.">Repos</span>
 
@@ -126,6 +126,6 @@ treeTable
   Token 
   Example
 
-keyboardNav argdown.html cilk.html
+keyboardNav cilk.html nu.html
 
 import ../footer.scroll

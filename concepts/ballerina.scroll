@@ -7,7 +7,7 @@ title Ballerina - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="reverse-polish-notation.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="java-server-pages.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="blitzbasic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ballerina.pldb
 
@@ -139,6 +139,6 @@ treeTable
   Token 
   Example
 
-keyboardNav reverse-polish-notation.html java-server-pages.html
+keyboardNav reverse-polish-notation.html blitzbasic.html
 
 import ../footer.scroll

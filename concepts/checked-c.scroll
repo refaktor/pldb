@@ -6,8 +6,8 @@ title checked-c - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="arabic-numerals.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cusip.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="cusip.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="json-graph-format.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/checked-c.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/Microsoft/checkedc
 
 dashboard
- #799 <span title="TotalRank: 1358 Jobs: 103 Users: 268 Facts: 1444 Links: 987">on PLDB</span>
+ #800 <span title="TotalRank: 1358 Jobs: 103 Users: 268 Facts: 1445 Links: 987">on PLDB</span>
  8 Years Old
 
 * Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, and test code.
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav arabic-numerals.html cusip.html
+keyboardNav cusip.html json-graph-format.html
 
 import ../footer.scroll

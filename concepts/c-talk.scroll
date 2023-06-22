@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#konstantinKnizhnik Konstantin Knizhnik
 
 dashboard
- #2522 <span title="TotalRank: 3141 Jobs: 103 Users: 2432 Facts: 2051 Links: 987">on PLDB</span>
+ #2522 <span title="TotalRank: 3143 Jobs: 103 Users: 2432 Facts: 2053 Links: 987">on PLDB</span>
  24 Years Old
 
 * C-Talk is interpreted scripting language with C-like syntax and dynamic type checking. Variables in C-Talk have no type. So there is no compile time type checking in C-Talk, all checking is performed at runtime. To preserve reference integrity, explicit memory deallocation is prohibited in C-Talk, unused objects are automatically deallocated by garbage collector.

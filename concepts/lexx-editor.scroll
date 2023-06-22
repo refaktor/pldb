@@ -6,8 +6,8 @@ title LEXX - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sox.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="coffee-cinema-4d.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="xdr.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sox.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lexx-editor.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1985 1985
 
 dashboard
- #2823 on PLDB
+ #2822 on PLDB
  38 Years Old
 
 * LEXX is a text editor which was possibly the first to use live parsing and colour syntax highlighting. It was written by Mike Cowlishaw of IBM around 1985. The name was chosen because he wrote it as a tool for lexicographers, during an assignment for Oxford University Press's second edition of the Oxford English Dictionary. Read more on Wikipedia...
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav sox.html coffee-cinema-4d.html
+keyboardNav xdr.html sox.html
 
 import ../footer.scroll

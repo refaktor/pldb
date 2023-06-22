@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/faylang/fay
 
 dashboard
- #560 <span title="TotalRank: 1122 Jobs: 103 Users: 422 Facts: 597 Links: 987">on PLDB</span>
+ #560 <span title="TotalRank: 1121 Jobs: 103 Users: 421 Facts: 597 Links: 987">on PLDB</span>
  11 Years Old
 
 * A proper subset of Haskell that compiles to JavaScript

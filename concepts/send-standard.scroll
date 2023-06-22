@@ -6,7 +6,7 @@ title Standard for Exchange of Non-clinical Data - Standard
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="southampton-basic-system.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sam76.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="val.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/send-standard.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav southampton-basic-system.html val.html
+keyboardNav sam76.html val.html
 
 import ../footer.scroll

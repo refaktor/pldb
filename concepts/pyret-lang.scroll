@@ -6,8 +6,8 @@ title Pyret - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="fable-lang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="llhd.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="cyber.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="teco.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pyret-lang.pldb
 
@@ -24,7 +24,7 @@ codeWithHeader Source code:
  git clone https://github.com/brownplt/pyret-lang
 
 dashboard
- #1007 <span title="TotalRank: 1572 Jobs: 103 Users: 482 Facts: 1663 Links: 987">on PLDB</span>
+ #1004 <span title="TotalRank: 1571 Jobs: 103 Users: 481 Facts: 1663 Links: 987">on PLDB</span>
  11 Years Old
 
 * The Pyret language.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav fable-lang.html llhd.html
+keyboardNav cyber.html teco.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title hamler - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="snakemake.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="xodio.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="neut.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hiveql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hamler.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/hamler-lang/hamler
 
 dashboard
- #1040 <span title="TotalRank: 1608 Jobs: 103 Users: 518 Facts: 1029 Links: 987">on PLDB</span>
+ #1038 <span title="TotalRank: 1607 Jobs: 103 Users: 517 Facts: 1029 Links: 987">on PLDB</span>
  4 Years Old
 
 * Hamler is a strongly-typed language with compile-time typechecking and built-in support for concurrency and distribution.
@@ -49,6 +49,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav snakemake.html xodio.html
+keyboardNav neut.html hiveql.html
 
 import ../footer.scroll

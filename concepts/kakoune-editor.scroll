@@ -7,7 +7,7 @@ title Kakoune - Editor
 
 html
  <a class="trueBaseThemePreviousItem" href="gold.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="bpel.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="up-arrow-notation.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/kakoune-editor.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav gold.html bpel.html
+keyboardNav gold.html up-arrow-notation.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title penrose - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ucl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gleam.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="visual-prolog.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/penrose.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/penrose/penrose
 
 dashboard
- #686 <span title="TotalRank: 1260 Jobs: 103 Users: 170 Facts: 1306 Links: 987">on PLDB</span>
+ #686 <span title="TotalRank: 1260 Jobs: 103 Users: 170 Facts: 1307 Links: 987">on PLDB</span>
  7 Years Old
 
 * Create beautiful diagrams just by typing mathematical notation in plain text.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav ucl.html gleam.html
+keyboardNav ucl.html visual-prolog.html
 
 import ../footer.scroll

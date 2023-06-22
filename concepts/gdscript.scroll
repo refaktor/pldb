@@ -6,8 +6,8 @@ title GDScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="visual-prolog.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="unified-parallel-c.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="gleam.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="asciidots.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gdscript.pldb
 
@@ -183,6 +183,6 @@ treeTable
   Token 
   Example
 
-keyboardNav visual-prolog.html unified-parallel-c.html
+keyboardNav gleam.html asciidots.html
 
 import ../footer.scroll

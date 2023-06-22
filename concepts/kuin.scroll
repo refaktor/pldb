@@ -6,8 +6,8 @@ title Kuin - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="trac.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="color-basic.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="python-for-s60.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="trac.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/kuin.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/kuina/Kuin
 
 dashboard
- #1526 <span title="TotalRank: 2039 Jobs: 103 Users: 949 Facts: 1586 Links: 987">on PLDB</span>
+ #1525 <span title="TotalRank: 2039 Jobs: 103 Users: 949 Facts: 1586 Links: 987">on PLDB</span>
  7 Years Old
 
 * Kuin Programming Language
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav trac.html color-basic.html
+keyboardNav python-for-s60.html trac.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title SystemVerilog - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="raml.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="clips.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="clean.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="raml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/systemverilog.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
 
 dashboard
- #239 <span title="TotalRank: 608 Jobs: 103 Users: 462 Facts: 232 Links: 273">on PLDB</span>
+ #238 <span title="TotalRank: 607 Jobs: 103 Users: 461 Facts: 232 Links: 272">on PLDB</span>
  21 Years Old
  10k <span title="SystemVerilog repos on GitHub.">Repos</span>
 
@@ -201,6 +201,6 @@ treeTable
   Token 
   Example
 
-keyboardNav raml.html clips.html
+keyboardNav clean.html raml.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Watcom - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="watfiv.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="bare.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="pact.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/watcom.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav watfiv.html pact.html
+keyboardNav bare.html pact.html
 
 import ../footer.scroll

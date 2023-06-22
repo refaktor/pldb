@@ -7,7 +7,7 @@ title multiaddr - Schema
 
 html
  <a class="trueBaseThemePreviousItem" href="mangle.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="business-basic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="go-bang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/multiaddr.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav mangle.html business-basic.html
+keyboardNav mangle.html go-bang.html
 
 import ../footer.scroll

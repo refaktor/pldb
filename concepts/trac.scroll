@@ -6,8 +6,8 @@ title TRAC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="python-for-s60.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="kuin.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="kuin.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="color-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/trac.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#calvinMooers Calvin Mooers
 
 dashboard
- #1525 <span title="TotalRank: 2039 Jobs: 103 Users: 1548 Facts: 1444 Links: 492">on PLDB</span>
+ #1526 <span title="TotalRank: 2040 Jobs: 103 Users: 1548 Facts: 1445 Links: 492">on PLDB</span>
  59 Years Old
 
 * TRAC (for Text Reckoning And Compiling) Language is a programming language developed between 1959-1964 by Calvin Mooers and implemented on a PDP-10 in 1964 by L. Peter Deutsch. It was one of three "first languages" recommended by Ted Nelson in Computer Lib. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav python-for-s60.html kuin.html
+keyboardNav kuin.html color-basic.html
 
 import ../footer.scroll

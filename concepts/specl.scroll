@@ -6,8 +6,8 @@ title SPECL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="soql-lang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="specol.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sorca.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ssl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/specl.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1973 1973
 
 dashboard
- #3201 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 4085 Links: 987">on PLDB</span>
+ #4047 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 3264 Links: 987">on PLDB</span>
  50 Years Old
 
 * 
 
+- SPECL first developed in <a href="../lists/originCommunities.html#harvardUniversity">Harvard University</a>
 - SPECL on HOPL
  https://hopl.info/showlanguage.prx?exp=3899
 - Read more about SPECL on Semantic Scholar: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav soql-lang.html specol.html
+keyboardNav sorca.html ssl.html
 
 import ../footer.scroll

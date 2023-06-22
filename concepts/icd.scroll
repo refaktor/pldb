@@ -6,7 +6,7 @@ title ICD-10-CM diagnosis - Schema
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="praat-script.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="contracts.coffee.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ucl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/icd.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav praat-script.html ucl.html
+keyboardNav contracts.coffee.html ucl.html
 
 import ../footer.scroll

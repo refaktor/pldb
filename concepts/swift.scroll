@@ -7,7 +7,7 @@ title Swift - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="css.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="scala.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ada.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/swift.pldb
 
@@ -306,6 +306,6 @@ treeTable
   Token 
   Example
 
-keyboardNav css.html scala.html
+keyboardNav css.html ada.html
 
 import ../footer.scroll

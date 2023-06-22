@@ -6,7 +6,7 @@ title Google Cloud Platform - Cloud service
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="bicep.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="wolfram.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="notepad-editor.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/google-cloud.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
 
 dashboard
- #379 on PLDB
+ #380 on PLDB
  12 Years Old
 
 * Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube. Alongside a set of management tools, it provides a series of modular cloud services including computing, data storage, data analytics and machine learning.. Registration requires a credit card or bank account details.. Read more on Wikipedia...
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav bicep.html notepad-editor.html
+keyboardNav wolfram.html notepad-editor.html
 
 import ../footer.scroll

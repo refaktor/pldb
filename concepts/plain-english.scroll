@@ -6,7 +6,7 @@ title Plain English - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ncl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="angelscript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="bpel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/plain-english.pldb
@@ -334,6 +334,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav ncl.html bpel.html
+keyboardNav angelscript.html bpel.html
 
 import ../footer.scroll

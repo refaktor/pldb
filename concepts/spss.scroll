@@ -6,8 +6,8 @@ title SPSS - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mediawiki.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nim.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="llvmir.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mediawiki.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spss.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1968 1968
 
 dashboard
- #104 <span title="TotalRank: 307 Jobs: 21 Users: 13 Facts: 431 Links: 273">on PLDB</span>
+ #103 <span title="TotalRank: 306 Jobs: 21 Users: 13 Facts: 430 Links: 272">on PLDB</span>
  55 Years Old
 
 * SPSS Statistics is a software package used for logical batched and non-batched statistical analysis. Long produced by SPSS Inc., it was acquired by IBM in 2009. The current versions (2015) are officially named IBM SPSS Statistics. Read more on Wikipedia...
@@ -98,6 +98,6 @@ treeTable
   Token 
   Example
 
-keyboardNav mediawiki.html nim.html
+keyboardNav llvmir.html mediawiki.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title X PixMap - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="gogs-editor.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="readable.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="kml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/x-pixmap.pldb
 
@@ -91,6 +91,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/X_PixMap'>Wik
 
 endColumns
 
-keyboardNav gogs-editor.html readable.html
+keyboardNav gogs-editor.html kml.html
 
 import ../footer.scroll

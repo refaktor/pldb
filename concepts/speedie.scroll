@@ -6,7 +6,7 @@ title Speedie - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="spark.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="s.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="q.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/speedie.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#theodoreHSmith Theodore H Smith
 
 dashboard
- #338 <span title="TotalRank: 793 Jobs: 103 Users: 2432 Facts: 23 Links: 667">on PLDB</span>
+ #337 <span title="TotalRank: 793 Jobs: 103 Users: 2432 Facts: 23 Links: 667">on PLDB</span>
  1 Years Old
 
 * Try now: <a href="http://github.com/gamblevore/speedie">Web</a>
@@ -874,6 +874,6 @@ treeTable
   Token 
   Example
 
-keyboardNav spark.html q.html
+keyboardNav s.html q.html
 
 import ../footer.scroll

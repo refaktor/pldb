@@ -6,7 +6,7 @@ title OPL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="web-idl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="please-build.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ravenscar-profile.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/opl.pldb
@@ -51,6 +51,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Open_Programm
 
 endColumns
 
-keyboardNav web-idl.html ravenscar-profile.html
+keyboardNav please-build.html ravenscar-profile.html
 
 import ../footer.scroll

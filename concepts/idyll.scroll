@@ -6,7 +6,7 @@ title idyll - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="squirrel.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="terra.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="jison.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/idyll.pldb
@@ -410,6 +410,6 @@ pipeTable
  title|titleLink|date|score|comments
  Idyll: Interactive Document Language|https://news.ycombinator.com/item?id=15204241|09/08/2017|195|18
 
-keyboardNav squirrel.html jison.html
+keyboardNav terra.html jison.html
 
 import ../footer.scroll

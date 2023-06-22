@@ -6,8 +6,8 @@ title BlackCoffee - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="asciidots.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="arexx.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="clos.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="karel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/blackcoffee.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/paiq/blackcoffee
 
 dashboard
- #693 <span title="TotalRank: 1264 Jobs: 103 Users: 174 Facts: 1663 Links: 987">on PLDB</span>
+ #695 <span title="TotalRank: 1264 Jobs: 103 Users: 174 Facts: 1663 Links: 987">on PLDB</span>
  9 Years Old
 
 * CoffeeScript + hygienic macros
@@ -43,6 +43,6 @@ codeWithHeader BlackCoffee <a href="../lists/keywords.html?filter=blackcoffee">K
 
 endColumns
 
-keyboardNav asciidots.html arexx.html
+keyboardNav clos.html karel.html
 
 import ../footer.scroll

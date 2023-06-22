@@ -7,7 +7,7 @@ title SI - Notation
 
 html
  <a class="trueBaseThemePreviousItem" href="qbasic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lolcode.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="java-bytecode.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/si.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav qbasic.html lolcode.html
+keyboardNav qbasic.html java-bytecode.html
 
 import ../footer.scroll

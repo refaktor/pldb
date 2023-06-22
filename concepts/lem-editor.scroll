@@ -6,8 +6,8 @@ title lem-editor - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="miniml-error.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="acl2.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="z-machine.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="harlan.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lem-editor.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav miniml-error.html acl2.html
+keyboardNav z-machine.html harlan.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title pinto - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="icalendar-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="space.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="tree-annotation-operator.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pinto.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/punkbrwstr/pinto
 
 dashboard
- #1888 <span title="TotalRank: 2396 Jobs: 103 Users: 2263 Facts: 1306 Links: 987">on PLDB</span>
+ #1889 <span title="TotalRank: 2397 Jobs: 103 Users: 2263 Facts: 1307 Links: 987">on PLDB</span>
  7 Years Old
 
 * Pinto is a domain-specific programming language for time series
@@ -43,6 +43,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Pinto is a stack-based functional language for time series|https://news.ycombinator.com/item?id=12638229|10/04/2016|7|1
 
-keyboardNav icalendar-format.html space.html
+keyboardNav icalendar-format.html tree-annotation-operator.html
 
 import ../footer.scroll

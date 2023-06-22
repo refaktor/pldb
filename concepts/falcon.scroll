@@ -6,7 +6,7 @@ title Falcon - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="atmel-avr.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="spark.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="slash.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/falcon.pldb
@@ -89,6 +89,6 @@ treeTable
   Token 
   Example
 
-keyboardNav atmel-avr.html slash.html
+keyboardNav spark.html slash.html
 
 import ../footer.scroll

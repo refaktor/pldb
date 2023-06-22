@@ -6,7 +6,7 @@ title Mangle - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="go-bang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="stos-basic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="multiaddr.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mangle.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/google/mangle
 
 dashboard
- #1284 <span title="TotalRank: 1820 Jobs: 103 Users: 730 Facts: 1970 Links: 987">on PLDB</span>
+ #1284 <span title="TotalRank: 1820 Jobs: 103 Users: 730 Facts: 1971 Links: 987">on PLDB</span>
  1 Years Old
 
 * 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav go-bang.html multiaddr.html
+keyboardNav stos-basic.html multiaddr.html
 
 import ../footer.scroll

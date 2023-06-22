@@ -6,8 +6,8 @@ title xsv-app - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="docopt.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mu.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="mu.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="vimwiki.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xsv-app.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/BurntSushi/xsv
 
 dashboard
- #806 on PLDB
+ #807 on PLDB
  9 Years Old
 
 * A fast CSV command line toolkit written in Rust.
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav docopt.html mu.html
+keyboardNav mu.html vimwiki.html
 
 import ../footer.scroll

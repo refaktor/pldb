@@ -6,7 +6,7 @@ title .QL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="spider.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="netrexx.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="nios.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dot-ql.pldb
@@ -43,6 +43,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/.QL'>Wikipedi
 
 endColumns
 
-keyboardNav spider.html nios.html
+keyboardNav netrexx.html nios.html
 
 import ../footer.scroll

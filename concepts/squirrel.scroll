@@ -6,8 +6,8 @@ title Squirrel - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="terra.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="idyll.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="dot.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="terra.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/squirrel.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/albertodemichelis/squirrel
 
 dashboard
- #165 <span title="TotalRank: 468 Jobs: 103 Users: 396 Facts: 92 Links: 273">on PLDB</span>
+ #164 <span title="TotalRank: 467 Jobs: 103 Users: 395 Facts: 92 Links: 272">on PLDB</span>
  20 Years Old
  2k <span title="Squirrel repos on GitHub.">Repos</span>
 
@@ -200,6 +200,6 @@ treeTable
   Token 
   Example
 
-keyboardNav terra.html idyll.html
+keyboardNav dot.html terra.html
 
 import ../footer.scroll

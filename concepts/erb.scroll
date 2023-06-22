@@ -6,7 +6,7 @@ title ERB - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ecl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="general-algebraic-modeling-system.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="g-code.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/erb.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #320 <span title="TotalRank: 744 Jobs: 103 Users: 847 Facts: 251 Links: 390">on PLDB</span>
+ #319 <span title="TotalRank: 744 Jobs: 103 Users: 847 Facts: 251 Links: 390">on PLDB</span>
  19 Years Old
  276 <span title="ERB repos on GitHub.">Repos</span>
 
@@ -112,6 +112,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/ERuby'>Wikipe
 
 endColumns
 
-keyboardNav ecl.html g-code.html
+keyboardNav general-algebraic-modeling-system.html g-code.html
 
 import ../footer.scroll

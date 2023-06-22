@@ -7,7 +7,7 @@ title netbeans-editor - Editor
 
 html
  <a class="trueBaseThemePreviousItem" href="alef.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="please-build.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="shen.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/netbeans-editor.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/apache/netbeans
 
 dashboard
- #962 on PLDB
+ #963 on PLDB
  10 Years Old
 
 * Apache NetBeans
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav alef.html please-build.html
+keyboardNav alef.html shen.html
 
 import ../footer.scroll

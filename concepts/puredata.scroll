@@ -7,7 +7,7 @@ title Pure Data - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="janet.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="beef.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="common-workflow-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/puredata.pldb
 
@@ -50,6 +50,6 @@ codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blo
 
 endColumns
 
-keyboardNav janet.html beef.html
+keyboardNav janet.html common-workflow-language.html
 
 import ../footer.scroll

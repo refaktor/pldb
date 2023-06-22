@@ -6,7 +6,7 @@ title Flix - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="erg.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="raku.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="wasp-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/flix.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/flix/flix
 
 dashboard
- #891 <span title="TotalRank: 1457 Jobs: 103 Users: 367 Facts: 1778 Links: 987">on PLDB</span>
+ #891 <span title="TotalRank: 1456 Jobs: 103 Users: 366 Facts: 1779 Links: 987">on PLDB</span>
  7 Years Old
 
 * The Flix Programming Language
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav erg.html wasp-lang.html
+keyboardNav raku.html wasp-lang.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title REST - Protocol
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="doi.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="smalltalk.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="d.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rest.pldb
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav doi.html d.html
+keyboardNav smalltalk.html d.html
 
 import ../footer.scroll

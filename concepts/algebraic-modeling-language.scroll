@@ -6,8 +6,8 @@ title Algebraic modeling language - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lil-pl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hacspec.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="httplang.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lil-pl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/algebraic-modeling-language.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav lil-pl.html hacspec.html
+keyboardNav httplang.html lil-pl.html
 
 import ../footer.scroll

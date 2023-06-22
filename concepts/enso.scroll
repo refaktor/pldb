@@ -7,7 +7,7 @@ title Enso - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="k.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="korn-shell.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="closure-templates.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/enso.pldb
 
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav k.html korn-shell.html
+keyboardNav k.html closure-templates.html
 
 import ../footer.scroll

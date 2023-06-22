@@ -6,7 +6,7 @@ title SHA-3 - Hash function
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mojo.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="chef.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mathlab.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sha-3-hash-function.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav mojo.html mathlab.html
+keyboardNav chef.html mathlab.html
 
 import ../footer.scroll

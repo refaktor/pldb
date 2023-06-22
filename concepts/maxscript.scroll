@@ -7,7 +7,7 @@ title MAXScript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="bog.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ferret.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="xc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/maxscript.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1996 1996
 
 dashboard
- #925 <span title="TotalRank: 1495 Jobs: 103 Users: 1125 Facts: 405 Links: 987">on PLDB</span>
+ #924 <span title="TotalRank: 1494 Jobs: 103 Users: 1125 Facts: 404 Links: 987">on PLDB</span>
  27 Years Old
  2k <span title="MAXScript repos on GitHub.">Repos</span>
 
@@ -105,6 +105,6 @@ treeTable
   Token 
   Example
 
-keyboardNav bog.html ferret.html
+keyboardNav bog.html xc.html
 
 import ../footer.scroll

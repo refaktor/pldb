@@ -7,7 +7,7 @@ title Property list - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="staroffice-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pop-11.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="mojo.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/plist.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
 
 dashboard
- #764 <span title="TotalRank: 1332 Jobs: 103 Users: 737 Facts: 1970 Links: 492">on PLDB</span>
+ #764 <span title="TotalRank: 1332 Jobs: 103 Users: 737 Facts: 1971 Links: 492">on PLDB</span>
  11 Years Old
 
 * In the macOS, iOS, NeXTSTEP, and GNUstep programming frameworks, property list files are files that store serialized objects. Property list files use the filename extension .plist, and thus are often referred to as p-list files. Property list files are often used to store a user's settings. Read more on Wikipedia...
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav staroffice-basic.html pop-11.html
+keyboardNav staroffice-basic.html mojo.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Megaparsec - Library
 
 html
  <a class="trueBaseThemePreviousItem" href="lmdb.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="colascript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="tap-code.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/megaparsec.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav lmdb.html colascript.html
+keyboardNav lmdb.html tap-code.html
 
 import ../footer.scroll

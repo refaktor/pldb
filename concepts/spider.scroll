@@ -7,7 +7,7 @@ title spider - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="coldfusion-components.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="dot-ql.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="nexus-format.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spider.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/alongubkin/spider
 
 dashboard
- #978 <span title="TotalRank: 1536 Jobs: 103 Users: 446 Facts: 1663 Links: 987">on PLDB</span>
+ #976 <span title="TotalRank: 1535 Jobs: 103 Users: 445 Facts: 1663 Links: 987">on PLDB</span>
  9 Years Old
 
 * Unsurprising JavaScript - No longer active
@@ -48,6 +48,6 @@ treeTable
   Token 
   Example
 
-keyboardNav coldfusion-components.html dot-ql.html
+keyboardNav coldfusion-components.html nexus-format.html
 
 import ../footer.scroll

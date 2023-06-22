@@ -6,7 +6,7 @@ title fork-lang - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="southampton-basic-system.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sam76.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="scheme-2-d.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fork-lang.pldb
@@ -40,6 +40,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Fork, a toy self-hosting language and compiler that compiles to C|https://news.ycombinator.com/item?id=18155262|10/06/2018|58|3
 
-keyboardNav southampton-basic-system.html scheme-2-d.html
+keyboardNav sam76.html scheme-2-d.html
 
 import ../footer.scroll

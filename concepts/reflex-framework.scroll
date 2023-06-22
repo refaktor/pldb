@@ -7,7 +7,7 @@ title reflex-framework - Framework
 
 html
  <a class="trueBaseThemePreviousItem" href="wireless-markup-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ch.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="tea-pm.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/reflex-framework.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav wireless-markup-language.html ch.html
+keyboardNav wireless-markup-language.html tea-pm.html
 
 import ../footer.scroll

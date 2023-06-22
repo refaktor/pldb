@@ -6,8 +6,8 @@ title Dynamo - Visual programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="drakon.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pari-gp.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="pari-gp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="xslt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dynamo-visual-language.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/DynamoDS/Dynamo
 
 dashboard
- #479 <span title="TotalRank: 1006 Jobs: 103 Users: 236 Facts: 1120 Links: 667">on PLDB</span>
+ #480 <span title="TotalRank: 1006 Jobs: 103 Users: 236 Facts: 1120 Links: 667">on PLDB</span>
  12 Years Old
 
 * Open Source Graphical Programming for Design
@@ -41,6 +41,6 @@ dashboard
 
 endColumns
 
-keyboardNav drakon.html pari-gp.html
+keyboardNav pari-gp.html xslt.html
 
 import ../footer.scroll

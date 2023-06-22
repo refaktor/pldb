@@ -6,8 +6,8 @@ title Gettext Catalog - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="telnet-protocol.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="emberscript.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="emberscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="providex.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gettext.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1990 1990
 
 dashboard
- #662 <span title="TotalRank: 1240 Jobs: 103 Users: 645 Facts: 734 Links: 492">on PLDB</span>
+ #663 <span title="TotalRank: 1240 Jobs: 103 Users: 645 Facts: 734 Links: 492">on PLDB</span>
  33 Years Old
  63k <span title="Gettext Catalog repos on GitHub.">Repos</span>
 
@@ -63,6 +63,6 @@ treeTable
   Token 
   Example
 
-keyboardNav telnet-protocol.html emberscript.html
+keyboardNav emberscript.html providex.html
 
 import ../footer.scroll

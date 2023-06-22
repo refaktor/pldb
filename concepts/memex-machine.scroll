@@ -6,7 +6,7 @@ title Memex - Computing machine
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="inchi.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="spec-sharp.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="zonnon.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/memex-machine.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#vannevarBush Vannevar Bush
 
 dashboard
- #1408 on PLDB
+ #1409 on PLDB
  78 Years Old
 
 * The memex (originally coined "at random", though sometimes said to be a portmanteau of "memory" and "index") is the name of the hypothetical proto-hypertext system that Vannevar Bush described in his 1945 The Atlantic Monthly article "As We May Think". Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, "mechanized so that it may be consulted with exceeding speed and flexibility".  The memex would provide an "enlarged intimate supplement to one's memory". Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav inchi.html zonnon.html
+keyboardNav spec-sharp.html zonnon.html
 
 import ../footer.scroll

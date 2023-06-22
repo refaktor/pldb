@@ -6,7 +6,7 @@ title M4 - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="asciidoc.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="pod.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="x86-64-isa.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/m4.pldb
@@ -133,6 +133,6 @@ treeTable
   Token 
   Example
 
-keyboardNav asciidoc.html x86-64-isa.html
+keyboardNav pod.html x86-64-isa.html
 
 import ../footer.scroll

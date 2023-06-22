@@ -7,7 +7,7 @@ title neut - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="sequential-function-chart.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hiveql.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="hamler.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/neut.pldb
 
@@ -73,6 +73,6 @@ treeTable
   Token 
   Example
 
-keyboardNav sequential-function-chart.html hiveql.html
+keyboardNav sequential-function-chart.html hamler.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title JScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="asn-1.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="urweb.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="diagram.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jscript.pldb
@@ -58,6 +58,6 @@ treeTable
   Token WScript.Echo
   Example
 
-keyboardNav asn-1.html diagram.html
+keyboardNav urweb.html diagram.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title PARI/GP - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="dynamo-visual-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="xslt.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="drakon.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="dynamo-visual-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pari-gp.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1985 1985
 
 dashboard
- #480 <span title="TotalRank: 1007 Jobs: 103 Users: 1070 Facts: 412 Links: 492">on PLDB</span>
+ #479 <span title="TotalRank: 1006 Jobs: 103 Users: 1070 Facts: 411 Links: 492">on PLDB</span>
  38 Years Old
 
 * Try now: <a href="https://riju.codes/parigp">Riju</a> · <a href="https://tio.run/#pari-gp">TIO</a>
@@ -109,6 +109,6 @@ treeTable
   Token 
   Example
 
-keyboardNav dynamo-visual-language.html xslt.html
+keyboardNav drakon.html dynamo-visual-language.html
 
 import ../footer.scroll

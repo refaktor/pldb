@@ -7,7 +7,7 @@ title pasukon - Grammar language
 
 html
  <a class="trueBaseThemePreviousItem" href="farcaster.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="knitr.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="berry.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pasukon.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/gosukiwi/Pasukon
 
 dashboard
- #945 <span title="TotalRank: 1515 Jobs: 103 Users: 1386 Facts: 425 Links: 987">on PLDB</span>
+ #945 <span title="TotalRank: 1514 Jobs: 103 Users: 1386 Facts: 424 Links: 987">on PLDB</span>
  3 Years Old
 
 * Try now: <a href="https://pasukon.rocks/#try-it">Web</a>
@@ -91,6 +91,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav farcaster.html knitr.html
+keyboardNav farcaster.html berry.html
 
 import ../footer.scroll

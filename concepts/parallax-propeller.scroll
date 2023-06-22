@@ -7,7 +7,7 @@ title Parallax Propeller - Instruction set architecture
 
 html
  <a class="trueBaseThemePreviousItem" href="visualworks.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="unrealscript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="watfiv.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/parallax-propeller.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav visualworks.html unrealscript.html
+keyboardNav visualworks.html watfiv.html
 
 import ../footer.scroll

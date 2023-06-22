@@ -6,8 +6,8 @@ title hashlink - Bytecode format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="gwl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="caramel.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="gff-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="eex.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hashlink.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/HaxeFoundation/hashlink
 
 dashboard
- #1058 <span title="TotalRank: 1622 Jobs: 103 Users: 532 Facts: 1376 Links: 987">on PLDB</span>
+ #1054 <span title="TotalRank: 1621 Jobs: 103 Users: 531 Facts: 1377 Links: 987">on PLDB</span>
  8 Years Old
 
 * A virtual machine for Haxe
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav gwl.html caramel.html
+keyboardNav gff-format.html eex.html
 
 import ../footer.scroll

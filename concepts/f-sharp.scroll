@@ -7,7 +7,7 @@ title F# - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="coffeescript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="elm.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="yaml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/f-sharp.pldb
 
@@ -331,6 +331,6 @@ treeTable
   Token 
   Example
 
-keyboardNav coffeescript.html elm.html
+keyboardNav coffeescript.html yaml.html
 
 import ../footer.scroll

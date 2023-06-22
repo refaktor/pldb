@@ -6,7 +6,7 @@ title KRC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="edinburgh-imp.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="jinx.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tabloid.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/krc.pldb
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav edinburgh-imp.html tabloid.html
+keyboardNav jinx.html tabloid.html
 
 import ../footer.scroll

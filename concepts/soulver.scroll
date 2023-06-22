@@ -6,8 +6,8 @@ title Soulver - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="kernel.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sourcetree.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="iitran.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bayer-expressions.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/soulver.pldb
 
@@ -19,13 +19,14 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2005 2005
 
 dashboard
- #2950 on PLDB
+ #2879 on PLDB
  18 Years Old
 
 * It's a notepad that gives instant answers to calculations in your text.
 
 - Soulver website
  https://soulver.app/
+- Soulver first developed in <a href="../lists/originCommunities.html#acqualiaSoftwareOu">Acqualia Software OÜ</a>
 
 <br>
 
@@ -39,6 +40,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav kernel.html sourcetree.html
+keyboardNav iitran.html bayer-expressions.html
 
 import ../footer.scroll

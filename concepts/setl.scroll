@@ -6,8 +6,8 @@ title SETL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="free-pascal.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="linq.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="linq.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="maxima.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/setl.pldb
 
@@ -80,6 +80,6 @@ treeTable
   Token 
   Example
 
-keyboardNav free-pascal.html linq.html
+keyboardNav linq.html maxima.html
 
 import ../footer.scroll

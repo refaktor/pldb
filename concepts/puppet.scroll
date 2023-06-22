@@ -6,8 +6,8 @@ title Puppet - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="marko.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="autolisp.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="autolisp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="base64.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/puppet.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2005 2005
 
 dashboard
- #295 <span title="TotalRank: 702 Jobs: 103 Users: 273 Facts: 420 Links: 326">on PLDB</span>
+ #296 <span title="TotalRank: 702 Jobs: 103 Users: 273 Facts: 419 Links: 326">on PLDB</span>
  18 Years Old
  23k <span title="Puppet repos on GitHub.">Repos</span>
 
@@ -84,6 +84,6 @@ treeTable
   Token 
   Example
 
-keyboardNav marko.html autolisp.html
+keyboardNav autolisp.html base64.html
 
 import ../footer.scroll

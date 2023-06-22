@@ -6,7 +6,7 @@ title Sage - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ftp.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="x86-isa.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="uml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sagemath.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2005 2005
 
 dashboard
- #82 <span title="TotalRank: 271 Jobs: 103 Users: 510 Facts: 76 Links: 92">on PLDB</span>
+ #82 <span title="TotalRank: 271 Jobs: 103 Users: 509 Facts: 76 Links: 92">on PLDB</span>
  18 Years Old
  499 <span title="Sage repos on GitHub.">Repos</span>
 
@@ -235,6 +235,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ftp.html uml.html
+keyboardNav x86-isa.html uml.html
 
 import ../footer.scroll

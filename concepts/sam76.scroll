@@ -7,7 +7,7 @@ title SAM76 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="supertalk.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="southampton-basic-system.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="fork-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sam76.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1970 1970
 
 dashboard
- #2150 <span title="TotalRank: 2668 Jobs: 103 Users: 1898 Facts: 2051 Links: 667">on PLDB</span>
+ #2151 <span title="TotalRank: 2668 Jobs: 103 Users: 1898 Facts: 2053 Links: 667">on PLDB</span>
  53 Years Old
 
 * SAM76 is a macro programming language used from the late 1970s to the present 2007 initially ran on CP/M. The SAM76 language is a list and string processor designed for interactive and user-directed applications, including artificial intelligence programming, and permits high portability from machine to machine. The language shares certain features in common with LISP, Forth, and shell programming languages of the UNIX operating system. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav supertalk.html southampton-basic-system.html
+keyboardNav supertalk.html fork-lang.html
 
 import ../footer.scroll

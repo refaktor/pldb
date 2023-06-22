@@ -6,8 +6,8 @@ title Southampton BASIC System - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sam76.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="fork-lang.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="dibol.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="iptscrae.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/southampton-basic-system.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1960 1960
 
 dashboard
- #2151 <span title="TotalRank: 2668 Jobs: 103 Users: 1898 Facts: 2051 Links: 667">on PLDB</span>
+ #2127 <span title="TotalRank: 2649 Jobs: 103 Users: 1898 Facts: 1879 Links: 667">on PLDB</span>
  63 Years Old
 
 * Southampton BASIC System (SOBS) was a dialect of the BASIC programming language developed for and used on ICT 1900 series computers in the late 1960s and early 1970s; it was implemented under the MINIMOP operating system at the University of Southampton and also ran under MAXIMOP. It was operated from a Teletype terminal, though CRT terminals could also be used.. Read more on Wikipedia...
@@ -27,6 +27,7 @@ dashboard
 
 - Southampton BASIC System Wikipedia page
  https://en.wikipedia.org/wiki/Southampton_BASIC_System
+- Southampton BASIC System first developed in <a href="../lists/originCommunities.html#universityOfSouthampton">University of Southampton</a>
 - See also: (1 related languages)<a href="basic.html">BASIC</a>
 
 <br>
@@ -38,6 +39,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Southampton_B
 
 endColumns
 
-keyboardNav sam76.html fork-lang.html
+keyboardNav dibol.html iptscrae.html
 
 import ../footer.scroll

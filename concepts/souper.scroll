@@ -22,12 +22,13 @@ codeWithHeader Source code:
  git clone https://github.com/google/souper
 
 dashboard
- #863 <span title="TotalRank: 1430 Jobs: 103 Users: 340 Facts: 1878 Links: 987">on PLDB</span>
+ #864 <span title="TotalRank: 1430 Jobs: 103 Users: 340 Facts: 1663 Links: 987">on PLDB</span>
  9 Years Old
 
 * A superoptimizer for LLVM IR
 
 - souper is developed on <a href="https://github.com/google/souper">GitHub</a> and has 1,782 stars
+- souper first developed in <a href="../lists/originCommunities.html#googleInc">Google Inc</a>
 
 <br>
 

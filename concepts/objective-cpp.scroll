@@ -7,7 +7,7 @@ title Objective C++ - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="inno-setup.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="javacc.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="rpl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/objective-cpp.pldb
 
@@ -132,6 +132,6 @@ treeTable
   Token 
   Example
 
-keyboardNav inno-setup.html javacc.html
+keyboardNav inno-setup.html rpl.html
 
 import ../footer.scroll

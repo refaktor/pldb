@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/WonyoungCho/plink/issues
 
 dashboard
- #1952 <span title="TotalRank: 2466 Jobs: 103 Users: 2324 Facts: 1376 Links: 987">on PLDB</span>
+ #1952 <span title="TotalRank: 2467 Jobs: 103 Users: 2324 Facts: 1377 Links: 987">on PLDB</span>
  16 Years Old
 
 * The "ped" file is a commonly used format for holding pedigree and genotype data. Files in this format usually end in ".ped". There are several variants of the format. Used by plink.

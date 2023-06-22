@@ -7,7 +7,7 @@ title Schrödinger's Equation - Equation
 
 html
  <a class="trueBaseThemePreviousItem" href="codelite-editor.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sourcelair-editor.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="synergist.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/schrodingers-equation.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1925 1925
 
 dashboard
- #3891 on PLDB
+ #3892 on PLDB
  98 Years Old
 
 * 
@@ -28,6 +28,6 @@ dashboard
 
 endColumns
 
-keyboardNav codelite-editor.html sourcelair-editor.html
+keyboardNav codelite-editor.html synergist.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Zuo - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="modula.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="yoptascript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="lsl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zuo.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/racket/racket/tree/master/racket/src/zuo
 
 dashboard
- #678 <span title="TotalRank: 1252 Jobs: 103 Users: 162 Facts: 1376 Links: 987">on PLDB</span>
+ #675 <span title="TotalRank: 1252 Jobs: 103 Users: 162 Facts: 1377 Links: 987">on PLDB</span>
  1 Years Old
 
 * A Tiny Racket for Scripting
@@ -45,6 +45,6 @@ dashboard
 
 endColumns
 
-keyboardNav modula.html lsl.html
+keyboardNav yoptascript.html lsl.html
 
 import ../footer.scroll

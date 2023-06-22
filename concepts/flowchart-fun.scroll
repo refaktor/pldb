@@ -7,7 +7,7 @@ title flowchart.fun - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="javacc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rpl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="microdata.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/flowchart-fun.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/tone-row/flowchart-fun
 
 dashboard
- #511 <span title="TotalRank: 1050 Jobs: 103 Users: 280 Facts: 1497 Links: 667">on PLDB</span>
+ #512 <span title="TotalRank: 1050 Jobs: 103 Users: 280 Facts: 1497 Links: 667">on PLDB</span>
  2 Years Old
 
 * flowchart.fun is a lightweight application to generate flowcharts and diagrams from text.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav javacc.html rpl.html
+keyboardNav javacc.html microdata.html
 
 import ../footer.scroll

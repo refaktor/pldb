@@ -7,7 +7,7 @@ title High Tech BASIC - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="hummingbird-quickscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cokescript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="flapjax.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/high-tech-basic.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #2372 <span title="TotalRank: 2869 Jobs: 103 Users: 2099 Facts: 2308 Links: 667">on PLDB</span>
+ #2322 <span title="TotalRank: 2869 Jobs: 103 Users: 2099 Facts: 2308 Links: 667">on PLDB</span>
  35 Years Old
 
 * Rocky Mountain BASIC (also RMB or RM-BASIC) is a dialect of the BASIC programming language created by Hewlett-Packard.  It was especially popular for control of automatic test equipment using GPIB.  It has several features which are or were unusual in BASIC dialects, such as event-driven operation, extensive external I/O support, complex number support, and matrix manipulation functions. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav hummingbird-quickscript.html cokescript.html
+keyboardNav hummingbird-quickscript.html flapjax.html
 
 import ../footer.scroll

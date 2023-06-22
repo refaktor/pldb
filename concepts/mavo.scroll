@@ -6,7 +6,7 @@ title mavo - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="progsbase.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="phyloxml-format.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="igor-pro.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mavo.pldb
@@ -60,6 +60,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav progsbase.html igor-pro.html
+keyboardNav phyloxml-format.html igor-pro.html
 
 import ../footer.scroll

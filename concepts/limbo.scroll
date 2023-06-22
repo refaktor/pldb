@@ -6,7 +6,7 @@ title Limbo - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="blitzbasic.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="java-server-pages.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="frege.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/limbo.pldb
@@ -152,6 +152,6 @@ treeTable
   Token 
   Example
 
-keyboardNav blitzbasic.html frege.html
+keyboardNav java-server-pages.html frege.html
 
 import ../footer.scroll

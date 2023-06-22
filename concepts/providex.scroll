@@ -6,7 +6,7 @@ title ProvideX - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="emberscript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="gettext.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="icedcoffeescript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/providex.pldb
@@ -78,6 +78,6 @@ treeTable
   Token print
   Example
 
-keyboardNav emberscript.html icedcoffeescript.html
+keyboardNav gettext.html icedcoffeescript.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Dylan - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="bcpl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hack.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="org.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dylan.pldb
 
@@ -173,6 +173,6 @@ treeTable
   Token 
   Example
 
-keyboardNav bcpl.html hack.html
+keyboardNav bcpl.html org.html
 
 import ../footer.scroll

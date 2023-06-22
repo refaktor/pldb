@@ -7,7 +7,7 @@ title Scoop - Package manager
 
 html
  <a class="trueBaseThemePreviousItem" href="jsf.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cpl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pgbouncer.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/scoop-pm.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav jsf.html cpl.html
+keyboardNav jsf.html pgbouncer.html
 
 import ../footer.scroll

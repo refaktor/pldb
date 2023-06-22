@@ -6,7 +6,7 @@ title Cycript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lamdu.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="erg.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="raku.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cycript.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #888 <span title="TotalRank: 1453 Jobs: 103 Users: 1125 Facts: 363 Links: 987">on PLDB</span>
+ #889 <span title="TotalRank: 1453 Jobs: 103 Users: 1125 Facts: 363 Links: 987">on PLDB</span>
  15 Years Old
  70 <span title="Cycript repos on GitHub.">Repos</span>
 
@@ -117,6 +117,6 @@ treeTable
   Token 
   Example
 
-keyboardNav lamdu.html raku.html
+keyboardNav erg.html raku.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title SORCA - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="solmar.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ssl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="specl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sorca.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1983 1983
 
 dashboard
- #4048 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 3263 Links: 987">on PLDB</span>
+ #4046 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 3264 Links: 987">on PLDB</span>
  40 Years Old
 
 * 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav solmar.html ssl.html
+keyboardNav solmar.html specl.html
 
 import ../footer.scroll

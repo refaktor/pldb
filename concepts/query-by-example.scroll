@@ -6,7 +6,7 @@ title Query by Example - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="glicol.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="1620sps.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="express.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/query-by-example.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1969 1969
 
 dashboard
- #871 <span title="TotalRank: 1434 Jobs: 103 Users: 664 Facts: 1970 Links: 667">on PLDB</span>
+ #871 <span title="TotalRank: 1434 Jobs: 103 Users: 664 Facts: 1971 Links: 667">on PLDB</span>
  54 Years Old
 
 * Query by Example (QBE) is a database query language for relational databases. It was devised by Moshé M. Zloof at IBM Research during the mid-1970s, in parallel to the development of SQL. Read more on Wikipedia...
@@ -41,6 +41,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Query_by_Exam
 
 endColumns
 
-keyboardNav glicol.html express.html
+keyboardNav 1620sps.html express.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title JRuby - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ntp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="qmake.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="lily.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jruby.pldb
 
@@ -44,6 +44,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/JRuby'>Wikipe
 
 endColumns
 
-keyboardNav ntp.html qmake.html
+keyboardNav ntp.html lily.html
 
 import ../footer.scroll

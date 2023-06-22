@@ -7,7 +7,7 @@ title PyTorch - Library
 
 html
  <a class="trueBaseThemePreviousItem" href="lyx-editor.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="beads-lang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ghostscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pytorch.pldb
 
@@ -45,6 +45,6 @@ dashboard
 
 endColumns
 
-keyboardNav lyx-editor.html beads-lang.html
+keyboardNav lyx-editor.html ghostscript.html
 
 import ../footer.scroll

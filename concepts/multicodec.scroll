@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/multiformats/multicodec
 
 dashboard
- #1560 on PLDB
+ #1561 on PLDB
  8 Years Old
 
 * Compact self-describing codecs. Save space by using predefined multicodec tables.

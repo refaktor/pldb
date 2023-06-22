@@ -6,8 +6,8 @@ title Space - Data notation
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pinto.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="tree-annotation-operator.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="intuitionistic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="astatine.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/space.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/breck7/note
 
 dashboard
- #1889 <span title="TotalRank: 2396 Jobs: 103 Users: 2316 Facts: 1306 Links: 987">on PLDB</span>
+ #1756 <span title="TotalRank: 2288 Jobs: 103 Users: 2316 Facts: 1198 Links: 987">on PLDB</span>
  10 Years Old
 
 * Space is a lightweight language for objects. Space is like XML or JSON, with less punctuation and more power.
@@ -31,6 +31,7 @@ dashboard
 - Space website
  https://github.com/breck7/space
 - Space is developed on <a href="https://github.com/breck7/note">GitHub</a> and has 8 stars
+- Space first developed in <a href="../lists/originCommunities.html#httpsGithubComBreck7SpaceIssues">https://github.com/breck7/space/issues</a>
 
 <br>
 
@@ -52,6 +53,6 @@ treeTable
    settings
     title Note
 
-keyboardNav pinto.html tree-annotation-operator.html
+keyboardNav intuitionistic.html astatine.html
 
 import ../footer.scroll

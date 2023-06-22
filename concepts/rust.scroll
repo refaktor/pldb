@@ -6,7 +6,7 @@ title Rust - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ada.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="scala.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="postgresql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rust.pldb
@@ -297,6 +297,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ada.html postgresql.html
+keyboardNav scala.html postgresql.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Sieve mail filtering language - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="web-idl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="notepad-plus-plus-editor.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="packagist-pm.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hyperscript-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sieve.pldb
 
@@ -92,6 +92,6 @@ treeTable
   Token 
   Example
 
-keyboardNav web-idl.html notepad-plus-plus-editor.html
+keyboardNav packagist-pm.html hyperscript-lang.html
 
 import ../footer.scroll

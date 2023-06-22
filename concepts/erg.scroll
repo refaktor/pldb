@@ -6,8 +6,8 @@ title erg - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="raku.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flix.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="lamdu.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cycript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/erg.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/erg-lang/erg
 
 dashboard
- #890 <span title="TotalRank: 1454 Jobs: 103 Users: 364 Facts: 1497 Links: 987">on PLDB</span>
+ #888 <span title="TotalRank: 1453 Jobs: 103 Users: 363 Facts: 1497 Links: 987">on PLDB</span>
  1 Years Old
 
 * erg: A Python-compatible statically typed language written in Rust
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav raku.html flix.html
+keyboardNav lamdu.html cycript.html
 
 import ../footer.scroll

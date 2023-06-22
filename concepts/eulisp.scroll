@@ -7,7 +7,7 @@ title EuLisp - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="sparc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="x86-assembly.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="coldfusion.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/eulisp.pldb
 
@@ -149,6 +149,6 @@ treeTable
   Token 
   Example
 
-keyboardNav sparc.html x86-assembly.html
+keyboardNav sparc.html coldfusion.html
 
 import ../footer.scroll

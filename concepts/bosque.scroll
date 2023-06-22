@@ -6,8 +6,8 @@ title bosque - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lsl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ante.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ante.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="praat-script.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bosque.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/Microsoft/BosqueLanguage
 
 dashboard
- #680 <span title="TotalRank: 1255 Jobs: 103 Users: 165 Facts: 993 Links: 987">on PLDB</span>
+ #681 <span title="TotalRank: 1255 Jobs: 103 Users: 165 Facts: 993 Links: 987">on PLDB</span>
  4 Years Old
 
 * The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle. 
@@ -52,6 +52,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav lsl.html ante.html
+keyboardNav ante.html praat-script.html
 
 import ../footer.scroll

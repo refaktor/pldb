@@ -6,8 +6,8 @@ title AsciiDoc - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="json-schema.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="m4.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="z-notation.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="json-schema.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/asciidoc.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
 
 dashboard
- #329 <span title="TotalRank: 769 Jobs: 103 Users: 669 Facts: 393 Links: 273">on PLDB</span>
+ #327 <span title="TotalRank: 767 Jobs: 103 Users: 669 Facts: 392 Links: 272">on PLDB</span>
  21 Years Old
  21 <span title="AsciiDoc repos on GitHub.">Repos</span>
 
@@ -84,6 +84,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/AsciiDoc'>Wik
 
 endColumns
 
-keyboardNav json-schema.html m4.html
+keyboardNav z-notation.html json-schema.html
 
 import ../footer.scroll

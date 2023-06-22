@@ -6,7 +6,7 @@ title XS - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="befunge.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="punched-tape.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="latte.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xs.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
 
 dashboard
- #360 <span title="TotalRank: 822 Jobs: 103 Users: 987 Facts: 227 Links: 492">on PLDB</span>
+ #359 <span title="TotalRank: 822 Jobs: 103 Users: 987 Facts: 227 Links: 492">on PLDB</span>
  21 Years Old
  532 <span title="XS repos on GitHub.">Repos</span>
 
@@ -136,6 +136,6 @@ treeTable
   Token 
   Example
 
-keyboardNav befunge.html latte.html
+keyboardNav punched-tape.html latte.html
 
 import ../footer.scroll

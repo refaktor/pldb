@@ -6,7 +6,7 @@ title EEX - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="muon.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="hashlink.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="jsx.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/eex.pldb
@@ -73,6 +73,6 @@ codeWithHeader Example from <a href='https://github.com/elixir-lang/elixir-tmbun
 
 endColumns
 
-keyboardNav muon.html jsx.html
+keyboardNav hashlink.html jsx.html
 
 import ../footer.scroll

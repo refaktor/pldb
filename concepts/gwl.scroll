@@ -7,7 +7,7 @@ title Guix Workflow Language - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="jsx.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hashlink.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="caramel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gwl.pldb
 
@@ -102,6 +102,6 @@ treeTable
   Token 
   Example
 
-keyboardNav jsx.html hashlink.html
+keyboardNav jsx.html caramel.html
 
 import ../footer.scroll

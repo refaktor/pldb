@@ -6,7 +6,7 @@ title Maxima - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="linq.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="setl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="nasm.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/maxima.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1982 1982
 
 dashboard
- #395 <span title="TotalRank: 876 Jobs: 103 Users: 666 Facts: 566 Links: 207">on PLDB</span>
+ #394 <span title="TotalRank: 876 Jobs: 103 Users: 666 Facts: 566 Links: 207">on PLDB</span>
  41 Years Old
 
 * Try now: <a href="https://tio.run/#maxima">TIO</a>
@@ -111,6 +111,6 @@ treeTable
   Token 
   Example
 
-keyboardNav linq.html nasm.html
+keyboardNav setl.html nasm.html
 
 import ../footer.scroll

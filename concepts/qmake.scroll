@@ -6,8 +6,8 @@ title QMake - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jruby.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lily.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="lily.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ldap.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/qmake.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
 
 dashboard
- #654 <span title="TotalRank: 1234 Jobs: 103 Users: 875 Facts: 639 Links: 492">on PLDB</span>
+ #655 <span title="TotalRank: 1234 Jobs: 103 Users: 875 Facts: 639 Links: 492">on PLDB</span>
  21 Years Old
  4k <span title="QMake repos on GitHub.">Repos</span>
 
@@ -64,6 +64,6 @@ codeWithHeader Example from <a href='https://github.com/textmate/cpp-qt.tmbundle
 
 endColumns
 
-keyboardNav jruby.html lily.html
+keyboardNav lily.html ldap.html
 
 import ../footer.scroll

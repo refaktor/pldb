@@ -6,8 +6,8 @@ title Praat Script - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="contracts.coffee.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="icd.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="bosque.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="contracts.coffee.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/praat-script.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/praat/praat
 
 dashboard
- #683 <span title="TotalRank: 1256 Jobs: 103 Users: 434 Facts: 719 Links: 987">on PLDB</span>
+ #682 <span title="TotalRank: 1255 Jobs: 103 Users: 433 Facts: 719 Links: 987">on PLDB</span>
  26 Years Old
 
 * The language is bundled with Praat, a speech analysis tool, to execute menu and action commands.
@@ -79,6 +79,6 @@ treeTable
   Token 
   Example
 
-keyboardNav contracts.coffee.html icd.html
+keyboardNav bosque.html contracts.coffee.html
 
 import ../footer.scroll
