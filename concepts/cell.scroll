@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/cell-lang/compiler
 
 dashboard
- #859 <span title="TotalRank: 1424 Jobs: 103 Users: 1438 Facts: 334 Links: 987">on PLDB</span>
+ #859 <span title="TotalRank: 1424 Jobs: 103 Users: 1437 Facts: 334 Links: 987">on PLDB</span>
  6 Years Old
 
 * Cell is a very high-level embeddable language. Cell's data model combines a staple of functional programming, algebraic data types, with relations and other ideas from relational databases.

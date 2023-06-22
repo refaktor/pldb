@@ -6,7 +6,7 @@ title tab - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="snbt.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="rlmeta.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="teal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tab.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
 
 dashboard
- #2769 <span title="TotalRank: 3524 Jobs: 103 Users: 2434 Facts: 3877 Links: 987">on PLDB</span>
+ #2767 <span title="TotalRank: 3522 Jobs: 103 Users: 2432 Facts: 3890 Links: 987">on PLDB</span>
  8 Years Old
 
 * 
@@ -37,6 +37,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: The Tab programming language|https://news.ycombinator.com/item?id=9055877|02/16/2015|1|0
 
-keyboardNav snbt.html teal.html
+keyboardNav rlmeta.html teal.html
 
 import ../footer.scroll

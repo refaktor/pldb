@@ -6,8 +6,8 @@ title Socrata Query Language - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="xs-lang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="synergist.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="simplescript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="specl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/soql-lang.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
 
 dashboard
- #3127 <span title="TotalRank: 3920 Jobs: 103 Users: 2830 Facts: 4307 Links: 987">on PLDB</span>
+ #3200 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 4085 Links: 987">on PLDB</span>
  11 Years Old
 
 * 
 
+- Socrata Query Language first developed in <a href="../lists/originCommunities.html#socrataInc">Socrata, Inc</a>
 - Read more about Socrata Query Language on the web: 1.
  https://dev.socrata.com/docs/queries/ 1.
 
@@ -31,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav xs-lang.html synergist.html
+keyboardNav simplescript.html specl.html
 
 import ../footer.scroll

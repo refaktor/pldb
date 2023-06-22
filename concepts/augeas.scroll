@@ -6,7 +6,7 @@ title Augeas - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sophia.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="elena.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tangledown.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/augeas.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2007 2007
 
 dashboard
- #1449 <span title="TotalRank: 1977 Jobs: 103 Users: 1691 Facts: 887 Links: 987">on PLDB</span>
+ #1450 <span title="TotalRank: 1979 Jobs: 103 Users: 1690 Facts: 889 Links: 987">on PLDB</span>
  16 Years Old
  68 <span title="Augeas repos on GitHub.">Repos</span>
 
@@ -58,6 +58,6 @@ treeTable
   Token 
   Example
 
-keyboardNav sophia.html tangledown.html
+keyboardNav elena.html tangledown.html
 
 import ../footer.scroll

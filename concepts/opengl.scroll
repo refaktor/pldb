@@ -6,7 +6,7 @@ title OpenGL - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="logo.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="ampl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="sed.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/opengl.pldb
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav logo.html sed.html
+keyboardNav ampl.html sed.html
 
 import ../footer.scroll

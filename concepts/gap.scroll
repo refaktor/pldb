@@ -7,7 +7,7 @@ title GAP - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="nato-phonetic-alphabet.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gambas.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="scala-js.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gap.pldb
 
@@ -118,6 +118,6 @@ treeTable
   Token 
   Example
 
-keyboardNav nato-phonetic-alphabet.html gambas.html
+keyboardNav nato-phonetic-alphabet.html scala-js.html
 
 import ../footer.scroll

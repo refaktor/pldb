@@ -6,8 +6,8 @@ title Graph Modeling Language - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="punched-tape.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="parrot-vm.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="smarty.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="punched-tape.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/graph-modeling-language.pldb
 
@@ -101,6 +101,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Graph_Modelli
 
 endColumns
 
-keyboardNav punched-tape.html parrot-vm.html
+keyboardNav smarty.html punched-tape.html
 
 import ../footer.scroll

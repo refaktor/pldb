@@ -7,7 +7,7 @@ title zenscript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ld-json.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cor.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sophia.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zenscript.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/CraftTweaker/ZenScript
 
 dashboard
- #1388 <span title="TotalRank: 1922 Jobs: 103 Users: 1436 Facts: 832 Links: 987">on PLDB</span>
+ #1388 <span title="TotalRank: 1922 Jobs: 103 Users: 1435 Facts: 832 Links: 987">on PLDB</span>
  9 Years Old
  1k <span title="zenscript repos on GitHub.">Repos</span>
 
@@ -60,6 +60,6 @@ treeTable
   Token print
   Example
 
-keyboardNav ld-json.html cor.html
+keyboardNav ld-json.html sophia.html
 
 import ../footer.scroll

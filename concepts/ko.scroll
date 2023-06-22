@@ -7,7 +7,7 @@ title ko - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="small-c.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cuneiform.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="newp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ko.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/kocircuit/kocircuit
 
 dashboard
- #1445 <span title="TotalRank: 1976 Jobs: 103 Users: 886 Facts: 1497 Links: 987">on PLDB</span>
+ #1446 <span title="TotalRank: 1976 Jobs: 103 Users: 886 Facts: 1497 Links: 987">on PLDB</span>
  5 Years Old
 
 * Ko: A generic type-safe language for concurrent, stateful, deadlock-free systems and protocol manipulations
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav small-c.html cuneiform.html
+keyboardNav small-c.html newp.html
 
 import ../footer.scroll

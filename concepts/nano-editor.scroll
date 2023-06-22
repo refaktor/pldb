@@ -6,7 +6,7 @@ title GNU nano - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="astroml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="mxml.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="kona.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nano-editor.pldb
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav astroml.html kona.html
+keyboardNav mxml.html kona.html
 
 import ../footer.scroll

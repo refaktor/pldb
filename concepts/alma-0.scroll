@@ -6,7 +6,7 @@ title Alma-0 - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="exec-2.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="pascal-abc.net.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="kei.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/alma-0.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
 
 dashboard
- #1906 <span title="TotalRank: 2409 Jobs: 103 Users: 1639 Facts: 2167 Links: 667">on PLDB</span>
+ #1906 <span title="TotalRank: 2409 Jobs: 103 Users: 1639 Facts: 2169 Links: 667">on PLDB</span>
  26 Years Old
 
 * Alma-0 is a multi-paradigm computer programming language. This language is an augmented version of the imperative Modula-2 language with logic-programming features and convenient backtracking capability. It is small, strongly typed, and combines constraint programming, a limited number of features inspired by logic programming and supports imperative paradigms. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav exec-2.html kei.html
+keyboardNav pascal-abc.net.html kei.html
 
 import ../footer.scroll

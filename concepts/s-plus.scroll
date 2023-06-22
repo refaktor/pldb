@@ -7,7 +7,7 @@ title S-PLUS - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="avr.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="visdown.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="gfa-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/s-plus.pldb
 
@@ -64,6 +64,6 @@ treeTable
   Token 
   Example
 
-keyboardNav avr.html visdown.html
+keyboardNav avr.html gfa-basic.html
 
 import ../footer.scroll

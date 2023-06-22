@@ -6,8 +6,8 @@ title VBScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="oz.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="idris.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="applescript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="oz.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/vbscript.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1996 1996
 
 dashboard
- #128 <span title="TotalRank: 380 Jobs: 67 Users: 263 Facts: 200 Links: 113">on PLDB</span>
+ #127 <span title="TotalRank: 380 Jobs: 67 Users: 263 Facts: 200 Links: 113">on PLDB</span>
  27 Years Old
  6k <span title="VBScript repos on GitHub.">Repos</span>
 
@@ -119,6 +119,6 @@ treeTable
   Token 
   Example
 
-keyboardNav oz.html idris.html
+keyboardNav applescript.html oz.html
 
 import ../footer.scroll

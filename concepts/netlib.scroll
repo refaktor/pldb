@@ -7,7 +7,7 @@ title Netlib - Library
 
 html
  <a class="trueBaseThemePreviousItem" href="m-expressions.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="kaffeine.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="mai-basic-four.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/netlib.pldb
 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav m-expressions.html kaffeine.html
+keyboardNav m-expressions.html mai-basic-four.html
 
 import ../footer.scroll

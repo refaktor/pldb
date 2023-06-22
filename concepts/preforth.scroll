@@ -6,7 +6,7 @@ title preforth - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="scheme-2-d.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="snowball-programming-language.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="quaint-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/preforth.pldb
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav scheme-2-d.html quaint-lang.html
+keyboardNav snowball-programming-language.html quaint-lang.html
 
 import ../footer.scroll

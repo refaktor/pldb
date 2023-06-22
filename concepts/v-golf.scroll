@@ -7,7 +7,7 @@ title V - Esoteric programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="protel.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="codegear-delphi.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="tutor.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/v-golf.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/DJMcMayhem/V/
 
 dashboard
- #2032 <span title="TotalRank: 2535 Jobs: 103 Users: 1445 Facts: 1876 Links: 987">on PLDB</span>
+ #2005 <span title="TotalRank: 2534 Jobs: 103 Users: 1444 Facts: 1878 Links: 987">on PLDB</span>
  7 Years Old
 
 * A golfing language inspired by everybody's favorite text editor, vim.
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav protel.html codegear-delphi.html
+keyboardNav protel.html tutor.html
 
 import ../footer.scroll

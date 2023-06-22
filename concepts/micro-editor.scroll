@@ -6,7 +6,7 @@ title micro-editor - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="grammar.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="csv.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="amqp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/micro-editor.pldb
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav grammar.html amqp.html
+keyboardNav csv.html amqp.html
 
 import ../footer.scroll

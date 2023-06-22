@@ -6,8 +6,8 @@ title Oz - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="applescript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="vbscript.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="vbscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="idris.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/oz.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#gertSmolka Gert Smolka
 
 dashboard
- #127 <span title="TotalRank: 379 Jobs: 103 Users: 671 Facts: 99 Links: 177">on PLDB</span>
+ #128 <span title="TotalRank: 380 Jobs: 103 Users: 671 Facts: 100 Links: 177">on PLDB</span>
  32 Years Old
  371 <span title="Oz repos on GitHub.">Repos</span>
 
@@ -178,6 +178,6 @@ treeTable
   Token 
   Example
 
-keyboardNav applescript.html vbscript.html
+keyboardNav vbscript.html idris.html
 
 import ../footer.scroll

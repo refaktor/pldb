@@ -7,7 +7,7 @@ title skip - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="streem.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ibm-gml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="m3db.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/skip.pldb
 
@@ -59,6 +59,6 @@ treeTable
   Token print_string
   Example
 
-keyboardNav streem.html ibm-gml.html
+keyboardNav streem.html m3db.html
 
 import ../footer.scroll

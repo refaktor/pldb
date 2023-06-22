@@ -6,7 +6,7 @@ title Smithy - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="smartgameformat.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="simit.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="socialite.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smithy.pldb
@@ -19,13 +19,14 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
 
 dashboard
- #2829 <span title="TotalRank: 3524 Jobs: 103 Users: 2434 Facts: 2914 Links: 987">on PLDB</span>
+ #2907 <span title="TotalRank: 3522 Jobs: 103 Users: 2432 Facts: 2700 Links: 987">on PLDB</span>
  7 Years Old
 
 * 
 
 - Smithy website
  https://smithy.io/
+- Smithy first developed in <a href="../lists/originCommunities.html#amazonWebServicesInc">Amazon Web Services, Inc</a>
 - file extensions for Smithy include smithy
 - <a href="pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/smithy.py">syntax highlighting</a> for Smithy
 
@@ -49,6 +50,6 @@ treeTable
   Token 
   Example
 
-keyboardNav smartgameformat.html socialite.html
+keyboardNav simit.html socialite.html
 
 import ../footer.scroll

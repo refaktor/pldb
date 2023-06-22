@@ -7,7 +7,7 @@ title Rust HIR - Intermediate representation language
 
 html
  <a class="trueBaseThemePreviousItem" href="realbasic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mentat.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="snobol4.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rust-hir.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
 
 dashboard
- #2501 <span title="TotalRank: 3058 Jobs: 103 Users: 2830 Facts: 1968 Links: 987">on PLDB</span>
+ #2499 <span title="TotalRank: 3060 Jobs: 103 Users: 2829 Facts: 1970 Links: 987">on PLDB</span>
  8 Years Old
 
 * Try now: <a href="https://play.rust-lang.org/">Web</a>
@@ -41,6 +41,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav realbasic.html mentat.html
+keyboardNav realbasic.html snobol4.html
 
 import ../footer.scroll

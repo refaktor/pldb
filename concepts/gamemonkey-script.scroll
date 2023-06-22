@@ -7,7 +7,7 @@ title GameMonkey Script - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="argus.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="snaptag.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="basic-ap.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gamemonkey-script.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
 
 dashboard
- #1835 <span title="TotalRank: 2346 Jobs: 103 Users: 1576 Facts: 2049 Links: 667">on PLDB</span>
+ #1835 <span title="TotalRank: 2345 Jobs: 103 Users: 1575 Facts: 2051 Links: 667">on PLDB</span>
  21 Years Old
 
 * GameMonkey Script is a small, cross-platform scripting language designed for embedding into games. GameMonkey bears many similarities to Lua, except the syntax is more similar to that of C.. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav argus.html snaptag.html
+keyboardNav argus.html basic-ap.html
 
 import ../footer.scroll

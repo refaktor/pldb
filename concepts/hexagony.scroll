@@ -6,8 +6,8 @@ title hexagony - Esoteric programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="categorical-query-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="simons-basic.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="simons-basic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="euclid.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hexagony.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/m-ender/hexagony
 
 dashboard
- #1553 <span title="TotalRank: 2066 Jobs: 103 Users: 976 Facts: 993 Links: 987">on PLDB</span>
+ #1554 <span title="TotalRank: 2066 Jobs: 103 Users: 976 Facts: 993 Links: 987">on PLDB</span>
  8 Years Old
 
 * Try now: <a href="https://riju.codes/hexagony">Riju</a> · <a href="https://tio.run/#hexagony">TIO</a>
@@ -47,6 +47,6 @@ codeWithHeader Example from <a href='https://riju.codes/hexagony'>Riju</a>:
 
 endColumns
 
-keyboardNav categorical-query-language.html simons-basic.html
+keyboardNav simons-basic.html euclid.html
 
 import ../footer.scroll

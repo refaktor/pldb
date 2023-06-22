@@ -6,7 +6,7 @@ title json->url - Json format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="smx-computer-language.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="scsh.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="dap-fortran.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/json-url.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/jsonurl/jsonurl-js
 
 dashboard
- #1693 <span title="TotalRank: 2209 Jobs: 103 Users: 1808 Facts: 1119 Links: 987">on PLDB</span>
+ #1693 <span title="TotalRank: 2210 Jobs: 103 Users: 1807 Facts: 1120 Links: 987">on PLDB</span>
  6 Years Old
 
 * Try now: <a href="https://jsonurl.org/#sandbox">Web</a> · <a href="https://tio.run/#https://jsonurl.org/#sandbox">TIO</a>
@@ -46,6 +46,6 @@ dashboard
 
 endColumns
 
-keyboardNav smx-computer-language.html dap-fortran.html
+keyboardNav scsh.html dap-fortran.html
 
 import ../footer.scroll

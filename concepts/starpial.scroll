@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/ColonelJ/Starpial
 
 dashboard
- #2080 <span title="TotalRank: 2587 Jobs: 103 Users: 2356 Facts: 1497 Links: 987">on PLDB</span>
+ #2079 <span title="TotalRank: 2587 Jobs: 103 Users: 2354 Facts: 1497 Links: 987">on PLDB</span>
  11 Years Old
 
 * <a href='https://github.com/ColonelJ/Starpial'>Starpial</a> is a stack-oriented functional logic programming language with OOP, recursive regex, dependent types, refinement types, and automatic parallelization based on transactions.

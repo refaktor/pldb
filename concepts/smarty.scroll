@@ -6,8 +6,8 @@ title Smarty - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="xtend.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="bbcode.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="imba.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ragel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smarty.pldb
 
@@ -22,7 +22,7 @@ startColumns 4
  link ../lists/creators.html#uweTews Uwe Tews
 
 dashboard
- #457 <span title="TotalRank: 972 Jobs: 103 Users: 710 Facts: 377 Links: 492">on PLDB</span>
+ #454 <span title="TotalRank: 962 Jobs: 103 Users: 710 Facts: 367 Links: 492">on PLDB</span>
  17 Years Old
  31k <span title="Smarty repos on GitHub.">Repos</span>
 
@@ -34,6 +34,7 @@ dashboard
 - Smarty Wikipedia page
  https://en.wikipedia.org/wiki/Smarty_(template_engine)
 - There are at least 31,402 Smarty repos on <a href="https://github.com/search?q=language:Smarty">GitHub</a>
+- Smarty first developed in <a href="../lists/originCommunities.html#httpGroupsGoogleComGroupSmartyDevelopers">http://groups.google.com/group/smarty-developers</a>
 - file extensions for Smarty include tpl
 - The  Google BigQuery Public Dataset GitHub snapshot shows 14k users using Smarty in 17k repos on <a href="https://api.github.com/search/repositories?q=language:Smarty">GitHub</a>
 - Smarty appears in the <a href="https://www.tiobe.com/tiobe-index/">TIOBE Index</a>
@@ -73,6 +74,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Smarty_(templ
 
 endColumns
 
-keyboardNav xtend.html bbcode.html
+keyboardNav imba.html ragel.html
 
 import ../footer.scroll

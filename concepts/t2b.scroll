@@ -7,7 +7,7 @@ title t2b - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="reduce.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="spec-sharp.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="model-204.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/t2b.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/thosakwe/t2b
 
 dashboard
- #1403 <span title="TotalRank: 1935 Jobs: 103 Users: 845 Facts: 1662 Links: 987">on PLDB</span>
+ #1404 <span title="TotalRank: 1935 Jobs: 103 Users: 845 Facts: 1663 Links: 987">on PLDB</span>
  5 Years Old
 
 * A wicked-powerful text macro language for building binary files.
@@ -41,6 +41,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: T2b – A wicked-powerful text macro language for building binary files|https://news.ycombinator.com/item?id=17289801|06/12/2018|117|52
 
-keyboardNav reduce.html spec-sharp.html
+keyboardNav reduce.html model-204.html
 
 import ../footer.scroll

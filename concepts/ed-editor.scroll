@@ -6,8 +6,8 @@ title ed - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="secure-operations-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mama-software.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="webql.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="minc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ed-editor.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#kenThompson Ken Thompson
 
 dashboard
- #2651 on PLDB
+ #2650 on PLDB
  50 Years Old
 
 * 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav secure-operations-language.html mama-software.html
+keyboardNav webql.html minc.html
 
 import ../footer.scroll

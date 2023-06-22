@@ -6,7 +6,7 @@ title Rc - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="newspeak.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="raptorjit.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="marp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rc.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#tomDuff Tom Duff
 
 dashboard
- #1125 <span title="TotalRank: 1682 Jobs: 103 Users: 912 Facts: 968 Links: 667">on PLDB</span>
+ #1123 <span title="TotalRank: 1682 Jobs: 103 Users: 912 Facts: 968 Links: 667">on PLDB</span>
  34 Years Old
 
 * Try now: <a href="https://riju.codes/rc">Riju</a>
@@ -70,6 +70,6 @@ treeTable
   Token 
   Example
 
-keyboardNav newspeak.html marp.html
+keyboardNav raptorjit.html marp.html
 
 import ../footer.scroll

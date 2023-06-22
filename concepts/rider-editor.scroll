@@ -7,7 +7,7 @@ title rider-editor - Editor
 
 html
  <a class="trueBaseThemePreviousItem" href="resharper-editor.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="solaris-pm.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="stx.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rider-editor.pldb
 
@@ -32,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav resharper-editor.html solaris-pm.html
+keyboardNav resharper-editor.html stx.html
 
 import ../footer.scroll

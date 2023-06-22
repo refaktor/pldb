@@ -6,7 +6,7 @@ title atomspace - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="dub-pm.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="neut.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="bee.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/atomspace.pldb
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav dub-pm.html bee.html
+keyboardNav neut.html bee.html
 
 import ../footer.scroll

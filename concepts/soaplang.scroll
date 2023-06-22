@@ -6,8 +6,8 @@ title Symbolic Optimal Assembly Program - Assembly language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="snostorm.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="social-networks-query-language.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="smsl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="soar-ml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/soaplang.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1955 1955
 
 dashboard
- #3436 <span title="TotalRank: 3920 Jobs: 103 Users: 2830 Facts: 3877 Links: 987">on PLDB</span>
+ #4312 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 2921 Links: 987">on PLDB</span>
  68 Years Old
 
 * 
 
+- Symbolic Optimal Assembly Program first developed in <a href="../lists/originCommunities.html#columbiaUniversity">Columbia University</a>
 - Read more about Symbolic Optimal Assembly Program on the web: 1.
  http://www.columbia.edu/cu/computinghistory/650.html 1.
 
@@ -31,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav snostorm.html social-networks-query-language.html
+keyboardNav smsl.html soar-ml.html
 
 import ../footer.scroll

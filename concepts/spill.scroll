@@ -6,7 +6,7 @@ title Spill - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="snql.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="slang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="unql-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spill.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
 
 dashboard
- #3033 <span title="TotalRank: 3704 Jobs: 103 Users: 2830 Facts: 2614 Links: 987">on PLDB</span>
+ #3032 <span title="TotalRank: 3707 Jobs: 103 Users: 2829 Facts: 2617 Links: 987">on PLDB</span>
  26 Years Old
 
 * 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav snql.html unql-lang.html
+keyboardNav slang.html unql-lang.html
 
 import ../footer.scroll

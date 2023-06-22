@@ -6,8 +6,8 @@ title Solidity - Contract language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tcl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="regex.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="modula-2.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tcl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/solidity.pldb
 
@@ -24,7 +24,7 @@ codeWithHeader Source code:
  git clone https://github.com/ethereum/solidity
 
 dashboard
- #54 <span title="TotalRank: 205 Jobs: 46 Users: 57 Facts: 102 Links: 273">on PLDB</span>
+ #53 <span title="TotalRank: 202 Jobs: 46 Users: 57 Facts: 99 Links: 273">on PLDB</span>
  9 Years Old
  87k <span title="Solidity repos on GitHub.">Repos</span>
 
@@ -50,6 +50,7 @@ monacoEditor solidity
 - Solidity is developed on <a href="https://github.com/ethereum/solidity">GitHub</a> and has 17,321 stars
 - Watch the history of <a href="https://www.youtube.com/watch?v=szY2wTXaG9Q">the Solidity repo visualized with Gource</a>
 - There are at least 87,183 Solidity repos on <a href="https://github.com/search?q=language:Solidity">GitHub</a>
+- Solidity first developed in <a href="../lists/originCommunities.html#ethereumFoundation">Ethereum Foundation</a>
 - PLDB estimates there are currently 937 job openings for Solidity programmers.
 - file extensions for Solidity include sol
 - Solidity is written in <a href="cpp.html">C++</a>
@@ -208,6 +209,6 @@ treeTable
   Token 
   Example
 
-keyboardNav tcl.html regex.html
+keyboardNav modula-2.html tcl.html
 
 import ../footer.scroll

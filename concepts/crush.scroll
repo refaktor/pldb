@@ -7,7 +7,7 @@ title crush - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="focal.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cache-basic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="smt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/crush.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav focal.html cache-basic.html
+keyboardNav focal.html smt.html
 
 import ../footer.scroll

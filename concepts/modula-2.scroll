@@ -7,7 +7,7 @@ title Modula-2 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="dart.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="tcl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="solidity.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/modula-2.pldb
 
@@ -485,6 +485,6 @@ treeTable
   Token 
   Example
 
-keyboardNav dart.html tcl.html
+keyboardNav dart.html solidity.html
 
 import ../footer.scroll

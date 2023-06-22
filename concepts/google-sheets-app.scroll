@@ -7,7 +7,7 @@ title Google Sheets - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="cityhash-hash-function.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="wyvern.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="smartsheet-app.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/google-sheets-app.pldb
 
@@ -41,6 +41,6 @@ codeWithHeader Google Sheets <a href="../lists/keywords.html?filter=google-sheet
 
 endColumns
 
-keyboardNav cityhash-hash-function.html wyvern.html
+keyboardNav cityhash-hash-function.html smartsheet-app.html
 
 import ../footer.scroll

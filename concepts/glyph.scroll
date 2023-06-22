@@ -6,7 +6,7 @@ title Glyph - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tal.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="zeek.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="augment.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/glyph.pldb
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav tal.html augment.html
+keyboardNav zeek.html augment.html
 
 import ../footer.scroll

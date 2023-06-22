@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
 
 dashboard
- #1461 <span title="TotalRank: 1983 Jobs: 103 Users: 1388 Facts: 1662 Links: 492">on PLDB</span>
+ #1461 <span title="TotalRank: 1983 Jobs: 103 Users: 1388 Facts: 1663 Links: 492">on PLDB</span>
  14 Years Old
 
 * Parallel Thread Execution (PTX, or NVPTX) is a pseudo-assembly language used in Nvidia's CUDA programming environment.  The nvcc compiler translates code written in CUDA, a C++-like language, into PTX, and the graphics driver contains a compiler which translates the PTX into a binary code which can be run on the processing cores.. Read more on Wikipedia...

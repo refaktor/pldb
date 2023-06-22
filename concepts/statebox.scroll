@@ -6,7 +6,7 @@ title statebox - Visual programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="simit.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="socialite.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="syndicate.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/statebox.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #2912 <span title="TotalRank: 3524 Jobs: 103 Users: 2434 Facts: 2699 Links: 987">on PLDB</span>
+ #2909 <span title="TotalRank: 3522 Jobs: 103 Users: 2432 Facts: 2700 Links: 987">on PLDB</span>
  15 Years Old
 
 openGraphImage https://pldb.com/screenshots/statebox.png
@@ -39,6 +39,6 @@ image ../screenshots/statebox.png
 
 endColumns
 
-keyboardNav simit.html syndicate.html
+keyboardNav socialite.html syndicate.html
 
 import ../footer.scroll

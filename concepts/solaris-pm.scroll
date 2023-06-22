@@ -6,8 +6,8 @@ title solaris-pm - Package manager
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="rider-editor.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="stx.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="snbt.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="soql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/solaris-pm.pldb
 
@@ -19,18 +19,21 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #3241 on PLDB
+ #3352 on PLDB
  19 Years Old
 
 * 
 
 - solaris-pm website
  http://pkg.oracle.com/solaris/release/en/index.shtml
+- solaris-pm first developed in <a href="../lists/originCommunities.html#sunMicrosystemsInc">Sun Microsystems, Inc</a>
+- Read more about solaris-pm on the web: 1.
+ https://www.linuxtopia.org/online_books/opensolaris_2008/IMGPACKAGESYS/html/ips_intro.html 1.
 
 <br>
 
 endColumns
 
-keyboardNav rider-editor.html stx.html
+keyboardNav snbt.html soql.html
 
 import ../footer.scroll

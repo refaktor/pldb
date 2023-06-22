@@ -6,7 +6,7 @@ title YASnippet - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="scala-js.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="seed7.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="markwhen.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/yasnippet.pldb
@@ -90,6 +90,6 @@ treeTable
   Token 
   Example
 
-keyboardNav scala-js.html markwhen.html
+keyboardNav seed7.html markwhen.html
 
 import ../footer.scroll

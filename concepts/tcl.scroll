@@ -6,8 +6,8 @@ title Tcl - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="modula-2.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="solidity.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="solidity.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="regex.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tcl.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#johnOusterhout John Ousterhout
 
 dashboard
- #53 <span title="TotalRank: 202 Jobs: 103 Users: 278 Facts: 65 Links: 34">on PLDB</span>
+ #54 <span title="TotalRank: 203 Jobs: 103 Users: 278 Facts: 65 Links: 35">on PLDB</span>
  35 Years Old
  14k <span title="Tcl repos on GitHub.">Repos</span>
 
@@ -236,6 +236,6 @@ treeTable
   Token 
   Example
 
-keyboardNav modula-2.html solidity.html
+keyboardNav solidity.html regex.html
 
 import ../footer.scroll

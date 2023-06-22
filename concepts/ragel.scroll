@@ -6,7 +6,7 @@ title Ragel - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="imba.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="smarty.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ron.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ragel.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/bnoordhuis/ragel
 
 dashboard
- #454 <span title="TotalRank: 966 Jobs: 103 Users: 881 Facts: 196 Links: 667">on PLDB</span>
+ #455 <span title="TotalRank: 966 Jobs: 103 Users: 881 Facts: 196 Links: 667">on PLDB</span>
  16 Years Old
  66 <span title="Ragel repos on GitHub.">Repos</span>
 
@@ -154,6 +154,6 @@ treeTable
   Token 
   Example
 
-keyboardNav imba.html ron.html
+keyboardNav smarty.html ron.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title MultiDimensional eXpressions - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="comal.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="toontalk.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="quel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mdx-lang.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#moshaPasumansky Mosha Pasumansky
 
 dashboard
- #1266 <span title="TotalRank: 1799 Jobs: 103 Users: 709 Facts: 1968 Links: 987">on PLDB</span>
+ #1266 <span title="TotalRank: 1799 Jobs: 103 Users: 709 Facts: 1970 Links: 987">on PLDB</span>
  26 Years Old
 
 * Multidimensional Expressions (MDX) is a query language for online analytical processing (OLAP) using a database management system. Much like SQL, it is a query language for OLAP cubes.  It is also a calculation language, with syntax similar to spreadsheet formulas.. Read more on Wikipedia...
@@ -41,6 +41,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav comal.html quel.html
+keyboardNav toontalk.html quel.html
 
 import ../footer.scroll

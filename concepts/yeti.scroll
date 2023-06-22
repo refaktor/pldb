@@ -7,7 +7,7 @@ title yeti - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="chicken.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mlab.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="idl-sl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/yeti.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/mth/yeti
 
 dashboard
- #1579 <span title="TotalRank: 2088 Jobs: 103 Users: 998 Facts: 1119 Links: 987">on PLDB</span>
+ #1579 <span title="TotalRank: 2088 Jobs: 103 Users: 998 Facts: 1120 Links: 987">on PLDB</span>
  16 Years Old
 
 * Try now: <a href="http://try-yeti.appspot.com/">Web</a>
@@ -49,6 +49,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav chicken.html mlab.html
+keyboardNav chicken.html idl-sl.html
 
 import ../footer.scroll

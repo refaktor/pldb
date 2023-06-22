@@ -7,7 +7,7 @@ title HyperTalk - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="dtd.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="miranda.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="capn-proto.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hypertalk.pldb
 
@@ -67,6 +67,6 @@ treeTable
   Token put
   Example
 
-keyboardNav dtd.html miranda.html
+keyboardNav dtd.html capn-proto.html
 
 import ../footer.scroll

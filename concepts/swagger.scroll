@@ -7,7 +7,7 @@ title Swagger - Framework
 
 html
  <a class="trueBaseThemePreviousItem" href="fo.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="schemaorg.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pyret-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/swagger.pldb
 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav fo.html schemaorg.html
+keyboardNav fo.html pyret-lang.html
 
 import ../footer.scroll

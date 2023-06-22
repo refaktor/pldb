@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1999 1999
 
 dashboard
- #716 <span title="TotalRank: 1280 Jobs: 103 Users: 190 Facts: 1968 Links: 987">on PLDB</span>
+ #716 <span title="TotalRank: 1280 Jobs: 103 Users: 190 Facts: 1970 Links: 987">on PLDB</span>
  24 Years Old
 
 * MQTT (Message Queuing Telemetry Transport) is an ISO standard (ISO/IEC PRF 20922) publish-subscribe-based messaging protocol. It works on top of the TCP/IP protocol. It is designed for connections with remote locations where a "small code footprint" is required or the network bandwidth is limited. Read more on Wikipedia...

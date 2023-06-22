@@ -7,7 +7,7 @@ title Applescript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="lasso.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="oz.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="vbscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/applescript.pldb
 
@@ -177,6 +177,6 @@ treeTable
   Token 
   Example
 
-keyboardNav lasso.html oz.html
+keyboardNav lasso.html vbscript.html
 
 import ../footer.scroll

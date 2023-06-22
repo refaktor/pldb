@@ -6,7 +6,7 @@ title Vale - Assembly language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="firrtl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="mxml.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="gentee.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/vale-assembly.pldb
@@ -92,6 +92,6 @@ treeTable
   Token 
   Example
 
-keyboardNav firrtl.html gentee.html
+keyboardNav mxml.html gentee.html
 
 import ../footer.scroll

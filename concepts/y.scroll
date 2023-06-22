@@ -7,7 +7,7 @@ title Y - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="whirl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="meta-ii.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="elliott-algol.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/y.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1981 1981
 
 dashboard
- #2025 <span title="TotalRank: 2533 Jobs: 103 Users: 2830 Facts: 1443 Links: 987">on PLDB</span>
+ #2031 <span title="TotalRank: 2534 Jobs: 103 Users: 2829 Facts: 1444 Links: 987">on PLDB</span>
  42 Years Old
 
 * 
@@ -55,6 +55,6 @@ treeTable
   Token printf
   Example
 
-keyboardNav whirl.html meta-ii.html
+keyboardNav whirl.html elliott-algol.html
 
 import ../footer.scroll

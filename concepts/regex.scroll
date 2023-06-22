@@ -6,7 +6,7 @@ title Regular Expressions - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="solidity.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="tcl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="actionscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/regex.pldb
@@ -69,6 +69,6 @@ treeTable
   Token 
   Example
 
-keyboardNav solidity.html actionscript.html
+keyboardNav tcl.html actionscript.html
 
 import ../footer.scroll

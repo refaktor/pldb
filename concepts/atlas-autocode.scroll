@@ -7,7 +7,7 @@ title Atlas Autocode - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="cbasic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="trac.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="rocky-mountain-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/atlas-autocode.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1965 1965
 
 dashboard
- #1522 <span title="TotalRank: 2037 Jobs: 103 Users: 1608 Facts: 2049 Links: 326">on PLDB</span>
+ #1522 <span title="TotalRank: 2036 Jobs: 103 Users: 1607 Facts: 2051 Links: 326">on PLDB</span>
  58 Years Old
 
 * Atlas Autocode (AA) was a programming language developed around 1965 at Manchester University. A variant of the ALGOL programming language, it was developed by Tony Brooker and Derrick Morris for the Atlas Computer.  ("Autocode" was basically an early term for "programming language"; different autocodes could be totally different).. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav cbasic.html trac.html
+keyboardNav cbasic.html rocky-mountain-basic.html
 
 import ../footer.scroll

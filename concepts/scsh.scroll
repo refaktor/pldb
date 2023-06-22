@@ -7,7 +7,7 @@ title Scsh - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="muddl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smx-computer-language.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="json-url.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/scsh.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1993 1993
 
 dashboard
- #1691 <span title="TotalRank: 2209 Jobs: 103 Users: 1516 Facts: 1119 Links: 987">on PLDB</span>
+ #1692 <span title="TotalRank: 2210 Jobs: 103 Users: 1515 Facts: 1120 Links: 987">on PLDB</span>
  30 Years Old
 
 * Scsh (a Scheme shell) is computer software, a type of shell for an operating system. It is a Portable Operating System Interface (POSIX) application programming interface (API) layered on the programming language Scheme, in a manner to make the most of Scheme's ability for scripting. Scsh is limited to 32-bit platforms but there is a development version against the latest Scheme 48 that works in 64-bit mode. Read more on Wikipedia...
@@ -50,6 +50,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Scsh'>Wikiped
 
 endColumns
 
-keyboardNav muddl.html smx-computer-language.html
+keyboardNav muddl.html json-url.html
 
 import ../footer.scroll

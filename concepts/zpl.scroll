@@ -7,7 +7,7 @@ title ZPL - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="lyric.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="boa.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="smarts.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zpl.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1993 1993
 
 dashboard
- #2633 <span title="TotalRank: 3236 Jobs: 103 Users: 2146 Facts: 2535 Links: 987">on PLDB</span>
+ #2632 <span title="TotalRank: 3234 Jobs: 103 Users: 2144 Facts: 2538 Links: 987">on PLDB</span>
  30 Years Old
 
 * 
@@ -40,6 +40,6 @@ codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blo
 
 endColumns
 
-keyboardNav lyric.html boa.html
+keyboardNav lyric.html smarts.html
 
 import ../footer.scroll

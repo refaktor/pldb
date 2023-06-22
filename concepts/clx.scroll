@@ -6,7 +6,7 @@ title CLX - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sort-merge-generator.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="business-object-notation.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="adenine-programming-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/clx.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1985 1985
 
 dashboard
- #2461 <span title="TotalRank: 3043 Jobs: 103 Users: 1953 Facts: 2535 Links: 987">on PLDB</span>
+ #2458 <span title="TotalRank: 3042 Jobs: 103 Users: 1952 Facts: 2538 Links: 987">on PLDB</span>
  38 Years Old
 
 * The acronym CLX can refer to a number of things:  160 in Roman numerals Cargolux, an airline using the ICAO code CLX CLX (Common Lisp), a Common Lisp computer library CLX Communications, a telecommunications and cloud communications platform as a service company, based in Stockholm, Sweden Component Library for Cross Platform (CLX), a cross-platform visual component-based framework. Read more on Wikipedia...
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav sort-merge-generator.html adenine-programming-language.html
+keyboardNav business-object-notation.html adenine-programming-language.html
 
 import ../footer.scroll

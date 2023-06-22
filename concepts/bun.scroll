@@ -6,8 +6,8 @@ title Bun - Virtual machine
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pl360.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="helang.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="infiniband-standard.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="esterel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bun.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/Jarred-Sumner/bun
 
 dashboard
- #1109 on PLDB
+ #1107 on PLDB
  2 Years Old
 
 * Bundle, transpile, install and run JavaScript & TypeScript projects — all in Bun. Bun is a new JavaScript runtime with a native bundler, transpiler, task runner and npm client built-in.
@@ -42,6 +42,6 @@ dashboard
 
 endColumns
 
-keyboardNav pl360.html helang.html
+keyboardNav infiniband-standard.html esterel.html
 
 import ../footer.scroll

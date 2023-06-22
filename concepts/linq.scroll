@@ -6,7 +6,7 @@ title LINQ - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="free-pascal.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="setl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="maxima.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/linq.pldb
@@ -45,6 +45,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Language_Inte
 
 endColumns
 
-keyboardNav free-pascal.html maxima.html
+keyboardNav setl.html maxima.html
 
 import ../footer.scroll

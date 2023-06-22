@@ -7,7 +7,7 @@ title OpenVera - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="gosu.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="taichi.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="cson.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/openvera.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2001 2001
 
 dashboard
- #499 <span title="TotalRank: 1031 Jobs: 103 Users: 1445 Facts: 436 Links: 492">on PLDB</span>
+ #498 <span title="TotalRank: 1031 Jobs: 103 Users: 1444 Facts: 436 Links: 492">on PLDB</span>
  22 Years Old
 
 * OpenVera is a hardware verification language developed and managed by Synopsys. OpenVera is an interoperable, open hardware verification language for testbench creation. The OpenVera language was used as the basis for the advanced verification features in the IEEE Std. Read more on Wikipedia...
@@ -109,6 +109,6 @@ treeTable
   Token 
   Example
 
-keyboardNav gosu.html taichi.html
+keyboardNav gosu.html cson.html
 
 import ../footer.scroll

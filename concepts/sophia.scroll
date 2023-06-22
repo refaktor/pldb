@@ -6,8 +6,8 @@ title Sophia - Contract language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="elena.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="augeas.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="zenscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cor.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sophia.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/aeternity/aesophia
 
 dashboard
- #1448 <span title="TotalRank: 1977 Jobs: 103 Users: 1469 Facts: 887 Links: 987">on PLDB</span>
+ #1389 <span title="TotalRank: 1922 Jobs: 103 Users: 1468 Facts: 832 Links: 987">on PLDB</span>
  5 Years Old
 
 monacoEditor sophia
@@ -34,6 +34,7 @@ monacoEditor sophia
 - Sophia website
  https://aeternity.com/aesophia
 - Sophia is developed on <a href="https://github.com/aeternity/aesophia">GitHub</a> and has 42 stars
+- Sophia first developed in <a href="../lists/originCommunities.html#httpsGithubComAeternity">https://github.com/aeternity</a>
 - <a href="monaco.html">Monaco</a> <a href="https://github.com/microsoft/monaco-editor/tree/main/src/basic-languages/sophia">package</a> for syntax highlighting Sophia
 - See also: (1 related languages)<a href="solidity.html">Solidity</a>
 
@@ -108,6 +109,6 @@ treeTable
   Token 
   Example
 
-keyboardNav elena.html augeas.html
+keyboardNav zenscript.html cor.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title SMT - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tiledb.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ezhil.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="crush.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cache-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smt.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2003 2003
 
 dashboard
- #901 <span title="TotalRank: 1470 Jobs: 103 Users: 1125 Facts: 380 Links: 987">on PLDB</span>
+ #896 <span title="TotalRank: 1460 Jobs: 103 Users: 1125 Facts: 370 Links: 987">on PLDB</span>
  20 Years Old
  582 <span title="SMT repos on GitHub.">Repos</span>
 
@@ -28,6 +28,7 @@ dashboard
 - SMT website
  http://smtlib.cs.uiowa.edu/language.shtml
 - There are at least 582 SMT repos on <a href="https://github.com/search?q=language:SMT">GitHub</a>
+- SMT first developed in <a href="../lists/originCommunities.html#theUniversityOfIowa">The University of Iowa</a>
 - file extensions for SMT include smt2 and smt
 - The  Google BigQuery Public Dataset GitHub snapshot shows 130 users using SMT in 149 repos on <a href="https://api.github.com/search/repositories?q=language:SMT">GitHub</a>
 - GitHub supports <a href="https://github.com/SRI-CSL/SMT.tmbundle.git" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for SMT
@@ -103,6 +104,6 @@ treeTable
   Token 
   Example
 
-keyboardNav tiledb.html ezhil.html
+keyboardNav crush.html cache-basic.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title tiledb - Database
 
 html
  <a class="trueBaseThemePreviousItem" href="strips.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smt.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ezhil.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tiledb.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/TileDB-Inc/TileDB
 
 dashboard
- #900 <span title="TotalRank: 1469 Jobs: 103 Users: 379 Facts: 1443 Links: 987">on PLDB</span>
+ #901 <span title="TotalRank: 1469 Jobs: 103 Users: 379 Facts: 1444 Links: 987">on PLDB</span>
  6 Years Old
 
 * The Universal Storage Engine
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav strips.html smt.html
+keyboardNav strips.html ezhil.html
 
 import ../footer.scroll

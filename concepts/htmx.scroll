@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/bigskysoftware/htmx
 
 dashboard
- #644 <span title="TotalRank: 1224 Jobs: 103 Users: 134 Facts: 1087 Links: 987">on PLDB</span>
+ #644 <span title="TotalRank: 1224 Jobs: 103 Users: 134 Facts: 1089 Links: 987">on PLDB</span>
  3 Years Old
 
 * htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext

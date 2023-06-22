@@ -7,7 +7,7 @@ title smalltalkhub-pm - Package manager
 
 html
  <a class="trueBaseThemePreviousItem" href="skew.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="versioned-text-markup-language.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="souffle.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smalltalkhub-pm.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#nicolasPetton Nicolas Petton
 
 dashboard
- #3200 on PLDB
+ #3199 on PLDB
  12 Years Old
 
 * 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav skew.html versioned-text-markup-language.html
+keyboardNav skew.html souffle.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title System V ABI - Binary executable format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="school.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="snql.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="titanium.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/system-v-abi.pldb
@@ -40,6 +40,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav school.html titanium.html
+keyboardNav snql.html titanium.html
 
 import ../footer.scroll

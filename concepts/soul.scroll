@@ -6,8 +6,8 @@ title soul - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="souffle.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="squiggle.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="singular.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="t3x.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/soul.pldb
 
@@ -19,20 +19,22 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
 
 dashboard
- #2833 <span title="TotalRank: 3524 Jobs: 103 Users: 2434 Facts: 2914 Links: 987">on PLDB</span>
+ #2938 <span title="TotalRank: 3522 Jobs: 103 Users: 2432 Facts: 2617 Links: 987">on PLDB</span>
  23 Years Old
 
 * Program queries can answer important software engineering questions ranging from “is my code bug free?” over “does my code follow the prescribed design?” to “how can my code be refactored?”. SOUL is a Prolog-like language with specialized features for querying programs.
 
 - soul website
  http://soft.vub.ac.be/SOUL/
-- Read more about soul on the web: 1.
- https://github.com/Ducasse/SOUL 1.
+- soul first developed in <a href="../lists/originCommunities.html#vrijeUniversiteitBrussel">Vrije Universiteit Brussel</a>
+- Read more about soul on the web: 1. 2.
+ https://soft.vub.ac.be/Publications/2011/vub-soft-tr-11-10.pdf 1.
+ https://github.com/Ducasse/SOUL 2.
 
 <br>
 
 endColumns
 
-keyboardNav souffle.html squiggle.html
+keyboardNav singular.html t3x.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Python for S60 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="rocky-mountain-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pharen.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="trac.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/python-for-s60.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#guidoVanRossum Guido van Rossum
 
 dashboard
- #1526 <span title="TotalRank: 2040 Jobs: 103 Users: 1445 Facts: 2167 Links: 492">on PLDB</span>
+ #1524 <span title="TotalRank: 2039 Jobs: 103 Users: 1444 Facts: 2169 Links: 492">on PLDB</span>
  17 Years Old
 
 * The Python for S60 also called PyS60 (Unix name), was Nokia’s port of the general Python programming language to its S60 software platform, originally based on Python 2.2.2 from 2002. The latest final version, PyS60-2.0.0, released on 11 February 2010 updated the python core to version 2.5.4.. Read more on Wikipedia...
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav rocky-mountain-basic.html pharen.html
+keyboardNav rocky-mountain-basic.html trac.html
 
 import ../footer.scroll

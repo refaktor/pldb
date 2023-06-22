@@ -6,7 +6,7 @@ title plam - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="coral.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="april.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="qif.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/plam.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/sandrolovnicki/pLam
 
 dashboard
- #1336 <span title="TotalRank: 1875 Jobs: 103 Users: 785 Facts: 1662 Links: 987">on PLDB</span>
+ #1336 <span title="TotalRank: 1875 Jobs: 103 Users: 785 Facts: 1663 Links: 987">on PLDB</span>
  6 Years Old
 
 * An interpreter for learning and exploring pure λ-calculus
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav coral.html qif.html
+keyboardNav april.html qif.html
 
 import ../footer.scroll

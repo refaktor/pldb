@@ -6,8 +6,8 @@ title Cap'n Proto - Interface design language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="miranda.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mbox.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="hypertalk.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="miranda.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/capn-proto.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/capnproto/capnproto
 
 dashboard
- #368 <span title="TotalRank: 835 Jobs: 103 Users: 110 Facts: 622 Links: 987">on PLDB</span>
+ #367 <span title="TotalRank: 835 Jobs: 103 Users: 110 Facts: 622 Links: 987">on PLDB</span>
  10 Years Old
  135k <span title="Cap'n Proto repos on GitHub.">Repos</span>
 
@@ -63,6 +63,6 @@ treeTable
   Token 
   Example
 
-keyboardNav miranda.html mbox.html
+keyboardNav hypertalk.html miranda.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Catala - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="flavors.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="xblite.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="adept.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/catala.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/CatalaLang/catala
 
 dashboard
- #1090 <span title="TotalRank: 1655 Jobs: 103 Users: 565 Facts: 1052 Links: 987">on PLDB</span>
+ #1090 <span title="TotalRank: 1655 Jobs: 103 Users: 565 Facts: 1055 Links: 987">on PLDB</span>
  4 Years Old
 
 * Programming language for literate programming law specification
@@ -48,6 +48,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav flavors.html adept.html
+keyboardNav xblite.html adept.html
 
 import ../footer.scroll

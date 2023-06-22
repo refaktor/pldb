@@ -7,7 +7,7 @@ title Candy - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="cache-objectscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="jiyu.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="smx-computer-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/candy.pldb
 
@@ -24,7 +24,7 @@ codeWithHeader Source code:
  git clone https://github.com/candy-lang/Candy
 
 dashboard
- #1598 <span title="TotalRank: 2118 Jobs: 103 Users: 1569 Facts: 1028 Links: 987">on PLDB</span>
+ #1598 <span title="TotalRank: 2119 Jobs: 103 Users: 1568 Facts: 1029 Links: 987">on PLDB</span>
  3 Years Old
 
 * A sweet programming language that is robust, minimalistic, and expressive.
@@ -53,6 +53,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav cache-objectscript.html jiyu.html
+keyboardNav cache-objectscript.html smx-computer-language.html
 
 import ../footer.scroll

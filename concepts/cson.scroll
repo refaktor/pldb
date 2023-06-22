@@ -6,8 +6,8 @@ title CSON - Data notation
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mirah.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gosu.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="openvera.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hope.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cson.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/bevry/cson
 
 dashboard
- #497 <span title="TotalRank: 1029 Jobs: 103 Users: 397 Facts: 529 Links: 987">on PLDB</span>
+ #499 <span title="TotalRank: 1031 Jobs: 103 Users: 397 Facts: 531 Links: 987">on PLDB</span>
  12 Years Old
  16 <span title="CSON repos on GitHub.">Repos</span>
 
@@ -57,6 +57,6 @@ codeWithHeader Example from <a href='https://github.com/atom/language-coffee-scr
 
 endColumns
 
-keyboardNav mirah.html gosu.html
+keyboardNav openvera.html hope.html
 
 import ../footer.scroll

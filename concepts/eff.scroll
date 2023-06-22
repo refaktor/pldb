@@ -6,7 +6,7 @@ title eff - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="csvw.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="newspeak.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="gentoo-ebuild.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/eff.pldb
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav csvw.html gentoo-ebuild.html
+keyboardNav newspeak.html gentoo-ebuild.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title JSON Query Language - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="minizinc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="potion.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="noulith.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="minizinc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jql.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/cube2222/jql
 
 dashboard
- #1111 <span title="TotalRank: 1671 Jobs: 103 Users: 581 Facts: 1586 Links: 987">on PLDB</span>
+ #1110 <span title="TotalRank: 1671 Jobs: 103 Users: 581 Facts: 1586 Links: 987">on PLDB</span>
  4 Years Old
 
 * Easy JSON Query Processor with a Lispy syntax in Go
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav minizinc.html potion.html
+keyboardNav noulith.html minizinc.html
 
 import ../footer.scroll

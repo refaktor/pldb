@@ -6,7 +6,7 @@ title jiyu - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="candy.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="smx-computer-language.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="kumir.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jiyu.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/machinamentum/jiyu
 
 dashboard
- #1599 <span title="TotalRank: 2118 Jobs: 103 Users: 1798 Facts: 1028 Links: 987">on PLDB</span>
+ #1600 <span title="TotalRank: 2119 Jobs: 103 Users: 1797 Facts: 1029 Links: 987">on PLDB</span>
  4 Years Old
 
 * A compiler and programming language for fun.
@@ -55,6 +55,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav candy.html kumir.html
+keyboardNav smx-computer-language.html kumir.html
 
 import ../footer.scroll

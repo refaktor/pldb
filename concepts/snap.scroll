@@ -6,7 +6,7 @@ title Snap! - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="txt2tags.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="kitlang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="passerine.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/snap.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#brianHarvey Brian Harvey
 
 dashboard
- #1043 <span title="TotalRank: 1612 Jobs: 103 Users: 842 Facts: 1968 Links: 667">on PLDB</span>
+ #1043 <span title="TotalRank: 1612 Jobs: 103 Users: 842 Facts: 1778 Links: 667">on PLDB</span>
  12 Years Old
 
 * Snap! is a free, blocks- and browser-based educational graphical programming language that allows students to create interactive animations, games, stories, and more, while learning about mathematical and computational ideas. Snap! was inspired by Scratch, but also targets both novice and more advanced students by including and expanding Scratch's features. Since version 4.0, it is entirely browser-based, with no software that needs to be installed on the local device, much like Scratch.. Read more on Wikipedia...
@@ -28,6 +28,7 @@ dashboard
 
 - Snap! Wikipedia page
  https://en.wikipedia.org/wiki/Snap!_(programming_language)
+- Snap! first developed in <a href="../lists/originCommunities.html#universityOfCaliforniaBerkeley">University of California, Berkeley</a>
 - file extensions for Snap! include ypr, ysp and xml
 - See also: (10 related languages)<a href="javascript.html">JavaScript</a>, <a href="squeak.html">Squeak</a>, <a href="scratch.html">Scratch</a>, <a href="scheme.html">Scheme</a>, <a href="logo.html">Logo</a>, <a href="smalltalk.html">Smalltalk</a>, <a href="python.html">Python</a>, <a href="c.html">C</a>, <a href="linux.html">Linux</a>, <a href="ios.html">iOS</a>
 
@@ -35,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav txt2tags.html passerine.html
+keyboardNav kitlang.html passerine.html
 
 import ../footer.scroll

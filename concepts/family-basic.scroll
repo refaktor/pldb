@@ -6,8 +6,8 @@ title Family BASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="flowgorithm.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mirc.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="gentoo-ebuild.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="flowgorithm.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/family-basic.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1984 1984
 
 dashboard
- #1132 <span title="TotalRank: 1687 Jobs: 103 Users: 917 Facts: 2306 Links: 667">on PLDB</span>
+ #1131 <span title="TotalRank: 1686 Jobs: 103 Users: 916 Facts: 2308 Links: 667">on PLDB</span>
  39 Years Old
 
 * Family BASIC or Famicom BASIC is the consumer product for programming Nintendo's Family Computer video game console of Japan. Family BASIC  was launched on June 21, 1984 to consumers in Japan by Nintendo, in cooperation with Hudson Soft and Sharp Corporation. A second version titled Family BASIC V3 was released on February 21, 1985, with greater memory and new features.. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav flowgorithm.html mirc.html
+keyboardNav gentoo-ebuild.html flowgorithm.html
 
 import ../footer.scroll

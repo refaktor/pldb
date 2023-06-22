@@ -7,7 +7,7 @@ title socialite - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="smithy.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="soql.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="statebox.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/socialite.pldb
 
@@ -19,13 +19,14 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
 
 dashboard
- #2830 <span title="TotalRank: 3524 Jobs: 103 Users: 2434 Facts: 2914 Links: 987">on PLDB</span>
+ #2908 <span title="TotalRank: 3522 Jobs: 103 Users: 2432 Facts: 2700 Links: 987">on PLDB</span>
  8 Years Old
 
 * 
 
 - socialite website
  http://socialite-lang.github.io
+- socialite first developed in <a href="../lists/originCommunities.html#stanfordUniversity">Stanford University</a>
 
 <br>
 
@@ -37,6 +38,6 @@ pipeTable
  title|titleLink|date|score|comments
  Query Language for Large-Scale Graph Analysis|https://news.ycombinator.com/item?id=9316131|04/03/2015|2|0
 
-keyboardNav smithy.html soql.html
+keyboardNav smithy.html statebox.html
 
 import ../footer.scroll

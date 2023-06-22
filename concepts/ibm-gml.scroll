@@ -6,8 +6,8 @@ title GML - Xml format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="skip.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="m3db.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="saml.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sweetjs.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ibm-gml.pldb
 
@@ -22,7 +22,7 @@ startColumns 4
  link ../lists/creators.html#raymondLorie Raymond Lorie
 
 dashboard
- #725 <span title="TotalRank: 1289 Jobs: 103 Users: 1325 Facts: 860 Links: 326">on PLDB</span>
+ #727 <span title="TotalRank: 1291 Jobs: 103 Users: 1325 Facts: 862 Links: 326">on PLDB</span>
  54 Years Old
 
 * Generalized Markup Language (GML) is a set of macros that implement intent-based (procedural) markup tags for the IBM text formatter, SCRIPT.  SCRIPT/VS is the main component of IBM's Document Composition Facility (DCF). A starter set of tags in GML is provided with the DCF product.. Read more on Wikipedia...
@@ -60,6 +60,6 @@ treeTable
   Token draw_text
   Example
 
-keyboardNav skip.html m3db.html
+keyboardNav saml.html sweetjs.html
 
 import ../footer.scroll

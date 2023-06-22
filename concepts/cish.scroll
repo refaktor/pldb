@@ -6,8 +6,8 @@ title Cish - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="fortran-77.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="zeta.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="snit.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="snobol3.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cish.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2022 2022
 
 dashboard
- #2991 <span title="TotalRank: 3600 Jobs: 103 Users: 2830 Facts: 2914 Links: 667">on PLDB</span>
+ #2990 <span title="TotalRank: 3599 Jobs: 103 Users: 2829 Facts: 2921 Links: 667">on PLDB</span>
  1 Years Old
 
 * Cish
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav fortran-77.html zeta.html
+keyboardNav snit.html snobol3.html
 
 import ../footer.scroll

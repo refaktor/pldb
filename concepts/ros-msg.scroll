@@ -7,7 +7,7 @@ title ROS Message - Interface design language
 
 html
  <a class="trueBaseThemePreviousItem" href="rlisp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="tick-c.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="smdl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ros-msg.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2010 2010
 
 dashboard
- #3064 <span title="TotalRank: 3789 Jobs: 103 Users: 2830 Facts: 2699 Links: 987">on PLDB</span>
+ #3063 <span title="TotalRank: 3790 Jobs: 103 Users: 2829 Facts: 2700 Links: 987">on PLDB</span>
  13 Years Old
 
 * The format of this language is simple: a message description is a list of data field descriptions and constant definitions on separate lines.
@@ -37,6 +37,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav rlisp.html tick-c.html
+keyboardNav rlisp.html smdl.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Mercurial - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="diagram.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rmarkdown.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="livecode.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mercurial.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2005 2005
 
 dashboard
- #448 on PLDB
+ #447 on PLDB
  18 Years Old
 
 * Mercurial is a distributed revision-control tool for software developers. It is supported on Microsoft Windows and Unix-like systems, such as FreeBSD, macOS and Linux. Mercurial's major design goals include high performance and scalability, decentralized, fully distributed collaborative development, robust handling of both plain text and binary files, and advanced branching and merging capabilities, while remaining conceptually simple. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav diagram.html rmarkdown.html
+keyboardNav diagram.html livecode.html
 
 import ../footer.scroll

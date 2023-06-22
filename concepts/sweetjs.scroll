@@ -6,7 +6,7 @@ title Sweet.js - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="saml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="ibm-gml.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tap-code.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sweetjs.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/sweet-js/sweet-core/
 
 dashboard
- #728 <span title="TotalRank: 1291 Jobs: 103 Users: 201 Facts: 1777 Links: 987">on PLDB</span>
+ #728 <span title="TotalRank: 1291 Jobs: 103 Users: 201 Facts: 1778 Links: 987">on PLDB</span>
  11 Years Old
 
 * Sweeten your JavaScript.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav saml.html tap-code.html
+keyboardNav ibm-gml.html tap-code.html
 
 import ../footer.scroll

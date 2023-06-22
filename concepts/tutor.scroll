@@ -6,7 +6,7 @@ title TUTOR - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="dcat.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="v-golf.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="refer.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tutor.pldb
@@ -21,7 +21,7 @@ startColumns 4
  link ../lists/creators.html#richardBlomme Richard Blomme
 
 dashboard
- #2000 <span title="TotalRank: 2533 Jobs: 103 Users: 1445 Facts: 1443 Links: 987">on PLDB</span>
+ #2006 <span title="TotalRank: 2534 Jobs: 103 Users: 1444 Facts: 1444 Links: 987">on PLDB</span>
  54 Years Old
 
 * TUTOR (also known as PLATO Author Language) is a programming language developed for use on the PLATO system at the University of Illinois at Urbana-Champaign around 1965. TUTOR was initially designed by Paul Tenczar for use in computer assisted instruction (CAI) and computer managed instruction (CMI) (in computer programs called "lessons") and has many features for that purpose. For example, TUTOR has powerful answer-parsing and answer-judging commands, graphics, and features to simplify handling student records and statistics by instructors. Read more on Wikipedia...
@@ -46,6 +46,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/TUTOR_(progra
 
 endColumns
 
-keyboardNav dcat.html refer.html
+keyboardNav v-golf.html refer.html
 
 import ../footer.scroll

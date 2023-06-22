@@ -7,7 +7,7 @@ title noulith - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="linda.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="minizinc.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/noulith.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/betaveros/noulith
 
 dashboard
- #1109 <span title="TotalRank: 1668 Jobs: 103 Users: 578 Facts: 1375 Links: 987">on PLDB</span>
+ #1109 <span title="TotalRank: 1668 Jobs: 103 Users: 578 Facts: 1376 Links: 987">on PLDB</span>
  1 Years Old
 
 * *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav linda.html minizinc.html
+keyboardNav linda.html jql.html
 
 import ../footer.scroll

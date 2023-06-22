@@ -6,7 +6,7 @@ title SOLMAR - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="soar-ml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="snoop.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="sorca.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/solmar.pldb
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1978 1978
 
 dashboard
- #3201 <span title="TotalRank: 3920 Jobs: 103 Users: 2830 Facts: 4079 Links: 987">on PLDB</span>
+ #4047 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 3263 Links: 987">on PLDB</span>
  45 Years Old
 
 * 
 
+- SOLMAR first developed in <a href="../lists/originCommunities.html#fachhochschuleDusseldorf">Fachhochschule Düsseldorf</a>
 - SOLMAR on HOPL
  https://hopl.info/showlanguage.prx?exp=2814
 - Read more about SOLMAR on Semantic Scholar: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav soar-ml.html sorca.html
+keyboardNav snoop.html sorca.html
 
 import ../footer.scroll

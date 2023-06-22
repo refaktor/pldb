@@ -6,8 +6,8 @@ title Sort Merge Generator - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="business-object-notation.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="clx.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="lagoona.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tacpol-programming-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sort-merge-generator.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1951 1951
 
 dashboard
- #2460 <span title="TotalRank: 3043 Jobs: 103 Users: 1953 Facts: 2614 Links: 987">on PLDB</span>
+ #2461 <span title="TotalRank: 3042 Jobs: 103 Users: 1952 Facts: 2445 Links: 987">on PLDB</span>
  72 Years Old
 
 * The Sort Merge Generator was an application developed by Betty Holberton in 1951 for the Univac I and is one of the first examples of using a computer to create a computer program. The input to the application was a specification of files and the kind of sort and merge operations to use, and the output would be machine code for performing the specification.. Read more on Wikipedia...
@@ -27,11 +27,12 @@ dashboard
 
 - Sort Merge Generator Wikipedia page
  https://en.wikipedia.org/wiki/Sort_Merge_Generator
+- Sort Merge Generator first developed in <a href="../lists/originCommunities.html#remingtonRandAndNationalBureauOfStandards">Remington Rand and National Bureau of Standards</a>
 
 <br>
 
 endColumns
 
-keyboardNav business-object-notation.html clx.html
+keyboardNav lagoona.html tacpol-programming-language.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title basic calculator - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="interlisp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="xblite.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="flavors.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bc.pldb
 
@@ -76,6 +76,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav interlisp.html xblite.html
+keyboardNav interlisp.html flavors.html
 
 import ../footer.scroll

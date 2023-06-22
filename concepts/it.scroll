@@ -7,7 +7,7 @@ title IT - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="titanium.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="snobol4.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="beam-bytecode.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/it.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#alanPerlis Alan Perlis
 
 dashboard
- #2984 <span title="TotalRank: 3560 Jobs: 103 Users: 2830 Facts: 2790 Links: 667">on PLDB</span>
+ #2984 <span title="TotalRank: 3566 Jobs: 103 Users: 2829 Facts: 2796 Links: 667">on PLDB</span>
  68 Years Old
 
 * 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav titanium.html snobol4.html
+keyboardNav titanium.html beam-bytecode.html
 
 import ../footer.scroll

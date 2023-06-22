@@ -7,7 +7,7 @@ title SIMPL - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ircis.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="snoop.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="concurrent-ml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/simpl.pldb
 
@@ -45,6 +45,6 @@ dashboard
 
 endColumns
 
-keyboardNav ircis.html snoop.html
+keyboardNav ircis.html concurrent-ml.html
 
 import ../footer.scroll

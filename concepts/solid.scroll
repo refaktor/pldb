@@ -22,12 +22,13 @@ codeWithHeader Source code:
  git clone https://github.com/chameco/Solid
 
 dashboard
- #1500 <span title="TotalRank: 2022 Jobs: 103 Users: 932 Facts: 1087 Links: 987">on PLDB</span>
+ #1500 <span title="TotalRank: 2022 Jobs: 103 Users: 932 Facts: 1029 Links: 987">on PLDB</span>
  10 Years Old
 
 * A minimalist interpreted language, with a clean object model and a tiny VM.
 
 - solid is developed on <a href="https://github.com/chameco/Solid">GitHub</a> and has 274 stars
+- solid first developed in <a href="../lists/originCommunities.html#httpsGithubComChamecoSolidIssues">https://github.com/chameco/Solid/issues</a>
 
 <br>
 

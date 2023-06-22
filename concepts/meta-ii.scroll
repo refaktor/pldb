@@ -6,7 +6,7 @@ title Meta II - Grammar language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="y.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="dcat.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="omnis-studio.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/meta-ii.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1962 1962
 
 dashboard
- #2026 <span title="TotalRank: 2535 Jobs: 103 Users: 1445 Facts: 2535 Links: 987">on PLDB</span>
+ #1999 <span title="TotalRank: 2534 Jobs: 103 Users: 1444 Facts: 2538 Links: 987">on PLDB</span>
  61 Years Old
 
 * META II is a domain-specific programming language for writing compilers. It was created in 1963-1964 by Dewey Val Schorre at UCLA. META II uses what Schorre called syntax equations. Read more on Wikipedia...
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav y.html omnis-studio.html
+keyboardNav dcat.html omnis-studio.html
 
 import ../footer.scroll

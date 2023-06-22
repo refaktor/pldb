@@ -6,7 +6,7 @@ title Gosu - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="cson.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="mirah.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="openvera.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gosu.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
 
 dashboard
- #498 <span title="TotalRank: 1031 Jobs: 103 Users: 654 Facts: 436 Links: 492">on PLDB</span>
+ #497 <span title="TotalRank: 1031 Jobs: 103 Users: 654 Facts: 436 Links: 492">on PLDB</span>
  21 Years Old
  701 <span title="Gosu repos on GitHub.">Repos</span>
 
@@ -106,6 +106,6 @@ treeTable
   Token print
   Example
 
-keyboardNav cson.html openvera.html
+keyboardNav mirah.html openvera.html
 
 import ../footer.scroll

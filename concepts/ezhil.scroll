@@ -6,7 +6,7 @@ title Ezhil - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="smt.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="tiledb.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="haste.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ezhil.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#muthuAnnamalai Muthu Annamalai
 
 dashboard
- #902 <span title="TotalRank: 1470 Jobs: 103 Users: 1388 Facts: 380 Links: 987">on PLDB</span>
+ #902 <span title="TotalRank: 1471 Jobs: 103 Users: 1388 Facts: 381 Links: 987">on PLDB</span>
  16 Years Old
 
 * Try now: <a href="https://riju.codes/ezhil">Riju</a>
@@ -123,6 +123,6 @@ treeTable
   Token 
   Example
 
-keyboardNav smt.html haste.html
+keyboardNav tiledb.html haste.html
 
 import ../footer.scroll

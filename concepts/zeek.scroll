@@ -7,7 +7,7 @@ title Zeek - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="asic-programming-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="charcoal.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="glyph.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zeek.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1994 1994
 
 dashboard
- #1703 <span title="TotalRank: 2213 Jobs: 103 Users: 2434 Facts: 1443 Links: 667">on PLDB</span>
+ #1705 <span title="TotalRank: 2214 Jobs: 103 Users: 2432 Facts: 1444 Links: 667">on PLDB</span>
  29 Years Old
  1k <span title="Zeek repos on GitHub.">Repos</span>
 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav asic-programming-language.html charcoal.html
+keyboardNav asic-programming-language.html glyph.html
 
 import ../footer.scroll

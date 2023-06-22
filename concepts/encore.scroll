@@ -6,8 +6,8 @@ title Encore - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sublime-syntax.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="brain-flak.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="piet-programming-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sublime-syntax.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/encore.pldb
 
@@ -25,7 +25,7 @@ codeWithHeader Source code:
  git clone https://github.com/parapluu/encore
 
 dashboard
- #1931 <span title="TotalRank: 2462 Jobs: 103 Users: 1372 Facts: 1662 Links: 987">on PLDB</span>
+ #1930 <span title="TotalRank: 2462 Jobs: 103 Users: 1372 Facts: 1663 Links: 987">on PLDB</span>
  9 Years Old
 
 * The Encore compiler.
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav sublime-syntax.html brain-flak.html
+keyboardNav piet-programming-language.html sublime-syntax.html
 
 import ../footer.scroll

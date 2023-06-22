@@ -23,12 +23,13 @@ codeWithHeader Source code:
  git clone https://github.com/seagreen/Son
 
 dashboard
- #1432 <span title="TotalRank: 1960 Jobs: 103 Users: 870 Facts: 1443 Links: 987">on PLDB</span>
+ #1433 <span title="TotalRank: 1960 Jobs: 103 Users: 870 Facts: 1306 Links: 987">on PLDB</span>
  6 Years Old
 
 * A minimal subset of JSON for machine-to-machine communication
 
 - son is developed on <a href="https://github.com/seagreen/Son">GitHub</a> and has 357 stars
+- son first developed in <a href="../lists/originCommunities.html#httpsGithubComSeagreenSonIssues">https://github.com/seagreen/Son/issues</a>
 - Read more about son on the web: 1.
  https://www.reddit.com/r/haskell/comments/5zdq5y/rfc_son_subset_of_json_for_machinetomachine/ 1.
 

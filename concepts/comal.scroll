@@ -7,7 +7,7 @@ title COMAL - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="scribe.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mdx-lang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="toontalk.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/comal.pldb
 
@@ -21,7 +21,7 @@ startColumns 4
  link ../lists/creators.html#benedictLofstedt Benedict Løfstedt
 
 dashboard
- #1265 <span title="TotalRank: 1799 Jobs: 103 Users: 1325 Facts: 1306 Links: 390">on PLDB</span>
+ #1264 <span title="TotalRank: 1799 Jobs: 103 Users: 1325 Facts: 1306 Links: 390">on PLDB</span>
  50 Years Old
 
 * COMAL (Common Algorithmic Language) is a computer programming language developed in Denmark by Benedict Løfstedt and Børge R. Christensen in 1973. COMAL was one of the few structured programming languages that was available for and comfortably usable on 8-bit home computers. Read more on Wikipedia...
@@ -47,6 +47,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/COMAL'>Wikipe
 
 endColumns
 
-keyboardNav scribe.html mdx-lang.html
+keyboardNav scribe.html toontalk.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Scala.js - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="seed7.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="yasnippet.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="gap.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gambas.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/scala-js.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/scala-js/scala-js
 
 dashboard
- #350 <span title="TotalRank: 809 Jobs: 103 Users: 189 Facts: 517 Links: 987">on PLDB</span>
+ #348 <span title="TotalRank: 809 Jobs: 103 Users: 189 Facts: 517 Links: 987">on PLDB</span>
  10 Years Old
 
 * Scala ( SKAH-lah) is a general-purpose programming language providing support for functional programming and a strong static type system. Designed to be concise, many of Scala's design decisions aimed to address criticisms of Java.Scala source code is intended to be compiled to Java bytecode, so that the resulting executable code runs on a Java virtual machine. Scala provides language interoperability with Java, so that libraries written in both languages may be referenced directly in Scala or Java code. Read more on Wikipedia...
@@ -70,6 +70,6 @@ treeTable
   Token println
   Example
 
-keyboardNav seed7.html yasnippet.html
+keyboardNav gap.html gambas.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title FORTRAN 77 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="cdl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cish.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="snit.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fortran-77.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1977 1977
 
 dashboard
- #2990 <span title="TotalRank: 3600 Jobs: 103 Users: 2830 Facts: 3256 Links: 667">on PLDB</span>
+ #2988 <span title="TotalRank: 3599 Jobs: 103 Users: 2829 Facts: 3263 Links: 667">on PLDB</span>
  46 Years Old
 
 * 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav cdl.html cish.html
+keyboardNav cdl.html snit.html
 
 import ../footer.scroll

@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/kuroko-lang/kuroko
 
 dashboard
- #1469 <span title="TotalRank: 1998 Jobs: 103 Users: 908 Facts: 1777 Links: 987">on PLDB</span>
+ #1469 <span title="TotalRank: 1998 Jobs: 103 Users: 908 Facts: 1778 Links: 987">on PLDB</span>
  3 Years Old
 
 * Dialect of Python with explicit variable declaration and block scoping, with a lightweight and easy-to-embed bytecode compiler and interpreter.

@@ -7,7 +7,7 @@ title Business Object Notation - Notation
 
 html
  <a class="trueBaseThemePreviousItem" href="iptables-rope.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sort-merge-generator.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="clx.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/business-object-notation.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1989 1989
 
 dashboard
- #2459 <span title="TotalRank: 3038 Jobs: 103 Users: 1948 Facts: 2049 Links: 987">on PLDB</span>
+ #2457 <span title="TotalRank: 3037 Jobs: 103 Users: 1947 Facts: 2051 Links: 987">on PLDB</span>
  34 Years Old
 
 * In software engineering, Business Object Notation (BON) is a method and graphical notation for high-level object-oriented analysis and design. The method was developed 1989–93 by Jean-Marc Nerson and Kim Waldén as a means of extending the higher-level concepts of the Eiffel programming language. It claims to be much simpler than its competition - the UML - but it didn't enjoy its commercial success.. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav iptables-rope.html sort-merge-generator.html
+keyboardNav iptables-rope.html clx.html
 
 import ../footer.scroll

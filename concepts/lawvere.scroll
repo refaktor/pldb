@@ -6,7 +6,7 @@ title Lawvere - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jplace.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="dasm.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="margin.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lawvere.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/jameshaydon/lawvere
 
 dashboard
- #1665 <span title="TotalRank: 2179 Jobs: 103 Users: 1089 Facts: 1586 Links: 987">on PLDB</span>
+ #1655 <span title="TotalRank: 2179 Jobs: 103 Users: 1089 Facts: 1586 Links: 987">on PLDB</span>
  2 Years Old
 
 * Lawvere - a categorical programming language with effects
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav jplace.html margin.html
+keyboardNav dasm.html margin.html
 
 import ../footer.scroll

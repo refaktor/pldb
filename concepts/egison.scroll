@@ -6,7 +6,7 @@ title Egison - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="telos.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="genshi.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="edge-side-includes.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/egison.pldb
@@ -59,6 +59,6 @@ treeTable
   Token 
   Example
 
-keyboardNav telos.html edge-side-includes.html
+keyboardNav genshi.html edge-side-includes.html
 
 import ../footer.scroll

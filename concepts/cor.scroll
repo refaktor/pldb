@@ -6,7 +6,7 @@ title cor - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="zenscript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sophia.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="project-mentat.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cor.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/yosbelms/cor
 
 dashboard
- #1389 <span title="TotalRank: 1922 Jobs: 103 Users: 1739 Facts: 832 Links: 987">on PLDB</span>
+ #1390 <span title="TotalRank: 1922 Jobs: 103 Users: 1738 Facts: 832 Links: 987">on PLDB</span>
  7 Years Old
 
 * Straightforward language for the Web.
@@ -65,6 +65,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Cor - the language of the web|https://news.ycombinator.com/item?id=10555178|11/12/2015|4|7
 
-keyboardNav zenscript.html project-mentat.html
+keyboardNav sophia.html project-mentat.html
 
 import ../footer.scroll

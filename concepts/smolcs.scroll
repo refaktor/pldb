@@ -6,7 +6,7 @@ title SMoLCS - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="simplescript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="smalltalk-80.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="snobat.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smolcs.pldb
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1986 1986
 
 dashboard
- #3198 <span title="TotalRank: 3920 Jobs: 103 Users: 2830 Facts: 4079 Links: 987">on PLDB</span>
+ #4044 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 3263 Links: 987">on PLDB</span>
  37 Years Old
 
 * 
 
+- SMoLCS first developed in <a href="../lists/originCommunities.html#ibm">IBM</a>
 - SMoLCS on HOPL
  https://hopl.info/showlanguage.prx?exp=1275
 - Read more about SMoLCS on the web: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav simplescript.html snobat.html
+keyboardNav smalltalk-80.html snobat.html
 
 import ../footer.scroll

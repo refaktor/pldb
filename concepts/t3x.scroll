@@ -6,7 +6,7 @@ title T3X - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="singular.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="soul.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tiddler.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/t3x.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1995 1995
 
 dashboard
- #2941 <span title="TotalRank: 3524 Jobs: 103 Users: 2434 Facts: 2614 Links: 987">on PLDB</span>
+ #2939 <span title="TotalRank: 3522 Jobs: 103 Users: 2432 Facts: 2617 Links: 987">on PLDB</span>
  28 Years Old
 
 * 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav singular.html tiddler.html
+keyboardNav soul.html tiddler.html
 
 import ../footer.scroll

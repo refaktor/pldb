@@ -6,7 +6,7 @@ title synergist - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="soql-lang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="xs-lang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="uscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/synergist.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1986 1986
 
 dashboard
- #3128 <span title="TotalRank: 3920 Jobs: 103 Users: 2830 Facts: 4307 Links: 987">on PLDB</span>
+ #3130 <span title="TotalRank: 3919 Jobs: 103 Users: 2829 Facts: 4308 Links: 987">on PLDB</span>
  37 Years Old
 
 * The Synergist language was created by a crew out of Michigan (USA) somewhere around 1986 or 1987. A guy named Kingsbury (can't remember his first name,  but he's the brother of Digital Equipment Corporation guru Dan Kingsbury at https://networkingdynamics.com), was one of the principals in the group. Work on the project stopped by 1990.
@@ -28,6 +28,6 @@ dashboard
 
 endColumns
 
-keyboardNav soql-lang.html uscript.html
+keyboardNav xs-lang.html uscript.html
 
 import ../footer.scroll

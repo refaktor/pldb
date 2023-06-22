@@ -7,7 +7,7 @@ title Lagoona - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="adenine-programming-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="tacpol-programming-language.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sort-merge-generator.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lagoona.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
 
 dashboard
- #2463 <span title="TotalRank: 3043 Jobs: 103 Users: 1953 Facts: 2443 Links: 987">on PLDB</span>
+ #2460 <span title="TotalRank: 3042 Jobs: 103 Users: 1952 Facts: 2445 Links: 987">on PLDB</span>
  26 Years Old
 
 * Lagoona is an experimental programming language developed by Michael Franz, a former student of Niklaus Wirth. It explores component-oriented programming with the use of stand-alone messages and message sets, message forwarding, and by de-emphasizing classes.. Read more on Wikipedia...
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav adenine-programming-language.html tacpol-programming-language.html
+keyboardNav adenine-programming-language.html sort-merge-generator.html
 
 import ../footer.scroll

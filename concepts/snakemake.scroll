@@ -6,8 +6,8 @@ title snakemake - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="gwl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="muon.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="hiveql.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hamler.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/snakemake.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
 
 dashboard
- #1056 <span title="TotalRank: 1619 Jobs: 103 Users: 2830 Facts: 529 Links: 987">on PLDB</span>
+ #1039 <span title="TotalRank: 1607 Jobs: 103 Users: 2829 Facts: 517 Links: 987">on PLDB</span>
  11 Years Old
 
 * A workflow is defined in a ‘Snakefile’ through a domain-specific language that is close to standard Python syntax. It consists of rules that denote how to create output files from input files. The workflow is implied by dependencies between the rules that arise from one rule needing an output file of another as an input file.
 
+- snakemake first developed in <a href="../lists/originCommunities.html#universityOfDuisburgEssen">University of Duisburg-Essen</a>
 - Read more about snakemake on the web: 1.
  https://academic.oup.com/bioinformatics/article/28/19/2520/290322 1.
 
@@ -86,6 +87,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav gwl.html muon.html
+keyboardNav hiveql.html hamler.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Titanium - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="school.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="snql.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="it.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/titanium.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1998 1998
 
 dashboard
- #2983 <span title="TotalRank: 3533 Jobs: 103 Users: 2830 Facts: 2443 Links: 987">on PLDB</span>
+ #2983 <span title="TotalRank: 3535 Jobs: 103 Users: 2829 Facts: 2445 Links: 987">on PLDB</span>
  25 Years Old
 
 * 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav school.html it.html
+keyboardNav snql.html it.html
 
 import ../footer.scroll

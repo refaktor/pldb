@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #1189 <span title="TotalRank: 1735 Jobs: 103 Users: 965 Facts: 1119 Links: 667">on PLDB</span>
+ #1189 <span title="TotalRank: 1735 Jobs: 103 Users: 965 Facts: 1120 Links: 667">on PLDB</span>
  35 Years Old
 
 * A tuple space is an implementation of the  associative memory paradigm for parallel/distributed computing. It provides a repository of tuples that can be accessed concurrently. As an illustrative example, consider that there are a group of processors that produce pieces of data and a group of processors that use the data. Read more on Wikipedia...

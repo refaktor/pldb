@@ -7,7 +7,7 @@ title Tiny C Compiler - Compiler
 
 html
  <a class="trueBaseThemePreviousItem" href="p4.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="csv.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="flow-matic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tinyc-compiler.pldb
 
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav p4.html csv.html
+keyboardNav p4.html flow-matic.html
 
 import ../footer.scroll

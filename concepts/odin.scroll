@@ -6,7 +6,7 @@ title odin - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="apollo-guidance-computer.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="snobol.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="axiom.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/odin.pldb
@@ -127,6 +127,6 @@ treeTable
   Token 
   Example
 
-keyboardNav apollo-guidance-computer.html axiom.html
+keyboardNav snobol.html axiom.html
 
 import ../footer.scroll

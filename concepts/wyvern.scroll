@@ -6,8 +6,8 @@ title Wyvern - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="molfile-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="math-matic.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="gerbil.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="connection-machine.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/wyvern.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/wyvernlang/wyvern
 
 dashboard
- #1020 <span title="TotalRank: 1586 Jobs: 103 Users: 623 Facts: 860 Links: 987">on PLDB</span>
+ #1022 <span title="TotalRank: 1588 Jobs: 103 Users: 623 Facts: 862 Links: 987">on PLDB</span>
  11 Years Old
 
 * Wyvern is a computer programming language created by Jonathan Aldrich and Alex Potanin for the development of web and mobile applications with security and assurance being number one priority. Wyvern supports object capabilities, it is structurally typed, and aims to make secure way of programming easier than insecure - as described in the Wyvern Manifesto. One of the early available features that make Wyvern special is a way to safely use multiple programming languages within the same program so programmers can use the language most appropriate for each function while at the same time increasing the program's security. Read more on Wikipedia...
@@ -61,6 +61,6 @@ treeTable
   Token stdout.print
   Example
 
-keyboardNav molfile-format.html math-matic.html
+keyboardNav gerbil.html connection-machine.html
 
 import ../footer.scroll

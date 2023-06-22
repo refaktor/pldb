@@ -6,8 +6,8 @@ title SoQL - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="soaplang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="spec.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="smdl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tick-c.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/social-networks-query-language.pldb
 
@@ -15,19 +15,25 @@ startColumns 4
 
 <div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=social-networks-query-language" class="material-symbols-outlined">edit</a></div>
 
-* SoQL, aka Social Networks Query language, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 2009.
+* SoQL, aka Social Networks Query language, is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+queryLanguage">query language</a> created in 2009 by Royi Ronen and Oded Shmueli.
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
+ link ../lists/creators.html#royiRonen Royi Ronen
+ link ../lists/creators.html#odedShmueli Oded Shmueli
 
 dashboard
- #3437 <span title="TotalRank: 3920 Jobs: 103 Users: 2830 Facts: 3877 Links: 987">on PLDB</span>
+ #3065 <span title="TotalRank: 3790 Jobs: 103 Users: 2829 Facts: 2700 Links: 987">on PLDB</span>
  14 Years Old
 
 * language for querying and creating data in social networks. The language is designed to meet the growing need of social networks participants to efficiently manage the large, and quickly growing, amounts of data available to them, as well as automate processes of creating new data.
+
+- SoQL first developed in <a href="../lists/originCommunities.html#technionIsraelInstituteOfTechnology">Technion-Israel Institute of Technology</a>
+- Read more about SoQL on the web: 1.
+ https://ieeexplore.ieee.org/document/4812579 1.
 
 <br>
 
 endColumns
 
-keyboardNav soaplang.html spec.html
+keyboardNav smdl.html tick-c.html
 
 import ../footer.scroll

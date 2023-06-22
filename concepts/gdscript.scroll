@@ -7,7 +7,7 @@ title GDScript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="visual-prolog.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="arexx.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="unified-parallel-c.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gdscript.pldb
 
@@ -183,6 +183,6 @@ treeTable
   Token 
   Example
 
-keyboardNav visual-prolog.html arexx.html
+keyboardNav visual-prolog.html unified-parallel-c.html
 
 import ../footer.scroll

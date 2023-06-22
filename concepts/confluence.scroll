@@ -7,7 +7,7 @@ title Confluence - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="fml-lang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smpl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="xbrl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/confluence.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #1011 <span title="TotalRank: 1578 Jobs: 103 Users: 488 Facts: 1876 Links: 987">on PLDB</span>
+ #1012 <span title="TotalRank: 1578 Jobs: 103 Users: 488 Facts: 1878 Links: 987">on PLDB</span>
  19 Years Old
 
 * Try now: <a href="https://riju.codes/confluence">Riju</a>
@@ -39,6 +39,6 @@ codeWithHeader Example from <a href='https://riju.codes/confluence'>Riju</a>:
 
 endColumns
 
-keyboardNav fml-lang.html smpl.html
+keyboardNav fml-lang.html xbrl.html
 
 import ../footer.scroll

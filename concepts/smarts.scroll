@@ -6,8 +6,8 @@ title SMILES arbitrary target specification - Text data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="iscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="atx.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="zpl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="boa.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smarts.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#davidWeininger David Weininger
 
 dashboard
- #2700 <span title="TotalRank: 3355 Jobs: 103 Users: 2265 Facts: 2443 Links: 987">on PLDB</span>
+ #2633 <span title="TotalRank: 3259 Jobs: 103 Users: 2263 Facts: 2169 Links: 987">on PLDB</span>
  36 Years Old
 
 * SMILES arbitrary target specification (SMARTS) is a language for specifying substructural patterns in molecules. The SMARTS line notation is expressive and allows extremely precise and transparent substructural specification and atom typing. SMARTS is related to the SMILES line notation that is used to encode molecular structures and like SMILES was originally developed by David Weininger and colleagues at Daylight Chemical Information Systems. Read more on Wikipedia...
@@ -28,6 +28,7 @@ dashboard
 
 - SMILES arbitrary target specification Wikipedia page
  https://en.wikipedia.org/wiki/SMILES_arbitrary_target_specification
+- SMILES arbitrary target specification first developed in <a href="../lists/originCommunities.html#daylightChemicalInformationSystemsInc">Daylight Chemical Information Systems, Inc</a>
 - Read more about SMILES arbitrary target specification on the web: 1.
  https://pubs.acs.org/doi/10.1021/ci00057a005 1.
 
@@ -38,6 +39,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav iscript.html atx.html
+keyboardNav zpl.html boa.html
 
 import ../footer.scroll

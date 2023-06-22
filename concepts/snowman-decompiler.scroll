@@ -6,8 +6,8 @@ title Snowman - Decompiler
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="fibonacci.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="freemarker.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ezhil.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fibonacci.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/snowman-decompiler.pldb
 
@@ -22,12 +22,13 @@ codeWithHeader Source code:
  git clone https://github.com/yegord/snowman
 
 dashboard
- #1025 on PLDB
+ #1024 on PLDB
  8 Years Old
 
 * Snowman decompiler
 
 - Snowman is developed on <a href="https://github.com/yegord/snowman">GitHub</a> and has 2,183 stars
+- Snowman first developed in <a href="../lists/originCommunities.html#smartDec">SmartDec</a>
 
 <br>
 
@@ -37,6 +38,6 @@ codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blo
 
 endColumns
 
-keyboardNav fibonacci.html freemarker.html
+keyboardNav ezhil.html fibonacci.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title ALGOL 60 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="api-blueprint.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="snobol.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="muf.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/algol-60.pldb
 
@@ -108,6 +108,6 @@ treeTable
   Token 
   Example
 
-keyboardNav api-blueprint.html snobol.html
+keyboardNav api-blueprint.html muf.html
 
 import ../footer.scroll

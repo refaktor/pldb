@@ -7,7 +7,7 @@ title RDoc - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="foxpro.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gnuplot.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pegjs.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rdoc.pldb
 
@@ -172,6 +172,6 @@ codeWithHeader Example from <a href='https://github.com/joshaven/RDoc.tmbundle'>
 
 endColumns
 
-keyboardNav foxpro.html gnuplot.html
+keyboardNav foxpro.html pegjs.html
 
 import ../footer.scroll

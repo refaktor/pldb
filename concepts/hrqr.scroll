@@ -6,7 +6,7 @@ title hrqr - Bar code format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="brain-flak.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="chill.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="dolittle.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hrqr.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/hrqr/hrqr.github.io
 
 dashboard
- #1933 <span title="TotalRank: 2465 Jobs: 103 Users: 1420 Facts: 1375 Links: 987">on PLDB</span>
+ #1935 <span title="TotalRank: 2466 Jobs: 103 Users: 1420 Facts: 1376 Links: 987">on PLDB</span>
  8 Years Old
 
 * Human Readable Quick Response
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav brain-flak.html dolittle.html
+keyboardNav chill.html dolittle.html
 
 import ../footer.scroll

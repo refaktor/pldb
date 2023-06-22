@@ -7,7 +7,7 @@ title Free Pascal - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="quickbasic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="linq.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="setl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/free-pascal.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
 
 dashboard
- #393 <span title="TotalRank: 870 Jobs: 103 Users: 675 Facts: 1876 Links: 92">on PLDB</span>
+ #392 <span title="TotalRank: 870 Jobs: 103 Users: 675 Facts: 1878 Links: 92">on PLDB</span>
  26 Years Old
 
 * Free Pascal Compiler (FPC) is a compiler for the closely related programming language dialects, Pascal and Object Pascal. It is free software released under the GNU General Public License, with exception clauses that allow for static linking against its runtime libraries and packages for any purpose in combination with any other software license. It supports its own Object Pascal dialect as well as the dialects of several other Pascal family compilers to a certain extent, including those of Turbo Pascal, Delphi, and some historical Macintosh compilers. Read more on Wikipedia...
@@ -44,6 +44,6 @@ treeTable
   Token 
   Example
 
-keyboardNav quickbasic.html linq.html
+keyboardNav quickbasic.html setl.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title jinx - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="euclid.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="krc.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="edinburgh-imp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jinx.pldb
 
@@ -44,6 +44,6 @@ pipeTable
  title|titleLink|date|score|comments
  Jinx: Simple Embeddable Scripting Language|https://news.ycombinator.com/item?id=18818846|01/03/2019|2|2
 
-keyboardNav euclid.html krc.html
+keyboardNav euclid.html edinburgh-imp.html
 
 import ../footer.scroll

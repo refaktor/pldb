@@ -6,8 +6,8 @@ title CORAL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="april.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="plam.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="graphql-sdl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="april.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/coral.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1964 1964
 
 dashboard
- #1335 <span title="TotalRank: 1874 Jobs: 103 Users: 1445 Facts: 1497 Links: 326">on PLDB</span>
+ #1334 <span title="TotalRank: 1873 Jobs: 103 Users: 1444 Facts: 1497 Links: 326">on PLDB</span>
  59 Years Old
 
 * CORAL (Computer On-line Real-time Applications Language) is a programming language originally developed in 1964 at the Royal Radar Establishment (RRE), Malvern, UK, as a subset of JOVIAL. Coral 66 was subsequently developed by I. F. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav april.html plam.html
+keyboardNav graphql-sdl.html april.html
 
 import ../footer.scroll
