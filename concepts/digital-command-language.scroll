@@ -7,7 +7,7 @@ title DIGITAL Command Language - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="geo-ml.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="vyper.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="caffeine.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/digital-command-language.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
 
 dashboard
- #705 <span title="TotalRank: 1270 Jobs: 103 Users: 1104 Facts: 675 Links: 492">on PLDB</span>
+ #703 <span title="TotalRank: 1268 Jobs: 103 Users: 1103 Facts: 674 Links: 491">on PLDB</span>
  26 Years Old
  4k <span title="DIGITAL Command Language repos on GitHub.">Repos</span>
 
@@ -62,6 +62,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/DIGITAL_Comma
 
 endColumns
 
-keyboardNav geo-ml.html vyper.html
+keyboardNav geo-ml.html caffeine.html
 
 import ../footer.scroll

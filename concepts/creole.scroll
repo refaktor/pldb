@@ -7,7 +7,7 @@ title Creole - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="kixtart.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="dojo.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jade.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/creole.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2007 2007
 
 dashboard
- #608 <span title="TotalRank: 1178 Jobs: 103 Users: 752 Facts: 323 Links: 987">on PLDB</span>
+ #607 <span title="TotalRank: 1177 Jobs: 103 Users: 751 Facts: 323 Links: 986">on PLDB</span>
  16 Years Old
  0 <span title="Creole repos on GitHub.">Repos</span>
 
@@ -102,6 +102,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Creole_(marku
 
 endColumns
 
-keyboardNav kixtart.html dojo.html
+keyboardNav kixtart.html jade.html
 
 import ../footer.scroll

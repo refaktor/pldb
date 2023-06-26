@@ -6,8 +6,8 @@ title Newsqueak - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="z-expressions.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hodor.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="hodor.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="coco.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/newsqueak.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#robPike Rob Pike
 
 dashboard
- #1230 <span title="TotalRank: 1768 Jobs: 103 Users: 1393 Facts: 2058 Links: 272">on PLDB</span>
+ #1230 <span title="TotalRank: 1767 Jobs: 103 Users: 1392 Facts: 2057 Links: 272">on PLDB</span>
  33 Years Old
 
 * Newsqueak is a concurrent programming language for writing application software with interactive graphical user interfaces. Newsqueak's syntax and semantics are influenced by the C language, but its approach to concurrency was inspired by C. A. Read more on Wikipedia...
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav z-expressions.html hodor.html
+keyboardNav hodor.html coco.html
 
 import ../footer.scroll

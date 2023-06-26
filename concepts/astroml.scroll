@@ -6,8 +6,8 @@ title astroml - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ark-lang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="eex.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="gwl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cypher.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/astroml.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/astroML/astroML
 
 dashboard
- #1205 on PLDB
+ #1208 on PLDB
  11 Years Old
 
 * Machine learning, statistics, and data mining for astronomy and astrophysics
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav ark-lang.html eex.html
+keyboardNav gwl.html cypher.html
 
 import ../footer.scroll

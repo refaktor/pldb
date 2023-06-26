@@ -7,7 +7,7 @@ title Easybuild - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="bmp-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cartocss.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="rascal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/easybuild.pldb
 
@@ -62,6 +62,6 @@ codeWithHeader Example from <a href='https://github.com/MagicStack/MagicPython'>
 
 endColumns
 
-keyboardNav bmp-format.html cartocss.html
+keyboardNav bmp-format.html rascal.html
 
 import ../footer.scroll

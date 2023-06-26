@@ -7,7 +7,7 @@ title Jule - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ssb.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="aith.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="gams.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jule.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/julelang/jule
 
 dashboard
- #550 <span title="TotalRank: 1111 Jobs: 103 Users: 1489 Facts: 21 Links: 987">on PLDB</span>
+ #549 <span title="TotalRank: 1110 Jobs: 103 Users: 1488 Facts: 21 Links: 986">on PLDB</span>
  2 Years Old
 
 * Jule is the simple, efficient, statically typed and compiled system programming language.
@@ -791,6 +791,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ssb.html aith.html
+keyboardNav ssb.html gams.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Jekyll - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="blitzplus.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pizza.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="svelte.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jekyll.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/jekyll/jekyll
 
 dashboard
- #646 on PLDB
+ #648 on PLDB
  15 Years Old
 
 * Transforms your plain text into static websites and blogs.
@@ -41,6 +41,6 @@ dashboard
 
 endColumns
 
-keyboardNav blitzplus.html pizza.html
+keyboardNav blitzplus.html svelte.html
 
 import ../footer.scroll

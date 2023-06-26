@@ -6,8 +6,8 @@ title chatterbot - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="netlinx.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="jai.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="jai.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/chatterbot.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/gunthercox/ChatterBot
 
 dashboard
- #710 on PLDB
+ #711 on PLDB
  9 Years Old
 
 * ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav netlinx.html jai.html
+keyboardNav jai.html fml.html
 
 import ../footer.scroll

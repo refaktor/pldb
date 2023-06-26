@@ -7,7 +7,7 @@ title Boron - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ubercode.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pop-2.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="javafx-script.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/boron.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#karlRobillard Karl Robillard
 
 dashboard
- #1293 <span title="TotalRank: 1824 Jobs: 103 Users: 2434 Facts: 734 Links: 987">on PLDB</span>
+ #1292 <span title="TotalRank: 1822 Jobs: 103 Users: 2433 Facts: 733 Links: 986">on PLDB</span>
  14 Years Old
 
 * Boron is a scripting language similar to REBOL. The interpreter is a C library which may be copied under the terms of the LGPLv3.
@@ -130,6 +130,6 @@ treeTable
   Example
    #!/usr/bin/env boron
 
-keyboardNav ubercode.html pop-2.html
+keyboardNav ubercode.html javafx-script.html
 
 import ../footer.scroll

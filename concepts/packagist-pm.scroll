@@ -7,7 +7,7 @@ title packagist-pm - Package manager
 
 html
  <a class="trueBaseThemePreviousItem" href="web-idl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sieve.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="hyperscript-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/packagist-pm.pldb
 
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav web-idl.html sieve.html
+keyboardNav web-idl.html hyperscript-lang.html
 
 import ../footer.scroll

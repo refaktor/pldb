@@ -7,7 +7,7 @@ title Laravel - Framework
 
 html
  <a class="trueBaseThemePreviousItem" href="colascript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="xlwings-editor.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="mvel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/laravel-framework.pldb
 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav colascript.html xlwings-editor.html
+keyboardNav colascript.html mvel.html
 
 import ../footer.scroll

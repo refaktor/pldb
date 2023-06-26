@@ -7,7 +7,7 @@ title D3.js - Library
 
 html
  <a class="trueBaseThemePreviousItem" href="ace.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="clojurescript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pl-i.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/d3.pldb
 
@@ -67,6 +67,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/D3.js'>Wikipe
 
 endColumns
 
-keyboardNav ace.html clojurescript.html
+keyboardNav ace.html pl-i.html
 
 import ../footer.scroll

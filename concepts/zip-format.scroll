@@ -6,8 +6,8 @@ title Zip file format - Binary data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="reia.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="igor-pro.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="igor-pro.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="unlambda.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zip-format.pldb
 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav reia.html igor-pro.html
+keyboardNav igor-pro.html unlambda.html
 
 import ../footer.scroll

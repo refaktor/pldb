@@ -7,7 +7,7 @@ title Hy - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="autoit.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rfc.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="xaml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hy.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/hylang/hy
 
 dashboard
- #190 <span title="TotalRank: 518 Jobs: 103 Users: 194 Facts: 221 Links: 667">on PLDB</span>
+ #190 <span title="TotalRank: 518 Jobs: 103 Users: 194 Facts: 221 Links: 666">on PLDB</span>
  10 Years Old
  398 <span title="Hy repos on GitHub.">Repos</span>
 
@@ -155,6 +155,6 @@ treeTable
   Token 
   Example
 
-keyboardNav autoit.html rfc.html
+keyboardNav autoit.html xaml.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title XAML - Xml format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="rfc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lean.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="hy.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="rfc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xaml.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #192 <span title="TotalRank: 520 Jobs: 103 Users: 27 Facts: 531 Links: 390">on PLDB</span>
+ #191 <span title="TotalRank: 519 Jobs: 103 Users: 27 Facts: 530 Links: 389">on PLDB</span>
  15 Years Old
 
 * Extensible Application Markup Language (XAML  (listen)) is a declarative XML-based language developed by Microsoft that is used for initializing structured values and objects. It is available under Microsoft's Open Specification Promise. The acronym originally stood for Extensible Avalon Markup Language, Avalon being the code-name for Windows Presentation Foundation (WPF).XAML is used extensively in .NET Framework 3.0 & .NET Framework 4.0 technologies, particularly Windows Presentation Foundation (WPF), Silverlight, Windows Workflow Foundation (WF), Windows Runtime XAML Framework and Windows Store apps. Read more on Wikipedia...
@@ -52,6 +52,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Extensible_Ap
 
 endColumns
 
-keyboardNav rfc.html lean.html
+keyboardNav hy.html rfc.html
 
 import ../footer.scroll

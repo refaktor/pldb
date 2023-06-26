@@ -6,7 +6,7 @@ title UCSD Pascal - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="clay.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="openscad.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="applesoft-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ucsd-pascal.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1978 1978
 
 dashboard
- #667 <span title="TotalRank: 1245 Jobs: 103 Users: 965 Facts: 2058 Links: 177">on PLDB</span>
+ #669 <span title="TotalRank: 1244 Jobs: 103 Users: 964 Facts: 2057 Links: 177">on PLDB</span>
  45 Years Old
 
 * UCSD Pascal is a Pascal programming language system that runs on the UCSD p-System, a portable, highly machine-independent operating system. UCSD Pascal was first released in 1978. It was developed at the University of California, San Diego (UCSD).. Read more on Wikipedia...
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav clay.html applesoft-basic.html
+keyboardNav openscad.html applesoft-basic.html
 
 import ../footer.scroll

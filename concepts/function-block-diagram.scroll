@@ -6,7 +6,7 @@ title Function block diagram - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sibilant.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="hp-time-shared-basic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="gwion.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/function-block-diagram.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2001 2001
 
 dashboard
- #1300 <span title="TotalRank: 1831 Jobs: 103 Users: 741 Facts: 2800 Links: 987">on PLDB</span>
+ #1299 <span title="TotalRank: 1829 Jobs: 103 Users: 740 Facts: 2799 Links: 986">on PLDB</span>
  22 Years Old
 
 * The Function Block Diagram  (FBD) is a graphical language for programmable logic controller design, that can describe the function between input variables and output variables. A function is described as a set of elementary blocks. Input and output variables are connected to blocks by connection lines. Read more on Wikipedia...
@@ -32,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav sibilant.html gwion.html
+keyboardNav hp-time-shared-basic.html gwion.html
 
 import ../footer.scroll

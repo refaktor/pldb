@@ -6,8 +6,8 @@ title Less - Stylesheet language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="comtran.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ejs.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="oxygene.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="comtran.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/less.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#alexisSellier Alexis Sellier
 
 dashboard
- #355 <span title="TotalRank: 816 Jobs: 103 Users: 501 Facts: 221 Links: 492">on PLDB</span>
+ #354 <span title="TotalRank: 815 Jobs: 103 Users: 501 Facts: 221 Links: 491">on PLDB</span>
  14 Years Old
  12k <span title="Less repos on GitHub.">Repos</span>
 
@@ -127,6 +127,6 @@ treeTable
   Example
    // A comment
 
-keyboardNav comtran.html ejs.html
+keyboardNav oxygene.html comtran.html
 
 import ../footer.scroll

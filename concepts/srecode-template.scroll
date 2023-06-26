@@ -7,7 +7,7 @@ title SRecode Template - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="fibonacci.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="kona.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="nxc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/srecode-template.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
 
 dashboard
- #914 <span title="TotalRank: 1485 Jobs: 103 Users: 1149 Facts: 395 Links: 987">on PLDB</span>
+ #913 <span title="TotalRank: 1484 Jobs: 103 Users: 1148 Facts: 395 Links: 986">on PLDB</span>
  23 Years Old
  705k <span title="SRecode Template repos on GitHub.">Repos</span>
 
@@ -108,6 +108,6 @@ treeTable
   Token 
   Example
 
-keyboardNav fibonacci.html kona.html
+keyboardNav fibonacci.html nxc.html
 
 import ../footer.scroll

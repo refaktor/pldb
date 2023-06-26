@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#jamesClark James Clark
 
 dashboard
- #2269 <span title="TotalRank: 2756 Jobs: 103 Users: 2434 Facts: 1666 Links: 987">on PLDB</span>
+ #2268 <span title="TotalRank: 2754 Jobs: 103 Users: 2433 Facts: 1665 Links: 986">on PLDB</span>
  22 Years Old
 
 * TREX is a new language for validating XML documents. A TREX pattern specifies a pattern for the structure and content of an XML document. A TREX pattern thus identifies a class of XML documents consisting of those documents that match the pattern. A TREX pattern is itself an XML document.

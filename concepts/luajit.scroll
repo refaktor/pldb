@@ -7,7 +7,7 @@ title LuaJIT - Compiler
 
 html
  <a class="trueBaseThemePreviousItem" href="tbox-lib.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="vyper.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="skip.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/luajit.pldb
 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav tbox-lib.html vyper.html
+keyboardNav tbox-lib.html skip.html
 
 import ../footer.scroll

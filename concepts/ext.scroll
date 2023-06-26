@@ -7,7 +7,7 @@ title Extended file system - Filesystem
 
 html
  <a class="trueBaseThemePreviousItem" href="connection-machine.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="dale.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="hamler.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ext.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav connection-machine.html dale.html
+keyboardNav connection-machine.html hamler.html
 
 import ../footer.scroll

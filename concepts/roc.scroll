@@ -6,7 +6,7 @@ title Roc - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ipf.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="qr-code.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="robomind.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/roc.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/roc-lang/roc
 
 dashboard
- #581 <span title="TotalRank: 1147 Jobs: 103 Users: 377 Facts: 1780 Links: 667">on PLDB</span>
+ #580 <span title="TotalRank: 1146 Jobs: 103 Users: 377 Facts: 1779 Links: 666">on PLDB</span>
  3 Years Old
 
 * Roc is a language for making delightful software.
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav ipf.html robomind.html
+keyboardNav qr-code.html robomind.html
 
 import ../footer.scroll

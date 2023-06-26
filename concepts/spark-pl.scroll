@@ -6,8 +6,8 @@ title Spark - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lyric.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="zpl.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="zpl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="smarts.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spark-pl.pldb
 
@@ -19,15 +19,17 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #2634 <span title="TotalRank: 3234 Jobs: 103 Users: 2144 Facts: 2540 Links: 987">on PLDB</span>
+ #2634 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 2172 Links: 986">on PLDB</span>
  35 Years Old
 
 * 
 
 - Spark Wikipedia page
  https://en.wikipedia.org/wiki/SPARK_(programming_language)
+- Explore Spark snippets on <a href="http://www.rosettacode.org/wiki/Category:SPARK">Rosetta Code</a>
 - Spark on HOPL
  https://hopl.info/showlanguage.prx?exp=2518
+- Spark appears in the <a href="https://www.tiobe.com/tiobe-index/">TIOBE Index</a>
 
 <br>
 
@@ -40,6 +42,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav lyric.html zpl.html
+keyboardNav zpl.html smarts.html
 
 import ../footer.scroll

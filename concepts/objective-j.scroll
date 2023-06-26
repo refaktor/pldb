@@ -6,8 +6,8 @@ title Objective-J - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="coconut.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="wisp.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="autohotkey.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="coconut.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/objective-j.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #323 <span title="TotalRank: 753 Jobs: 103 Users: 870 Facts: 158 Links: 492">on PLDB</span>
+ #322 <span title="TotalRank: 752 Jobs: 103 Users: 869 Facts: 158 Links: 491">on PLDB</span>
  15 Years Old
  1k <span title="Objective-J repos on GitHub.">Repos</span>
 
@@ -167,6 +167,6 @@ treeTable
   Token 
   Example
 
-keyboardNav coconut.html wisp.html
+keyboardNav autohotkey.html coconut.html
 
 import ../footer.scroll

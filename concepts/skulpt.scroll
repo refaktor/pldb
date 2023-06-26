@@ -6,7 +6,7 @@ title skulpt - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lisaac.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="arkscript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hasklig.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/skulpt.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/skulpt/skulpt
 
 dashboard
- #710 <span title="TotalRank: 1273 Jobs: 103 Users: 183 Facts: 1199 Links: 987">on PLDB</span>
+ #709 <span title="TotalRank: 1272 Jobs: 103 Users: 183 Facts: 1198 Links: 986">on PLDB</span>
  14 Years Old
 
 * Skulpt is an entirely in-browser implementation of Python.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav lisaac.html hasklig.html
+keyboardNav arkscript.html hasklig.html
 
 import ../footer.scroll

@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/SerenityOS/jakt
 
 dashboard
- #537 <span title="TotalRank: 1087 Jobs: 103 Users: 345 Facts: 639 Links: 987">on PLDB</span>
+ #536 <span title="TotalRank: 1086 Jobs: 103 Users: 345 Facts: 638 Links: 986">on PLDB</span>
  1 Years Old
 
 * Jakt is a memory-safe systems programming language. It currently transpiles to C++.

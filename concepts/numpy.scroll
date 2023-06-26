@@ -6,7 +6,7 @@ title NumPy - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="netlogo.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="self.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="metal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/numpy.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#travisOliphant Travis Oliphant
 
 dashboard
- #291 on PLDB
+ #292 on PLDB
  28 Years Old
 
 * NumPy (pronounced  (NUM-py) or sometimes  (NUM-pee)) is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. The ancestor of NumPy, Numeric, was originally created by Jim Hugunin with contributions from several other developers. In 2005, Travis Oliphant created NumPy by incorporating features of the competing Numarray into Numeric, with extensive modifications. Read more on Wikipedia...
@@ -106,6 +106,6 @@ treeTable
   Token 
   Example
 
-keyboardNav netlogo.html metal.html
+keyboardNav self.html metal.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Literate Agda - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="renderscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="loglan.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="activity-pub.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/literate-agda.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
 
 dashboard
- #774 <span title="TotalRank: 1341 Jobs: 103 Users: 2831 Facts: 251 Links: 987">on PLDB</span>
+ #773 <span title="TotalRank: 1340 Jobs: 103 Users: 2830 Facts: 251 Links: 986">on PLDB</span>
  14 Years Old
  2k <span title="Literate Agda repos on GitHub.">Repos</span>
 
@@ -144,6 +144,6 @@ treeTable
   Token 
   Example
 
-keyboardNav renderscript.html loglan.html
+keyboardNav renderscript.html activity-pub.html
 
 import ../footer.scroll

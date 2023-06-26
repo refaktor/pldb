@@ -7,7 +7,7 @@ title Nit - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="apex.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="bucklescript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="synchronized-multimedia-integration-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nit.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/nitlang/nit
 
 dashboard
- #658 <span title="TotalRank: 1237 Jobs: 103 Users: 690 Facts: 444 Links: 987">on PLDB</span>
+ #657 <span title="TotalRank: 1236 Jobs: 103 Users: 689 Facts: 444 Links: 986">on PLDB</span>
  15 Years Old
  29 <span title="Nit repos on GitHub.">Repos</span>
 
@@ -106,6 +106,6 @@ treeTable
   Token print
   Example
 
-keyboardNav apex.html bucklescript.html
+keyboardNav apex.html synchronized-multimedia-integration-language.html
 
 import ../footer.scroll

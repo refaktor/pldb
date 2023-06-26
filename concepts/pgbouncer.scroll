@@ -6,8 +6,8 @@ title PgBouncer - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="scoop-pm.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cpl.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="modula.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lookml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pgbouncer.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/pgbouncer/pgbouncer
 
 dashboard
- #742 on PLDB
+ #745 on PLDB
  16 Years Old
 
 * PgBouncer is an open-source, lightweight, single-binary connection pooler for PostgreSQL. It can pool connections to one or more databases (on possibly different servers) and serve clients over TCP and Unix domain socket.
@@ -42,6 +42,6 @@ dashboard
 
 endColumns
 
-keyboardNav scoop-pm.html cpl.html
+keyboardNav modula.html lookml.html
 
 import ../footer.scroll

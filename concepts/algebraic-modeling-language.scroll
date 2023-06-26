@@ -6,8 +6,8 @@ title Algebraic modeling language - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="httplang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lil-pl.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="lil-pl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hacspec.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/algebraic-modeling-language.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1980 1980
 
 dashboard
- #1270 <span title="TotalRank: 1805 Jobs: 103 Users: 1376 Facts: 2173 Links: 326">on PLDB</span>
+ #1270 <span title="TotalRank: 1804 Jobs: 103 Users: 1375 Facts: 2172 Links: 326">on PLDB</span>
  43 Years Old
 
 * Algebraic modeling languages (AML) are high-level computer programming languages for describing and solving high complexity problems for large scale mathematical computation (i.e. large scale optimization type problems). One particular advantage of some algebraic modeling languages like AIMMS, AMPL, GAMS,MathProg, Mosel,  and OPL is the similarity of their syntax to the mathematical notation of optimization problems. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav httplang.html lil-pl.html
+keyboardNav lil-pl.html hacspec.html
 
 import ../footer.scroll

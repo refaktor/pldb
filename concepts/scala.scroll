@@ -6,8 +6,8 @@ title Scala - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ada.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rust.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="swift.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ada.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/scala.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#martinOdersky Martin Odersky
 
 dashboard
- #23 <span title="TotalRank: 74 Jobs: 30 Users: 31 Facts: 13 Links: 31">on PLDB</span>
+ #22 <span title="TotalRank: 72 Jobs: 30 Users: 31 Facts: 13 Links: 29">on PLDB</span>
  19 Years Old
  219k <span title="Scala repos on GitHub.">Repos</span>
 
@@ -301,6 +301,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ada.html rust.html
+keyboardNav swift.html ada.html
 
 import ../footer.scroll

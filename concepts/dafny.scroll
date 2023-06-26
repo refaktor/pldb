@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/Microsoft/dafny
 
 dashboard
- #275 <span title="TotalRank: 665 Jobs: 103 Users: 330 Facts: 232 Links: 987">on PLDB</span>
+ #275 <span title="TotalRank: 665 Jobs: 103 Users: 330 Facts: 232 Links: 986">on PLDB</span>
  14 Years Old
  157 <span title="Dafny repos on GitHub.">Repos</span>
 
@@ -46,7 +46,7 @@ dashboard
 - Dafny Ubuntu package
  https://packages.ubuntu.com/jammy/dafny
 - Dafny appears in the <a href="https://github.com/mame/quine-relay">Quine Relay</a> project
-- See also: (5 related languages)<a href="csharp.html">C#</a>, <a href="spec-sharp.html">Spec Sharp</a>, <a href="spark.html">SPARK</a>, <a href="idris.html">Idris</a>, <a href="agda.html">Agda</a>
+- See also: (5 related languages)<a href="csharp.html">C#</a>, <a href="spec-sharp.html">Spec Sharp</a>, <a href="spark.html">Apache Spark</a>, <a href="idris.html">Idris</a>, <a href="agda.html">Agda</a>
 
 <br>
 

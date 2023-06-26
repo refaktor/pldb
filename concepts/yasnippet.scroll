@@ -7,7 +7,7 @@ title YASnippet - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="seed7.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="markwhen.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="twig.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/yasnippet.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/joaotavora/yasnippet
 
 dashboard
- #350 <span title="TotalRank: 812 Jobs: 103 Users: 250 Facts: 459 Links: 987">on PLDB</span>
+ #350 <span title="TotalRank: 812 Jobs: 103 Users: 250 Facts: 459 Links: 986">on PLDB</span>
  15 Years Old
  403 <span title="YASnippet repos on GitHub.">Repos</span>
 
@@ -90,6 +90,6 @@ treeTable
   Token 
   Example
 
-keyboardNav seed7.html markwhen.html
+keyboardNav seed7.html twig.html
 
 import ../footer.scroll

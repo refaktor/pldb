@@ -7,7 +7,7 @@ title Modelica - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="bicep.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ecl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="general-algebraic-modeling-system.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/modelica.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
 
 dashboard
- #316 <span title="TotalRank: 736 Jobs: 103 Users: 649 Facts: 307 Links: 326">on PLDB</span>
+ #316 <span title="TotalRank: 736 Jobs: 103 Users: 648 Facts: 307 Links: 326">on PLDB</span>
  26 Years Old
  1k <span title="Modelica repos on GitHub.">Repos</span>
 
@@ -114,6 +114,6 @@ treeTable
   Token 
   Example
 
-keyboardNav bicep.html ecl.html
+keyboardNav bicep.html general-algebraic-modeling-system.html
 
 import ../footer.scroll

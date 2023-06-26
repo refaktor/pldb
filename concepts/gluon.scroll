@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/gluon-lang/gluon
 
 dashboard
- #813 <span title="TotalRank: 1373 Jobs: 103 Users: 283 Facts: 1498 Links: 987">on PLDB</span>
+ #812 <span title="TotalRank: 1372 Jobs: 103 Users: 283 Facts: 1497 Links: 986">on PLDB</span>
  9 Years Old
 
 * A static, type inferred and embeddable language written in Rust.

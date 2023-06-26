@@ -6,8 +6,8 @@ title Ext2 - Filesystem
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="md5-hash-function.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="joy.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="joy.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="4g-standard.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ext2.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1993 1993
 
 dashboard
- #819 on PLDB
+ #820 on PLDB
  30 Years Old
 
 * The ext2 or second extended file system is a file system for the Linux kernel.  It was initially designed by Rémy Card as a replacement for the extended file system (ext).  Having been designed according to the same principles as the Berkeley Fast File System from BSD, it was the first commercial-grade filesystem for Linux.The canonical implementation of ext2 is the "ext2fs" filesystem driver in the Linux kernel. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav md5-hash-function.html joy.html
+keyboardNav joy.html 4g-standard.html
 
 import ../footer.scroll

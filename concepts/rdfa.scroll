@@ -6,8 +6,8 @@ title RDFa - Xml format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="diff.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nsis.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="fennel.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="diff.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rdfa.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #412 <span title="TotalRank: 913 Jobs: 103 Users: 143 Facts: 1377 Links: 667">on PLDB</span>
+ #410 <span title="TotalRank: 912 Jobs: 103 Users: 143 Facts: 1376 Links: 666">on PLDB</span>
  19 Years Old
 
 * RDFa (or Resource Description Framework in Attributes) is  a W3C Recommendation that adds a set of attribute-level extensions to HTML, XHTML and various XML-based document types for embedding rich metadata within Web documents. The RDF data-model mapping enables its use for embedding RDF subject-predicate-object expressions within XHTML documents. It also enables the extraction of RDF model triples by compliant user agents. Read more on Wikipedia...
@@ -45,6 +45,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav diff.html nsis.html
+keyboardNav fennel.html diff.html
 
 import ../footer.scroll

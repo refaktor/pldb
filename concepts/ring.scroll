@@ -6,7 +6,7 @@ title Ring - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="hlsl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="java-properties.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hjson.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ring.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#mahmoudFayed Mahmoud Fayed
 
 dashboard
- #471 <span title="TotalRank: 997 Jobs: 103 Users: 817 Facts: 227 Links: 667">on PLDB</span>
+ #470 <span title="TotalRank: 996 Jobs: 103 Users: 816 Facts: 227 Links: 666">on PLDB</span>
  7 Years Old
  195 <span title="Ring repos on GitHub.">Repos</span>
 
@@ -125,6 +125,6 @@ treeTable
   Token 
   Example
 
-keyboardNav hlsl.html hjson.html
+keyboardNav java-properties.html hjson.html
 
 import ../footer.scroll

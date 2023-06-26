@@ -6,8 +6,8 @@ title Embedded Crystal - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="json-ld.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lex.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ec.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="dhall.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ecr.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/crystal-lang/crystal/
 
 dashboard
- #291 <span title="TotalRank: 699 Jobs: 103 Users: 79 Facts: 517 Links: 987">on PLDB</span>
+ #288 <span title="TotalRank: 698 Jobs: 103 Users: 79 Facts: 516 Links: 986">on PLDB</span>
  7 Years Old
  287 <span title="Embedded Crystal repos on GitHub.">Repos</span>
 
@@ -83,6 +83,6 @@ treeTable
   Token 
   Example
 
-keyboardNav json-ld.html lex.html
+keyboardNav ec.html dhall.html
 
 import ../footer.scroll

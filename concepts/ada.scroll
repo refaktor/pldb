@@ -6,8 +6,8 @@ title Ada - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="swift.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="scala.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="scala.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="rust.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ada.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#jeanIchbiah Jean Ichbiah
 
 dashboard
- #22 <span title="TotalRank: 73 Jobs: 38 Users: 108 Facts: 12 Links: 23">on PLDB</span>
+ #23 <span title="TotalRank: 73 Jobs: 38 Users: 108 Facts: 12 Links: 23">on PLDB</span>
  43 Years Old
  5k <span title="Ada repos on GitHub.">Repos</span>
 
@@ -56,7 +56,7 @@ dashboard
 - Ada appears in the <a href="https://github.com/mame/quine-relay">Quine Relay</a> project
 - Indeed.com has 2,184 matches for <a href="https://www.indeed.com/jobs?q=ada developer">"ada developer"</a>.
 - <a href="http://www.adaic.org">adaic.org</a> was registered in 1998
-- See also: (22 related languages)<a href="spark.html">SPARK</a>, <a href="ravenscar-profile.html">Ravenscar profile</a>, <a href="algol-68.html">ALGOL 68</a>, <a href="pascal.html">Pascal</a>, <a href="smalltalk.html">Smalltalk</a>, <a href="java.html">Java</a>, <a href="eiffel.html">Eiffel</a>, <a href="chapel.html">Chapel</a>, <a href="nim.html">Nim</a>, <a href="pl-sql.html">PL/SQL</a>, <a href="plpgsql.html">PL/pgSQL</a>, <a href="ruby.html">Ruby</a>, <a href="rust.html">Rust</a>, <a href="seed7.html">Seed7</a>, <a href="sql-psm.html">SQL/PSM</a>, <a href="vhdl.html">VHDL</a>, <a href="unicode.html">Unicode</a>, <a href="lisp.html">Lisp</a>, <a href="setl.html">SETL</a>, <a href="algol.html">Algol</a>, <a href="algol-60.html">ALGOL 60</a>, <a href="apse.html">APSE</a>
+- See also: (22 related languages)<a href="spark.html">Apache Spark</a>, <a href="ravenscar-profile.html">Ravenscar profile</a>, <a href="algol-68.html">ALGOL 68</a>, <a href="pascal.html">Pascal</a>, <a href="smalltalk.html">Smalltalk</a>, <a href="java.html">Java</a>, <a href="eiffel.html">Eiffel</a>, <a href="chapel.html">Chapel</a>, <a href="nim.html">Nim</a>, <a href="pl-sql.html">PL/SQL</a>, <a href="plpgsql.html">PL/pgSQL</a>, <a href="ruby.html">Ruby</a>, <a href="rust.html">Rust</a>, <a href="seed7.html">Seed7</a>, <a href="sql-psm.html">SQL/PSM</a>, <a href="vhdl.html">VHDL</a>, <a href="unicode.html">Unicode</a>, <a href="lisp.html">Lisp</a>, <a href="setl.html">SETL</a>, <a href="algol.html">Algol</a>, <a href="algol-60.html">ALGOL 60</a>, <a href="apse.html">APSE</a>
 
 <br>
 
@@ -397,6 +397,6 @@ treeTable
   Token 
   Example
 
-keyboardNav swift.html scala.html
+keyboardNav scala.html rust.html
 
 import ../footer.scroll

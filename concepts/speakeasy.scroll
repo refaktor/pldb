@@ -7,7 +7,7 @@ title Speakeasy - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="clist.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="p.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="turbo-assembler.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/speakeasy.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#stanleyCohen Stanley Cohen
 
 dashboard
- #821 <span title="TotalRank: 1382 Jobs: 103 Users: 1489 Facts: 889 Links: 390">on PLDB</span>
+ #820 <span title="TotalRank: 1380 Jobs: 103 Users: 1488 Facts: 888 Links: 389">on PLDB</span>
  17 Years Old
 
 * Speakeasy is a numerical computing interactive environment also featuring an interpreted programming language. It was initially developed for internal use at the Physics Division of Argonne National Laboratory by the theoretical physicist Stanley Cohen. He eventually founded Speakeasy Computing Corporation to make the program available commercially. Read more on Wikipedia...
@@ -56,6 +56,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Speakeasy_(co
 
 endColumns
 
-keyboardNav clist.html p.html
+keyboardNav clist.html turbo-assembler.html
 
 import ../footer.scroll

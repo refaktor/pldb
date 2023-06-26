@@ -6,7 +6,7 @@ title Telnet - Protocol
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="synchronized-multimedia-integration-language.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="gettext.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="emberscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/telnet-protocol.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1969 1969
 
 dashboard
- #661 <span title="TotalRank: 1239 Jobs: 103 Users: 149 Facts: 2704 Links: 987">on PLDB</span>
+ #661 <span title="TotalRank: 1238 Jobs: 103 Users: 149 Facts: 2703 Links: 986">on PLDB</span>
  54 Years Old
 
 * Telnet is a protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection. User data is interspersed in-band with Telnet control information in an 8-bit byte oriented data connection over the  Transmission Control Protocol (TCP). Telnet was developed in 1969 beginning with RFC 15, extended in RFC 855, and standardized as Internet Engineering Task Force (IETF) Internet Standard STD 8, one of the first Internet standards. Read more on Wikipedia...
@@ -32,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav synchronized-multimedia-integration-language.html emberscript.html
+keyboardNav gettext.html emberscript.html
 
 import ../footer.scroll

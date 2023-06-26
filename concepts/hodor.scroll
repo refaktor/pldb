@@ -6,8 +6,8 @@ title Hodor - Esoteric programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="newsqueak.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cms-2.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="z-expressions.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="newsqueak.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hodor.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/hummingbirdtech/hodor
 
 dashboard
- #1231 <span title="TotalRank: 1768 Jobs: 103 Users: 833 Facts: 832 Links: 987">on PLDB</span>
+ #1229 <span title="TotalRank: 1766 Jobs: 103 Users: 832 Facts: 831 Links: 986">on PLDB</span>
  8 Years Old
 
 * Try now: <a href="https://tio.run/#hodor">TIO</a>
@@ -60,6 +60,6 @@ treeTable
   Token hodor.hod
   Example
 
-keyboardNav newsqueak.html cms-2.html
+keyboardNav z-expressions.html newsqueak.html
 
 import ../footer.scroll

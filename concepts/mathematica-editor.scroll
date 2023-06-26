@@ -6,7 +6,7 @@ title Wolfram Mathematica - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="true-basic.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="chrysalisp.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="sather.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mathematica-editor.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #479 on PLDB
+ #478 on PLDB
  35 Years Old
 
 * Wolfram Mathematica (usually termed Mathematica) is a modern technical computing system spanning most areas of technical computing — including neural networks, machine learning, image processing, geometry, data science, visualizations, and others. The system is used in many technical, scientific, engineering, mathematical, and computing fields. It was conceived by Stephen Wolfram and is developed by Wolfram Research of Champaign, Illinois. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav true-basic.html sather.html
+keyboardNav chrysalisp.html sather.html
 
 import ../footer.scroll

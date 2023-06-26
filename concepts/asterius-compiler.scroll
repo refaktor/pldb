@@ -6,8 +6,8 @@ title asterius-compiler - Compiler
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="violent-es.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="parrot-assembly.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="parrot-assembly.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/asterius-compiler.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/tweag/asterius
 
 dashboard
- #1140 on PLDB
+ #1141 on PLDB
  6 Years Old
 
 * A Haskell to WebAssembly compiler
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav violent-es.html parrot-assembly.html
+keyboardNav parrot-assembly.html fp.html
 
 import ../footer.scroll

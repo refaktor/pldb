@@ -7,7 +7,7 @@ title jsil-compiler - Compiler
 
 html
  <a class="trueBaseThemePreviousItem" href="windows-registry-entries.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="plot.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="plb.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jsil-compiler.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/sq/JSIL
 
 dashboard
- #1093 on PLDB
+ #1094 on PLDB
  13 Years Old
 
 * JSIL is a compiler that transforms .NET applications and libraries from their native executable format - CIL bytecode - into standards-compliant, cross-browser JavaScript.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav windows-registry-entries.html plot.html
+keyboardNav windows-registry-entries.html plb.html
 
 import ../footer.scroll

@@ -20225,7 +20225,7 @@ var autocompleteJs = [
     "url": "/concepts/spark-pm.html"
   },
   {
-    "label": "SPARK",
+    "label": "Apache Spark",
     "id": "spark",
     "url": "/concepts/spark.html"
   },

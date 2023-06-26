@@ -6,7 +6,7 @@ title storyscript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="yorick.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="loglan.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="almquist-shell.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/storyscript.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/storyscript/welcome
 
 dashboard
- #780 <span title="TotalRank: 1345 Jobs: 103 Users: 844 Facts: 398 Links: 987">on PLDB</span>
+ #779 <span title="TotalRank: 1344 Jobs: 103 Users: 843 Facts: 398 Links: 986">on PLDB</span>
  6 Years Old
 
 * Storyscript is a language, editor, database, infra and community all-in-one. Create holistic apps, tools and workflows blazing fast that power your business.
@@ -114,6 +114,6 @@ treeTable
   Token 
   Example
 
-keyboardNav yorick.html almquist-shell.html
+keyboardNav loglan.html almquist-shell.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Glicol - Musical notation
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="spry.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="1620sps.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="roku-brightscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/glicol.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/chaosprint/glicol
 
 dashboard
- #867 <span title="TotalRank: 1432 Jobs: 103 Users: 527 Facts: 802 Links: 987">on PLDB</span>
+ #867 <span title="TotalRank: 1431 Jobs: 103 Users: 527 Facts: 801 Links: 986">on PLDB</span>
  3 Years Old
 
 * Try now: <a href="https://glicol.org/demo">Web</a>
@@ -58,6 +58,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav spry.html roku-brightscript.html
+keyboardNav 1620sps.html roku-brightscript.html
 
 import ../footer.scroll

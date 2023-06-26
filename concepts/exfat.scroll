@@ -7,7 +7,7 @@ title ExFAT - Filesystem
 
 html
  <a class="trueBaseThemePreviousItem" href="bbcode.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cweb.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="gams.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/exfat.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
 
 dashboard
- #601 on PLDB
+ #600 on PLDB
  17 Years Old
 
 * exFAT (Extended File Allocation Table) is a Microsoft file system introduced in 2006 and optimized for flash memory such as USB flash drives and SD cards. It is proprietary and Microsoft owns patents on several elements of its design.exFAT can be used where NTFS is not a feasible solution (due to data-structure overhead), but a greater file-size limit than the standard FAT32 file system (i.e. 4 GiB) is required. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav bbcode.html cweb.html
+keyboardNav bbcode.html gams.html
 
 import ../footer.scroll

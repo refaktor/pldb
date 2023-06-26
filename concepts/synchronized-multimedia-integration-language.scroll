@@ -6,8 +6,8 @@ title SMIL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="bucklescript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="telnet-protocol.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="nit.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bucklescript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/synchronized-multimedia-integration-language.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
 
 dashboard
- #660 <span title="TotalRank: 1239 Jobs: 103 Users: 746 Facts: 2447 Links: 390">on PLDB</span>
+ #658 <span title="TotalRank: 1237 Jobs: 103 Users: 745 Facts: 2447 Links: 389">on PLDB</span>
  26 Years Old
 
 * Synchronized Multimedia Integration Language (SMIL ()) is a World Wide Web Consortium recommended Extensible Markup Language (XML) markup language to describe multimedia presentations. It defines markup for timing, layout, animations, visual transitions, and media embedding, among other things. SMIL allows presenting media items such as text, images, video, audio, links to other SMIL presentations, and files from multiple web servers. Read more on Wikipedia...
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav bucklescript.html telnet-protocol.html
+keyboardNav nit.html bucklescript.html
 
 import ../footer.scroll

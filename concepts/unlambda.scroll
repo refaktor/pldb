@@ -7,7 +7,7 @@ title UNLAMBDA - Esoteric programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="jakt.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="slope.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="java-ee-version-history.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/unlambda.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#davidMadore David Madore
 
 dashboard
- #538 <span title="TotalRank: 1088 Jobs: 103 Users: 1081 Facts: 659 Links: 326">on PLDB</span>
+ #537 <span title="TotalRank: 1087 Jobs: 103 Users: 1080 Facts: 658 Links: 326">on PLDB</span>
  24 Years Old
 
 * Try now: <a href="https://riju.codes/unlambda">Riju</a> · <a href="https://tio.run/#unlambda">TIO</a> · <a href="https://repl.it/languages/unlambda">Replit</a>
@@ -81,6 +81,6 @@ treeTable
   Token 
   Example
 
-keyboardNav jakt.html slope.html
+keyboardNav jakt.html java-ee-version-history.html
 
 import ../footer.scroll

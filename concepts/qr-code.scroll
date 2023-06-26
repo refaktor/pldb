@@ -6,8 +6,8 @@ title QR code - Bar code format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="beads-lang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ipf.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ipf.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="roc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/qr-code.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1994 1994
 
 dashboard
- #579 <span title="TotalRank: 1146 Jobs: 103 Users: 56 Facts: 2620 Links: 987">on PLDB</span>
+ #579 <span title="TotalRank: 1145 Jobs: 103 Users: 56 Facts: 2619 Links: 986">on PLDB</span>
  29 Years Old
 
 * QR code (abbreviated from Quick Response code) is the trademark for a type of matrix barcode (or two-dimensional barcode) first designed in 1994 for the automotive industry in Japan. A barcode is a machine-readable optical label that contains information about the item to which it is attached. In practice, QR codes often contain data for a locator, identifier, or tracker that points to a website or application. Read more on Wikipedia...
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav beads-lang.html ipf.html
+keyboardNav ipf.html roc.html
 
 import ../footer.scroll

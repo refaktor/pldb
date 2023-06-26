@@ -6,7 +6,7 @@ title Motif - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="euclidean-geometry.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="elvish.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="xl-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/motif-software.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1989 1989
 
 dashboard
- #720 <span title="TotalRank: 1287 Jobs: 103 Users: 794 Facts: 913 Links: 390">on PLDB</span>
+ #718 <span title="TotalRank: 1285 Jobs: 103 Users: 793 Facts: 912 Links: 389">on PLDB</span>
  34 Years Old
 
 * In computing, Motif refers to both a graphical user interface (GUI) specification and the widget toolkit for building applications that follow that specification under the X Window System on Unix and Unix-like operating systems. Motif is the toolkit for the Common Desktop Environment and IRIX Interactive Desktop, thus it was the standard widget toolkit for Unix. Closely related to Motif is the Motif Window Manager (MWM). Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav euclidean-geometry.html xl-lang.html
+keyboardNav elvish.html xl-lang.html
 
 import ../footer.scroll

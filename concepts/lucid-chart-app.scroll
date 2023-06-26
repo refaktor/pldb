@@ -7,7 +7,7 @@ title Lucidchart - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="euler.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hush.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="simscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lucid-chart-app.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav euler.html hush.html
+keyboardNav euler.html simscript.html
 
 import ../footer.scroll

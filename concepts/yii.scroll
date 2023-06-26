@@ -6,8 +6,8 @@ title Yes It Is - Framework
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="algol-58.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="css-doodle.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="css-doodle.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="progsbase.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/yii.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/yiisoft/yii2
 
 dashboard
- #676 on PLDB
+ #677 on PLDB
  17 Years Old
 
 * Yii is an open source, object-oriented, component-based MVC PHP web application framework. Yii is pronounced as "Yee" or [ji:] and in Chinese it means "simple and evolutionary" and it can be an acronym for "Yes It Is!".. Read more on Wikipedia...
@@ -43,6 +43,6 @@ dashboard
 
 endColumns
 
-keyboardNav algol-58.html css-doodle.html
+keyboardNav css-doodle.html progsbase.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title desktop - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="apache-cassandra.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="plot.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="type-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/desktop.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #1090 on PLDB
+ #1091 on PLDB
  15 Years Old
 
 * 
@@ -87,6 +87,6 @@ codeWithHeader Example from <a href='https://github.com/Mailaender/desktop.tmbun
 
 endColumns
 
-keyboardNav apache-cassandra.html type-language.html
+keyboardNav plot.html type-language.html
 
 import ../footer.scroll

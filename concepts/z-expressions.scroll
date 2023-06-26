@@ -7,7 +7,7 @@ title Z - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="haggis.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="newsqueak.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="hodor.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/z-expressions.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/chrisdone/z
 
 dashboard
- #1229 <span title="TotalRank: 1767 Jobs: 103 Users: 962 Facts: 702 Links: 987">on PLDB</span>
+ #1228 <span title="TotalRank: 1765 Jobs: 103 Users: 961 Facts: 701 Links: 986">on PLDB</span>
  11 Years Old
 
 * A strict, impure, curried, partially applied programming language with rather peculiar syntax. 
@@ -83,6 +83,6 @@ treeTable
    print : Hello, World!
            What's going on in here? 
 
-keyboardNav haggis.html newsqueak.html
+keyboardNav haggis.html hodor.html
 
 import ../footer.scroll

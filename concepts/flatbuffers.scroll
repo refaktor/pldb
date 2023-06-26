@@ -6,8 +6,8 @@ title FlatBuffers - Interface design language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="bpmn.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="batch.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="wren.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pike.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/flatbuffers.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/google/flatbuffers
 
 dashboard
- #272 <span title="TotalRank: 662 Jobs: 103 Users: 67 Facts: 1780 Links: 492">on PLDB</span>
+ #270 <span title="TotalRank: 661 Jobs: 103 Users: 67 Facts: 1779 Links: 491">on PLDB</span>
  9 Years Old
 
 * FlatBuffers: Memory Efficient Serialization Library
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav bpmn.html batch.html
+keyboardNav wren.html pike.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title TELCOMP - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ravenscar-profile.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="arc-isa.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="please-build.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/telcomp.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1966 1966
 
 dashboard
- #794 <span title="TotalRank: 1354 Jobs: 103 Users: 1851 Facts: 759 Links: 492">on PLDB</span>
+ #792 <span title="TotalRank: 1352 Jobs: 103 Users: 1850 Facts: 758 Links: 491">on PLDB</span>
  57 Years Old
 
 * TELCOMP was a programming language developed at Bolt, Beranek and Newman (BBN) in about 1964 and in use until at least 1974. BBN offered TELCOMP as a paid service, with first revenue in October 1965.  The service was sold to a company called On-Line Systems in 1972. Read more on Wikipedia...
@@ -65,6 +65,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/TELCOMP'>Wiki
 
 endColumns
 
-keyboardNav ravenscar-profile.html arc-isa.html
+keyboardNav ravenscar-profile.html please-build.html
 
 import ../footer.scroll

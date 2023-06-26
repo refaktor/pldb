@@ -7,7 +7,7 @@ title beads-lang - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="openlisp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="qr-code.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ipf.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/beads-lang.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#edwardDeJong Edward de Jong
 
 dashboard
- #578 <span title="TotalRank: 1144 Jobs: 103 Users: 2434 Facts: 54 Links: 987">on PLDB</span>
+ #577 <span title="TotalRank: 1143 Jobs: 103 Users: 2433 Facts: 54 Links: 986">on PLDB</span>
  7 Years Old
 
 * 
@@ -305,6 +305,6 @@ treeTable
   Example
    // A comment
 
-keyboardNav openlisp.html qr-code.html
+keyboardNav openlisp.html ipf.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title clash - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="superjson.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="creative-basic.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="creative-basic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="yawl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/clash.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/clash-lang/clash-compiler
 
 dashboard
- #935 <span title="TotalRank: 1503 Jobs: 103 Users: 413 Facts: 1307 Links: 987">on PLDB</span>
+ #935 <span title="TotalRank: 1502 Jobs: 103 Users: 413 Facts: 1306 Links: 986">on PLDB</span>
  8 Years Old
 
 * Haskell to VHDL/Verilog/SystemVerilog compiler
@@ -43,6 +43,6 @@ pipeTable
  title|titleLink|date|score|comments
  CλaSH – From Haskell to Hardware|https://news.ycombinator.com/item?id=9516217|05/09/2015|158|55
 
-keyboardNav superjson.html creative-basic.html
+keyboardNav creative-basic.html yawl.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Ext4 - Filesystem
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="algol-68.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="clu.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="clu.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mercurial.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ext4.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav algol-68.html clu.html
+keyboardNav clu.html mercurial.html
 
 import ../footer.scroll

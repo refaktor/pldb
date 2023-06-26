@@ -6,8 +6,8 @@ title OpenEdge ABL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ssharp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="shen.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="pearl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ssharp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/openedge-advanced-business-language.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
 
 dashboard
- #847 <span title="TotalRank: 1409 Jobs: 103 Users: 659 Facts: 647 Links: 987">on PLDB</span>
+ #845 <span title="TotalRank: 1407 Jobs: 103 Users: 658 Facts: 646 Links: 986">on PLDB</span>
  17 Years Old
  72 <span title="OpenEdge ABL repos on GitHub.">Repos</span>
 
@@ -83,6 +83,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ssharp.html shen.html
+keyboardNav pearl.html ssharp.html
 
 import ../footer.scroll

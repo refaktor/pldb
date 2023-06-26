@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/valderman/haste-compiler
 
 dashboard
- #903 <span title="TotalRank: 1471 Jobs: 103 Users: 381 Facts: 1307 Links: 987">on PLDB</span>
+ #902 <span title="TotalRank: 1470 Jobs: 103 Users: 381 Facts: 1306 Links: 986">on PLDB</span>
  9 Years Old
 
 * A GHC-based Haskell to JavaScript compiler

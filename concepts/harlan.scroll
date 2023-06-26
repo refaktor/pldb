@@ -7,7 +7,7 @@ title harlan - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="joss.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sile.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="isq.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/harlan.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/eholk/harlan
 
 dashboard
- #969 <span title="TotalRank: 1532 Jobs: 103 Users: 442 Facts: 1780 Links: 987">on PLDB</span>
+ #968 <span title="TotalRank: 1531 Jobs: 103 Users: 442 Facts: 1779 Links: 986">on PLDB</span>
  12 Years Old
 
 * A language for GPU computing.
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav joss.html sile.html
+keyboardNav joss.html isq.html
 
 import ../footer.scroll

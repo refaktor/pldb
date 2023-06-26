@@ -6,7 +6,7 @@ title tldr - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pharo.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="readable.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="act-iii.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tldr.pldb
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav pharo.html act-iii.html
+keyboardNav readable.html act-iii.html
 
 import ../footer.scroll

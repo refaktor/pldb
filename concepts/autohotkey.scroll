@@ -7,7 +7,7 @@ title AutoHotkey - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="g-code.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="coconut.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="objective-j.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/autohotkey.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2003 2003
 
 dashboard
- #321 <span title="TotalRank: 751 Jobs: 103 Users: 385 Facts: 263 Links: 492">on PLDB</span>
+ #321 <span title="TotalRank: 751 Jobs: 103 Users: 385 Facts: 263 Links: 491">on PLDB</span>
  20 Years Old
  15k <span title="AutoHotkey repos on GitHub.">Repos</span>
 
@@ -141,6 +141,6 @@ treeTable
   Token 
   Example
 
-keyboardNav g-code.html coconut.html
+keyboardNav g-code.html objective-j.html
 
 import ../footer.scroll

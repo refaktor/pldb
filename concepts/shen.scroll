@@ -6,7 +6,7 @@ title Shen - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="openedge-advanced-business-language.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="ssharp.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="pop-protocol.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/shen.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/Shen-Language/shen-sources
 
 dashboard
- #848 <span title="TotalRank: 1409 Jobs: 103 Users: 1124 Facts: 319 Links: 987">on PLDB</span>
+ #847 <span title="TotalRank: 1408 Jobs: 103 Users: 1123 Facts: 319 Links: 986">on PLDB</span>
  12 Years Old
  50 <span title="Shen repos on GitHub.">Repos</span>
 
@@ -144,6 +144,6 @@ treeTable
   Token pr
   Example
 
-keyboardNav openedge-advanced-business-language.html pop-protocol.html
+keyboardNav ssharp.html pop-protocol.html
 
 import ../footer.scroll

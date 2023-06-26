@@ -6,7 +6,7 @@ title RISC-V - Instruction set architecture
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="beef.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="common-workflow-language.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="wdl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/risc-v.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2010 2010
 
 dashboard
- #443 <span title="TotalRank: 945 Jobs: 103 Users: 350 Facts: 639 Links: 492">on PLDB</span>
+ #442 <span title="TotalRank: 944 Jobs: 103 Users: 350 Facts: 638 Links: 491">on PLDB</span>
  13 Years Old
 
 * Try now: <a href="https://riju.codes/riscv">Riju</a>
@@ -76,6 +76,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav beef.html wdl.html
+keyboardNav common-workflow-language.html wdl.html
 
 import ../footer.scroll

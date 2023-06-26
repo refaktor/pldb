@@ -6,7 +6,7 @@ title mathics - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="roff.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="vigil.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="linotte.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mathics.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/mathics/Mathics
 
 dashboard
- #835 <span title="TotalRank: 1393 Jobs: 103 Users: 303 Facts: 1055 Links: 987">on PLDB</span>
+ #834 <span title="TotalRank: 1392 Jobs: 103 Users: 303 Facts: 1054 Links: 986">on PLDB</span>
  11 Years Old
 
 * Try now: <a href="https://tio.run/#mathics">TIO</a>
@@ -44,6 +44,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav roff.html linotte.html
+keyboardNav vigil.html linotte.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title ASN.1 - Interface design language
 
 html
  <a class="trueBaseThemePreviousItem" href="mmx.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="urweb.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/asn-1.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1984 1984
 
 dashboard
- #340 <span title="TotalRank: 802 Jobs: 103 Users: 357 Facts: 342 Links: 492">on PLDB</span>
+ #340 <span title="TotalRank: 802 Jobs: 103 Users: 357 Facts: 342 Links: 491">on PLDB</span>
  39 Years Old
  0 <span title="ASN.1 repos on GitHub.">Repos</span>
 
@@ -98,6 +98,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Abstract_Synt
 
 endColumns
 
-keyboardNav mmx.html urweb.html
+keyboardNav mmx.html jscript.html
 
 import ../footer.scroll

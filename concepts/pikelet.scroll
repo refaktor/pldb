@@ -6,7 +6,7 @@ title pikelet - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="coco.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="cms-2.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="forest-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pikelet.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/pikelet-lang/pikelet
 
 dashboard
- #1234 <span title="TotalRank: 1773 Jobs: 103 Users: 683 Facts: 1588 Links: 987">on PLDB</span>
+ #1233 <span title="TotalRank: 1771 Jobs: 103 Users: 682 Facts: 1587 Links: 986">on PLDB</span>
  6 Years Old
 
 * Pikelet is a small, functional, dependently typed programming language.
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav coco.html forest-lang.html
+keyboardNav cms-2.html forest-lang.html
 
 import ../footer.scroll

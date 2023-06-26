@@ -7,7 +7,7 @@ title spry - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="srl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="glicol.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="1620sps.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spry.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/gokr/spry
 
 dashboard
- #866 <span title="TotalRank: 1431 Jobs: 103 Users: 797 Facts: 531 Links: 987">on PLDB</span>
+ #865 <span title="TotalRank: 1429 Jobs: 103 Users: 796 Facts: 530 Links: 986">on PLDB</span>
  8 Years Old
 
 * Spry borrows homoiconicity from Rebol and Lisp, free form syntax from Forth and Rebol, the word of different types from Rebol, good data structure literal support from JavaScript and the general coding experience and style from Smalltalk. It also has a few ideas of its own, like an interesting argument passing mechanism and a relatively novel take on OO.
@@ -95,6 +95,6 @@ treeTable
   Token 
   Example
 
-keyboardNav srl.html glicol.html
+keyboardNav srl.html 1620sps.html
 
 import ../footer.scroll

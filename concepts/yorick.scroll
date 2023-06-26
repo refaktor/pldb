@@ -7,7 +7,7 @@ title Yorick - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="refal.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="storyscript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="loglan.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/yorick.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#davidHMunro David H. Munro
 
 dashboard
- #779 <span title="TotalRank: 1345 Jobs: 103 Users: 1508 Facts: 575 Links: 667">on PLDB</span>
+ #777 <span title="TotalRank: 1343 Jobs: 103 Users: 1507 Facts: 574 Links: 666">on PLDB</span>
  27 Years Old
 
 * Try now: <a href="https://riju.codes/yorick">Riju</a>
@@ -82,6 +82,6 @@ treeTable
   Token print
   Example
 
-keyboardNav refal.html storyscript.html
+keyboardNav refal.html loglan.html
 
 import ../footer.scroll
