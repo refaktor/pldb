@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1995 1995
 
 dashboard
- #1680 <span title="TotalRank: 2202 Jobs: 103 Users: 1607 Facts: 2446 Links: 492">on PLDB</span>
+ #1680 <span title="TotalRank: 2202 Jobs: 103 Users: 1607 Facts: 2447 Links: 492">on PLDB</span>
  28 Years Old
 
 * Split-C is a parallel extension of the C programming language. The Split-C project website describes Split-C as:  a parallel extension of the C programming language that supports efficient access to a global address space on current distributed memory multiprocessors. It retains the "small language" character of C and supports careful engineering and optimization of programs by providing a simple, predictable cost model. Read more on Wikipedia...

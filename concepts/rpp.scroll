@@ -6,7 +6,7 @@ title R++ - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sublime-syntax.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="brain-flak.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="chill.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rpp.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1990 1990
 
 dashboard
- #1933 <span title="TotalRank: 2466 Jobs: 103 Users: 1376 Facts: 2446 Links: 987">on PLDB</span>
+ #1932 <span title="TotalRank: 2466 Jobs: 103 Users: 1376 Facts: 2447 Links: 987">on PLDB</span>
  33 Years Old
 
 * R++ is a rule-based programming language based on C++. The United States patent describes R++ as follows:  The R++ extension permits rules to be defined as members of C++ classes. The programming system of the invention takes the classes with rules defined using R++ and generates C++ code from them in which the machinery required for the rules is implemented completely as C++ data members and functions of the classes involved in the rules. Read more on Wikipedia...
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav sublime-syntax.html chill.html
+keyboardNav brain-flak.html chill.html
 
 import ../footer.scroll

@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
 
 dashboard
- #2323 <span title="TotalRank: 2869 Jobs: 103 Users: 1802 Facts: 1779 Links: 987">on PLDB</span>
+ #2324 <span title="TotalRank: 2870 Jobs: 103 Users: 1802 Facts: 1780 Links: 987">on PLDB</span>
  17 Years Old
 
 * Flapjax is a programming language built on JavaScript. It provides a spreadsheet-like reactive programming, dataflow computing style, termed functional reactive programming, making it easy to create reactive web pages without the burden of callbacks and potentially inconsistent mutation. Flapjax can be viewed in two ways: either as a library, for use in regular JavaScript programs, or as a new language that the compiler converts into generic JavaScript. Read more on Wikipedia...

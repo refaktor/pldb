@@ -6,8 +6,8 @@ title Color BASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="trac.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pharen.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="kuin.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="trac.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/color-basic.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#billGates Bill Gates
 
 dashboard
- #1527 <span title="TotalRank: 2041 Jobs: 103 Users: 1548 Facts: 1779 Links: 390">on PLDB</span>
+ #1526 <span title="TotalRank: 2041 Jobs: 103 Users: 1548 Facts: 1780 Links: 390">on PLDB</span>
  43 Years Old
 
 * Color BASIC is the implementation of Microsoft BASIC that is included in the ROM of the Tandy/Radio Shack TRS-80 Color Computers manufactured between 1980 and 1991. BASIC (Beginners All-purpose Symbolic Instruction Code) is a high level language with simple syntax that makes it easy for novices to write simple programs. Color BASIC is interpreted, that is, decoded as it is run. Read more on Wikipedia...
@@ -40,6 +40,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Color_BASIC'>
 
 endColumns
 
-keyboardNav trac.html pharen.html
+keyboardNav kuin.html trac.html
 
 import ../footer.scroll

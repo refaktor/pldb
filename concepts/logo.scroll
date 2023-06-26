@@ -7,7 +7,7 @@ title Logo - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="sed.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rdf.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="brainfuck.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/logo.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1967 1967
 
 dashboard
- #144 <span title="TotalRank: 418 Jobs: 103 Users: 291 Facts: 248 Links: 67">on PLDB</span>
+ #145 <span title="TotalRank: 418 Jobs: 103 Users: 291 Facts: 248 Links: 67">on PLDB</span>
  56 Years Old
 
 * Logo is an educational programming language, designed in 1967 by Wally Feurzeig, Seymour Papert and Cynthia Solomon. "Logo" is not an acronym. It was derived from the Greek logos meaning word or "thought" by Feurzeig, to distinguish itself from other programming languages that were primarily numbers, not graphics or logic, oriented. Read more on Wikipedia...
@@ -81,6 +81,6 @@ treeTable
   Token 
   Example
 
-keyboardNav sed.html rdf.html
+keyboardNav sed.html brainfuck.html
 
 import ../footer.scroll

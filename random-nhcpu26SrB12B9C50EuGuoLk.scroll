@@ -18,7 +18,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,841 files and found 65 matches in 0.71s. <span id="publishQuery"></span>
+Searched 4,843 files and found 65 matches in 0.98s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Which programming languages use indentation?
@@ -35,7 +35,7 @@ table  DeLiM
  Literate CoffeeScript DeLiM /concepts/literate-coffeescript.html DeLiM true DeLiM 115
  Nim DeLiM /concepts/nim.html DeLiM true DeLiM 120
  Pug DeLiM /concepts/pug.html DeLiM true DeLiM 121
- Markdown DeLiM /concepts/markdown.html DeLiM true DeLiM 127
+ Markdown DeLiM /concepts/markdown.html DeLiM true DeLiM 128
  PureScript DeLiM /concepts/purescript.html DeLiM true DeLiM 173
  Org DeLiM /concepts/org.html DeLiM true DeLiM 180
  HAML DeLiM /concepts/haml.html DeLiM true DeLiM 200
@@ -83,14 +83,14 @@ table  DeLiM
  Ohayo DeLiM /concepts/ohayo.html DeLiM true DeLiM 1772
  Truth DeLiM /concepts/truth.html DeLiM true DeLiM 1776
  Space DeLiM /concepts/space.html DeLiM true DeLiM 2001
- bml DeLiM /concepts/bml.html DeLiM true DeLiM 2260
- Sweet Expressions DeLiM /concepts/sweet-expressions.html DeLiM true DeLiM 2726
- Indental DeLiM /concepts/indental.html DeLiM true DeLiM 2793
- CSL DeLiM /concepts/csl.html DeLiM true DeLiM 2846
- converge DeLiM /concepts/converge.html DeLiM true DeLiM 3140
- Ordered graph data language DeLiM /concepts/ogdl.html DeLiM true DeLiM 3392
- MADCAP VI DeLiM /concepts/madcap-vi.html DeLiM true DeLiM 3543
- MADCAP DeLiM /concepts/madcap.html DeLiM true DeLiM 3774
+ bml DeLiM /concepts/bml.html DeLiM true DeLiM 2262
+ Sweet Expressions DeLiM /concepts/sweet-expressions.html DeLiM true DeLiM 2727
+ Indental DeLiM /concepts/indental.html DeLiM true DeLiM 2794
+ CSL DeLiM /concepts/csl.html DeLiM true DeLiM 2847
+ converge DeLiM /concepts/converge.html DeLiM true DeLiM 3142
+ Ordered graph data language DeLiM /concepts/ogdl.html DeLiM true DeLiM 3394
+ MADCAP VI DeLiM /concepts/madcap-vi.html DeLiM true DeLiM 3545
+ MADCAP DeLiM /concepts/madcap.html DeLiM true DeLiM 3776
 
 Results as JSON, CSV, TSV or Tree
  link /search.json?q=title%20Which%20programming%20languages%20use%20indentation%3F%0Aselect%20hasSemanticIndentation%20rank%0AnotMissing%20hasSemanticIndentation%0Awhere%20hasSemanticIndentation%20%3D%20true%0AsortBy%20rank JSON

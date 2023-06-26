@@ -7,7 +7,7 @@ title Language for Your Remote Instruction by Computer - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="definite-clause-grammar-notation.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="zpl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spark-pl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lyric.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1966 1966
 
 dashboard
- #2632 <span title="TotalRank: 3234 Jobs: 103 Users: 2144 Facts: 2539 Links: 987">on PLDB</span>
+ #2633 <span title="TotalRank: 3234 Jobs: 103 Users: 2144 Facts: 2540 Links: 987">on PLDB</span>
  57 Years Old
 
 * Language for Your Remote Instruction by Computer.
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav definite-clause-grammar-notation.html zpl.html
+keyboardNav definite-clause-grammar-notation.html spark-pl.html
 
 import ../footer.scroll

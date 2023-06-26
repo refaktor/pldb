@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/maraca-lang/maraca-js
 
 dashboard
- #1514 <span title="TotalRank: 2031 Jobs: 103 Users: 2411 Facts: 941 Links: 987">on PLDB</span>
+ #1514 <span title="TotalRank: 2031 Jobs: 103 Users: 2413 Facts: 941 Links: 987">on PLDB</span>
  5 Years Old
 
 * The dynamic structured data language. Maraca is a lightweight, embeddable, declarative language for defining & manipulating dynamic structured data. And when combined with Maraca-Render, it can be a powerful language for creating interactive UI, such as this site...

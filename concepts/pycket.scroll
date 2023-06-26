@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/pycket/pycket
 
 dashboard
- #1520 <span title="TotalRank: 2033 Jobs: 103 Users: 943 Facts: 1497 Links: 987">on PLDB</span>
+ #1520 <span title="TotalRank: 2033 Jobs: 103 Users: 943 Facts: 1498 Links: 987">on PLDB</span>
  1 Years Old
 
 * Pycket: a Racket/Scheme implementation that is generated using the RPython framework

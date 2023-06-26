@@ -7,7 +7,7 @@ title eco-editor - Editor
 
 html
  <a class="trueBaseThemePreviousItem" href="kamilalisp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="extended-ml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sham.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/eco-editor.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/softdevteam/eco
 
 dashboard
- #2571 on PLDB
+ #2572 on PLDB
  11 Years Old
 
 * Eco is a prototype editor for editing composed languages. It is not feature complete, it is not intended for production, and it does have bugs. Eco is distributed under a BSD/MIT license.
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav kamilalisp.html extended-ml.html
+keyboardNav kamilalisp.html sham.html
 
 import ../footer.scroll

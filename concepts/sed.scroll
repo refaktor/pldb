@@ -6,7 +6,7 @@ title sed - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="picolisp.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="rdf.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="logo.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sed.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#leeEMcMahon Lee E. McMahon
 
 dashboard
- #143 <span title="TotalRank: 413 Jobs: 103 Users: 373 Facts: 103 Links: 207">on PLDB</span>
+ #144 <span title="TotalRank: 413 Jobs: 103 Users: 373 Facts: 103 Links: 207">on PLDB</span>
  49 Years Old
  322 <span title="sed repos on GitHub.">Repos</span>
 
@@ -197,6 +197,6 @@ treeTable
   Token 
   Example
 
-keyboardNav picolisp.html logo.html
+keyboardNav rdf.html logo.html
 
 import ../footer.scroll

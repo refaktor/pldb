@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://gitlab.com/rosie-pattern-language/rosie
 
 dashboard
- #2363 <span title="TotalRank: 2869 Jobs: 103 Users: 2432 Facts: 1779 Links: 987">on PLDB</span>
+ #2364 <span title="TotalRank: 2870 Jobs: 103 Users: 2434 Facts: 1780 Links: 987">on PLDB</span>
  8 Years Old
 
 * RPL is a variant of modern Regular Expressions (regex) that is designed to scale to big data, many developers, and large collections of patterns.  If you use regex, you already know a lot of RPL.

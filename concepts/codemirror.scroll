@@ -6,8 +6,8 @@ title CodeMirror - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="s-expressions.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="alloy.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="java-bytecode.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="s-expressions.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/codemirror.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/codemirror/dev
 
 dashboard
- #338 on PLDB
+ #337 on PLDB
  16 Years Old
 
 * Try now: <a href="https://codemirror.net/try/">Web</a>
@@ -44,6 +44,6 @@ dashboard
 
 endColumns
 
-keyboardNav s-expressions.html alloy.html
+keyboardNav java-bytecode.html s-expressions.html
 
 import ../footer.scroll

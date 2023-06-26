@@ -6,7 +6,7 @@ title Brainfuck - Esoteric programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="rdf.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="logo.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="flux.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/brainfuck.pldb
@@ -126,6 +126,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Brainfuck'>Wi
 
 endColumns
 
-keyboardNav rdf.html flux.html
+keyboardNav logo.html flux.html
 
 import ../footer.scroll
