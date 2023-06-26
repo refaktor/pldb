@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1992 1992
 
 dashboard
- #592 <span title="TotalRank: 1163 Jobs: 103 Users: 734 Facts: 2310 Links: 326">on PLDB</span>
+ #592 <span title="TotalRank: 1163 Jobs: 103 Users: 734 Facts: 2058 Links: 326">on PLDB</span>
  31 Years Old
 
 * SQL-92 was the third revision of the SQL database query language. Unlike SQL-89, it was a major revision of the standard.  Aside from a few minor incompatibilities, the SQL-89 standard is forward-compatible with SQL-92. Read more on Wikipedia...
@@ -27,6 +27,7 @@ dashboard
 
 - SQL-92 Wikipedia page
  https://en.wikipedia.org/wiki/SQL-92
+- SQL-92 first developed in <a href="../lists/originCommunities.html#ibm">IBM</a>
 - SQL-92 on HOPL
  https://hopl.info/showlanguage.prx?exp=6829
 - See also: (5 related languages)<a href="sql.html">SQL</a>, <a href="c.html">C</a>, <a href="ada.html">Ada</a>, <a href="mumps.html">MUMPS</a>, <a href="sql-psm.html">SQL/PSM</a>

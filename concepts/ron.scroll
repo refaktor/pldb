@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/ron-rs/ron
 
 dashboard
- #455 <span title="TotalRank: 967 Jobs: 103 Users: 334 Facts: 530 Links: 986">on PLDB</span>
+ #455 <span title="TotalRank: 968 Jobs: 103 Users: 334 Facts: 531 Links: 986">on PLDB</span>
  8 Years Old
 
 * RON is a simple readable data serialization format that looks similar to Rust syntax. It's designed to support all of Serde's data model, so structs, enums, tuples, arrays, generic maps, and primitive values.

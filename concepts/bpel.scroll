@@ -6,7 +6,7 @@ title BPEL - Xml format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="plain-english.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="lpc.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="volt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bpel.pldb
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav plain-english.html volt.html
+keyboardNav lpc.html volt.html
 
 import ../footer.scroll

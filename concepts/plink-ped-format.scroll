@@ -6,7 +6,7 @@ title plink-ped-format - Text data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="shacl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="probevue.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="kaml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/plink-ped-format.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/WonyoungCho/plink/issues
 
 dashboard
- #1952 <span title="TotalRank: 2465 Jobs: 103 Users: 2325 Facts: 1376 Links: 986">on PLDB</span>
+ #1960 <span title="TotalRank: 2466 Jobs: 103 Users: 2325 Facts: 1377 Links: 986">on PLDB</span>
  16 Years Old
 
 * The "ped" file is a commonly used format for holding pedigree and genotype data. Files in this format usually end in ".ped". There are several variants of the format. Used by plink.
@@ -47,6 +47,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav shacl.html kaml.html
+keyboardNav probevue.html kaml.html
 
 import ../footer.scroll

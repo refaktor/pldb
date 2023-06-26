@@ -6,7 +6,7 @@ title Firefox - Web browser
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="edscript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="mathjax.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="webkit.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/firefox.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #2559 <span title="TotalRank: 3216 Jobs: 103 Users: 2127 Facts: 4289 Links: 986">on PLDB</span>
+ #2558 <span title="TotalRank: 3216 Jobs: 103 Users: 2127 Facts: 4289 Links: 986">on PLDB</span>
  19 Years Old
 
 * 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav edscript.html webkit.html
+keyboardNav mathjax.html webkit.html
 
 import ../footer.scroll

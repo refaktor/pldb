@@ -6,7 +6,7 @@ title POP-2 - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="nexml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="boron.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="business-process-modeling-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pop-2.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1967 1967
 
 dashboard
- #1295 <span title="TotalRank: 1824 Jobs: 103 Users: 1514 Facts: 1779 Links: 207">on PLDB</span>
+ #1293 <span title="TotalRank: 1824 Jobs: 103 Users: 1514 Facts: 1779 Links: 207">on PLDB</span>
  56 Years Old
 
 * POP-2 (also referred to as POP2) is a programming language developed around 1970 from the earlier language POP-1 (developed by Robin Popplestone in 1968, originally named COWSEL) by Robin Popplestone and Rod Burstall at the University of Edinburgh.  It drew roots from many sources: the languages LISP and ALGOL 60, and theoretical ideas from Peter J. Landin. Read more on Wikipedia...
@@ -40,6 +40,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/POP-2'>Wikipe
 
 endColumns
 
-keyboardNav nexml.html business-process-modeling-language.html
+keyboardNav boron.html business-process-modeling-language.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Sugi - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tawa.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sqhtml.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="albatross.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sugi.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/sugi-lang/sugi
 
 dashboard
- #2483 <span title="TotalRank: 3061 Jobs: 103 Users: 2400 Facts: 1972 Links: 986">on PLDB</span>
+ #2484 <span title="TotalRank: 3062 Jobs: 103 Users: 2400 Facts: 1973 Links: 986">on PLDB</span>
  2 Years Old
 
 * A sequential and minimalistic programming language seeking the ultimate syntax.
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav tawa.html albatross.html
+keyboardNav sqhtml.html albatross.html
 
 import ../footer.scroll

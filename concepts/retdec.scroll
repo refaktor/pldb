@@ -7,7 +7,7 @@ title RetDec - Decompiler
 
 html
  <a class="trueBaseThemePreviousItem" href="sizzle.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nqc.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="desmos.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/retdec.pldb
 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav sizzle.html nqc.html
+keyboardNav sizzle.html desmos.html
 
 import ../footer.scroll

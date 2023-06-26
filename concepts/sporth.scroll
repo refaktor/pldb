@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/PaulBatchelor/Sporth
 
 dashboard
- #1518 <span title="TotalRank: 2030 Jobs: 103 Users: 941 Facts: 2171 Links: 986">on PLDB</span>
+ #1518 <span title="TotalRank: 2030 Jobs: 103 Users: 941 Facts: 1879 Links: 986">on PLDB</span>
  8 Years Old
 
 * A small stack-based audio language.
@@ -30,6 +30,9 @@ dashboard
 - sporth website
  https://paulbatchelor.github.io/proj/sporth
 - sporth is developed on <a href="https://github.com/PaulBatchelor/Sporth">GitHub</a> and has 247 stars
+- sporth first developed in <a href="../lists/originCommunities.html#httpsGithubComPaulBatchelorSporthIssues">https://github.com/PaulBatchelor/sporth/issues</a>
+- Read more about sporth on the web: 1.
+ https://pbat.ch/proj/cook/ 1.
 
 <br>
 

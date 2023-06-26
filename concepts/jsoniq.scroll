@@ -7,7 +7,7 @@ title JSONiq - Query language
 
 html
  <a class="trueBaseThemePreviousItem" href="karel.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="blackcoffee.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="heap.coffee.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jsoniq.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2011 2011
 
 dashboard
- #695 <span title="TotalRank: 1263 Jobs: 103 Users: 1036 Facts: 494 Links: 666">on PLDB</span>
+ #696 <span title="TotalRank: 1264 Jobs: 103 Users: 1036 Facts: 495 Links: 666">on PLDB</span>
  12 Years Old
  153 <span title="JSONiq repos on GitHub.">Repos</span>
 
@@ -180,6 +180,6 @@ treeTable
   Token 
   Example
 
-keyboardNav karel.html blackcoffee.html
+keyboardNav karel.html heap.coffee.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title SHACL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="probevue.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="plink-ped-format.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="foaf.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="strat.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/shacl.pldb
 
@@ -19,13 +19,14 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
 
 dashboard
- #1951 <span title="TotalRank: 2465 Jobs: 103 Users: 2143 Facts: 1376 Links: 986">on PLDB</span>
+ #1814 <span title="TotalRank: 2340 Jobs: 103 Users: 2143 Facts: 1251 Links: 986">on PLDB</span>
  8 Years Old
 
 * A standard language for describing Resource Description Framework (RDF) graphs.
 
 - SHACL Wikipedia page
  https://en.wikipedia.org/wiki/SHACL
+- SHACL first developed in <a href="../lists/originCommunities.html#worldWideWebConsortium">World Wide Web Consortium</a>
 - See also: (1 related languages)<a href="rdf.html">RDF</a>
 - Read more about SHACL on the web: 1.
  https://www.w3.org/TR/shacl/ 1.
@@ -52,6 +53,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav probevue.html plink-ped-format.html
+keyboardNav foaf.html strat.html
 
 import ../footer.scroll

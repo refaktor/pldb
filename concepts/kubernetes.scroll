@@ -7,7 +7,7 @@ title Kubernetes - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="robomind.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mavo.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ipf.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/kubernetes.pldb
 
@@ -41,6 +41,6 @@ dashboard
 
 endColumns
 
-keyboardNav robomind.html mavo.html
+keyboardNav robomind.html ipf.html
 
 import ../footer.scroll

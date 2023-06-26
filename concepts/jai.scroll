@@ -6,7 +6,7 @@ title JAI - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ddml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="parrot-internal-representation.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="guile.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jai.pldb
@@ -99,6 +99,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ddml.html guile.html
+keyboardNav parrot-internal-representation.html guile.html
 
 import ../footer.scroll

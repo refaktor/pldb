@@ -7,7 +7,7 @@ title RUNOFF - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="triton.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="parrot-internal-representation.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ddml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/runoff.pldb
 
@@ -365,6 +365,6 @@ codeWithHeader Example from <a href='https://github.com/Alhadis/language-roff'>L
 
 endColumns
 
-keyboardNav triton.html parrot-internal-representation.html
+keyboardNav triton.html ddml.html
 
 import ../footer.scroll

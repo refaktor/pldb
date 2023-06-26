@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/leo-editor/leo-editor
 
 dashboard
- #1185 on PLDB
+ #1186 on PLDB
  10 Years Old
 
 * Leo is an Outliner, Editor, IDE and PIM written in 100% Python.

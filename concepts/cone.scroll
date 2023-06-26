@@ -6,7 +6,7 @@ title Cone - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="linearml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="wddx.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="qtscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cone.pldb
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav linearml.html qtscript.html
+keyboardNav wddx.html qtscript.html
 
 import ../footer.scroll

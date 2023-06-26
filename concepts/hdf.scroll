@@ -7,7 +7,7 @@ title Hierarchical Data Format - Binary data format
 
 html
  <a class="trueBaseThemePreviousItem" href="closure-templates.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="datascript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="assemblyscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hdf.pldb
 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav closure-templates.html datascript.html
+keyboardNav closure-templates.html assemblyscript.html
 
 import ../footer.scroll

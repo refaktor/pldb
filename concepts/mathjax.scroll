@@ -7,7 +7,7 @@ title MathJax - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="kernel.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="bayer-expressions.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="firefox.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mathjax.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #2556 <span title="TotalRank: 3202 Jobs: 103 Users: 2433 Facts: 2539 Links: 666">on PLDB</span>
+ #2557 <span title="TotalRank: 3202 Jobs: 103 Users: 2433 Facts: 2540 Links: 666">on PLDB</span>
  15 Years Old
 
 * Beautiful and accessible math in all browsers
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav kernel.html bayer-expressions.html
+keyboardNav kernel.html firefox.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title DM - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="applesoft-basic.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="openscad.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="atari-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dm.pldb
@@ -171,6 +171,6 @@ treeTable
   Token 
   Example
 
-keyboardNav applesoft-basic.html atari-basic.html
+keyboardNav openscad.html atari-basic.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Stackless Python - Interpreter
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="iswim.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="doh.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="asterisk.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stackless-python.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1998 1998
 
 dashboard
- #1250 on PLDB
+ #1249 on PLDB
  25 Years Old
 
 * Stackless Python, or Stackless, is a Python programming language interpreter, so named because it avoids depending on the C call stack for its own stack. In practice, Stackless Python uses the C stack, but the stack is cleared between function calls . The most prominent feature of Stackless is microthreads, which avoid much of the overhead associated with usual operating system threads. Read more on Wikipedia...
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav iswim.html asterisk.html
+keyboardNav doh.html asterisk.html
 
 import ../footer.scroll

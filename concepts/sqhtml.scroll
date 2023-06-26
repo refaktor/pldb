@@ -6,8 +6,8 @@ title SQHTML - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="codeflow.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="c-talk.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="tawa.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sugi.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sqhtml.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/KatrinaKitten/sqhtml/
 
 dashboard
- #2531 <span title="TotalRank: 3145 Jobs: 103 Users: 2400 Facts: 2056 Links: 986">on PLDB</span>
+ #2483 <span title="TotalRank: 3062 Jobs: 103 Users: 2400 Facts: 1973 Links: 986">on PLDB</span>
  1 Years Old
 
 * The worst way to build a website
@@ -31,11 +31,12 @@ dashboard
 - SQHTML website
  https://sqhtml.swordglowsblue.com/
 - SQHTML is developed on <a href="https://github.com/KatrinaKitten/sqhtml/">GitHub</a> and has 1 stars
+- SQHTML first developed in <a href="../lists/originCommunities.html#httpsGithubComKatrinaKittenSqhtmlIssues">https://github.com/KatrinaKitten/sqhtml/issues</a>
 
 <br>
 
 endColumns
 
-keyboardNav codeflow.html c-talk.html
+keyboardNav tawa.html sugi.html
 
 import ../footer.scroll

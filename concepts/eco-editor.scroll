@@ -7,7 +7,7 @@ title eco-editor - Editor
 
 html
  <a class="trueBaseThemePreviousItem" href="kamilalisp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="extended-ml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sham.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/eco-editor.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav kamilalisp.html extended-ml.html
+keyboardNav kamilalisp.html sham.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title chisel - Hardware description language
 
 html
  <a class="trueBaseThemePreviousItem" href="hackett.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="stan.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="observable-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/chisel.pldb
 
@@ -41,6 +41,6 @@ dashboard
 
 endColumns
 
-keyboardNav hackett.html stan.html
+keyboardNav hackett.html observable-lang.html
 
 import ../footer.scroll

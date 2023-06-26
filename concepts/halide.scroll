@@ -6,7 +6,7 @@ title Halide - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="xojo.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="pegjs.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="e.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/halide.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/halide/Halide
 
 dashboard
- #312 <span title="TotalRank: 722 Jobs: 103 Users: 133 Facts: 486 Links: 986">on PLDB</span>
+ #312 <span title="TotalRank: 723 Jobs: 103 Users: 133 Facts: 487 Links: 986">on PLDB</span>
  13 Years Old
 
 * a language for fast, portable computation on images and tensors
@@ -80,6 +80,6 @@ treeTable
   Token 
   Example
 
-keyboardNav xojo.html e.html
+keyboardNav pegjs.html e.html
 
 import ../footer.scroll

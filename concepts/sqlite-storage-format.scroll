@@ -6,8 +6,8 @@ title sqlite-storage-format - Binary data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="runescript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sugarj.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="siri.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sr.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sqlite-storage-format.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
 
 dashboard
- #3911 on PLDB
+ #4204 on PLDB
  23 Years Old
 
 * The complete state of an SQLite database is usually contained in a single file on disk called the "main database file". During a transaction, SQLite stores additional information in a second file called the "rollback journal", or if SQLite is in WAL mode, a write-ahead log file.
 
+- sqlite-storage-format first developed in <a href="../lists/originCommunities.html#hippWyrickCompanyInc"> Hipp, Wyrick & Company, Inc</a>
 - Read more about sqlite-storage-format on the web: 1.
  https://www.sqlite.org/fileformat.html#:~:text=The%20complete%20state%20of%20an,a%20write%2Dahead%20log%20file. 1.
 
@@ -31,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav runescript.html sugarj.html
+keyboardNav siri.html sr.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Tawa - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="dreamlisp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sugi.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sqhtml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tawa.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/tawasprache/kompilierer
 
 dashboard
- #2482 <span title="TotalRank: 3061 Jobs: 103 Users: 2371 Facts: 1972 Links: 986">on PLDB</span>
+ #2482 <span title="TotalRank: 3062 Jobs: 103 Users: 2371 Facts: 1973 Links: 986">on PLDB</span>
  2 Years Old
 
 * Einfache funktionale Programmiersprache.
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav dreamlisp.html sugi.html
+keyboardNav dreamlisp.html sqhtml.html
 
 import ../footer.scroll

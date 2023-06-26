@@ -7,7 +7,7 @@ title C2 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="roy.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="chef.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spry.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/c2.pldb
 
@@ -168,6 +168,6 @@ treeTable
   Token 
   Example
 
-keyboardNav roy.html chef.html
+keyboardNav roy.html spry.html
 
 import ../footer.scroll

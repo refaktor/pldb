@@ -7,7 +7,7 @@ title NetLinx - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="lotusscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="xetex.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sam-format.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/netlinx.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2007 2007
 
 dashboard
- #621 <span title="TotalRank: 1188 Jobs: 103 Users: 979 Facts: 106 Links: 986">on PLDB</span>
+ #622 <span title="TotalRank: 1188 Jobs: 103 Users: 979 Facts: 106 Links: 986">on PLDB</span>
  16 Years Old
  122 <span title="NetLinx repos on GitHub.">Repos</span>
 
@@ -208,6 +208,6 @@ treeTable
   Token 
   Example
 
-keyboardNav lotusscript.html xetex.html
+keyboardNav lotusscript.html sam-format.html
 
 import ../footer.scroll

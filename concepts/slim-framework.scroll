@@ -6,8 +6,8 @@ title Slim Framework - Framework
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="kerf.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="devicetree.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="serious.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="acme.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/slim-framework.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/slimphp/Slim
 
 dashboard
- #2256 on PLDB
+ #2130 on PLDB
  10 Years Old
 
 * 
@@ -32,6 +32,7 @@ dashboard
 - Slim Framework is developed on <a href="https://github.com/slimphp/Slim">GitHub</a>
 - Slim Framework docs
  https://www.slimframework.com/docs/v4/
+- Slim Framework first developed in <a href="../lists/originCommunities.html#httpsGithubComSlimphp">https://github.com/slimphp</a>
 - Slim Framework is written in <a href="php.html">PHP</a>
 
 <br>
@@ -56,6 +57,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav kerf.html devicetree.html
+keyboardNav serious.html acme.html
 
 import ../footer.scroll

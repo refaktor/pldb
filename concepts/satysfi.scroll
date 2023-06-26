@@ -6,8 +6,8 @@ title SATySFi - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="basic-programming.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="carpet.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="parrot-assembly.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/satysfi.pldb
 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav basic-programming.html carpet.html
+keyboardNav parrot-assembly.html fp.html
 
 import ../footer.scroll

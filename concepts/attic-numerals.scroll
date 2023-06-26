@@ -6,7 +6,7 @@ title Attic numerals - Numeral system
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="citrine.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="edscript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="feynman-diagram.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/attic-numerals.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+-600 -600
 
 dashboard
- #2569 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 4308 Links: 986">on PLDB</span>
+ #2570 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 4308 Links: 986">on PLDB</span>
  2623 Years Old
 
 * 
@@ -31,6 +31,6 @@ dashboard
 
 endColumns
 
-keyboardNav citrine.html feynman-diagram.html
+keyboardNav edscript.html feynman-diagram.html
 
 import ../footer.scroll

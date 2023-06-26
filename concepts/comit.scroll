@@ -6,7 +6,7 @@ title COMIT - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="hotdog.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="xtao.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="basic4ppc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/comit.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#victorYngve Victor Yngve
 
 dashboard
- #1641 <span title="TotalRank: 2145 Jobs: 103 Users: 1470 Facts: 1376 Links: 666">on PLDB</span>
+ #1641 <span title="TotalRank: 2146 Jobs: 103 Users: 1470 Facts: 1377 Links: 666">on PLDB</span>
  66 Years Old
 
 * COMIT was the first string processing language (compare SNOBOL, TRAC, and Perl), developed on the IBM 700/7000 series computers by Dr. Victor Yngve and collaborators at MIT from 1957 to 1965.  Yngve created the language for supporting computerized research in the field of linguistics, and more specifically, the area of machine translation for natural language processing. Read more on Wikipedia...
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav hotdog.html basic4ppc.html
+keyboardNav xtao.html basic4ppc.html
 
 import ../footer.scroll

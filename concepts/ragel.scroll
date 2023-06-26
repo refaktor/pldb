@@ -6,7 +6,7 @@ title Ragel - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="smarty.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="imba.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ron.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ragel.pldb
@@ -154,6 +154,6 @@ treeTable
   Token 
   Example
 
-keyboardNav smarty.html ron.html
+keyboardNav imba.html ron.html
 
 import ../footer.scroll

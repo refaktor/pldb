@@ -7,7 +7,7 @@ title Windows Registry Entries - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="type-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="jsil-compiler.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="plb.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/windows-registry-entries.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1992 1992
 
 dashboard
- #1093 on PLDB
+ #1094 on PLDB
  31 Years Old
  139 <span title="Windows Registry Entries repos on GitHub.">Repos</span>
 
@@ -88,6 +88,6 @@ codeWithHeader Example from <a href='https://github.com/bsara/language-reg'>Ling
 
 endColumns
 
-keyboardNav type-language.html jsil-compiler.html
+keyboardNav type-language.html plb.html
 
 import ../footer.scroll

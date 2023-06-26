@@ -7,7 +7,7 @@ title FreeBASIC - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="algol-68.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="quickbasic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="free-pascal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/freebasic.pldb
 
@@ -79,6 +79,6 @@ treeTable
   Token 
   Example
 
-keyboardNav algol-68.html quickbasic.html
+keyboardNav algol-68.html free-pascal.html
 
 import ../footer.scroll

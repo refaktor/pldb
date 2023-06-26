@@ -7,7 +7,7 @@ title co-dfns - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="powerisa.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="zonnon.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="status-quo-function.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/co-dfns.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/Co-dfns/Co-dfns
 
 dashboard
- #1258 <span title="TotalRank: 1791 Jobs: 103 Users: 702 Facts: 1445 Links: 986">on PLDB</span>
+ #1254 <span title="TotalRank: 1791 Jobs: 103 Users: 702 Facts: 1445 Links: 986">on PLDB</span>
  11 Years Old
 
 * High-performance, Reliable, and Parallel APL
@@ -41,6 +41,6 @@ dashboard
 
 endColumns
 
-keyboardNav powerisa.html zonnon.html
+keyboardNav powerisa.html status-quo-function.html
 
 import ../footer.scroll

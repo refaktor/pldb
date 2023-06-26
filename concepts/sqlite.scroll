@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#dwayneRichardHipp Dwayne Richard Hipp
 
 dashboard
- #113 <span title="TotalRank: 327 Jobs: 50 Users: 192 Facts: 494 Links: 85">on PLDB</span>
+ #113 <span title="TotalRank: 327 Jobs: 50 Users: 192 Facts: 483 Links: 85">on PLDB</span>
  23 Years Old
 
 * Try now: <a href="https://sqlite.org/fiddle/index.html">Web</a> · <a href="https://riju.codes/sqlite">Riju</a> · <a href="https://tio.run/#sqlite">TIO</a>
@@ -35,6 +35,7 @@ dashboard
 - Watch the history of <a href="https://www.youtube.com/watch?v=kjdxiG17hGM">the SQLite repo visualized with Gource</a>
 - SQLite docs
  https://www.sqlite.org/docs.html
+- SQLite first developed in <a href="../lists/originCommunities.html#hippWyrickCompanyInc"> Hipp, Wyrick & Company, Inc</a>
 - PLDB estimates there are currently 561 job openings for SQLite programmers.
 - SQLite is written in <a href="c.html">C</a>
 - There are 2,744 members in the <a href="https://reddit.com/r/sqlite">SQLite subreddit</a>

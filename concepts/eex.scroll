@@ -6,7 +6,7 @@ title EEX - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="gff-format.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="muon.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="jsx.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/eex.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
 
 dashboard
- #1053 <span title="TotalRank: 1619 Jobs: 103 Users: 1124 Facts: 530 Links: 986">on PLDB</span>
+ #1055 <span title="TotalRank: 1620 Jobs: 103 Users: 1124 Facts: 531 Links: 986">on PLDB</span>
  11 Years Old
  34 <span title="EEX repos on GitHub.">Repos</span>
 
@@ -73,6 +73,6 @@ codeWithHeader Example from <a href='https://github.com/elixir-lang/elixir-tmbun
 
 endColumns
 
-keyboardNav gff-format.html jsx.html
+keyboardNav muon.html jsx.html
 
 import ../footer.scroll

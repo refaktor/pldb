@@ -7,7 +7,7 @@ title sqlar-format - Binary data format
 
 html
  <a class="trueBaseThemePreviousItem" href="sps.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="squrl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ssl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sqlar-format.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
 
 dashboard
- #3978 on PLDB
+ #4831 on PLDB
  9 Years Old
 
 * This program (named "sqlar") operates much like "zip", except that the compressed archive it builds is stored in an SQLite database instead of a ZIP archive.
 
+- sqlar-format first developed in <a href="../lists/originCommunities.html#hippWyrickCompanyInc"> Hipp, Wyrick & Company, Inc</a>
 - See also: (2 related languages)<a href="gzip.html">Gzip</a>, <a href="zip-format.html">Zip file format</a>
 - Read more about sqlar-format on the web: 1.
  https://sqlite.org/sqlar/doc/trunk/README.md 1.
@@ -32,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav sps.html squrl.html
+keyboardNav sps.html ssl.html
 
 import ../footer.scroll

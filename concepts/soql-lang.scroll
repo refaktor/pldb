@@ -7,7 +7,7 @@ title Socrata Query Language - Query language
 
 html
  <a class="trueBaseThemePreviousItem" href="simplescript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="splaw.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="squrl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/soql-lang.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
 
 dashboard
- #3199 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4089 Links: 986">on PLDB</span>
+ #3200 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4091 Links: 986">on PLDB</span>
  11 Years Old
 
 * 
@@ -32,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav simplescript.html splaw.html
+keyboardNav simplescript.html squrl.html
 
 import ../footer.scroll

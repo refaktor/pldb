@@ -6,7 +6,7 @@ title tibet - Framework
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="konsolscript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="spark-pl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="codeflow.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tibet.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/TechnicalPursuit/TIBET
 
 dashboard
- #2836 on PLDB
+ #2838 on PLDB
  26 Years Old
 
 * The very, very first Javascript framework ever designed. “...in awe of what you’ve done with JS.” — Brendan Eich, JavaScript’s creator.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav konsolscript.html codeflow.html
+keyboardNav spark-pl.html codeflow.html
 
 import ../footer.scroll

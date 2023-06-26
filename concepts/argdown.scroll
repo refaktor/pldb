@@ -6,7 +6,7 @@ title Argdown - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tiny-basic.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="xtext.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="cilk.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/argdown.pldb
@@ -163,6 +163,6 @@ treeTable
   Token 
   Example
 
-keyboardNav tiny-basic.html cilk.html
+keyboardNav xtext.html cilk.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title SQLMP - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sprint.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="square.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="snostorm.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tao.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sqlmp.pldb
 
@@ -19,20 +19,23 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1991 1991
 
 dashboard
- #3426 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3894 Links: 986">on PLDB</span>
+ #3125 <span title="TotalRank: 3888 Jobs: 103 Users: 2829 Facts: 2799 Links: 986">on PLDB</span>
  32 Years Old
 
 * 
 
+- SQLMP first developed in <a href="../lists/originCommunities.html#texasAMUniversity">Texas A&M University</a>
 - SQLMP on HOPL
  https://hopl.info/showlanguage.prx?exp=8033
 - Read more about SQLMP on Semantic Scholar: 1.
  https://semanticscholar.org/paper/08c34d90f92dc708f12853fc2dc48366c6af3336 1.
+- Read more about SQLMP on the web: 1.
+ https://ideas.repec.org/a/inm/orijoc/v3y1991i4p358-375.html 1.
 
 <br>
 
 endColumns
 
-keyboardNav sprint.html square.html
+keyboardNav snostorm.html tao.html
 
 import ../footer.scroll

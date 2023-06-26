@@ -6,8 +6,8 @@ title kitten - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="chuck.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="scss.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="pop-11.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="chuck.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/kitten.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/evincarofautumn/kitten
 
 dashboard
- #767 <span title="TotalRank: 1336 Jobs: 103 Users: 515 Facts: 718 Links: 986">on PLDB</span>
+ #766 <span title="TotalRank: 1336 Jobs: 103 Users: 515 Facts: 718 Links: 986">on PLDB</span>
  11 Years Old
 
 * Try now: <a href="https://riju.codes/kitten">Riju</a>
@@ -65,6 +65,6 @@ treeTable
   Token say
   Example
 
-keyboardNav chuck.html scss.html
+keyboardNav pop-11.html chuck.html
 
 import ../footer.scroll

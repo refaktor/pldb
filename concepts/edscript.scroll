@@ -7,7 +7,7 @@ title ed script - Diff format
 
 html
  <a class="trueBaseThemePreviousItem" href="bayer-expressions.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="firefox.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="attic-numerals.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/edscript.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1973 1973
 
 dashboard
- #2558 <span title="TotalRank: 3215 Jobs: 103 Users: 2829 Facts: 2446 Links: 666">on PLDB</span>
+ #2569 <span title="TotalRank: 3217 Jobs: 103 Users: 2829 Facts: 2448 Links: 666">on PLDB</span>
  50 Years Old
 
 * diff can produce commands that direct the ed text editor to change the first file into the second file. These are often called "ed scripts".
@@ -40,6 +40,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav bayer-expressions.html firefox.html
+keyboardNav bayer-expressions.html attic-numerals.html
 
 import ../footer.scroll

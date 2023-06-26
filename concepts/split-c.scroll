@@ -6,8 +6,8 @@ title Split-C - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="metapost.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rapidq.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="scm.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tamgu.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/split-c.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1995 1995
 
 dashboard
- #1679 <span title="TotalRank: 2200 Jobs: 103 Users: 1606 Facts: 2446 Links: 491">on PLDB</span>
+ #1681 <span title="TotalRank: 2200 Jobs: 103 Users: 1606 Facts: 2058 Links: 491">on PLDB</span>
  28 Years Old
 
 * Split-C is a parallel extension of the C programming language. The Split-C project website describes Split-C as:  a parallel extension of the C programming language that supports efficient access to a global address space on current distributed memory multiprocessors. It retains the "small language" character of C and supports careful engineering and optimization of programs by providing a simple, predictable cost model. Read more on Wikipedia...
@@ -27,12 +27,15 @@ dashboard
 
 - Split-C Wikipedia page
  https://en.wikipedia.org/wiki/Split-C
+- Split-C first developed in <a href="../lists/originCommunities.html#universityOfCaliforniaBerkeley">University of California, Berkeley</a>
 - See also: (2 related languages)<a href="c.html">C</a>, <a href="cilk.html">CIL</a>
+- Read more about Split-C on the web: 1.
+ https://www.cs.cmu.edu/~seth/papers/culler-sc93.html 1.
 
 <br>
 
 endColumns
 
-keyboardNav metapost.html rapidq.html
+keyboardNav scm.html tamgu.html
 
 import ../footer.scroll

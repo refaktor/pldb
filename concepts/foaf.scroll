@@ -7,7 +7,7 @@ title FOAF - Xml format
 
 html
  <a class="trueBaseThemePreviousItem" href="dern.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="strat.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="shacl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/foaf.pldb
 
@@ -55,6 +55,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav dern.html strat.html
+keyboardNav dern.html shacl.html
 
 import ../footer.scroll

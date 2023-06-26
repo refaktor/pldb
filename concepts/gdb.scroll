@@ -7,7 +7,7 @@ title GDB - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="puppet.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="oxygene.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="gambas.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gdb.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1986 1986
 
 dashboard
- #387 on PLDB
+ #385 on PLDB
  37 Years Old
 
 * Try now: <a href="https://riju.codes/gdb">Riju</a>
@@ -103,6 +103,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/GNU_Debugger'
 
 endColumns
 
-keyboardNav puppet.html oxygene.html
+keyboardNav puppet.html gambas.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Observable - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="stan.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="verona.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="chisel.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="stan.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/observable-lang.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/observablehq/runtime
 
 dashboard
- #759 <span title="TotalRank: 1325 Jobs: 103 Users: 556 Facts: 718 Links: 666">on PLDB</span>
+ #758 <span title="TotalRank: 1325 Jobs: 103 Users: 556 Facts: 718 Links: 666">on PLDB</span>
  6 Years Old
 
 * Try now: <a href="https://observablehq.com/@breck7/languages-with-central-package-repositories">Web</a>
@@ -77,6 +77,6 @@ treeTable
   Token 
   Example
 
-keyboardNav stan.html verona.html
+keyboardNav chisel.html stan.html
 
 import ../footer.scroll

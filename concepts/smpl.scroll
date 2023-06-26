@@ -6,7 +6,7 @@ title Semantic Patch Language - Grammar language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="epigram.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="type-language.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="differential-datalog.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smpl.pldb
@@ -44,6 +44,6 @@ dashboard
 
 endColumns
 
-keyboardNav epigram.html differential-datalog.html
+keyboardNav type-language.html differential-datalog.html
 
 import ../footer.scroll

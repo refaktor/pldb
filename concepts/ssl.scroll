@@ -6,7 +6,7 @@ title SSL - Protocol
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="spir-v.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sps.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="static-typescript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ssl.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1994 1994
 
 dashboard
- #4045 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3265 Links: 986">on PLDB</span>
+ #4042 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3269 Links: 986">on PLDB</span>
  29 Years Old
 
 * 
@@ -31,6 +31,6 @@ dashboard
 
 endColumns
 
-keyboardNav spir-v.html static-typescript.html
+keyboardNav sps.html static-typescript.html
 
 import ../footer.scroll

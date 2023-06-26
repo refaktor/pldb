@@ -7,7 +7,7 @@ title Bluespec - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="clu.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="livecode.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jq.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bluespec.pldb
 
@@ -183,6 +183,6 @@ treeTable
   Token 
   Example
 
-keyboardNav clu.html livecode.html
+keyboardNav clu.html jq.html
 
 import ../footer.scroll

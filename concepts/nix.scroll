@@ -6,7 +6,7 @@ title Nix - Package manager
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="desmos.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="futurebasic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="pcre.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nix.pldb
@@ -155,6 +155,6 @@ treeTable
   Token 
   Example
 
-keyboardNav desmos.html pcre.html
+keyboardNav futurebasic.html pcre.html
 
 import ../footer.scroll

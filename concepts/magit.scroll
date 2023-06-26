@@ -6,8 +6,8 @@ title Magit - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="deno.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="wsdl.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="isabelle.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="deno.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/magit.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/magit/magit
 
 dashboard
- #300 on PLDB
+ #299 on PLDB
  10 Years Old
 
 * Magit is a complete text-based user interface to Git. It fills the glaring gap between the Git command-line interface and various GUIs, letting you perform trivial as well as elaborate version control tasks with just a couple of mnemonic key presses
@@ -47,6 +47,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Magit'>Wikipe
 
 endColumns
 
-keyboardNav deno.html wsdl.html
+keyboardNav isabelle.html deno.html
 
 import ../footer.scroll

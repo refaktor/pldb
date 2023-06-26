@@ -6,8 +6,8 @@ title Imba - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="datascript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smarty.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="smarty.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ragel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/imba.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/imba/imba
 
 dashboard
- #452 <span title="TotalRank: 960 Jobs: 103 Users: 169 Facts: 688 Links: 986">on PLDB</span>
+ #453 <span title="TotalRank: 961 Jobs: 103 Users: 169 Facts: 689 Links: 986">on PLDB</span>
  9 Years Old
 
 * Imba is a Web programming language that's fast in two ways: Imba's time-saving syntax with built-in tags and styles results in less typing and switching files so you can build things fast. Imba's groundbreaking memoized DOM is an order of magnitude faster than virtual DOM libraries, so you can build fast things.
@@ -68,6 +68,6 @@ treeTable
   Token 
   Example
 
-keyboardNav datascript.html smarty.html
+keyboardNav smarty.html ragel.html
 
 import ../footer.scroll

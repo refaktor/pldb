@@ -6,8 +6,8 @@ title Deno - Compiler
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="isabelle.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="magit.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="magit.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="wsdl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/deno.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/denoland/deno
 
 dashboard
- #299 on PLDB
+ #300 on PLDB
  5 Years Old
 
 * A modern runtime for JavaScript and TypeScript.
@@ -98,6 +98,6 @@ treeTable
   Token 
   Example
 
-keyboardNav isabelle.html magit.html
+keyboardNav magit.html wsdl.html
 
 import ../footer.scroll

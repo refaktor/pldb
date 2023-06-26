@@ -6,7 +6,7 @@ title Zonnon - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="co-dfns.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="holyc.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="sdlbasic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zonnon.pldb
@@ -58,6 +58,6 @@ treeTable
   Token writeln
   Example
 
-keyboardNav co-dfns.html sdlbasic.html
+keyboardNav holyc.html sdlbasic.html
 
 import ../footer.scroll

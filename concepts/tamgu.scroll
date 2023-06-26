@@ -6,7 +6,7 @@ title tamgu - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="scm.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="split-c.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="arret.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tamgu.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/naver/tamgu
 
 dashboard
- #1682 <span title="TotalRank: 2203 Jobs: 103 Users: 1114 Facts: 1972 Links: 986">on PLDB</span>
+ #1682 <span title="TotalRank: 2203 Jobs: 103 Users: 1114 Facts: 1973 Links: 986">on PLDB</span>
  4 Years Old
 
 * Tamgu (탐구), a FIL programming language: Functional, Imperative, Logical all in one for annotation and data augmentation
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav scm.html arret.html
+keyboardNav split-c.html arret.html
 
 import ../footer.scroll

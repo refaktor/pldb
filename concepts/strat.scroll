@@ -6,7 +6,7 @@ title strat - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="foaf.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="shacl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="jcof.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/strat.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/stratworld/strat
 
 dashboard
- #1814 <span title="TotalRank: 2340 Jobs: 103 Users: 2143 Facts: 1251 Links: 986">on PLDB</span>
+ #1815 <span title="TotalRank: 2340 Jobs: 103 Users: 2143 Facts: 1251 Links: 986">on PLDB</span>
  5 Years Old
 
 * A language to represent and deploy portable cloud systems ->
@@ -43,6 +43,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav foaf.html jcof.html
+keyboardNav shacl.html jcof.html
 
 import ../footer.scroll

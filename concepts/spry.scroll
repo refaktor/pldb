@@ -6,8 +6,8 @@ title spry - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="srl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="1620sps.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="c2.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="chef.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spry.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/gokr/spry
 
 dashboard
- #865 <span title="TotalRank: 1429 Jobs: 103 Users: 796 Facts: 530 Links: 986">on PLDB</span>
+ #851 <span title="TotalRank: 1415 Jobs: 103 Users: 796 Facts: 516 Links: 986">on PLDB</span>
  8 Years Old
 
 * Spry borrows homoiconicity from Rebol and Lisp, free form syntax from Forth and Rebol, the word of different types from Rebol, good data structure literal support from JavaScript and the general coding experience and style from Smalltalk. It also has a few ideas of its own, like an interesting argument passing mechanism and a relatively novel take on OO.
@@ -31,6 +31,7 @@ dashboard
 - spry website
  http://sprylang.se/
 - spry is developed on <a href="https://github.com/gokr/spry">GitHub</a> and has 378 stars
+- spry first developed in <a href="../lists/originCommunities.html#httpsSprylangSeAboutHtml">https://sprylang.se/about.html</a>
 
 <br>
 
@@ -95,6 +96,6 @@ treeTable
   Token 
   Example
 
-keyboardNav srl.html 1620sps.html
+keyboardNav c2.html chef.html
 
 import ../footer.scroll

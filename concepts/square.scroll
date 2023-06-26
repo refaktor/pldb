@@ -6,8 +6,8 @@ title SQUARE - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sqlmp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sr.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sprint.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="squidconf.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/square.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1975 1975
 
 dashboard
- #3427 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3894 Links: 986">on PLDB</span>
+ #4312 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 2921 Links: 986">on PLDB</span>
  48 Years Old
 
 * 
 
+- SQUARE first developed in <a href="../lists/originCommunities.html#ibmAndMassachusettesInstituteOfTechnology">IBM and Massachusettes Institute of Technology</a>
 - SQUARE on HOPL
  https://hopl.info/showlanguage.prx?exp=696
 - Read more about SQUARE on Semantic Scholar: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav sqlmp.html sr.html
+keyboardNav sprint.html squidconf.html
 
 import ../footer.scroll
