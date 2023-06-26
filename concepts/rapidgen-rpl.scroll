@@ -7,7 +7,7 @@ title rapidgen-rpl - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="push.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="xduce.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spill.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rapidgen-rpl.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1983 1983
 
 dashboard
- #2654 <span title="TotalRank: 3259 Jobs: 103 Users: 2829 Facts: 2169 Links: 987">on PLDB</span>
+ #2654 <span title="TotalRank: 3262 Jobs: 103 Users: 2829 Facts: 2172 Links: 987">on PLDB</span>
  40 Years Old
 
 * RapidGen translates the XML into a concise and transparent format of decision tables for decision logic programming —RPL— a rich, purpose-built language developed by the company. Supports high speed execution of decision models. Is capable of processing large data volumes. Preserves traceability to the original DMN model.
@@ -41,6 +41,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav push.html xduce.html
+keyboardNav push.html spill.html
 
 import ../footer.scroll

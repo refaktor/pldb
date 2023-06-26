@@ -6,7 +6,7 @@ title Sprite Operating System - Operating system
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="set-builder-notation.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="spf-standard.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="structured-storage.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sprite-os.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1984 1984
 
 dashboard
- #3000 on PLDB
+ #3001 on PLDB
  39 Years Old
 
 * 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav set-builder-notation.html structured-storage.html
+keyboardNav spf-standard.html structured-storage.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title KonsolScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tefkat.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="proset.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="codeflow.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/konsolscript.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2005 2005
 
 dashboard
- #2519 <span title="TotalRank: 3143 Jobs: 103 Users: 2056 Facts: 2053 Links: 987">on PLDB</span>
+ #2530 <span title="TotalRank: 3146 Jobs: 103 Users: 2056 Facts: 2057 Links: 987">on PLDB</span>
  18 Years Old
 
 * KonsolScript is a cross-platform scripting language used mostly for games. It is available for Windows and Linux Operating Systems. KonsolScript was developed during 2005 as the scripting language which is intentionally  for the purpose writing games with KAGE (Alternative Game Engine). Read more on Wikipedia...
@@ -45,6 +45,6 @@ treeTable
   Token 
   Example
 
-keyboardNav tefkat.html codeflow.html
+keyboardNav proset.html codeflow.html
 
 import ../footer.scroll

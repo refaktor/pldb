@@ -6,7 +6,7 @@ title Nuprl - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="todotxt.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="zlang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="absys.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nuprl.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#robertLee Robert Lee
 
 dashboard
- #2396 <span title="TotalRank: 2941 Jobs: 103 Users: 1851 Facts: 2538 Links: 987">on PLDB</span>
+ #2395 <span title="TotalRank: 2941 Jobs: 103 Users: 1851 Facts: 2539 Links: 987">on PLDB</span>
  39 Years Old
 
 * Nuprl is a proof development system, providing computer-mediated analysis and proofs of formal mathematical statements, and tools for software verification and optimization.  Originally developed in the 1980s by Robert Lee Constable and others, the system is now maintained by the PRL Project at Cornell University.  The currently supported version, Nuprl 5, is also known as FDL (Formal Digital Library). Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav todotxt.html absys.html
+keyboardNav zlang.html absys.html
 
 import ../footer.scroll

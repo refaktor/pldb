@@ -6,7 +6,7 @@ title XMTC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ssl-lang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="tefkat.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ape100.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xmtc.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1990 1990
 
 dashboard
- #2536 <span title="TotalRank: 3146 Jobs: 103 Users: 2056 Facts: 2538 Links: 987">on PLDB</span>
+ #2520 <span title="TotalRank: 3146 Jobs: 103 Users: 2056 Facts: 2539 Links: 987">on PLDB</span>
  33 Years Old
 
 * XMTC (for explicit multi-threading C) is a shared-memory parallel programming language.  It is an extension of the C programming language which strives to enable easy PRAM-like programming based on the explicit multi-threading paradigm.  It is developed as part of the XMT PRAM-On-Chip vision by a research team at the University of Maryland, College Park, led by Dr. Read more on Wikipedia...
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav ssl-lang.html ape100.html
+keyboardNav tefkat.html ape100.html
 
 import ../footer.scroll

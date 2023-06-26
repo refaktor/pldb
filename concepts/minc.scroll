@@ -6,7 +6,7 @@ title MINC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="specrtl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="scl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="owbasic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/minc.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1985 1985
 
 dashboard
- #2275 <span title="TotalRank: 2765 Jobs: 103 Users: 1995 Facts: 2308 Links: 667">on PLDB</span>
+ #2275 <span title="TotalRank: 2765 Jobs: 103 Users: 1995 Facts: 2310 Links: 667">on PLDB</span>
  38 Years Old
 
 * MINC ("MINC is not C") is a data specification language written in the mid-1980s by a Princeton University graduate student named Lars Graf. This kind of naming is known as a "recursive acronym".  It contains many (though not all) of the syntactical capabilities of the C programming language, and can be used to implement simple procedural programs that can be executed by a runtime parser (that is to say, MINC does not need to be compiled in any way). Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav specrtl.html owbasic.html
+keyboardNav scl.html owbasic.html
 
 import ../footer.scroll

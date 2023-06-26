@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/vmware/differential-datalog
 
 dashboard
- #954 <span title="TotalRank: 1524 Jobs: 103 Users: 434 Facts: 1155 Links: 987">on PLDB</span>
+ #954 <span title="TotalRank: 1524 Jobs: 103 Users: 434 Facts: 1156 Links: 987">on PLDB</span>
  5 Years Old
 
 * DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not write incremental algorithms; instead they specify the desired input-output mapping in a declarative manner.

@@ -7,7 +7,7 @@ title scribble - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="rescript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="object-rexx.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="livr.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/scribble.pldb
 
@@ -61,6 +61,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav rescript.html object-rexx.html
+keyboardNav rescript.html livr.html
 
 import ../footer.scroll

@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/aretext/aretext
 
 dashboard
- #1989 on PLDB
+ #1991 on PLDB
  3 Years Old
 
 * Minimalist text editor with vim-compatible key bindings.

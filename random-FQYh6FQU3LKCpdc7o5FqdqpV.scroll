@@ -17,7 +17,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,841 files and found 544 matches in 3.04s. <span id="publishQuery"></span>
+Searched 4,841 files and found 544 matches in 2.71s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Does every programming language have line comments?
@@ -532,13 +532,13 @@ table  DeLiM
  tremor-query DeLiM /concepts/tremor-query.html DeLiM true DeLiM # DeLiM 1849 DeLiM queryLanguage DeLiM 2019
  Structured Query Reporter DeLiM /concepts/sqr.html DeLiM true DeLiM ! DeLiM 1872 DeLiM pl DeLiM 1980
  blz DeLiM /concepts/blz.html DeLiM true DeLiM # DeLiM 1880 DeLiM pl DeLiM 2015
- FloScript DeLiM /concepts/floscript.html DeLiM true DeLiM  DeLiM 1908 DeLiM pl DeLiM 2013
- rosette-lang DeLiM /concepts/rosette-lang.html DeLiM true DeLiM ; DeLiM 1920 DeLiM pl DeLiM 2013
+ FloScript DeLiM /concepts/floscript.html DeLiM true DeLiM  DeLiM 1911 DeLiM pl DeLiM 2013
+ rosette-lang DeLiM /concepts/rosette-lang.html DeLiM true DeLiM ; DeLiM 1923 DeLiM pl DeLiM 2013
  Wart DeLiM /concepts/wart.html DeLiM true DeLiM # DeLiM 1943 DeLiM pl DeLiM 2010
  Action Code Script DeLiM /concepts/action-code-script.html DeLiM true DeLiM // DeLiM 1946 DeLiM pl DeLiM 2004
- ISETL DeLiM /concepts/isetl.html DeLiM true DeLiM -- DeLiM 1996 DeLiM pl DeLiM 1989
- Boogie DeLiM /concepts/boogie.html DeLiM true DeLiM  DeLiM 2002 DeLiM pl DeLiM 2008
- rbs DeLiM /concepts/rbs.html DeLiM true DeLiM # DeLiM 2008 DeLiM headerLang DeLiM 2020
+ ISETL DeLiM /concepts/isetl.html DeLiM true DeLiM -- DeLiM 1998 DeLiM pl DeLiM 1989
+ Boogie DeLiM /concepts/boogie.html DeLiM true DeLiM  DeLiM 2004 DeLiM pl DeLiM 2008
+ rbs DeLiM /concepts/rbs.html DeLiM true DeLiM # DeLiM 2010 DeLiM headerLang DeLiM 2020
  Savi DeLiM /concepts/savi.html DeLiM true DeLiM  DeLiM 2036 DeLiM pl DeLiM 2018
  Pnuts DeLiM /concepts/pnuts.html DeLiM true DeLiM // DeLiM 2043 DeLiM pl DeLiM 1997
  Bla DeLiM /concepts/bla.html DeLiM true DeLiM -- DeLiM 2056 DeLiM pl DeLiM 1994
@@ -546,28 +546,28 @@ table  DeLiM
  Portable Bit Map Format DeLiM /concepts/pbm-format.html DeLiM true DeLiM # DeLiM 2064 DeLiM textDataFormat DeLiM 1986
  ca65 Assembly DeLiM /concepts/ca65-assembly.html DeLiM true DeLiM ; DeLiM 2133 DeLiM assembly DeLiM 1998
  ctalk-lang DeLiM /concepts/ctalk-lang.html DeLiM true DeLiM // DeLiM 2134 DeLiM pl DeLiM 1989
- Rita DeLiM /concepts/rita.html DeLiM true DeLiM  DeLiM 2161 DeLiM pl DeLiM 2019
- Plot DeLiM /concepts/plot-lang.html DeLiM true DeLiM ; DeLiM 2182 DeLiM pl DeLiM 2006
- Netpbm grayscale image format DeLiM /concepts/pgm-format.html DeLiM true DeLiM # DeLiM 2187 DeLiM textDataFormat DeLiM 1988
+ Rita DeLiM /concepts/rita.html DeLiM true DeLiM  DeLiM 2159 DeLiM pl DeLiM 2019
+ Plot DeLiM /concepts/plot-lang.html DeLiM true DeLiM ; DeLiM 2180 DeLiM pl DeLiM 2006
+ Netpbm grayscale image format DeLiM /concepts/pgm-format.html DeLiM true DeLiM # DeLiM 2185 DeLiM textDataFormat DeLiM 1988
  stella DeLiM /concepts/stella.html DeLiM true DeLiM ; DeLiM 2259 DeLiM pl DeLiM 1999
  OptimJ DeLiM /concepts/optimj.html DeLiM true DeLiM // DeLiM 2307 DeLiM pl DeLiM 2006
  AmbientTalk DeLiM /concepts/ambienttalk.html DeLiM true DeLiM  DeLiM 2334 DeLiM pl DeLiM 2006
  Robots.txt DeLiM /concepts/robots.txt.html DeLiM true DeLiM # DeLiM 2342 DeLiM configFormat DeLiM 1994
- ppm-format DeLiM /concepts/ppm-format.html DeLiM true DeLiM # DeLiM 2422 DeLiM textDataFormat DeLiM 1988
- Amazon Redshift DeLiM /concepts/redshift.html DeLiM true DeLiM -- DeLiM 2490 DeLiM queryLanguage DeLiM 2012
- USD DeLiM /concepts/usd.html DeLiM true DeLiM  DeLiM 2516 DeLiM pl DeLiM 2016
- wescheme DeLiM /concepts/wescheme.html DeLiM true DeLiM ; DeLiM 2517 DeLiM pl DeLiM 2009
+ ppm-format DeLiM /concepts/ppm-format.html DeLiM true DeLiM # DeLiM 2423 DeLiM textDataFormat DeLiM 1988
+ Amazon Redshift DeLiM /concepts/redshift.html DeLiM true DeLiM -- DeLiM 2492 DeLiM queryLanguage DeLiM 2012
+ USD DeLiM /concepts/usd.html DeLiM true DeLiM  DeLiM 2518 DeLiM pl DeLiM 2016
+ wescheme DeLiM /concepts/wescheme.html DeLiM true DeLiM ; DeLiM 2519 DeLiM pl DeLiM 2009
  lain DeLiM /concepts/lain.html DeLiM true DeLiM ; DeLiM 2633 DeLiM pl DeLiM 2017
  luau DeLiM /concepts/luau.html DeLiM true DeLiM -- DeLiM 2634 DeLiM pl DeLiM 2020
  sora DeLiM /concepts/sora.html DeLiM true DeLiM // DeLiM 2647 DeLiM pl DeLiM 2019
  SubX DeLiM /concepts/subx.html DeLiM true DeLiM # DeLiM 2648 DeLiM assembly DeLiM 2019
- Sweet Expressions DeLiM /concepts/sweet-expressions.html DeLiM true DeLiM ; DeLiM 2725 DeLiM dataNotation DeLiM 2013
- PromQL DeLiM /concepts/promql.html DeLiM true DeLiM  DeLiM 2795 DeLiM queryLanguage DeLiM 2014
- boa DeLiM /concepts/boa.html DeLiM true DeLiM  DeLiM 2897 DeLiM plzoo DeLiM 2013
- Spice DeLiM /concepts/spice.html DeLiM true DeLiM  DeLiM 2906 DeLiM pl DeLiM 2021
- rbscript DeLiM /concepts/rbscript.html DeLiM true DeLiM // DeLiM 3082 DeLiM pl DeLiM 1996
- PacmanConf DeLiM /concepts/pacmanconf.html DeLiM true DeLiM  DeLiM 3482 DeLiM configFormat DeLiM 2019
- PkgConfig DeLiM /concepts/pkgconfig.html DeLiM true DeLiM  DeLiM 3485 DeLiM configFormat DeLiM 2000
+ Spice DeLiM /concepts/spice.html DeLiM true DeLiM  DeLiM 2724 DeLiM pl DeLiM 2021
+ Sweet Expressions DeLiM /concepts/sweet-expressions.html DeLiM true DeLiM ; DeLiM 2726 DeLiM dataNotation DeLiM 2013
+ PromQL DeLiM /concepts/promql.html DeLiM true DeLiM  DeLiM 2796 DeLiM queryLanguage DeLiM 2014
+ boa DeLiM /concepts/boa.html DeLiM true DeLiM  DeLiM 2898 DeLiM plzoo DeLiM 2013
+ rbscript DeLiM /concepts/rbscript.html DeLiM true DeLiM // DeLiM 3083 DeLiM pl DeLiM 1996
+ PacmanConf DeLiM /concepts/pacmanconf.html DeLiM true DeLiM  DeLiM 3483 DeLiM configFormat DeLiM 2019
+ PkgConfig DeLiM /concepts/pkgconfig.html DeLiM true DeLiM  DeLiM 3486 DeLiM configFormat DeLiM 2000
  Lighttpd configuration file DeLiM /concepts/lighttpd-configuration-file.html DeLiM true DeLiM  DeLiM 3541 DeLiM configFormat DeLiM 2003
 
 Results as JSON, CSV, TSV or Tree

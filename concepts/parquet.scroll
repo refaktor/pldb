@@ -6,7 +6,7 @@ title parquet - Binary data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="seph-programming-language.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="spidermonkey.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="docker.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/parquet.pldb
@@ -21,7 +21,7 @@ startColumns 4
  link ../lists/creators.html#julienLeDem Julien Le Dem
 
 dashboard
- #2941 on PLDB
+ #2942 on PLDB
  9 Years Old
 
 * Apache Parquet is a free and open-source column-oriented data storage format in the Apache Hadoop ecosystem. It is similar to RCFile and ORC, the other columnar-storage file formats in Hadoop, and is compatible with most of the data processing frameworks around Hadoop. It provides efficient data compression and encoding schemes with enhanced performance to handle complex data in bulk.. Read more on Wikipedia...
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav seph-programming-language.html docker.html
+keyboardNav spidermonkey.html docker.html
 
 import ../footer.scroll

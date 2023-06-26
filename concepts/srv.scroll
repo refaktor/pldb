@@ -6,7 +6,7 @@ title srv - Interface design language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="slim.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="spice.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="sweet-expressions.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/srv.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2010 2010
 
 dashboard
- #2434 <span title="TotalRank: 2969 Jobs: 103 Users: 2432 Facts: 1879 Links: 987">on PLDB</span>
+ #2435 <span title="TotalRank: 2969 Jobs: 103 Users: 2432 Facts: 1879 Links: 987">on PLDB</span>
  13 Years Old
 
 * 
@@ -47,6 +47,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav slim.html sweet-expressions.html
+keyboardNav spice.html sweet-expressions.html
 
 import ../footer.scroll

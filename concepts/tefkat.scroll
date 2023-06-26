@@ -7,7 +7,7 @@ title Tefkat - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="mawk.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="konsolscript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="xmtc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tefkat.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #2518 <span title="TotalRank: 3138 Jobs: 103 Users: 2048 Facts: 2169 Links: 987">on PLDB</span>
+ #2519 <span title="TotalRank: 3138 Jobs: 103 Users: 2048 Facts: 2172 Links: 987">on PLDB</span>
  19 Years Old
 
 * Tefkat is a Model Transformation Language and a model transformation engine.  The language is based on F-logic and the theory of stratified logic programs.  The engine is an Eclipse plug-in for the Eclipse Modeling Framework (EMF).. Read more on Wikipedia...
@@ -40,6 +40,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav mawk.html konsolscript.html
+keyboardNav mawk.html xmtc.html
 
 import ../footer.scroll

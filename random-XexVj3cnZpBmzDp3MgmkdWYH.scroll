@@ -18,7 +18,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,841 files and found 65 matches in 0.82s. <span id="publishQuery"></span>
+Searched 4,841 files and found 65 matches in 0.71s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Which programming languages use indentation?
@@ -47,7 +47,7 @@ table  DeLiM
  reStructuredText DeLiM /concepts/restructuredtext.html DeLiM true DeLiM 276
  Sass DeLiM /concepts/sass.html DeLiM true DeLiM 281
  LiveScript DeLiM /concepts/livescript.html DeLiM true DeLiM 344
- Speedie DeLiM /concepts/speedie.html DeLiM true DeLiM 388
+ Speedie DeLiM /concepts/speedie.html DeLiM true DeLiM 387
  Miranda DeLiM /concepts/miranda.html DeLiM true DeLiM 400
  Genie DeLiM /concepts/genie.html DeLiM true DeLiM 416
  wisp DeLiM /concepts/wisp.html DeLiM true DeLiM 429
@@ -82,13 +82,13 @@ table  DeLiM
  TQL DeLiM /concepts/tql.html DeLiM true DeLiM 1744
  Ohayo DeLiM /concepts/ohayo.html DeLiM true DeLiM 1772
  Truth DeLiM /concepts/truth.html DeLiM true DeLiM 1776
- Space DeLiM /concepts/space.html DeLiM true DeLiM 1999
+ Space DeLiM /concepts/space.html DeLiM true DeLiM 2001
  bml DeLiM /concepts/bml.html DeLiM true DeLiM 2260
- Sweet Expressions DeLiM /concepts/sweet-expressions.html DeLiM true DeLiM 2725
- Indental DeLiM /concepts/indental.html DeLiM true DeLiM 2792
- CSL DeLiM /concepts/csl.html DeLiM true DeLiM 2845
- converge DeLiM /concepts/converge.html DeLiM true DeLiM 3139
- Ordered graph data language DeLiM /concepts/ogdl.html DeLiM true DeLiM 3391
+ Sweet Expressions DeLiM /concepts/sweet-expressions.html DeLiM true DeLiM 2726
+ Indental DeLiM /concepts/indental.html DeLiM true DeLiM 2793
+ CSL DeLiM /concepts/csl.html DeLiM true DeLiM 2846
+ converge DeLiM /concepts/converge.html DeLiM true DeLiM 3140
+ Ordered graph data language DeLiM /concepts/ogdl.html DeLiM true DeLiM 3392
  MADCAP VI DeLiM /concepts/madcap-vi.html DeLiM true DeLiM 3543
  MADCAP DeLiM /concepts/madcap.html DeLiM true DeLiM 3774
 

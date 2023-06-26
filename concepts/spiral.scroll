@@ -15,19 +15,21 @@ startColumns 4
 
 <div class="trueBaseThemeQuickLinks"><a href="https://github.com/mrakgr/The-Spiral-Language" class="material-symbols-outlined">code</a> <a href="/edit.html?id=spiral" class="material-symbols-outlined">edit</a></div>
 
-* spiral is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2017.
+* spiral is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2017 by Marko Grdinić.
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2017 2017
+ link ../lists/creators.html#markoGrdinic Marko Grdinić
 
 codeWithHeader Source code:
  git clone https://github.com/mrakgr/The-Spiral-Language
 
 dashboard
- #1113 <span title="TotalRank: 1672 Jobs: 103 Users: 582 Facts: 1198 Links: 987">on PLDB</span>
+ #1113 <span title="TotalRank: 1672 Jobs: 103 Users: 582 Facts: 1089 Links: 987">on PLDB</span>
  6 Years Old
 
 * Functional language with intensional polymorphism and first-class staging.
 
 - spiral is developed on <a href="https://github.com/mrakgr/The-Spiral-Language">GitHub</a> and has 847 stars
+- spiral first developed in <a href="../lists/originCommunities.html#httpsGithubComMrakgrTheSpiralLanguageIssues">https://github.com/mrakgr/The-Spiral-Language/issues</a>
 
 <br>
 

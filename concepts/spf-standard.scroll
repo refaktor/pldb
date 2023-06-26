@@ -6,8 +6,8 @@ title Sender Policy Framework - Standard
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="roman-numerals.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="alohanet.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="set-builder-notation.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sprite-os.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spf-standard.pldb
 
@@ -19,18 +19,19 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
 
 dashboard
- #2963 on PLDB
+ #3000 on PLDB
  23 Years Old
 
 * 
 
 - Sender Policy Framework Wikipedia page
  https://en.wikipedia.org/wiki/Sender_Policy_Framework
+- Sender Policy Framework first developed in <a href="../lists/originCommunities.html#internetEngineeringTaskForce">Internet Engineering Task Force</a>
 
 <br>
 
 endColumns
 
-keyboardNav roman-numerals.html alohanet.html
+keyboardNav set-builder-notation.html sprite-os.html
 
 import ../footer.scroll

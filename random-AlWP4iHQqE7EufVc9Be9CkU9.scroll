@@ -17,7 +17,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,841 files and found 239 matches in 1.89s. <span id="publishQuery"></span>
+Searched 4,841 files and found 239 matches in 1.66s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Which programming languages support multiline comments?
@@ -151,7 +151,7 @@ table  DeLiM
  Bicep DeLiM /concepts/bicep.html DeLiM true DeLiM /* */ DeLiM 377 DeLiM jsonFormat DeLiM 2020
  Wolfram Language DeLiM /concepts/wolfram.html DeLiM true DeLiM (* *) DeLiM 378 DeLiM pl DeLiM 1988
  TLA DeLiM /concepts/tla.html DeLiM true DeLiM (* *) DeLiM 382 DeLiM pl DeLiM 1999
- Speedie DeLiM /concepts/speedie.html DeLiM true DeLiM /* */ DeLiM 388 DeLiM pl DeLiM 2022
+ Speedie DeLiM /concepts/speedie.html DeLiM true DeLiM /* */ DeLiM 387 DeLiM pl DeLiM 2022
  C3 DeLiM /concepts/c3.html DeLiM true DeLiM /* */ DeLiM 389 DeLiM pl DeLiM 2019
  Twig DeLiM /concepts/twig.html DeLiM true DeLiM {# #} DeLiM 394 DeLiM template DeLiM 2009
  Less DeLiM /concepts/less.html DeLiM true DeLiM /* */ DeLiM 398 DeLiM stylesheetLanguage DeLiM 2009
@@ -254,16 +254,16 @@ table  DeLiM
  JSL DeLiM /concepts/jsl.html DeLiM true DeLiM /* */ DeLiM 1752 DeLiM pl DeLiM 1989
  Manchester syntax DeLiM /concepts/manchester-syntax.html DeLiM true DeLiM /* */ DeLiM 1813 DeLiM dataNotation DeLiM 2006
  TAL DeLiM /concepts/tal.html DeLiM true DeLiM  DeLiM 1957 DeLiM pl DeLiM 2008
- Boogie DeLiM /concepts/boogie.html DeLiM true DeLiM  DeLiM 2002 DeLiM pl DeLiM 2008
+ Boogie DeLiM /concepts/boogie.html DeLiM true DeLiM  DeLiM 2004 DeLiM pl DeLiM 2008
  Urbiscript DeLiM /concepts/urbiscript.html DeLiM true DeLiM  DeLiM 2117 DeLiM pl DeLiM 2003
- ProbeVue DeLiM /concepts/probevue.html DeLiM true DeLiM /* */ DeLiM 2175 DeLiM pl DeLiM 2008
+ ProbeVue DeLiM /concepts/probevue.html DeLiM true DeLiM /* */ DeLiM 2173 DeLiM pl DeLiM 2008
  AmbientTalk DeLiM /concepts/ambienttalk.html DeLiM true DeLiM  DeLiM 2334 DeLiM pl DeLiM 2006
- Amazon Redshift DeLiM /concepts/redshift.html DeLiM true DeLiM /* */ DeLiM 2490 DeLiM queryLanguage DeLiM 2012
+ Amazon Redshift DeLiM /concepts/redshift.html DeLiM true DeLiM /* */ DeLiM 2492 DeLiM queryLanguage DeLiM 2012
  bioscript DeLiM /concepts/bioscript.html DeLiM true DeLiM /* */ DeLiM 2641 DeLiM pl DeLiM 2019
- SARL DeLiM /concepts/sarl.html DeLiM true DeLiM  DeLiM 2841 DeLiM pl DeLiM 2013
- boa DeLiM /concepts/boa.html DeLiM true DeLiM  DeLiM 2897 DeLiM plzoo DeLiM 2013
- Spice DeLiM /concepts/spice.html DeLiM true DeLiM  DeLiM 2906 DeLiM pl DeLiM 2021
- Smithy DeLiM /concepts/smithy.html DeLiM true DeLiM  DeLiM 3452 DeLiM pl DeLiM 2016
+ Spice DeLiM /concepts/spice.html DeLiM true DeLiM  DeLiM 2724 DeLiM pl DeLiM 2021
+ SARL DeLiM /concepts/sarl.html DeLiM true DeLiM  DeLiM 2842 DeLiM pl DeLiM 2013
+ boa DeLiM /concepts/boa.html DeLiM true DeLiM  DeLiM 2898 DeLiM plzoo DeLiM 2013
+ Smithy DeLiM /concepts/smithy.html DeLiM true DeLiM  DeLiM 3453 DeLiM pl DeLiM 2016
 
 Results as JSON, CSV, TSV or Tree
  link /search.json?q=title%20Which%20programming%20languages%20support%20multiline%20comments%3F%0Aselect%20hasMultiLineComments%20multiLineCommentTokens%20rank%20type%20appeared%0AnotMissing%20hasMultiLineComments%0AsortBy%20rank JSON

@@ -6,7 +6,7 @@ title FOCUS - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="yawl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="t.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ark-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/focus.pldb
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav yawl.html ark-lang.html
+keyboardNav t.html ark-lang.html
 
 import ../footer.scroll

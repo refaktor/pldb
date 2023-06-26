@@ -6,7 +6,7 @@ title Texy! - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="zopl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="todotxt.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="shex.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/texy.pldb
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav zopl.html shex.html
+keyboardNav todotxt.html shex.html
 
 import ../footer.scroll

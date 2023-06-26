@@ -6,8 +6,8 @@ title Todotxt - Data notation
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="zlang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nuprl.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="zopl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="texy.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/todotxt.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
 
 dashboard
- #2395 <span title="TotalRank: 2939 Jobs: 103 Users: 2432 Facts: 2169 Links: 667">on PLDB</span>
+ #2406 <span title="TotalRank: 2942 Jobs: 103 Users: 2432 Facts: 2172 Links: 667">on PLDB</span>
  17 Years Old
 
 * 
@@ -42,6 +42,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav zlang.html nuprl.html
+keyboardNav zopl.html texy.html
 
 import ../footer.scroll

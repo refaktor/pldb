@@ -6,8 +6,8 @@ title SPIP - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="amiga-programming-languages.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hopscotch.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="hopscotch.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="nomad-software.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spip.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1977 1977
 
 dashboard
- #1975 <span title="TotalRank: 2483 Jobs: 103 Users: 1393 Facts: 2308 Links: 987">on PLDB</span>
+ #1976 <span title="TotalRank: 2483 Jobs: 103 Users: 1393 Facts: 2057 Links: 987">on PLDB</span>
  46 Years Old
 
 * SPIP (Système de Publication pour l'Internet) is a free software content management system designed for web site publishing, oriented towards online collaborative editing. The software is designed for easy setup, use and maintenance, and is used in public and private institutions. The last P in the word SPIP stands for both Partagé (shared) and Participatif (participative), in the sense that the software is designed for collective online editing. Read more on Wikipedia...
@@ -27,6 +27,7 @@ dashboard
 
 - SPIP Wikipedia page
  https://en.wikipedia.org/wiki/SPIP
+- SPIP first developed in <a href="../lists/originCommunities.html#httpsWwwSpipNetEnArticle2122Html">https://www.spip.net/en_article2122.html</a>
 - SPIP on HOPL
  https://hopl.info/showlanguage.prx?exp=7981
 - See also: (9 related languages)<a href="php.html">PHP</a>, <a href="sql.html">SQL</a>, <a href="sqlite.html">SQLite</a>, <a href="postgresql.html">PostgreSQL</a>, <a href="html.html">HTML</a>, <a href="xml.html">XML</a>, <a href="csv.html">CSV</a>, <a href="yaml.html">YAML</a>, <a href="url.html">URL</a>
@@ -37,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav amiga-programming-languages.html hopscotch.html
+keyboardNav hopscotch.html nomad-software.html
 
 import ../footer.scroll

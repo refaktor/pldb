@@ -7,7 +7,7 @@ title NorthStar BASIC - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="bywater-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="knight.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="basic-e.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/northstar-basic.pldb
 
@@ -21,7 +21,7 @@ startColumns 4
  link ../lists/creators.html#markGreenberg Mark Greenberg
 
 dashboard
- #2304 <span title="TotalRank: 2826 Jobs: 103 Users: 2056 Facts: 2169 Links: 667">on PLDB</span>
+ #2300 <span title="TotalRank: 2826 Jobs: 103 Users: 2056 Facts: 2172 Links: 667">on PLDB</span>
  46 Years Old
 
 * NorthStar BASIC was a dialect of the programming language BASIC originally provided for use on the NorthStar Horizon and NorthStar Advantage. The interpreter was written using only Intel 8080 instructions so that it could run also on custom systems.  One notable difference with other dialects of BASIC of the time was the array-like way in which strings were addressed. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav bywater-basic.html knight.html
+keyboardNav bywater-basic.html basic-e.html
 
 import ../footer.scroll

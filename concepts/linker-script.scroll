@@ -7,7 +7,7 @@ title Linker Script - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="xsharp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="fl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jinx.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/linker-script.pldb
 
@@ -47,6 +47,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav xsharp.html fl.html
+keyboardNav xsharp.html jinx.html
 
 import ../footer.scroll

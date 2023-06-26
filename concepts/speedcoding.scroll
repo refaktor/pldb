@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#johnBackus John Backus
 
 dashboard
- #854 <span title="TotalRank: 1418 Jobs: 103 Users: 925 Facts: 2053 Links: 390">on PLDB</span>
+ #854 <span title="TotalRank: 1418 Jobs: 103 Users: 925 Facts: 1879 Links: 390">on PLDB</span>
  70 Years Old
 
 * Speedcoding or Speedcode was the first high-level programming language created for an IBM computer. The language was developed by John Backus in 1953 for the IBM 701 to support computation with  floating point numbers. Here high level means symbolic and aiming for natural language expressivity as a goal as opposed to machine or hardware instruction oriented coding. Read more on Wikipedia...
@@ -28,6 +28,7 @@ dashboard
 
 - Speedcoding Wikipedia page
  https://en.wikipedia.org/wiki/Speedcoding
+- Speedcoding first developed in <a href="../lists/originCommunities.html#ibm">IBM</a>
 - Speedcoding on HOPL
  https://hopl.info/showlanguage.prx?exp=7
 - See also: (10 related languages)<a href="assembly-language.html">Assembly language</a>, <a href="fortran.html">Fortran</a>, <a href="algol-58.html">ALGOL 58</a>, <a href="basic.html">BASIC</a>, <a href="c.html">C</a>, <a href="pl-i.html">PL/I</a>, <a href="pact-i.html">PACT I</a>, <a href="mumps.html">MUMPS</a>, <a href="ratfor.html">RATFOR</a>, <a href="short-code-computer-language.html">Short Code computer language</a>

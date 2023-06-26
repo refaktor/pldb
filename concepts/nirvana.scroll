@@ -6,7 +6,7 @@ title nirvana - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="proset.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="ssl-lang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="x-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nirvana.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/shreyasminocha/nirvana
 
 dashboard
- #2546 <span title="TotalRank: 3185 Jobs: 103 Users: 2095 Facts: 2308 Links: 987">on PLDB</span>
+ #2547 <span title="TotalRank: 3185 Jobs: 103 Users: 2095 Facts: 2310 Links: 987">on PLDB</span>
  5 Years Old
 
 * [stalled] A language that aims to be conducive to writing beautiful, effective, maintainable code
@@ -39,6 +39,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Nirvana, a WIP programming language|https://news.ycombinator.com/item?id=18369802|11/03/2018|8|18
 
-keyboardNav proset.html x-basic.html
+keyboardNav ssl-lang.html x-basic.html
 
 import ../footer.scroll

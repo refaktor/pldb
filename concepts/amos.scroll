@@ -6,7 +6,7 @@ title AMOS - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="co-dfns.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sdlbasic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="scribe.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/amos.pldb
@@ -55,6 +55,6 @@ treeTable
   Token Print
   Example
 
-keyboardNav co-dfns.html scribe.html
+keyboardNav sdlbasic.html scribe.html
 
 import ../footer.scroll

@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
 
 dashboard
- #2706 <span title="TotalRank: 3398 Jobs: 103 Users: 2432 Facts: 2308 Links: 987">on PLDB</span>
+ #2707 <span title="TotalRank: 3400 Jobs: 103 Users: 2432 Facts: 2310 Links: 987">on PLDB</span>
  8 Years Old
 
 * <a href='http://plasmalang.org/'>Plasma</a>, which aims to strike a balance between functional and imperative programming, include state-of-the-art concurrent programming features and feature <a href='http://plasmalang.org/about.html#goal-conc-and-par'> automatic parallelisation</a>. Boney previously worked on <a href='http://mercurylang.org/'>Mercury</a> a logic language.</dd>

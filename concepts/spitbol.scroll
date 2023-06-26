@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1971 1971
 
 dashboard
- #2042 <span title="TotalRank: 2577 Jobs: 103 Users: 1807 Facts: 2053 Links: 667">on PLDB</span>
+ #2042 <span title="TotalRank: 2577 Jobs: 103 Users: 1807 Facts: 1973 Links: 667">on PLDB</span>
  52 Years Old
 
 * SPITBOL (Speedy Implementation of SNOBOL) is a compiled implementation of the SNOBOL4 programming language. Originally targeted for the IBM System/360 and System/370 family of computers, it has now been ported to most major microprocessors including the SPARC. It was created by Robert Dewar and Ken Belcher, who were then at the Illinois Institute of Technology. Read more on Wikipedia...
@@ -27,6 +27,7 @@ dashboard
 
 - SPITBOL Wikipedia page
  https://en.wikipedia.org/wiki/SPITBOL
+- SPITBOL first developed in <a href="../lists/originCommunities.html#illinoisInstituteOfTechnology">Illinois Institute of Technology</a>
 - SPITBOL on HOPL
  https://hopl.info/showlanguage.prx?exp=570
 - See also: (2 related languages)<a href="snobol.html">SNOBOL</a>, <a href="sparc.html">SPARC</a>

@@ -7,7 +7,7 @@ title Tag Line Commands - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="onyx.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="basic-e.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="tiger-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tlc.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav onyx.html basic-e.html
+keyboardNav onyx.html tiger-basic.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title SpiderMonkey - Virtual machine
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="psyco.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="alfred.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="seph-programming-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="parquet.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spidermonkey.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#brendanEich Brendan Eich
 
 dashboard
- #2935 on PLDB
+ #2941 on PLDB
  27 Years Old
 
 * 
@@ -29,6 +29,7 @@ dashboard
  https://spidermonkey.dev/
 - SpiderMonkey Wikipedia page
  https://en.wikipedia.org/wiki/SpiderMonkey
+- SpiderMonkey first developed in <a href="../lists/originCommunities.html#netscapeCommunicationsCorporation">Netscape Communications Corporation</a>
 - SpiderMonkey on Twitter
  https://www.twitter.com/spidermonkeyjs
 
@@ -36,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav psyco.html alfred.html
+keyboardNav seph-programming-language.html parquet.html
 
 import ../footer.scroll

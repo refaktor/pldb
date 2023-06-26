@@ -7,7 +7,7 @@ title Google Apps Script - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="nesc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="islisp.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="alef.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/google-apps-script.pldb
 
@@ -64,6 +64,6 @@ treeTable
   Token Logger.log
   Example
 
-keyboardNav nesc.html islisp.html
+keyboardNav nesc.html alef.html
 
 import ../footer.scroll
