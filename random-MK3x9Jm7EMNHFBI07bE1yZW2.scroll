@@ -20,7 +20,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,843 files and found 695 matches in 4.31s. <span id="publishQuery"></span>
+Searched 4,842 files and found 695 matches in 3.89s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Which of today's top languages were created in the 1980's?
@@ -357,7 +357,7 @@ table  DeLiM
  Electre DeLiM /concepts/electre.html DeLiM true DeLiM 3077 DeLiM pl DeLiM 1983
  PLEASE DeLiM /concepts/please.html DeLiM true DeLiM 3084 DeLiM pl DeLiM 1984
  SCAN DeLiM /concepts/scan.html DeLiM true DeLiM 3087 DeLiM pl DeLiM 1987
- LOGIN DeLiM /concepts/login.html DeLiM true DeLiM 3096 DeLiM pl DeLiM 1986
+ LOGIN DeLiM /concepts/login.html DeLiM true DeLiM 3095 DeLiM pl DeLiM 1986
  Hyper Basic DeLiM /concepts/hyper-basic.html DeLiM true DeLiM 3104 DeLiM pl DeLiM 1985
  Micro-PROLOG DeLiM /concepts/micro-prolog.html DeLiM true DeLiM 3116 DeLiM pl DeLiM 1980
  CHAIN DeLiM /concepts/chain-programming-language.html DeLiM true DeLiM 3119 DeLiM pl DeLiM 1981
@@ -401,328 +401,328 @@ table  DeLiM
  RPL DeLiM /concepts/relational-production-language.html DeLiM true DeLiM 3608 DeLiM queryLanguage DeLiM 1988
  sina DeLiM /concepts/sina.html DeLiM true DeLiM 3614 DeLiM pl DeLiM 1989
  Snostorm DeLiM /concepts/snostorm.html DeLiM true DeLiM 3617 DeLiM pl DeLiM 1984
- TAO DeLiM /concepts/tao.html DeLiM true DeLiM 3619 DeLiM pl DeLiM 1983
- 3D Logo DeLiM /concepts/3d-logo.html DeLiM true DeLiM 3623 DeLiM pl DeLiM 1986
- ABLE DeLiM /concepts/able.html DeLiM true DeLiM 3624 DeLiM pl DeLiM 1981
- APL/HP DeLiM /concepts/apl-hp.html DeLiM true DeLiM 3628 DeLiM pl DeLiM 1986
- Arctic DeLiM /concepts/arctic.html DeLiM true DeLiM 3629 DeLiM pl DeLiM 1984
- Aurora DeLiM /concepts/aurora.html DeLiM true DeLiM 3634 DeLiM pl DeLiM 1988
- BACK DeLiM /concepts/back.html DeLiM true DeLiM 3639 DeLiM pl DeLiM 1988
- Barrel DeLiM /concepts/barrel.html DeLiM true DeLiM 3642 DeLiM pl DeLiM 1980
- BIGMAC DeLiM /concepts/bigmac.html DeLiM true DeLiM 3649 DeLiM pl DeLiM 1981
- BLAZE 2 DeLiM /concepts/blaze-2.html DeLiM true DeLiM 3653 DeLiM pl DeLiM 1989
- BrouHaHa DeLiM /concepts/brouhaha.html DeLiM true DeLiM 3654 DeLiM pl DeLiM 1987
- CCal DeLiM /concepts/ccal.html DeLiM true DeLiM 3658 DeLiM pl DeLiM 1987
- CIRCAL DeLiM /concepts/circal.html DeLiM true DeLiM 3659 DeLiM pl DeLiM 1985
- Coherent Parallel C DeLiM /concepts/coherent-parallel-c.html DeLiM true DeLiM 3663 DeLiM pl DeLiM 1988
- COL DeLiM /concepts/col.html DeLiM true DeLiM 3664 DeLiM pl DeLiM 1989
- Concurrent C++ DeLiM /concepts/concurrent-cpp.html DeLiM true DeLiM 3668 DeLiM pl DeLiM 1988
- Concurrent Prolog DeLiM /concepts/concurrent-prolog.html DeLiM true DeLiM 3669 DeLiM pl DeLiM 1983
- CONLAN DeLiM /concepts/conlan.html DeLiM true DeLiM 3670 DeLiM pl DeLiM 1980
- Connection Machine LISP DeLiM /concepts/connection-machine-lisp.html DeLiM true DeLiM 3671 DeLiM pl DeLiM 1986
- Consul DeLiM /concepts/consul.html DeLiM true DeLiM 3674 DeLiM pl DeLiM 1981
- CST DeLiM /concepts/cst.html DeLiM true DeLiM 3675 DeLiM pl DeLiM 1988
- DEBL DeLiM /concepts/debl.html DeLiM true DeLiM 3679 DeLiM pl DeLiM 1988
- Delta Prolog DeLiM /concepts/delta-prolog.html DeLiM true DeLiM 3683 DeLiM pl DeLiM 1984
- DISC DeLiM /concepts/disc.html DeLiM true DeLiM 3688 DeLiM pl DeLiM 1989
- DISPEL DeLiM /concepts/dispel.html DeLiM true DeLiM 3689 DeLiM pl DeLiM 1981
- DNA DeLiM /concepts/dna.html DeLiM true DeLiM 3690 DeLiM pl DeLiM 1980
- $ DeLiM /concepts/dollar-sign.html DeLiM true DeLiM 3691 DeLiM pl DeLiM 1983
- DOPL DeLiM /concepts/dopl.html DeLiM true DeLiM 3692 DeLiM pl DeLiM 1982
- Durra DeLiM /concepts/durra.html DeLiM true DeLiM 3694 DeLiM pl DeLiM 1986
- Elegant DeLiM /concepts/elegant.html DeLiM true DeLiM 3695 DeLiM pl DeLiM 1987
- ELLPACK DeLiM /concepts/ellpack.html DeLiM true DeLiM 3696 DeLiM pl DeLiM 1983
- Extended Pascal DeLiM /concepts/extended-pascal.html DeLiM true DeLiM 3700 DeLiM pl DeLiM 1987
- FLIC DeLiM /concepts/flic.html DeLiM true DeLiM 3701 DeLiM pl DeLiM 1987
- FRANK DeLiM /concepts/frank.html DeLiM true DeLiM 3705 DeLiM pl DeLiM 1985
- Galileo DeLiM /concepts/galileo.html DeLiM true DeLiM 3708 DeLiM pl DeLiM 1983
- GEM DeLiM /concepts/gem.html DeLiM true DeLiM 3710 DeLiM pl DeLiM 1985
- Gerald DeLiM /concepts/gerald.html DeLiM true DeLiM 3712 DeLiM pl DeLiM 1989
- GPSS/85 DeLiM /concepts/gpss-85.html DeLiM true DeLiM 3719 DeLiM pl DeLiM 1985
- Hybrid DeLiM /concepts/hybrid.html DeLiM true DeLiM 3730 DeLiM pl DeLiM 1987
- Ina Jo DeLiM /concepts/ina-jo.html DeLiM true DeLiM 3738 DeLiM pl DeLiM 1985
- INC DeLiM /concepts/inc.html DeLiM true DeLiM 3739 DeLiM pl DeLiM 1987
- INFOLOG DeLiM /concepts/infolog.html DeLiM true DeLiM 3740 DeLiM pl DeLiM 1986
- INSIGHT DeLiM /concepts/insight.html DeLiM true DeLiM 3741 DeLiM pl DeLiM 1983
- INTERACTIVE DeLiM /concepts/interactive.html DeLiM true DeLiM 3742 DeLiM pl DeLiM 1983
- Joyce DeLiM /concepts/joyce.html DeLiM true DeLiM 3746 DeLiM pl DeLiM 1987
- KL1 DeLiM /concepts/kl1.html DeLiM true DeLiM 3752 DeLiM pl DeLiM 1988
- LAMINA DeLiM /concepts/lamina.html DeLiM true DeLiM 3755 DeLiM pl DeLiM 1988
- LAP DeLiM /concepts/lap.html DeLiM true DeLiM 3757 DeLiM pl DeLiM 1987
- LASS DeLiM /concepts/lass.html DeLiM true DeLiM 3759 DeLiM pl DeLiM 1982
- LDL DeLiM /concepts/ldl.html DeLiM true DeLiM 3760 DeLiM pl DeLiM 1984
- Lisptalk DeLiM /concepts/lisptalk.html DeLiM true DeLiM 3763 DeLiM pl DeLiM 1988
- LNF DeLiM /concepts/lnf.html DeLiM true DeLiM 3764 DeLiM pl DeLiM 1985
- LOGLISP DeLiM /concepts/loglisp.html DeLiM true DeLiM 3767 DeLiM pl DeLiM 1980
- LogoWriter DeLiM /concepts/logowriter.html DeLiM true DeLiM 3769 DeLiM pl DeLiM 1986
- LORE DeLiM /concepts/lore.html DeLiM true DeLiM 3772 DeLiM pl DeLiM 1985
- MAPQUERY DeLiM /concepts/mapquery.html DeLiM true DeLiM 3779 DeLiM pl DeLiM 1982
- MELD DeLiM /concepts/meld.html DeLiM true DeLiM 3782 DeLiM pl DeLiM 1989
- MetaH DeLiM /concepts/metah.html DeLiM true DeLiM 3784 DeLiM pl DeLiM 1988
- Modula-2+ DeLiM /concepts/modula-2p.html DeLiM true DeLiM 3786 DeLiM pl DeLiM 1984
- N-Prolog DeLiM /concepts/n-prolog.html DeLiM true DeLiM 3791 DeLiM pl DeLiM 1985
- Nail DeLiM /concepts/nail.html DeLiM true DeLiM 3792 DeLiM pl DeLiM 1986
- NIL DeLiM /concepts/nil.html DeLiM true DeLiM 3795 DeLiM pl DeLiM 1983
- NUT DeLiM /concepts/nut.html DeLiM true DeLiM 3799 DeLiM pl DeLiM 1986
- O DeLiM /concepts/o.html DeLiM true DeLiM 3800 DeLiM pl DeLiM 1986
- OOLP DeLiM /concepts/oolp.html DeLiM true DeLiM 3807 DeLiM pl DeLiM 1989
- OOPS DeLiM /concepts/oops.html DeLiM true DeLiM 3808 DeLiM pl DeLiM 1986
- Orient84/K DeLiM /concepts/orient84-k.html DeLiM true DeLiM 3810 DeLiM pl DeLiM 1986
- P/CL DeLiM /concepts/p-cl.html DeLiM true DeLiM 3812 DeLiM pl DeLiM 1984
- PASCAL-I DeLiM /concepts/pascal-i.html DeLiM true DeLiM 3816 DeLiM pl DeLiM 1980
- PHOCUS DeLiM /concepts/phocus.html DeLiM true DeLiM 3818 DeLiM pl DeLiM 1987
- PICASSO DeLiM /concepts/picasso.html DeLiM true DeLiM 3819 DeLiM pl DeLiM 1988
- PIE DeLiM /concepts/pie.html DeLiM true DeLiM 3820 DeLiM pl DeLiM 1988
- PL/LL DeLiM /concepts/pl-ll.html DeLiM true DeLiM 3825 DeLiM pl DeLiM 1983
- PRIZ DeLiM /concepts/priz.html DeLiM true DeLiM 3829 DeLiM pl DeLiM 1983
- proto-GNOSIS DeLiM /concepts/proto-gnosis.html DeLiM true DeLiM 3833 DeLiM pl DeLiM 1987
- Real-Time Euclid DeLiM /concepts/real-time-euclid.html DeLiM true DeLiM 3846 DeLiM pl DeLiM 1986
- Rebus DeLiM /concepts/rebus.html DeLiM true DeLiM 3847 DeLiM pl DeLiM 1982
- Refined C DeLiM /concepts/refined-c.html DeLiM true DeLiM 3848 DeLiM pl DeLiM 1984
- Relix DeLiM /concepts/relix.html DeLiM true DeLiM 3851 DeLiM pl DeLiM 1984
- RoboTalk DeLiM /concepts/robotalk.html DeLiM true DeLiM 3853 DeLiM pl DeLiM 1985
- RUTH DeLiM /concepts/ruth.html DeLiM true DeLiM 3857 DeLiM pl DeLiM 1987
- SCOOP DeLiM /concepts/scoop.html DeLiM true DeLiM 3862 DeLiM pl DeLiM 1988
- SESPATH DeLiM /concepts/sespath.html DeLiM true DeLiM 3865 DeLiM pl DeLiM 1985
- Seymour DeLiM /concepts/seymour.html DeLiM true DeLiM 3866 DeLiM pl DeLiM 1989
- SIMODULA DeLiM /concepts/simodula.html DeLiM true DeLiM 3869 DeLiM pl DeLiM 1988
- Siprol DeLiM /concepts/siprol.html DeLiM true DeLiM 3871 DeLiM pl DeLiM 1980
- SL DeLiM /concepts/sl.html DeLiM true DeLiM 3874 DeLiM pl DeLiM 1988
- SLIPS DeLiM /concepts/slips.html DeLiM true DeLiM 3875 DeLiM pl DeLiM 1984
- SLOG DeLiM /concepts/slog.html DeLiM true DeLiM 3876 DeLiM pl DeLiM 1985
- Smalltalk/V DeLiM /concepts/smalltalk-v.html DeLiM true DeLiM 3877 DeLiM pl DeLiM 1986
- synergist DeLiM /concepts/synergist.html DeLiM true DeLiM 3896 DeLiM pl DeLiM 1986
- 2lisp DeLiM /concepts/2lisp.html DeLiM true DeLiM 3899 DeLiM pl DeLiM 1982
- APLO DeLiM /concepts/aplo.html DeLiM true DeLiM 3926 DeLiM pl DeLiM 1989
- BER DeLiM /concepts/ber.html DeLiM true DeLiM 3931 DeLiM pl DeLiM 1988
- Cigale DeLiM /concepts/cigale.html DeLiM true DeLiM 3934 DeLiM pl DeLiM 1986
- EqL DeLiM /concepts/eql.html DeLiM true DeLiM 3943 DeLiM pl DeLiM 1989
- IBM DB2 DeLiM /concepts/ibm-db2.html DeLiM true DeLiM 3948 DeLiM database DeLiM 1983
- InterBase DeLiM /concepts/interbase.html DeLiM true DeLiM 3950 DeLiM database DeLiM 1985
- Microsoft SQL Server DeLiM /concepts/microsoft-mysql-server.html DeLiM true DeLiM 3959 DeLiM database DeLiM 1989
- Mushroom DeLiM /concepts/mushroom.html DeLiM true DeLiM 3961 DeLiM pl DeLiM 1988
- SQURL DeLiM /concepts/squrl.html DeLiM true DeLiM 3979 DeLiM pl DeLiM 1981
- *Prolog DeLiM /concepts/star-prolog.html DeLiM true DeLiM 3983 DeLiM pl DeLiM 1989
- SW2 DeLiM /concepts/sw2.html DeLiM true DeLiM 3990 DeLiM pl DeLiM 1986
- SYNGLISH DeLiM /concepts/synglish.html DeLiM true DeLiM 3991 DeLiM pl DeLiM 1980
- TABLOG DeLiM /concepts/tablog.html DeLiM true DeLiM 3994 DeLiM pl DeLiM 1984
- Taxis DeLiM /concepts/taxis.html DeLiM true DeLiM 3999 DeLiM pl DeLiM 1980
- Temporal Prolog DeLiM /concepts/temporal-prolog.html DeLiM true DeLiM 4008 DeLiM pl DeLiM 1983
- Timed CSP DeLiM /concepts/timed-csp.html DeLiM true DeLiM 4016 DeLiM pl DeLiM 1986
- Tinkertoy DeLiM /concepts/tinkertoy.html DeLiM true DeLiM 4017 DeLiM pl DeLiM 1988
- Traits DeLiM /concepts/traits.html DeLiM true DeLiM 4021 DeLiM pl DeLiM 1982
- Transforma DeLiM /concepts/transforma.html DeLiM true DeLiM 4024 DeLiM pl DeLiM 1985
- triroff DeLiM /concepts/triroff.html DeLiM true DeLiM 4026 DeLiM pl DeLiM 1983
- TSL DeLiM /concepts/tsl.html DeLiM true DeLiM 4027 DeLiM pl DeLiM 1985
- Turing Plus DeLiM /concepts/turing-plus.html DeLiM true DeLiM 4029 DeLiM pl DeLiM 1987
- UFL DeLiM /concepts/ufl.html DeLiM true DeLiM 4037 DeLiM pl DeLiM 1986
- UNICORN DeLiM /concepts/unicorn.html DeLiM true DeLiM 4040 DeLiM pl DeLiM 1986
- VAL II DeLiM /concepts/val-ii.html DeLiM true DeLiM 4046 DeLiM pl DeLiM 1983
- Viron DeLiM /concepts/viron.html DeLiM true DeLiM 4052 DeLiM pl DeLiM 1983
- VULCAN DeLiM /concepts/vulcan.html DeLiM true DeLiM 4060 DeLiM pl DeLiM 1987
- XCY DeLiM /concepts/xcy.html DeLiM true DeLiM 4069 DeLiM pl DeLiM 1980
- 3-LISP DeLiM /concepts/3-lisp.html DeLiM true DeLiM 4080 DeLiM pl DeLiM 1982
- ABCL/c+ DeLiM /concepts/abcl-cp.html DeLiM true DeLiM 4084 DeLiM pl DeLiM 1988
- Acore DeLiM /concepts/acore.html DeLiM true DeLiM 4090 DeLiM pl DeLiM 1988
- ACOS DeLiM /concepts/acos.html DeLiM true DeLiM 4092 DeLiM pl DeLiM 1988
- ACT ONE DeLiM /concepts/act-one.html DeLiM true DeLiM 4094 DeLiM pl DeLiM 1983
- Actalk DeLiM /concepts/actalk.html DeLiM true DeLiM 4095 DeLiM pl DeLiM 1989
- Ada 9X DeLiM /concepts/ada-9x.html DeLiM true DeLiM 4100 DeLiM pl DeLiM 1988
- ADABTPL DeLiM /concepts/adabtpl.html DeLiM true DeLiM 4102 DeLiM pl DeLiM 1987
- Adaplex DeLiM /concepts/adaplex.html DeLiM true DeLiM 4104 DeLiM pl DeLiM 1983
- AIDA DeLiM /concepts/aida.html DeLiM true DeLiM 4111 DeLiM pl DeLiM 1986
- Aldat DeLiM /concepts/aldat.html DeLiM true DeLiM 4116 DeLiM pl DeLiM 1989
- AlphaPop DeLiM /concepts/alphapop.html DeLiM true DeLiM 4127 DeLiM pl DeLiM 1986
- Amanda DeLiM /concepts/amanda.html DeLiM true DeLiM 4129 DeLiM pl DeLiM 1988
- Andorra DeLiM /concepts/andorra.html DeLiM true DeLiM 4133 DeLiM pl DeLiM 1988
- axcess DeLiM /concepts/axcess.html DeLiM true DeLiM 4136 DeLiM pl DeLiM 1983
- Cedar DeLiM /concepts/cedar.html DeLiM true DeLiM 4142 DeLiM pl DeLiM 1983
- Distributed Smalltalk DeLiM /concepts/distributed-smalltalk.html DeLiM true DeLiM 4150 DeLiM pl DeLiM 1980
- ESP DeLiM /concepts/esp.html DeLiM true DeLiM 4156 DeLiM pl DeLiM 1983
- iota DeLiM /concepts/iota.html DeLiM true DeLiM 4169 DeLiM pl DeLiM 1985
- modl DeLiM /concepts/modl.html DeLiM true DeLiM 4179 DeLiM pl DeLiM 1987
- SAUSTALL DeLiM /concepts/saustall.html DeLiM true DeLiM 4200 DeLiM pl DeLiM 1982
- SR DeLiM /concepts/sr.html DeLiM true DeLiM 4207 DeLiM pl DeLiM 1988
- SUMMER DeLiM /concepts/summer.html DeLiM true DeLiM 4211 DeLiM pl DeLiM 1980
- TALE DeLiM /concepts/tale.html DeLiM true DeLiM 4219 DeLiM pl DeLiM 1986
- TS DeLiM /concepts/ts.html DeLiM true DeLiM 4229 DeLiM pl DeLiM 1988
- A51 Assembly DeLiM /concepts/a51.html DeLiM true DeLiM 4241 DeLiM assembly DeLiM 1988
- ADLIB DeLiM /concepts/adlib.html DeLiM true DeLiM 4247 DeLiM pl DeLiM 1980
- ALPS DeLiM /concepts/alps.html DeLiM true DeLiM 4251 DeLiM pl DeLiM 1988
- Amber DeLiM /concepts/amber.html DeLiM true DeLiM 4252 DeLiM pl DeLiM 1984
- And/Or DeLiM /concepts/and-or.html DeLiM true DeLiM 4256 DeLiM pl DeLiM 1980
- Andante DeLiM /concepts/andante.html DeLiM true DeLiM 4257 DeLiM pl DeLiM 1980
- ANSI BASIC DeLiM /concepts/ansi-basic.html DeLiM true DeLiM 4260 DeLiM pl DeLiM 1980
- APPLOG DeLiM /concepts/applog.html DeLiM true DeLiM 4268 DeLiM pl DeLiM 1986
- Aquarius Prolog DeLiM /concepts/aquarius-prolog.html DeLiM true DeLiM 4271 DeLiM pl DeLiM 1989
- ARCHI DeLiM /concepts/archi.html DeLiM true DeLiM 4273 DeLiM pl DeLiM 1986
- Arjuna DeLiM /concepts/arjuna.html DeLiM true DeLiM 4274 DeLiM pl DeLiM 1989
- Asspegique DeLiM /concepts/asspegique.html DeLiM true DeLiM 4280 DeLiM pl DeLiM 1985
- BDL DeLiM /concepts/bdl.html DeLiM true DeLiM 4297 DeLiM pl DeLiM 1987
- BLAZE DeLiM /concepts/blaze.html DeLiM true DeLiM 4306 DeLiM pl DeLiM 1985
- Booster DeLiM /concepts/booster.html DeLiM true DeLiM 4311 DeLiM pl DeLiM 1989
- Boxer DeLiM /concepts/boxer.html DeLiM true DeLiM 4314 DeLiM pl DeLiM 1985
- BSP DeLiM /concepts/bsp.html DeLiM true DeLiM 4319 DeLiM pl DeLiM 1989
- Cantor DeLiM /concepts/cantor.html DeLiM true DeLiM 4331 DeLiM pl DeLiM 1987
- Capsule DeLiM /concepts/capsule.html DeLiM true DeLiM 4333 DeLiM pl DeLiM 1981
- Cedar Fortran DeLiM /concepts/cedar-fortran.html DeLiM true DeLiM 4338 DeLiM pl DeLiM 1984
- Ceprol DeLiM /concepts/ceprol.html DeLiM true DeLiM 4341 DeLiM pl DeLiM 1985
- Charrette Ada DeLiM /concepts/charrette-ada.html DeLiM true DeLiM 4344 DeLiM pl DeLiM 1980
- Chronolog DeLiM /concepts/chronolog.html DeLiM true DeLiM 4347 DeLiM pl DeLiM 1985
- Clascal DeLiM /concepts/clascal.html DeLiM true DeLiM 4353 DeLiM pl DeLiM 1983
- CLP* DeLiM /concepts/clp-star.html DeLiM true DeLiM 4359 DeLiM pl DeLiM 1989
- COLD-K DeLiM /concepts/cold-k.html DeLiM true DeLiM 4365 DeLiM pl DeLiM 1989
- Complex-Prolog DeLiM /concepts/complex-prolog.html DeLiM true DeLiM 4366 DeLiM pl DeLiM 1989
- CONCUR DeLiM /concepts/concur.html DeLiM true DeLiM 4371 DeLiM pl DeLiM 1981
- ConMan DeLiM /concepts/conman.html DeLiM true DeLiM 4374 DeLiM pl DeLiM 1988
- COPAS DeLiM /concepts/copas.html DeLiM true DeLiM 4378 DeLiM pl DeLiM 1981
- CQLF DeLiM /concepts/cqlf.html DeLiM true DeLiM 4384 DeLiM pl DeLiM 1982
- DAG DeLiM /concepts/dag.html DeLiM true DeLiM 4395 DeLiM pl DeLiM 1989
- DAP-Algol DeLiM /concepts/dap-algol.html DeLiM true DeLiM 4396 DeLiM pl DeLiM 1985
- DeBuMa DeLiM /concepts/debuma.html DeLiM true DeLiM 4401 DeLiM pl DeLiM 1988
- DFL DeLiM /concepts/dfl.html DeLiM true DeLiM 4408 DeLiM pl DeLiM 1983
- Diplans DeLiM /concepts/diplans.html DeLiM true DeLiM 4411 DeLiM pl DeLiM 1988
- DITROFF/FFORTID DeLiM /concepts/ditroff-ffortid.html DeLiM true DeLiM 4414 DeLiM pl DeLiM 1985
- DITROFF DeLiM /concepts/ditroff.html DeLiM true DeLiM 4415 DeLiM pl DeLiM 1982
- DOE Macsyma DeLiM /concepts/doe-macsyma.html DeLiM true DeLiM 4417 DeLiM pl DeLiM 1984
- EAS-E DeLiM /concepts/eas-e.html DeLiM true DeLiM 4425 DeLiM pl DeLiM 1983
- EGS4 DeLiM /concepts/egs4.html DeLiM true DeLiM 4434 DeLiM pl DeLiM 1985
- EPILOG DeLiM /concepts/epilog.html DeLiM true DeLiM 4439 DeLiM pl DeLiM 1981
- EQLog DeLiM /concepts/eqlog.html DeLiM true DeLiM 4440 DeLiM pl DeLiM 1986
- ERROL DeLiM /concepts/errol.html DeLiM true DeLiM 4442 DeLiM pl DeLiM 1983
- FAC DeLiM /concepts/fac.html DeLiM true DeLiM 4445 DeLiM pl DeLiM 1986
- FAD DeLiM /concepts/fad.html DeLiM true DeLiM 4446 DeLiM pl DeLiM 1987
- FLENG++ DeLiM /concepts/flengpp.html DeLiM true DeLiM 4449 DeLiM pl DeLiM 1989
- foogol DeLiM /concepts/foogol.html DeLiM true DeLiM 4452 DeLiM pl DeLiM 1985
- FORALL DeLiM /concepts/forall.html DeLiM true DeLiM 4455 DeLiM pl DeLiM 1980
- Fortran 8x DeLiM /concepts/fortran-8x.html DeLiM true DeLiM 4458 DeLiM pl DeLiM 1989
- FP2 DeLiM /concepts/fp2.html DeLiM true DeLiM 4463 DeLiM pl DeLiM 1986
- GaussFit DeLiM /concepts/gaussfit.html DeLiM true DeLiM 4469 DeLiM pl DeLiM 1986
- GCP DeLiM /concepts/gcp.html DeLiM true DeLiM 4470 DeLiM pl DeLiM 1985
- GDPL DeLiM /concepts/gdpl.html DeLiM true DeLiM 4471 DeLiM pl DeLiM 1984
- GENTRAN DeLiM /concepts/gentran.html DeLiM true DeLiM 4475 DeLiM pl DeLiM 1984
- GKS DeLiM /concepts/gks.html DeLiM true DeLiM 4478 DeLiM pl DeLiM 1983
- GQL DeLiM /concepts/gql.html DeLiM true DeLiM 4486 DeLiM pl DeLiM 1980
- GraphLog DeLiM /concepts/graphlog.html DeLiM true DeLiM 4488 DeLiM pl DeLiM 1988
- GSBL DeLiM /concepts/gsbl.html DeLiM true DeLiM 4492 DeLiM pl DeLiM 1988
- HASL DeLiM /concepts/hasl.html DeLiM true DeLiM 4498 DeLiM pl DeLiM 1982
- HERAKLIT DeLiM /concepts/heraklit.html DeLiM true DeLiM 4499 DeLiM pl DeLiM 1987
- HMSL DeLiM /concepts/hmsl.html DeLiM true DeLiM 4502 DeLiM pl DeLiM 1980
- HOL DeLiM /concepts/hol.html DeLiM true DeLiM 4503 DeLiM pl DeLiM 1985
- HP-PASCAL DeLiM /concepts/hp-pascal.html DeLiM true DeLiM 4505 DeLiM pl DeLiM 1984
- HPRL DeLiM /concepts/hprl.html DeLiM true DeLiM 4506 DeLiM pl DeLiM 1982
- IB-Templog DeLiM /concepts/ib-templog.html DeLiM true DeLiM 4516 DeLiM pl DeLiM 1987
- IBM Logo DeLiM /concepts/ibm-logo.html DeLiM true DeLiM 4517 DeLiM pl DeLiM 1983
- INMAGIC DeLiM /concepts/inmagic.html DeLiM true DeLiM 4523 DeLiM pl DeLiM 1983
- Interlisp-VAX DeLiM /concepts/interlisp-vax.html DeLiM true DeLiM 4527 DeLiM pl DeLiM 1981
- jBC DeLiM /concepts/jbc.html DeLiM true DeLiM 4537 DeLiM pl DeLiM 1989
- JMSL DeLiM /concepts/jmsl.html DeLiM true DeLiM 4539 DeLiM pl DeLiM 1986
- Juno DeLiM /concepts/juno.html DeLiM true DeLiM 4542 DeLiM pl DeLiM 1985
- KEE DeLiM /concepts/kee.html DeLiM true DeLiM 4547 DeLiM pl DeLiM 1984
- KEK-NODAL DeLiM /concepts/kek-nodal.html DeLiM true DeLiM 4548 DeLiM pl DeLiM 1985
- KRS DeLiM /concepts/krs.html DeLiM true DeLiM 4556 DeLiM pl DeLiM 1987
- KRYPTON DeLiM /concepts/krypton.html DeLiM true DeLiM 4557 DeLiM pl DeLiM 1983
- Larch DeLiM /concepts/larch.html DeLiM true DeLiM 4561 DeLiM pl DeLiM 1985
- LAURE DeLiM /concepts/laure.html DeLiM true DeLiM 4562 DeLiM pl DeLiM 1989
- LDL1 DeLiM /concepts/ldl1.html DeLiM true DeLiM 4565 DeLiM pl DeLiM 1987
- LGDF DeLiM /concepts/lgdf.html DeLiM true DeLiM 4569 DeLiM pl DeLiM 1986
- Logicon DeLiM /concepts/logicon.html DeLiM true DeLiM 4576 DeLiM pl DeLiM 1986
- LOGIST DeLiM /concepts/logist.html DeLiM true DeLiM 4577 DeLiM pl DeLiM 1980
- LOTOS DeLiM /concepts/lotos.html DeLiM true DeLiM 4582 DeLiM pl DeLiM 1989
- MACE DeLiM /concepts/mace.html DeLiM true DeLiM 4588 DeLiM pl DeLiM 1989
- Machiavelli DeLiM /concepts/machiavelli.html DeLiM true DeLiM 4589 DeLiM pl DeLiM 1989
- Magma2 DeLiM /concepts/magma2.html DeLiM true DeLiM 4591 DeLiM pl DeLiM 1984
- Mary/2 DeLiM /concepts/mary-2.html DeLiM true DeLiM 4597 DeLiM pl DeLiM 1984
- MASIM DeLiM /concepts/masim.html DeLiM true DeLiM 4598 DeLiM pl DeLiM 1985
- Mathsy DeLiM /concepts/mathsy.html DeLiM true DeLiM 4599 DeLiM pl DeLiM 1980
- MATRIX PASCAL DeLiM /concepts/matrix-pascal.html DeLiM true DeLiM 4600 DeLiM pl DeLiM 1983
- MCOBOL DeLiM /concepts/mcobol.html DeLiM true DeLiM 4601 DeLiM pl DeLiM 1980
- MDBS-QRS DeLiM /concepts/mdbs-qrs.html DeLiM true DeLiM 4602 DeLiM queryLanguage DeLiM 1981
- MEDIC DeLiM /concepts/medic.html DeLiM true DeLiM 4603 DeLiM pl DeLiM 1980
- METATEM DeLiM /concepts/metatem.html DeLiM true DeLiM 4612 DeLiM pl DeLiM 1989
- microTAL DeLiM /concepts/microtal.html DeLiM true DeLiM 4615 DeLiM pl DeLiM 1981
- Mini-ML DeLiM /concepts/mini-ml.html DeLiM true DeLiM 4617 DeLiM pl DeLiM 1986
- MINION DeLiM /concepts/minion.html DeLiM true DeLiM 4618 DeLiM pl DeLiM 1989
- Miranim DeLiM /concepts/miranim.html DeLiM true DeLiM 4622 DeLiM pl DeLiM 1985
- MODLISP DeLiM /concepts/modlisp.html DeLiM true DeLiM 4629 DeLiM pl DeLiM 1980
- Modula/R DeLiM /concepts/modula-r.html DeLiM true DeLiM 4632 DeLiM pl DeLiM 1983
- Molog DeLiM /concepts/molog.html DeLiM true DeLiM 4634 DeLiM pl DeLiM 1987
- Moxie DeLiM /concepts/moxie.html DeLiM true DeLiM 4637 DeLiM pl DeLiM 1984
- MSG.84 DeLiM /concepts/msg-84.html DeLiM true DeLiM 4641 DeLiM pl DeLiM 1985
- muFP DeLiM /concepts/mufp.html DeLiM true DeLiM 4642 DeLiM pl DeLiM 1984
- Mul-T DeLiM /concepts/mul-t.html DeLiM true DeLiM 4643 DeLiM pl DeLiM 1989
- MUNIN DeLiM /concepts/munin.html DeLiM true DeLiM 4646 DeLiM pl DeLiM 1989
- NARPL DeLiM /concepts/narpl.html DeLiM true DeLiM 4650 DeLiM pl DeLiM 1989
- Ness DeLiM /concepts/ness.html DeLiM true DeLiM 4655 DeLiM pl DeLiM 1989
- NFQL DeLiM /concepts/nfql.html DeLiM true DeLiM 4659 DeLiM pl DeLiM 1989
- NIKL DeLiM /concepts/nikl.html DeLiM true DeLiM 4660 DeLiM pl DeLiM 1986
- NOAH DeLiM /concepts/noah.html DeLiM true DeLiM 4661 DeLiM pl DeLiM 1982
- Oaklisp DeLiM /concepts/oaklisp.html DeLiM true DeLiM 4666 DeLiM pl DeLiM 1986
- OBJ2 DeLiM /concepts/obj2.html DeLiM true DeLiM 4668 DeLiM pl DeLiM 1984
- ObjVProlog DeLiM /concepts/objvprolog.html DeLiM true DeLiM 4671 DeLiM pl DeLiM 1989
- OBSCURE DeLiM /concepts/obscure.html DeLiM true DeLiM 4672 DeLiM pl DeLiM 1985
- Occam 2 DeLiM /concepts/occam-2.html DeLiM true DeLiM 4673 DeLiM pl DeLiM 1987
- OLGA DeLiM /concepts/olga.html DeLiM true DeLiM 4676 DeLiM pl DeLiM 1985
- OMNIMARK DeLiM /concepts/omnimark.html DeLiM true DeLiM 4678 DeLiM pl DeLiM 1980
- OMNITAB 80 DeLiM /concepts/omnitab-80.html DeLiM true DeLiM 4679 DeLiM pl DeLiM 1980
- Ottawa Euclid DeLiM /concepts/ottawa-euclid.html DeLiM true DeLiM 4688 DeLiM pl DeLiM 1984
- Otter DeLiM /concepts/otter.html DeLiM true DeLiM 4689 DeLiM pl DeLiM 1988
- P-Prolog DeLiM /concepts/p-prolog.html DeLiM true DeLiM 4691 DeLiM pl DeLiM 1986
- P-TAC DeLiM /concepts/p-tac.html DeLiM true DeLiM 4692 DeLiM pl DeLiM 1989
- PaiLisp DeLiM /concepts/pailisp.html DeLiM true DeLiM 4696 DeLiM pl DeLiM 1986
- PANCODE DeLiM /concepts/pancode.html DeLiM true DeLiM 4698 DeLiM pl DeLiM 1982
- Parallel ELLPACK DeLiM /concepts/parallel-ellpack.html DeLiM true DeLiM 4701 DeLiM pl DeLiM 1983
- Parallel Pascal DeLiM /concepts/parallel-pascal.html DeLiM true DeLiM 4702 DeLiM pl DeLiM 1984
- ParMod DeLiM /concepts/parmod.html DeLiM true DeLiM 4704 DeLiM pl DeLiM 1987
- Pascal-SC DeLiM /concepts/pascal-sc.html DeLiM true DeLiM 4706 DeLiM pl DeLiM 1982
- PASION DeLiM /concepts/pasion.html DeLiM true DeLiM 4707 DeLiM pl DeLiM 1986
- PASRO DeLiM /concepts/pasro.html DeLiM true DeLiM 4708 DeLiM pl DeLiM 1985
- PCOL DeLiM /concepts/pcol.html DeLiM true DeLiM 4711 DeLiM pl DeLiM 1986
- PDL/Ada DeLiM /concepts/pdl-ada.html DeLiM true DeLiM 4714 DeLiM pl DeLiM 1981
- Pebble DeLiM /concepts/pebble.html DeLiM true DeLiM 4716 DeLiM pl DeLiM 1984
- PEP DeLiM /concepts/pep.html DeLiM true DeLiM 4718 DeLiM pl DeLiM 1984
- PICTUREBALM DeLiM /concepts/picturebalm.html DeLiM true DeLiM 4725 DeLiM pl DeLiM 1980
- Playground DeLiM /concepts/playground.html DeLiM true DeLiM 4730 DeLiM pl DeLiM 1989
- Polylith DeLiM /concepts/polylith.html DeLiM true DeLiM 4734 DeLiM pl DeLiM 1983
- POPSY DeLiM /concepts/popsy.html DeLiM true DeLiM 4737 DeLiM pl DeLiM 1986
- PRAXIS DeLiM /concepts/praxis.html DeLiM true DeLiM 4739 DeLiM pl DeLiM 1980
- PRESTO DeLiM /concepts/presto.html DeLiM true DeLiM 4740 DeLiM pl DeLiM 1987
- PRISM DeLiM /concepts/prism.html DeLiM true DeLiM 4742 DeLiM pl DeLiM 1983
- Prolog-ELF DeLiM /concepts/prolog-elf.html DeLiM true DeLiM 4747 DeLiM pl DeLiM 1985
- Prolog III DeLiM /concepts/prolog-iii.html DeLiM true DeLiM 4748 DeLiM pl DeLiM 1984
- Prolog/KR DeLiM /concepts/prolog-kr.html DeLiM true DeLiM 4749 DeLiM pl DeLiM 1984
- Prolog-Linda DeLiM /concepts/prolog-linda.html DeLiM true DeLiM 4750 DeLiM pl DeLiM 1989
- PROTOS-L DeLiM /concepts/protos-l.html DeLiM true DeLiM 4752 DeLiM pl DeLiM 1989
- PT DeLiM /concepts/pt.html DeLiM true DeLiM 4757 DeLiM pl DeLiM 1983
- QLISP DeLiM /concepts/qlisp.html DeLiM true DeLiM 4761 DeLiM pl DeLiM 1988
- Quty DeLiM /concepts/quty.html DeLiM true DeLiM 4763 DeLiM pl DeLiM 1984
- rbasic DeLiM /concepts/rbasic.html DeLiM true DeLiM 4764 DeLiM pl DeLiM 1985
- REC/SM DeLiM /concepts/rec-sm.html DeLiM true DeLiM 4765 DeLiM pl DeLiM 1980
- RefLisp DeLiM /concepts/reflisp.html DeLiM true DeLiM 4768 DeLiM pl DeLiM 1988
- RELFUN DeLiM /concepts/relfun.html DeLiM true DeLiM 4771 DeLiM pl DeLiM 1986
- RF-Maple DeLiM /concepts/rf-maple.html DeLiM true DeLiM 4772 DeLiM pl DeLiM 1984
- RIGAL DeLiM /concepts/rigal.html DeLiM true DeLiM 4774 DeLiM pl DeLiM 1987
- RT-ASLAN DeLiM /concepts/rt-aslan.html DeLiM true DeLiM 4778 DeLiM pl DeLiM 1986
- RT-CDL DeLiM /concepts/rt-cdl.html DeLiM true DeLiM 4779 DeLiM pl DeLiM 1989
- SARTEX DeLiM /concepts/sartex.html DeLiM true DeLiM 4784 DeLiM pl DeLiM 1985
- SCHEMAL DeLiM /concepts/schemal.html DeLiM true DeLiM 4788 DeLiM pl DeLiM 1983
- Scratchpad II DeLiM /concepts/scratchpad-ii.html DeLiM true DeLiM 4791 DeLiM pl DeLiM 1980
- SEGRAS DeLiM /concepts/segras.html DeLiM true DeLiM 4795 DeLiM pl DeLiM 1985
- Seque DeLiM /concepts/seque.html DeLiM true DeLiM 4797 DeLiM pl DeLiM 1988
- SEVAL DeLiM /concepts/seval.html DeLiM true DeLiM 4802 DeLiM pl DeLiM 1981
- ShapeUp DeLiM /concepts/shapeup.html DeLiM true DeLiM 4803 DeLiM pl DeLiM 1984
- SIMCAL DeLiM /concepts/simcal.html DeLiM true DeLiM 4807 DeLiM pl DeLiM 1986
- SIMDIS DeLiM /concepts/simdis.html DeLiM true DeLiM 4808 DeLiM pl DeLiM 1985
- SIMNET DeLiM /concepts/simnet.html DeLiM true DeLiM 4811 DeLiM pl DeLiM 1988
- SIMPAS DeLiM /concepts/simpas.html DeLiM true DeLiM 4812 DeLiM pl DeLiM 1980
- SLAM II DeLiM /concepts/slam-ii.html DeLiM true DeLiM 4817 DeLiM pl DeLiM 1980
- Small Euclid DeLiM /concepts/small-euclid.html DeLiM true DeLiM 4821 DeLiM pl DeLiM 1988
- SMALL-X DeLiM /concepts/small-x.html DeLiM true DeLiM 4822 DeLiM pl DeLiM 1985
- Smalltalk-80 DeLiM /concepts/smalltalk-80.html DeLiM true DeLiM 4824 DeLiM pl DeLiM 1980
- SMoLCS DeLiM /concepts/smolcs.html DeLiM true DeLiM 4825 DeLiM pl DeLiM 1986
- SNOOP DeLiM /concepts/snoop.html DeLiM true DeLiM 4827 DeLiM pl DeLiM 1988
- SORCA DeLiM /concepts/sorca.html DeLiM true DeLiM 4829 DeLiM pl DeLiM 1983
- SubL DeLiM /concepts/subl.html DeLiM true DeLiM 4834 DeLiM pl DeLiM 1989
+ TAO DeLiM /concepts/tao.html DeLiM true DeLiM 3618 DeLiM pl DeLiM 1983
+ 3D Logo DeLiM /concepts/3d-logo.html DeLiM true DeLiM 3622 DeLiM pl DeLiM 1986
+ ABLE DeLiM /concepts/able.html DeLiM true DeLiM 3623 DeLiM pl DeLiM 1981
+ APL/HP DeLiM /concepts/apl-hp.html DeLiM true DeLiM 3627 DeLiM pl DeLiM 1986
+ Arctic DeLiM /concepts/arctic.html DeLiM true DeLiM 3628 DeLiM pl DeLiM 1984
+ Aurora DeLiM /concepts/aurora.html DeLiM true DeLiM 3633 DeLiM pl DeLiM 1988
+ BACK DeLiM /concepts/back.html DeLiM true DeLiM 3638 DeLiM pl DeLiM 1988
+ Barrel DeLiM /concepts/barrel.html DeLiM true DeLiM 3641 DeLiM pl DeLiM 1980
+ BIGMAC DeLiM /concepts/bigmac.html DeLiM true DeLiM 3648 DeLiM pl DeLiM 1981
+ BLAZE 2 DeLiM /concepts/blaze-2.html DeLiM true DeLiM 3652 DeLiM pl DeLiM 1989
+ BrouHaHa DeLiM /concepts/brouhaha.html DeLiM true DeLiM 3653 DeLiM pl DeLiM 1987
+ CCal DeLiM /concepts/ccal.html DeLiM true DeLiM 3657 DeLiM pl DeLiM 1987
+ CIRCAL DeLiM /concepts/circal.html DeLiM true DeLiM 3658 DeLiM pl DeLiM 1985
+ Coherent Parallel C DeLiM /concepts/coherent-parallel-c.html DeLiM true DeLiM 3662 DeLiM pl DeLiM 1988
+ COL DeLiM /concepts/col.html DeLiM true DeLiM 3663 DeLiM pl DeLiM 1989
+ Concurrent C++ DeLiM /concepts/concurrent-cpp.html DeLiM true DeLiM 3667 DeLiM pl DeLiM 1988
+ Concurrent Prolog DeLiM /concepts/concurrent-prolog.html DeLiM true DeLiM 3668 DeLiM pl DeLiM 1983
+ CONLAN DeLiM /concepts/conlan.html DeLiM true DeLiM 3669 DeLiM pl DeLiM 1980
+ Connection Machine LISP DeLiM /concepts/connection-machine-lisp.html DeLiM true DeLiM 3670 DeLiM pl DeLiM 1986
+ Consul DeLiM /concepts/consul.html DeLiM true DeLiM 3673 DeLiM pl DeLiM 1981
+ CST DeLiM /concepts/cst.html DeLiM true DeLiM 3674 DeLiM pl DeLiM 1988
+ DEBL DeLiM /concepts/debl.html DeLiM true DeLiM 3678 DeLiM pl DeLiM 1988
+ Delta Prolog DeLiM /concepts/delta-prolog.html DeLiM true DeLiM 3682 DeLiM pl DeLiM 1984
+ DISC DeLiM /concepts/disc.html DeLiM true DeLiM 3687 DeLiM pl DeLiM 1989
+ DISPEL DeLiM /concepts/dispel.html DeLiM true DeLiM 3688 DeLiM pl DeLiM 1981
+ DNA DeLiM /concepts/dna.html DeLiM true DeLiM 3689 DeLiM pl DeLiM 1980
+ $ DeLiM /concepts/dollar-sign.html DeLiM true DeLiM 3690 DeLiM pl DeLiM 1983
+ DOPL DeLiM /concepts/dopl.html DeLiM true DeLiM 3691 DeLiM pl DeLiM 1982
+ Durra DeLiM /concepts/durra.html DeLiM true DeLiM 3693 DeLiM pl DeLiM 1986
+ Elegant DeLiM /concepts/elegant.html DeLiM true DeLiM 3694 DeLiM pl DeLiM 1987
+ ELLPACK DeLiM /concepts/ellpack.html DeLiM true DeLiM 3695 DeLiM pl DeLiM 1983
+ Extended Pascal DeLiM /concepts/extended-pascal.html DeLiM true DeLiM 3699 DeLiM pl DeLiM 1987
+ FLIC DeLiM /concepts/flic.html DeLiM true DeLiM 3700 DeLiM pl DeLiM 1987
+ FRANK DeLiM /concepts/frank.html DeLiM true DeLiM 3704 DeLiM pl DeLiM 1985
+ Galileo DeLiM /concepts/galileo.html DeLiM true DeLiM 3707 DeLiM pl DeLiM 1983
+ GEM DeLiM /concepts/gem.html DeLiM true DeLiM 3709 DeLiM pl DeLiM 1985
+ Gerald DeLiM /concepts/gerald.html DeLiM true DeLiM 3711 DeLiM pl DeLiM 1989
+ GPSS/85 DeLiM /concepts/gpss-85.html DeLiM true DeLiM 3718 DeLiM pl DeLiM 1985
+ Hybrid DeLiM /concepts/hybrid.html DeLiM true DeLiM 3729 DeLiM pl DeLiM 1987
+ Ina Jo DeLiM /concepts/ina-jo.html DeLiM true DeLiM 3737 DeLiM pl DeLiM 1985
+ INC DeLiM /concepts/inc.html DeLiM true DeLiM 3738 DeLiM pl DeLiM 1987
+ INFOLOG DeLiM /concepts/infolog.html DeLiM true DeLiM 3739 DeLiM pl DeLiM 1986
+ INSIGHT DeLiM /concepts/insight.html DeLiM true DeLiM 3740 DeLiM pl DeLiM 1983
+ INTERACTIVE DeLiM /concepts/interactive.html DeLiM true DeLiM 3741 DeLiM pl DeLiM 1983
+ Joyce DeLiM /concepts/joyce.html DeLiM true DeLiM 3745 DeLiM pl DeLiM 1987
+ KL1 DeLiM /concepts/kl1.html DeLiM true DeLiM 3751 DeLiM pl DeLiM 1988
+ LAMINA DeLiM /concepts/lamina.html DeLiM true DeLiM 3754 DeLiM pl DeLiM 1988
+ LAP DeLiM /concepts/lap.html DeLiM true DeLiM 3756 DeLiM pl DeLiM 1987
+ LASS DeLiM /concepts/lass.html DeLiM true DeLiM 3758 DeLiM pl DeLiM 1982
+ LDL DeLiM /concepts/ldl.html DeLiM true DeLiM 3759 DeLiM pl DeLiM 1984
+ Lisptalk DeLiM /concepts/lisptalk.html DeLiM true DeLiM 3762 DeLiM pl DeLiM 1988
+ LNF DeLiM /concepts/lnf.html DeLiM true DeLiM 3763 DeLiM pl DeLiM 1985
+ LOGLISP DeLiM /concepts/loglisp.html DeLiM true DeLiM 3766 DeLiM pl DeLiM 1980
+ LogoWriter DeLiM /concepts/logowriter.html DeLiM true DeLiM 3768 DeLiM pl DeLiM 1986
+ LORE DeLiM /concepts/lore.html DeLiM true DeLiM 3771 DeLiM pl DeLiM 1985
+ MAPQUERY DeLiM /concepts/mapquery.html DeLiM true DeLiM 3778 DeLiM pl DeLiM 1982
+ MELD DeLiM /concepts/meld.html DeLiM true DeLiM 3781 DeLiM pl DeLiM 1989
+ MetaH DeLiM /concepts/metah.html DeLiM true DeLiM 3783 DeLiM pl DeLiM 1988
+ Modula-2+ DeLiM /concepts/modula-2p.html DeLiM true DeLiM 3785 DeLiM pl DeLiM 1984
+ N-Prolog DeLiM /concepts/n-prolog.html DeLiM true DeLiM 3790 DeLiM pl DeLiM 1985
+ Nail DeLiM /concepts/nail.html DeLiM true DeLiM 3791 DeLiM pl DeLiM 1986
+ NIL DeLiM /concepts/nil.html DeLiM true DeLiM 3794 DeLiM pl DeLiM 1983
+ NUT DeLiM /concepts/nut.html DeLiM true DeLiM 3798 DeLiM pl DeLiM 1986
+ O DeLiM /concepts/o.html DeLiM true DeLiM 3799 DeLiM pl DeLiM 1986
+ OOLP DeLiM /concepts/oolp.html DeLiM true DeLiM 3806 DeLiM pl DeLiM 1989
+ OOPS DeLiM /concepts/oops.html DeLiM true DeLiM 3807 DeLiM pl DeLiM 1986
+ Orient84/K DeLiM /concepts/orient84-k.html DeLiM true DeLiM 3809 DeLiM pl DeLiM 1986
+ P/CL DeLiM /concepts/p-cl.html DeLiM true DeLiM 3811 DeLiM pl DeLiM 1984
+ PASCAL-I DeLiM /concepts/pascal-i.html DeLiM true DeLiM 3815 DeLiM pl DeLiM 1980
+ PHOCUS DeLiM /concepts/phocus.html DeLiM true DeLiM 3817 DeLiM pl DeLiM 1987
+ PICASSO DeLiM /concepts/picasso.html DeLiM true DeLiM 3818 DeLiM pl DeLiM 1988
+ PIE DeLiM /concepts/pie.html DeLiM true DeLiM 3819 DeLiM pl DeLiM 1988
+ PL/LL DeLiM /concepts/pl-ll.html DeLiM true DeLiM 3824 DeLiM pl DeLiM 1983
+ PRIZ DeLiM /concepts/priz.html DeLiM true DeLiM 3828 DeLiM pl DeLiM 1983
+ proto-GNOSIS DeLiM /concepts/proto-gnosis.html DeLiM true DeLiM 3832 DeLiM pl DeLiM 1987
+ Real-Time Euclid DeLiM /concepts/real-time-euclid.html DeLiM true DeLiM 3845 DeLiM pl DeLiM 1986
+ Rebus DeLiM /concepts/rebus.html DeLiM true DeLiM 3846 DeLiM pl DeLiM 1982
+ Refined C DeLiM /concepts/refined-c.html DeLiM true DeLiM 3847 DeLiM pl DeLiM 1984
+ Relix DeLiM /concepts/relix.html DeLiM true DeLiM 3850 DeLiM pl DeLiM 1984
+ RoboTalk DeLiM /concepts/robotalk.html DeLiM true DeLiM 3852 DeLiM pl DeLiM 1985
+ RUTH DeLiM /concepts/ruth.html DeLiM true DeLiM 3856 DeLiM pl DeLiM 1987
+ SCOOP DeLiM /concepts/scoop.html DeLiM true DeLiM 3861 DeLiM pl DeLiM 1988
+ SESPATH DeLiM /concepts/sespath.html DeLiM true DeLiM 3864 DeLiM pl DeLiM 1985
+ Seymour DeLiM /concepts/seymour.html DeLiM true DeLiM 3865 DeLiM pl DeLiM 1989
+ SIMODULA DeLiM /concepts/simodula.html DeLiM true DeLiM 3868 DeLiM pl DeLiM 1988
+ Siprol DeLiM /concepts/siprol.html DeLiM true DeLiM 3870 DeLiM pl DeLiM 1980
+ SL DeLiM /concepts/sl.html DeLiM true DeLiM 3873 DeLiM pl DeLiM 1988
+ SLIPS DeLiM /concepts/slips.html DeLiM true DeLiM 3874 DeLiM pl DeLiM 1984
+ SLOG DeLiM /concepts/slog.html DeLiM true DeLiM 3875 DeLiM pl DeLiM 1985
+ Smalltalk/V DeLiM /concepts/smalltalk-v.html DeLiM true DeLiM 3876 DeLiM pl DeLiM 1986
+ synergist DeLiM /concepts/synergist.html DeLiM true DeLiM 3895 DeLiM pl DeLiM 1986
+ 2lisp DeLiM /concepts/2lisp.html DeLiM true DeLiM 3898 DeLiM pl DeLiM 1982
+ APLO DeLiM /concepts/aplo.html DeLiM true DeLiM 3925 DeLiM pl DeLiM 1989
+ BER DeLiM /concepts/ber.html DeLiM true DeLiM 3930 DeLiM pl DeLiM 1988
+ Cigale DeLiM /concepts/cigale.html DeLiM true DeLiM 3933 DeLiM pl DeLiM 1986
+ EqL DeLiM /concepts/eql.html DeLiM true DeLiM 3942 DeLiM pl DeLiM 1989
+ IBM DB2 DeLiM /concepts/ibm-db2.html DeLiM true DeLiM 3947 DeLiM database DeLiM 1983
+ InterBase DeLiM /concepts/interbase.html DeLiM true DeLiM 3949 DeLiM database DeLiM 1985
+ Microsoft SQL Server DeLiM /concepts/microsoft-mysql-server.html DeLiM true DeLiM 3958 DeLiM database DeLiM 1989
+ Mushroom DeLiM /concepts/mushroom.html DeLiM true DeLiM 3960 DeLiM pl DeLiM 1988
+ SQURL DeLiM /concepts/squrl.html DeLiM true DeLiM 3978 DeLiM pl DeLiM 1981
+ *Prolog DeLiM /concepts/star-prolog.html DeLiM true DeLiM 3982 DeLiM pl DeLiM 1989
+ SW2 DeLiM /concepts/sw2.html DeLiM true DeLiM 3989 DeLiM pl DeLiM 1986
+ SYNGLISH DeLiM /concepts/synglish.html DeLiM true DeLiM 3990 DeLiM pl DeLiM 1980
+ TABLOG DeLiM /concepts/tablog.html DeLiM true DeLiM 3993 DeLiM pl DeLiM 1984
+ Taxis DeLiM /concepts/taxis.html DeLiM true DeLiM 3998 DeLiM pl DeLiM 1980
+ Temporal Prolog DeLiM /concepts/temporal-prolog.html DeLiM true DeLiM 4007 DeLiM pl DeLiM 1983
+ Timed CSP DeLiM /concepts/timed-csp.html DeLiM true DeLiM 4015 DeLiM pl DeLiM 1986
+ Tinkertoy DeLiM /concepts/tinkertoy.html DeLiM true DeLiM 4016 DeLiM pl DeLiM 1988
+ Traits DeLiM /concepts/traits.html DeLiM true DeLiM 4020 DeLiM pl DeLiM 1982
+ Transforma DeLiM /concepts/transforma.html DeLiM true DeLiM 4023 DeLiM pl DeLiM 1985
+ triroff DeLiM /concepts/triroff.html DeLiM true DeLiM 4025 DeLiM pl DeLiM 1983
+ TSL DeLiM /concepts/tsl.html DeLiM true DeLiM 4026 DeLiM pl DeLiM 1985
+ Turing Plus DeLiM /concepts/turing-plus.html DeLiM true DeLiM 4028 DeLiM pl DeLiM 1987
+ UFL DeLiM /concepts/ufl.html DeLiM true DeLiM 4036 DeLiM pl DeLiM 1986
+ UNICORN DeLiM /concepts/unicorn.html DeLiM true DeLiM 4039 DeLiM pl DeLiM 1986
+ VAL II DeLiM /concepts/val-ii.html DeLiM true DeLiM 4045 DeLiM pl DeLiM 1983
+ Viron DeLiM /concepts/viron.html DeLiM true DeLiM 4051 DeLiM pl DeLiM 1983
+ VULCAN DeLiM /concepts/vulcan.html DeLiM true DeLiM 4059 DeLiM pl DeLiM 1987
+ XCY DeLiM /concepts/xcy.html DeLiM true DeLiM 4068 DeLiM pl DeLiM 1980
+ 3-LISP DeLiM /concepts/3-lisp.html DeLiM true DeLiM 4079 DeLiM pl DeLiM 1982
+ ABCL/c+ DeLiM /concepts/abcl-cp.html DeLiM true DeLiM 4083 DeLiM pl DeLiM 1988
+ Acore DeLiM /concepts/acore.html DeLiM true DeLiM 4089 DeLiM pl DeLiM 1988
+ ACOS DeLiM /concepts/acos.html DeLiM true DeLiM 4091 DeLiM pl DeLiM 1988
+ ACT ONE DeLiM /concepts/act-one.html DeLiM true DeLiM 4093 DeLiM pl DeLiM 1983
+ Actalk DeLiM /concepts/actalk.html DeLiM true DeLiM 4094 DeLiM pl DeLiM 1989
+ Ada 9X DeLiM /concepts/ada-9x.html DeLiM true DeLiM 4099 DeLiM pl DeLiM 1988
+ ADABTPL DeLiM /concepts/adabtpl.html DeLiM true DeLiM 4101 DeLiM pl DeLiM 1987
+ Adaplex DeLiM /concepts/adaplex.html DeLiM true DeLiM 4103 DeLiM pl DeLiM 1983
+ AIDA DeLiM /concepts/aida.html DeLiM true DeLiM 4110 DeLiM pl DeLiM 1986
+ Aldat DeLiM /concepts/aldat.html DeLiM true DeLiM 4115 DeLiM pl DeLiM 1989
+ AlphaPop DeLiM /concepts/alphapop.html DeLiM true DeLiM 4126 DeLiM pl DeLiM 1986
+ Amanda DeLiM /concepts/amanda.html DeLiM true DeLiM 4128 DeLiM pl DeLiM 1988
+ Andorra DeLiM /concepts/andorra.html DeLiM true DeLiM 4132 DeLiM pl DeLiM 1988
+ axcess DeLiM /concepts/axcess.html DeLiM true DeLiM 4135 DeLiM pl DeLiM 1983
+ Cedar DeLiM /concepts/cedar.html DeLiM true DeLiM 4141 DeLiM pl DeLiM 1983
+ Distributed Smalltalk DeLiM /concepts/distributed-smalltalk.html DeLiM true DeLiM 4149 DeLiM pl DeLiM 1980
+ ESP DeLiM /concepts/esp.html DeLiM true DeLiM 4155 DeLiM pl DeLiM 1983
+ iota DeLiM /concepts/iota.html DeLiM true DeLiM 4168 DeLiM pl DeLiM 1985
+ modl DeLiM /concepts/modl.html DeLiM true DeLiM 4178 DeLiM pl DeLiM 1987
+ SAUSTALL DeLiM /concepts/saustall.html DeLiM true DeLiM 4199 DeLiM pl DeLiM 1982
+ SR DeLiM /concepts/sr.html DeLiM true DeLiM 4206 DeLiM pl DeLiM 1988
+ SUMMER DeLiM /concepts/summer.html DeLiM true DeLiM 4210 DeLiM pl DeLiM 1980
+ TALE DeLiM /concepts/tale.html DeLiM true DeLiM 4218 DeLiM pl DeLiM 1986
+ TS DeLiM /concepts/ts.html DeLiM true DeLiM 4228 DeLiM pl DeLiM 1988
+ A51 Assembly DeLiM /concepts/a51.html DeLiM true DeLiM 4240 DeLiM assembly DeLiM 1988
+ ADLIB DeLiM /concepts/adlib.html DeLiM true DeLiM 4246 DeLiM pl DeLiM 1980
+ ALPS DeLiM /concepts/alps.html DeLiM true DeLiM 4250 DeLiM pl DeLiM 1988
+ Amber DeLiM /concepts/amber.html DeLiM true DeLiM 4251 DeLiM pl DeLiM 1984
+ And/Or DeLiM /concepts/and-or.html DeLiM true DeLiM 4255 DeLiM pl DeLiM 1980
+ Andante DeLiM /concepts/andante.html DeLiM true DeLiM 4256 DeLiM pl DeLiM 1980
+ ANSI BASIC DeLiM /concepts/ansi-basic.html DeLiM true DeLiM 4259 DeLiM pl DeLiM 1980
+ APPLOG DeLiM /concepts/applog.html DeLiM true DeLiM 4267 DeLiM pl DeLiM 1986
+ Aquarius Prolog DeLiM /concepts/aquarius-prolog.html DeLiM true DeLiM 4270 DeLiM pl DeLiM 1989
+ ARCHI DeLiM /concepts/archi.html DeLiM true DeLiM 4272 DeLiM pl DeLiM 1986
+ Arjuna DeLiM /concepts/arjuna.html DeLiM true DeLiM 4273 DeLiM pl DeLiM 1989
+ Asspegique DeLiM /concepts/asspegique.html DeLiM true DeLiM 4279 DeLiM pl DeLiM 1985
+ BDL DeLiM /concepts/bdl.html DeLiM true DeLiM 4296 DeLiM pl DeLiM 1987
+ BLAZE DeLiM /concepts/blaze.html DeLiM true DeLiM 4305 DeLiM pl DeLiM 1985
+ Booster DeLiM /concepts/booster.html DeLiM true DeLiM 4310 DeLiM pl DeLiM 1989
+ Boxer DeLiM /concepts/boxer.html DeLiM true DeLiM 4313 DeLiM pl DeLiM 1985
+ BSP DeLiM /concepts/bsp.html DeLiM true DeLiM 4318 DeLiM pl DeLiM 1989
+ Cantor DeLiM /concepts/cantor.html DeLiM true DeLiM 4330 DeLiM pl DeLiM 1987
+ Capsule DeLiM /concepts/capsule.html DeLiM true DeLiM 4332 DeLiM pl DeLiM 1981
+ Cedar Fortran DeLiM /concepts/cedar-fortran.html DeLiM true DeLiM 4337 DeLiM pl DeLiM 1984
+ Ceprol DeLiM /concepts/ceprol.html DeLiM true DeLiM 4340 DeLiM pl DeLiM 1985
+ Charrette Ada DeLiM /concepts/charrette-ada.html DeLiM true DeLiM 4343 DeLiM pl DeLiM 1980
+ Chronolog DeLiM /concepts/chronolog.html DeLiM true DeLiM 4346 DeLiM pl DeLiM 1985
+ Clascal DeLiM /concepts/clascal.html DeLiM true DeLiM 4352 DeLiM pl DeLiM 1983
+ CLP* DeLiM /concepts/clp-star.html DeLiM true DeLiM 4358 DeLiM pl DeLiM 1989
+ COLD-K DeLiM /concepts/cold-k.html DeLiM true DeLiM 4364 DeLiM pl DeLiM 1989
+ Complex-Prolog DeLiM /concepts/complex-prolog.html DeLiM true DeLiM 4365 DeLiM pl DeLiM 1989
+ CONCUR DeLiM /concepts/concur.html DeLiM true DeLiM 4370 DeLiM pl DeLiM 1981
+ ConMan DeLiM /concepts/conman.html DeLiM true DeLiM 4373 DeLiM pl DeLiM 1988
+ COPAS DeLiM /concepts/copas.html DeLiM true DeLiM 4377 DeLiM pl DeLiM 1981
+ CQLF DeLiM /concepts/cqlf.html DeLiM true DeLiM 4383 DeLiM pl DeLiM 1982
+ DAG DeLiM /concepts/dag.html DeLiM true DeLiM 4394 DeLiM pl DeLiM 1989
+ DAP-Algol DeLiM /concepts/dap-algol.html DeLiM true DeLiM 4395 DeLiM pl DeLiM 1985
+ DeBuMa DeLiM /concepts/debuma.html DeLiM true DeLiM 4400 DeLiM pl DeLiM 1988
+ DFL DeLiM /concepts/dfl.html DeLiM true DeLiM 4407 DeLiM pl DeLiM 1983
+ Diplans DeLiM /concepts/diplans.html DeLiM true DeLiM 4410 DeLiM pl DeLiM 1988
+ DITROFF/FFORTID DeLiM /concepts/ditroff-ffortid.html DeLiM true DeLiM 4413 DeLiM pl DeLiM 1985
+ DITROFF DeLiM /concepts/ditroff.html DeLiM true DeLiM 4414 DeLiM pl DeLiM 1982
+ DOE Macsyma DeLiM /concepts/doe-macsyma.html DeLiM true DeLiM 4416 DeLiM pl DeLiM 1984
+ EAS-E DeLiM /concepts/eas-e.html DeLiM true DeLiM 4424 DeLiM pl DeLiM 1983
+ EGS4 DeLiM /concepts/egs4.html DeLiM true DeLiM 4433 DeLiM pl DeLiM 1985
+ EPILOG DeLiM /concepts/epilog.html DeLiM true DeLiM 4438 DeLiM pl DeLiM 1981
+ EQLog DeLiM /concepts/eqlog.html DeLiM true DeLiM 4439 DeLiM pl DeLiM 1986
+ ERROL DeLiM /concepts/errol.html DeLiM true DeLiM 4441 DeLiM pl DeLiM 1983
+ FAC DeLiM /concepts/fac.html DeLiM true DeLiM 4444 DeLiM pl DeLiM 1986
+ FAD DeLiM /concepts/fad.html DeLiM true DeLiM 4445 DeLiM pl DeLiM 1987
+ FLENG++ DeLiM /concepts/flengpp.html DeLiM true DeLiM 4448 DeLiM pl DeLiM 1989
+ foogol DeLiM /concepts/foogol.html DeLiM true DeLiM 4451 DeLiM pl DeLiM 1985
+ FORALL DeLiM /concepts/forall.html DeLiM true DeLiM 4454 DeLiM pl DeLiM 1980
+ Fortran 8x DeLiM /concepts/fortran-8x.html DeLiM true DeLiM 4457 DeLiM pl DeLiM 1989
+ FP2 DeLiM /concepts/fp2.html DeLiM true DeLiM 4462 DeLiM pl DeLiM 1986
+ GaussFit DeLiM /concepts/gaussfit.html DeLiM true DeLiM 4468 DeLiM pl DeLiM 1986
+ GCP DeLiM /concepts/gcp.html DeLiM true DeLiM 4469 DeLiM pl DeLiM 1985
+ GDPL DeLiM /concepts/gdpl.html DeLiM true DeLiM 4470 DeLiM pl DeLiM 1984
+ GENTRAN DeLiM /concepts/gentran.html DeLiM true DeLiM 4474 DeLiM pl DeLiM 1984
+ GKS DeLiM /concepts/gks.html DeLiM true DeLiM 4477 DeLiM pl DeLiM 1983
+ GQL DeLiM /concepts/gql.html DeLiM true DeLiM 4485 DeLiM pl DeLiM 1980
+ GraphLog DeLiM /concepts/graphlog.html DeLiM true DeLiM 4487 DeLiM pl DeLiM 1988
+ GSBL DeLiM /concepts/gsbl.html DeLiM true DeLiM 4491 DeLiM pl DeLiM 1988
+ HASL DeLiM /concepts/hasl.html DeLiM true DeLiM 4497 DeLiM pl DeLiM 1982
+ HERAKLIT DeLiM /concepts/heraklit.html DeLiM true DeLiM 4498 DeLiM pl DeLiM 1987
+ HMSL DeLiM /concepts/hmsl.html DeLiM true DeLiM 4501 DeLiM pl DeLiM 1980
+ HOL DeLiM /concepts/hol.html DeLiM true DeLiM 4502 DeLiM pl DeLiM 1985
+ HP-PASCAL DeLiM /concepts/hp-pascal.html DeLiM true DeLiM 4504 DeLiM pl DeLiM 1984
+ HPRL DeLiM /concepts/hprl.html DeLiM true DeLiM 4505 DeLiM pl DeLiM 1982
+ IB-Templog DeLiM /concepts/ib-templog.html DeLiM true DeLiM 4515 DeLiM pl DeLiM 1987
+ IBM Logo DeLiM /concepts/ibm-logo.html DeLiM true DeLiM 4516 DeLiM pl DeLiM 1983
+ INMAGIC DeLiM /concepts/inmagic.html DeLiM true DeLiM 4522 DeLiM pl DeLiM 1983
+ Interlisp-VAX DeLiM /concepts/interlisp-vax.html DeLiM true DeLiM 4526 DeLiM pl DeLiM 1981
+ jBC DeLiM /concepts/jbc.html DeLiM true DeLiM 4536 DeLiM pl DeLiM 1989
+ JMSL DeLiM /concepts/jmsl.html DeLiM true DeLiM 4538 DeLiM pl DeLiM 1986
+ Juno DeLiM /concepts/juno.html DeLiM true DeLiM 4541 DeLiM pl DeLiM 1985
+ KEE DeLiM /concepts/kee.html DeLiM true DeLiM 4546 DeLiM pl DeLiM 1984
+ KEK-NODAL DeLiM /concepts/kek-nodal.html DeLiM true DeLiM 4547 DeLiM pl DeLiM 1985
+ KRS DeLiM /concepts/krs.html DeLiM true DeLiM 4555 DeLiM pl DeLiM 1987
+ KRYPTON DeLiM /concepts/krypton.html DeLiM true DeLiM 4556 DeLiM pl DeLiM 1983
+ Larch DeLiM /concepts/larch.html DeLiM true DeLiM 4560 DeLiM pl DeLiM 1985
+ LAURE DeLiM /concepts/laure.html DeLiM true DeLiM 4561 DeLiM pl DeLiM 1989
+ LDL1 DeLiM /concepts/ldl1.html DeLiM true DeLiM 4564 DeLiM pl DeLiM 1987
+ LGDF DeLiM /concepts/lgdf.html DeLiM true DeLiM 4568 DeLiM pl DeLiM 1986
+ Logicon DeLiM /concepts/logicon.html DeLiM true DeLiM 4575 DeLiM pl DeLiM 1986
+ LOGIST DeLiM /concepts/logist.html DeLiM true DeLiM 4576 DeLiM pl DeLiM 1980
+ LOTOS DeLiM /concepts/lotos.html DeLiM true DeLiM 4581 DeLiM pl DeLiM 1989
+ MACE DeLiM /concepts/mace.html DeLiM true DeLiM 4587 DeLiM pl DeLiM 1989
+ Machiavelli DeLiM /concepts/machiavelli.html DeLiM true DeLiM 4588 DeLiM pl DeLiM 1989
+ Magma2 DeLiM /concepts/magma2.html DeLiM true DeLiM 4590 DeLiM pl DeLiM 1984
+ Mary/2 DeLiM /concepts/mary-2.html DeLiM true DeLiM 4596 DeLiM pl DeLiM 1984
+ MASIM DeLiM /concepts/masim.html DeLiM true DeLiM 4597 DeLiM pl DeLiM 1985
+ Mathsy DeLiM /concepts/mathsy.html DeLiM true DeLiM 4598 DeLiM pl DeLiM 1980
+ MATRIX PASCAL DeLiM /concepts/matrix-pascal.html DeLiM true DeLiM 4599 DeLiM pl DeLiM 1983
+ MCOBOL DeLiM /concepts/mcobol.html DeLiM true DeLiM 4600 DeLiM pl DeLiM 1980
+ MDBS-QRS DeLiM /concepts/mdbs-qrs.html DeLiM true DeLiM 4601 DeLiM queryLanguage DeLiM 1981
+ MEDIC DeLiM /concepts/medic.html DeLiM true DeLiM 4602 DeLiM pl DeLiM 1980
+ METATEM DeLiM /concepts/metatem.html DeLiM true DeLiM 4611 DeLiM pl DeLiM 1989
+ microTAL DeLiM /concepts/microtal.html DeLiM true DeLiM 4614 DeLiM pl DeLiM 1981
+ Mini-ML DeLiM /concepts/mini-ml.html DeLiM true DeLiM 4616 DeLiM pl DeLiM 1986
+ MINION DeLiM /concepts/minion.html DeLiM true DeLiM 4617 DeLiM pl DeLiM 1989
+ Miranim DeLiM /concepts/miranim.html DeLiM true DeLiM 4621 DeLiM pl DeLiM 1985
+ MODLISP DeLiM /concepts/modlisp.html DeLiM true DeLiM 4628 DeLiM pl DeLiM 1980
+ Modula/R DeLiM /concepts/modula-r.html DeLiM true DeLiM 4631 DeLiM pl DeLiM 1983
+ Molog DeLiM /concepts/molog.html DeLiM true DeLiM 4633 DeLiM pl DeLiM 1987
+ Moxie DeLiM /concepts/moxie.html DeLiM true DeLiM 4636 DeLiM pl DeLiM 1984
+ MSG.84 DeLiM /concepts/msg-84.html DeLiM true DeLiM 4640 DeLiM pl DeLiM 1985
+ muFP DeLiM /concepts/mufp.html DeLiM true DeLiM 4641 DeLiM pl DeLiM 1984
+ Mul-T DeLiM /concepts/mul-t.html DeLiM true DeLiM 4642 DeLiM pl DeLiM 1989
+ MUNIN DeLiM /concepts/munin.html DeLiM true DeLiM 4645 DeLiM pl DeLiM 1989
+ NARPL DeLiM /concepts/narpl.html DeLiM true DeLiM 4649 DeLiM pl DeLiM 1989
+ Ness DeLiM /concepts/ness.html DeLiM true DeLiM 4654 DeLiM pl DeLiM 1989
+ NFQL DeLiM /concepts/nfql.html DeLiM true DeLiM 4658 DeLiM pl DeLiM 1989
+ NIKL DeLiM /concepts/nikl.html DeLiM true DeLiM 4659 DeLiM pl DeLiM 1986
+ NOAH DeLiM /concepts/noah.html DeLiM true DeLiM 4660 DeLiM pl DeLiM 1982
+ Oaklisp DeLiM /concepts/oaklisp.html DeLiM true DeLiM 4665 DeLiM pl DeLiM 1986
+ OBJ2 DeLiM /concepts/obj2.html DeLiM true DeLiM 4667 DeLiM pl DeLiM 1984
+ ObjVProlog DeLiM /concepts/objvprolog.html DeLiM true DeLiM 4670 DeLiM pl DeLiM 1989
+ OBSCURE DeLiM /concepts/obscure.html DeLiM true DeLiM 4671 DeLiM pl DeLiM 1985
+ Occam 2 DeLiM /concepts/occam-2.html DeLiM true DeLiM 4672 DeLiM pl DeLiM 1987
+ OLGA DeLiM /concepts/olga.html DeLiM true DeLiM 4675 DeLiM pl DeLiM 1985
+ OMNIMARK DeLiM /concepts/omnimark.html DeLiM true DeLiM 4677 DeLiM pl DeLiM 1980
+ OMNITAB 80 DeLiM /concepts/omnitab-80.html DeLiM true DeLiM 4678 DeLiM pl DeLiM 1980
+ Ottawa Euclid DeLiM /concepts/ottawa-euclid.html DeLiM true DeLiM 4687 DeLiM pl DeLiM 1984
+ Otter DeLiM /concepts/otter.html DeLiM true DeLiM 4688 DeLiM pl DeLiM 1988
+ P-Prolog DeLiM /concepts/p-prolog.html DeLiM true DeLiM 4690 DeLiM pl DeLiM 1986
+ P-TAC DeLiM /concepts/p-tac.html DeLiM true DeLiM 4691 DeLiM pl DeLiM 1989
+ PaiLisp DeLiM /concepts/pailisp.html DeLiM true DeLiM 4695 DeLiM pl DeLiM 1986
+ PANCODE DeLiM /concepts/pancode.html DeLiM true DeLiM 4697 DeLiM pl DeLiM 1982
+ Parallel ELLPACK DeLiM /concepts/parallel-ellpack.html DeLiM true DeLiM 4700 DeLiM pl DeLiM 1983
+ Parallel Pascal DeLiM /concepts/parallel-pascal.html DeLiM true DeLiM 4701 DeLiM pl DeLiM 1984
+ ParMod DeLiM /concepts/parmod.html DeLiM true DeLiM 4703 DeLiM pl DeLiM 1987
+ Pascal-SC DeLiM /concepts/pascal-sc.html DeLiM true DeLiM 4705 DeLiM pl DeLiM 1982
+ PASION DeLiM /concepts/pasion.html DeLiM true DeLiM 4706 DeLiM pl DeLiM 1986
+ PASRO DeLiM /concepts/pasro.html DeLiM true DeLiM 4707 DeLiM pl DeLiM 1985
+ PCOL DeLiM /concepts/pcol.html DeLiM true DeLiM 4710 DeLiM pl DeLiM 1986
+ PDL/Ada DeLiM /concepts/pdl-ada.html DeLiM true DeLiM 4713 DeLiM pl DeLiM 1981
+ Pebble DeLiM /concepts/pebble.html DeLiM true DeLiM 4715 DeLiM pl DeLiM 1984
+ PEP DeLiM /concepts/pep.html DeLiM true DeLiM 4717 DeLiM pl DeLiM 1984
+ PICTUREBALM DeLiM /concepts/picturebalm.html DeLiM true DeLiM 4724 DeLiM pl DeLiM 1980
+ Playground DeLiM /concepts/playground.html DeLiM true DeLiM 4729 DeLiM pl DeLiM 1989
+ Polylith DeLiM /concepts/polylith.html DeLiM true DeLiM 4733 DeLiM pl DeLiM 1983
+ POPSY DeLiM /concepts/popsy.html DeLiM true DeLiM 4736 DeLiM pl DeLiM 1986
+ PRAXIS DeLiM /concepts/praxis.html DeLiM true DeLiM 4738 DeLiM pl DeLiM 1980
+ PRESTO DeLiM /concepts/presto.html DeLiM true DeLiM 4739 DeLiM pl DeLiM 1987
+ PRISM DeLiM /concepts/prism.html DeLiM true DeLiM 4741 DeLiM pl DeLiM 1983
+ Prolog-ELF DeLiM /concepts/prolog-elf.html DeLiM true DeLiM 4746 DeLiM pl DeLiM 1985
+ Prolog III DeLiM /concepts/prolog-iii.html DeLiM true DeLiM 4747 DeLiM pl DeLiM 1984
+ Prolog/KR DeLiM /concepts/prolog-kr.html DeLiM true DeLiM 4748 DeLiM pl DeLiM 1984
+ Prolog-Linda DeLiM /concepts/prolog-linda.html DeLiM true DeLiM 4749 DeLiM pl DeLiM 1989
+ PROTOS-L DeLiM /concepts/protos-l.html DeLiM true DeLiM 4751 DeLiM pl DeLiM 1989
+ PT DeLiM /concepts/pt.html DeLiM true DeLiM 4756 DeLiM pl DeLiM 1983
+ QLISP DeLiM /concepts/qlisp.html DeLiM true DeLiM 4760 DeLiM pl DeLiM 1988
+ Quty DeLiM /concepts/quty.html DeLiM true DeLiM 4762 DeLiM pl DeLiM 1984
+ rbasic DeLiM /concepts/rbasic.html DeLiM true DeLiM 4763 DeLiM pl DeLiM 1985
+ REC/SM DeLiM /concepts/rec-sm.html DeLiM true DeLiM 4764 DeLiM pl DeLiM 1980
+ RefLisp DeLiM /concepts/reflisp.html DeLiM true DeLiM 4767 DeLiM pl DeLiM 1988
+ RELFUN DeLiM /concepts/relfun.html DeLiM true DeLiM 4770 DeLiM pl DeLiM 1986
+ RF-Maple DeLiM /concepts/rf-maple.html DeLiM true DeLiM 4771 DeLiM pl DeLiM 1984
+ RIGAL DeLiM /concepts/rigal.html DeLiM true DeLiM 4773 DeLiM pl DeLiM 1987
+ RT-ASLAN DeLiM /concepts/rt-aslan.html DeLiM true DeLiM 4777 DeLiM pl DeLiM 1986
+ RT-CDL DeLiM /concepts/rt-cdl.html DeLiM true DeLiM 4778 DeLiM pl DeLiM 1989
+ SARTEX DeLiM /concepts/sartex.html DeLiM true DeLiM 4783 DeLiM pl DeLiM 1985
+ SCHEMAL DeLiM /concepts/schemal.html DeLiM true DeLiM 4787 DeLiM pl DeLiM 1983
+ Scratchpad II DeLiM /concepts/scratchpad-ii.html DeLiM true DeLiM 4790 DeLiM pl DeLiM 1980
+ SEGRAS DeLiM /concepts/segras.html DeLiM true DeLiM 4794 DeLiM pl DeLiM 1985
+ Seque DeLiM /concepts/seque.html DeLiM true DeLiM 4796 DeLiM pl DeLiM 1988
+ SEVAL DeLiM /concepts/seval.html DeLiM true DeLiM 4801 DeLiM pl DeLiM 1981
+ ShapeUp DeLiM /concepts/shapeup.html DeLiM true DeLiM 4802 DeLiM pl DeLiM 1984
+ SIMCAL DeLiM /concepts/simcal.html DeLiM true DeLiM 4806 DeLiM pl DeLiM 1986
+ SIMDIS DeLiM /concepts/simdis.html DeLiM true DeLiM 4807 DeLiM pl DeLiM 1985
+ SIMNET DeLiM /concepts/simnet.html DeLiM true DeLiM 4810 DeLiM pl DeLiM 1988
+ SIMPAS DeLiM /concepts/simpas.html DeLiM true DeLiM 4811 DeLiM pl DeLiM 1980
+ SLAM II DeLiM /concepts/slam-ii.html DeLiM true DeLiM 4816 DeLiM pl DeLiM 1980
+ Small Euclid DeLiM /concepts/small-euclid.html DeLiM true DeLiM 4820 DeLiM pl DeLiM 1988
+ SMALL-X DeLiM /concepts/small-x.html DeLiM true DeLiM 4821 DeLiM pl DeLiM 1985
+ Smalltalk-80 DeLiM /concepts/smalltalk-80.html DeLiM true DeLiM 4823 DeLiM pl DeLiM 1980
+ SMoLCS DeLiM /concepts/smolcs.html DeLiM true DeLiM 4824 DeLiM pl DeLiM 1986
+ SNOOP DeLiM /concepts/snoop.html DeLiM true DeLiM 4826 DeLiM pl DeLiM 1988
+ SORCA DeLiM /concepts/sorca.html DeLiM true DeLiM 4828 DeLiM pl DeLiM 1983
+ SubL DeLiM /concepts/subl.html DeLiM true DeLiM 4833 DeLiM pl DeLiM 1989
 
 Results as JSON, CSV, TSV or Tree
  link /search.json?q=title%20Which%20of%20today's%20top%20languages%20were%20created%20in%20the%201980's%3F%0Aselect%20isLanguage%20rank%20type%20appeared%0Awhere%20isLanguage%20oneOf%20true%0Awhere%20appeared%20%3E%201979%0Awhere%20appeared%20%3C%201990%0AsortBy%20rank%0A JSON

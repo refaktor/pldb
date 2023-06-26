@@ -22,7 +22,7 @@ startColumns 4
  link ../lists/creators.html#frankConlon Frank Conlon
 
 dashboard
- #3209 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4090 Links: 986">on PLDB</span>
+ #3208 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4089 Links: 986">on PLDB</span>
  3 Years Old
 
 * In this work we introduce the StoneCutter instruction set design language and tool infrastructure. StoneCutter provides a familiar, C-like language construct by which to develop the implementation for individual, programmable instructions. The LLVM-based StoneCutter compiler performs individual instruction and whole-ISA optimizations in order to generate a high performance, Chisel HDL representation of the target design. Utilizing the existing Chisel tools, users can also generate C++ cycle accurate simulation models as well as Verilog representations of the target design. As a result, StoneCutter provides a very rapid design environment for development and experimentation.

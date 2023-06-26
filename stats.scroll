@@ -2,16 +2,16 @@ import header.scroll
 title SITE_NAME Stats
 
 dashboard
- 4,843 Concepts
+ 4,842 Concepts
  356 Questions
- 148,800 Filled
- 1,575,308 Missing
+ 148,780 Filled
+ 1,574,972 Missing
  9,756 Concept links
- 10,307 URLs
+ 10,305 URLs
  9 Queries
- 7,333,004 Bytes
- 181,790 Lines
- 913,556 Words
+ 7,332,284 Bytes
+ 181,775 Lines
+ 913,498 Words
 
 startColumns 1
 # SITE_NAME Visualized

@@ -7,7 +7,7 @@ title Snostorm - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="smoke.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="spade.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="tao.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/snostorm.pldb
 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav smoke.html spade.html
+keyboardNav smoke.html tao.html
 
 import ../footer.scroll
