@@ -7,7 +7,7 @@ title Patient-Oriented Prescription Programming Language - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="nhx.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="slim.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spice.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pop-pl.pldb
 
@@ -46,6 +46,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav nhx.html slim.html
+keyboardNav nhx.html spice.html
 
 import ../footer.scroll

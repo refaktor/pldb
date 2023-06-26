@@ -7,7 +7,7 @@ title Jython - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="fastq-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="chrysalisp.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="cool.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jython.pldb
 
@@ -55,6 +55,6 @@ treeTable
   Token print
   Example
 
-keyboardNav fastq-format.html chrysalisp.html
+keyboardNav fastq-format.html cool.html
 
 import ../footer.scroll

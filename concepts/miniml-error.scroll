@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/andrejbauer/plzoo/tree/master/src/miniml_error
 
 dashboard
- #965 <span title="TotalRank: 1528 Jobs: 103 Users: 439 Facts: 2057 Links: 986">on PLDB</span>
+ #965 <span title="TotalRank: 1528 Jobs: 103 Users: 439 Facts: 2056 Links: 986">on PLDB</span>
  10 Years Old
 
 * like miniml that can also abort execution

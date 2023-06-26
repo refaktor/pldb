@@ -7,7 +7,7 @@ title PL/SQL - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="hack.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="game.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jinja.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pl-sql.pldb
 
@@ -136,6 +136,6 @@ treeTable
   Token 
   Example
 
-keyboardNav hack.html game.html
+keyboardNav hack.html jinja.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Brain-Flak - Esoteric programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="encore.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rpp.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sublime-syntax.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/brain-flak.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav encore.html rpp.html
+keyboardNav encore.html sublime-syntax.html
 
 import ../footer.scroll

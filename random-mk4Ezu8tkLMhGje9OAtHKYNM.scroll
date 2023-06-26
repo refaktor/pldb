@@ -20,7 +20,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,843 files and found 432 matches in 3.93s. <span id="publishQuery"></span>
+Searched 4,843 files and found 432 matches in 4.13s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Which of today's top languages were created in the 1970's?
@@ -50,7 +50,7 @@ table  DeLiM
  GAME DeLiM /concepts/game.html DeLiM true DeLiM 202 DeLiM pl DeLiM 1977
  x86 Assembly DeLiM /concepts/x86-assembly.html DeLiM true DeLiM 204 DeLiM assembly DeLiM 1972
  Makefile DeLiM /concepts/makefile.html DeLiM true DeLiM 215 DeLiM pl DeLiM 1976
- Icon DeLiM /concepts/icon.html DeLiM true DeLiM 226 DeLiM pl DeLiM 1977
+ Icon DeLiM /concepts/icon.html DeLiM true DeLiM 225 DeLiM pl DeLiM 1977
  IDL DeLiM /concepts/idl.html DeLiM true DeLiM 243 DeLiM pl DeLiM 1977
  grep DeLiM /concepts/grep.html DeLiM true DeLiM 287 DeLiM pl DeLiM 1974
  S-algol DeLiM /concepts/s-algol.html DeLiM true DeLiM 309 DeLiM pl DeLiM 1979
@@ -135,7 +135,7 @@ table  DeLiM
  Euclid DeLiM /concepts/euclid.html DeLiM true DeLiM 1933 DeLiM pl DeLiM 1970
  PL/P DeLiM /concepts/pl-p.html DeLiM true DeLiM 1936 DeLiM pl DeLiM 1978
  DDA DeLiM /concepts/dda.html DeLiM true DeLiM 1938 DeLiM pl DeLiM 1979
- OBJ DeLiM /concepts/obj.html DeLiM true DeLiM 1958 DeLiM pl DeLiM 1976
+ OBJ DeLiM /concepts/obj.html DeLiM true DeLiM 1960 DeLiM pl DeLiM 1976
  MLAB DeLiM /concepts/mlab.html DeLiM true DeLiM 1969 DeLiM pl DeLiM 1975
  XPL0 DeLiM /concepts/xpl0.html DeLiM true DeLiM 1993 DeLiM pl DeLiM 1976
  2-pak DeLiM /concepts/2-pak.html DeLiM true DeLiM 2007 DeLiM pl DeLiM 1975
@@ -153,43 +153,43 @@ table  DeLiM
  EXEC 2 DeLiM /concepts/exec-2.html DeLiM true DeLiM 2196 DeLiM pl DeLiM 1970
  Apple BASIC DeLiM /concepts/apple-basic.html DeLiM true DeLiM 2218 DeLiM pl DeLiM 1978
  Refer DeLiM /concepts/refer.html DeLiM true DeLiM 2239 DeLiM textMarkup DeLiM 1978
- Data General Business Basic DeLiM /concepts/data-general-business-basic.html DeLiM true DeLiM 2265 DeLiM pl DeLiM 1970
- Scratchpad DeLiM /concepts/scratchpad.html DeLiM true DeLiM 2277 DeLiM pl DeLiM 1971
- Eurisko DeLiM /concepts/eurisko.html DeLiM true DeLiM 2283 DeLiM pl DeLiM 1978
- Text Executive Programming Language DeLiM /concepts/text-executive-programming-language.html DeLiM true DeLiM 2300 DeLiM pl DeLiM 1979
- Wirth syntax notation DeLiM /concepts/wirth-syntax-notation.html DeLiM true DeLiM 2301 DeLiM grammarLanguage DeLiM 1977
- BASIC09 DeLiM /concepts/basic09.html DeLiM true DeLiM 2368 DeLiM pl DeLiM 1978
- ELAN DeLiM /concepts/elan.html DeLiM true DeLiM 2374 DeLiM pl DeLiM 1974
- Cambridge Algebra System DeLiM /concepts/camal.html DeLiM true DeLiM 2381 DeLiM pl DeLiM 1973
- SPIP DeLiM /concepts/spip.html DeLiM true DeLiM 2387 DeLiM pl DeLiM 1977
- Nomad software DeLiM /concepts/nomad-software.html DeLiM true DeLiM 2388 DeLiM pl DeLiM 1976
- Jet Propulsion Laboratory Display Information System DeLiM /concepts/jet-propulsion-laboratory-display-information-system.html DeLiM true DeLiM 2434 DeLiM pl DeLiM 1973
- Protel DeLiM /concepts/protel.html DeLiM true DeLiM 2450 DeLiM pl DeLiM 1975
- SPITBOL DeLiM /concepts/spitbol.html DeLiM true DeLiM 2457 DeLiM pl DeLiM 1971
- CGOL DeLiM /concepts/cgol.html DeLiM true DeLiM 2480 DeLiM pl DeLiM 1973
- Little Implementation Language DeLiM /concepts/lil.html DeLiM true DeLiM 2483 DeLiM pl DeLiM 1974
- Daplex DeLiM /concepts/daplex.html DeLiM true DeLiM 2487 DeLiM pl DeLiM 1979
- Blue DeLiM /concepts/blue-programming-language.html DeLiM true DeLiM 2499 DeLiM pl DeLiM 1977
- EFL DeLiM /concepts/efl.html DeLiM true DeLiM 2523 DeLiM pl DeLiM 1979
- Rexon DeLiM /concepts/rexon.html DeLiM true DeLiM 2530 DeLiM pl DeLiM 1978
- SYMPL DeLiM /concepts/sympl.html DeLiM true DeLiM 2533 DeLiM pl DeLiM 1970
- AlphaBasic DeLiM /concepts/alphabasic.html DeLiM true DeLiM 2538 DeLiM pl DeLiM 1976
- BASIC-11 DeLiM /concepts/basic-11.html DeLiM true DeLiM 2539 DeLiM pl DeLiM 1976
- PROIV DeLiM /concepts/proiv.html DeLiM true DeLiM 2544 DeLiM pl DeLiM 1976
- DEMOS DeLiM /concepts/demos.html DeLiM true DeLiM 2547 DeLiM pl DeLiM 1978
- SAM76 DeLiM /concepts/sam76.html DeLiM true DeLiM 2561 DeLiM pl DeLiM 1970
- Digital Interactive Business Oriented Language DeLiM /concepts/dibol.html DeLiM true DeLiM 2567 DeLiM pl DeLiM 1970
- BASIC-E DeLiM /concepts/basic-e.html DeLiM true DeLiM 2573 DeLiM pl DeLiM 1976
- SASL DeLiM /concepts/sasl-programming-language.html DeLiM true DeLiM 2583 DeLiM pl DeLiM 1972
- Typographical Number Theory DeLiM /concepts/typographical-number-theory.html DeLiM true DeLiM 2587 DeLiM notation DeLiM 1979
- Alpha DeLiM /concepts/alpha-programming-language.html DeLiM true DeLiM 2590 DeLiM pl DeLiM 1971
- Secure Operations Language DeLiM /concepts/secure-operations-language.html DeLiM true DeLiM 2593 DeLiM pl DeLiM 1970
- Langage Sans Espoir DeLiM /concepts/lse.html DeLiM true DeLiM 2599 DeLiM pl DeLiM 1971
- FLACC DeLiM /concepts/flacc.html DeLiM true DeLiM 2655 DeLiM pl DeLiM 1977
- NPL DeLiM /concepts/npl-lang.html DeLiM true DeLiM 2665 DeLiM pl DeLiM 1977
- IFPS DeLiM /concepts/ifps.html DeLiM true DeLiM 2667 DeLiM pl DeLiM 1970
- NorthStar BASIC DeLiM /concepts/northstar-basic.html DeLiM true DeLiM 2693 DeLiM pl DeLiM 1977
- Alphard DeLiM /concepts/alphard-programming-language.html DeLiM true DeLiM 2701 DeLiM pl DeLiM 1974
+ Data General Business Basic DeLiM /concepts/data-general-business-basic.html DeLiM true DeLiM 2266 DeLiM pl DeLiM 1970
+ Scratchpad DeLiM /concepts/scratchpad.html DeLiM true DeLiM 2278 DeLiM pl DeLiM 1971
+ Eurisko DeLiM /concepts/eurisko.html DeLiM true DeLiM 2284 DeLiM pl DeLiM 1978
+ Text Executive Programming Language DeLiM /concepts/text-executive-programming-language.html DeLiM true DeLiM 2304 DeLiM pl DeLiM 1979
+ Wirth syntax notation DeLiM /concepts/wirth-syntax-notation.html DeLiM true DeLiM 2305 DeLiM grammarLanguage DeLiM 1977
+ BASIC09 DeLiM /concepts/basic09.html DeLiM true DeLiM 2369 DeLiM pl DeLiM 1978
+ ELAN DeLiM /concepts/elan.html DeLiM true DeLiM 2375 DeLiM pl DeLiM 1974
+ Cambridge Algebra System DeLiM /concepts/camal.html DeLiM true DeLiM 2382 DeLiM pl DeLiM 1973
+ SPIP DeLiM /concepts/spip.html DeLiM true DeLiM 2388 DeLiM pl DeLiM 1977
+ Nomad software DeLiM /concepts/nomad-software.html DeLiM true DeLiM 2389 DeLiM pl DeLiM 1976
+ Jet Propulsion Laboratory Display Information System DeLiM /concepts/jet-propulsion-laboratory-display-information-system.html DeLiM true DeLiM 2435 DeLiM pl DeLiM 1973
+ Protel DeLiM /concepts/protel.html DeLiM true DeLiM 2451 DeLiM pl DeLiM 1975
+ SPITBOL DeLiM /concepts/spitbol.html DeLiM true DeLiM 2458 DeLiM pl DeLiM 1971
+ CGOL DeLiM /concepts/cgol.html DeLiM true DeLiM 2482 DeLiM pl DeLiM 1973
+ Little Implementation Language DeLiM /concepts/lil.html DeLiM true DeLiM 2485 DeLiM pl DeLiM 1974
+ Daplex DeLiM /concepts/daplex.html DeLiM true DeLiM 2489 DeLiM pl DeLiM 1979
+ Blue DeLiM /concepts/blue-programming-language.html DeLiM true DeLiM 2501 DeLiM pl DeLiM 1977
+ EFL DeLiM /concepts/efl.html DeLiM true DeLiM 2525 DeLiM pl DeLiM 1979
+ Rexon DeLiM /concepts/rexon.html DeLiM true DeLiM 2531 DeLiM pl DeLiM 1978
+ SYMPL DeLiM /concepts/sympl.html DeLiM true DeLiM 2534 DeLiM pl DeLiM 1970
+ AlphaBasic DeLiM /concepts/alphabasic.html DeLiM true DeLiM 2539 DeLiM pl DeLiM 1976
+ BASIC-11 DeLiM /concepts/basic-11.html DeLiM true DeLiM 2540 DeLiM pl DeLiM 1976
+ PROIV DeLiM /concepts/proiv.html DeLiM true DeLiM 2545 DeLiM pl DeLiM 1976
+ DEMOS DeLiM /concepts/demos.html DeLiM true DeLiM 2548 DeLiM pl DeLiM 1978
+ SAM76 DeLiM /concepts/sam76.html DeLiM true DeLiM 2562 DeLiM pl DeLiM 1970
+ Digital Interactive Business Oriented Language DeLiM /concepts/dibol.html DeLiM true DeLiM 2568 DeLiM pl DeLiM 1970
+ BASIC-E DeLiM /concepts/basic-e.html DeLiM true DeLiM 2574 DeLiM pl DeLiM 1976
+ SASL DeLiM /concepts/sasl-programming-language.html DeLiM true DeLiM 2584 DeLiM pl DeLiM 1972
+ Typographical Number Theory DeLiM /concepts/typographical-number-theory.html DeLiM true DeLiM 2588 DeLiM notation DeLiM 1979
+ Alpha DeLiM /concepts/alpha-programming-language.html DeLiM true DeLiM 2591 DeLiM pl DeLiM 1971
+ Secure Operations Language DeLiM /concepts/secure-operations-language.html DeLiM true DeLiM 2594 DeLiM pl DeLiM 1970
+ Langage Sans Espoir DeLiM /concepts/lse.html DeLiM true DeLiM 2600 DeLiM pl DeLiM 1971
+ FLACC DeLiM /concepts/flacc.html DeLiM true DeLiM 2656 DeLiM pl DeLiM 1977
+ NPL DeLiM /concepts/npl-lang.html DeLiM true DeLiM 2666 DeLiM pl DeLiM 1977
+ IFPS DeLiM /concepts/ifps.html DeLiM true DeLiM 2668 DeLiM pl DeLiM 1970
+ NorthStar BASIC DeLiM /concepts/northstar-basic.html DeLiM true DeLiM 2694 DeLiM pl DeLiM 1977
+ Alphard DeLiM /concepts/alphard-programming-language.html DeLiM true DeLiM 2702 DeLiM pl DeLiM 1974
  Red DeLiM /concepts/red-lang.html DeLiM true DeLiM 2732 DeLiM pl DeLiM 1972
  EUMEL DeLiM /concepts/eumel.html DeLiM true DeLiM 2741 DeLiM pl DeLiM 1979
  muMath DeLiM /concepts/mumath.html DeLiM true DeLiM 2744 DeLiM pl DeLiM 1978

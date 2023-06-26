@@ -7,7 +7,7 @@ title DTrace - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="slash.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mlir.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="golo.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dtrace.pldb
 
@@ -143,6 +143,6 @@ treeTable
   Token 
   Example
 
-keyboardNav slash.html mlir.html
+keyboardNav slash.html golo.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title mal - Interpreter
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="gif-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mql.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="mql.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="conll-u.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mal.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/kanaka/mal
 
 dashboard
- #763 on PLDB
+ #764 on PLDB
  9 Years Old
 
 * Mal is a Clojure inspired Lisp interpreter. Mal is implemented in 75 languages.
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav gif-format.html mql.html
+keyboardNav mql.html conll-u.html
 
 import ../footer.scroll

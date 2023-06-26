@@ -7,7 +7,7 @@ title ColaScript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="lucene-query-syntax.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="scss.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jasmin.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/colascript.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/TrigenSoftware/ColaScript
 
 dashboard
- #769 <span title="TotalRank: 1337 Jobs: 103 Users: 248 Facts: 1665 Links: 986">on PLDB</span>
+ #770 <span title="TotalRank: 1337 Jobs: 103 Users: 248 Facts: 1665 Links: 986">on PLDB</span>
  11 Years Old
 
 * ColaScript is the language that compiles into JavaScript. This language is similar to Dart, CoffeeScript, Python, Go and PHP, with some original ideas. Compiler based on UglifyJS2. You can try ColaScript here (stable) or here (dev). Learn more about ColaScript.
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav lucene-query-syntax.html scss.html
+keyboardNav lucene-query-syntax.html jasmin.html
 
 import ../footer.scroll

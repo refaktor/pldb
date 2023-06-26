@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/nigeltao/qoir
 
 dashboard
- #2307 on PLDB
+ #2311 on PLDB
  1 Years Old
 
 * A Fast, Simple, Lossless Image File Format based on QOI ( http://qoiformat.org )

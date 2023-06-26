@@ -7,7 +7,7 @@ title WSDL - Xml format
 
 html
  <a class="trueBaseThemePreviousItem" href="muf.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ooxml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="apollo-guidance-computer.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/wsdl.pldb
 
@@ -92,6 +92,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Web_Services_
 
 endColumns
 
-keyboardNav muf.html ooxml.html
+keyboardNav muf.html apollo-guidance-computer.html
 
 import ../footer.scroll

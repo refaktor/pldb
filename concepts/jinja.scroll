@@ -6,8 +6,8 @@ title Jinja - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="game.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="standard-ml.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="pl-sql.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="game.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jinja.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/pallets/jinja
 
 dashboard
- #156 <span title="TotalRank: 447 Jobs: 103 Users: 100 Facts: 244 Links: 666">on PLDB</span>
+ #155 <span title="TotalRank: 446 Jobs: 103 Users: 100 Facts: 243 Links: 666">on PLDB</span>
  17 Years Old
  37k <span title="Jinja repos on GitHub.">Repos</span>
 
@@ -105,6 +105,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Jinja_(templa
 
 endColumns
 
-keyboardNav game.html standard-ml.html
+keyboardNav pl-sql.html game.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Office Open XML - Xml format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="wsdl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="apollo-guidance-computer.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="apollo-guidance-computer.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="snobol.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ooxml.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
 
 dashboard
- #256 <span title="TotalRank: 636 Jobs: 103 Users: 296 Facts: 1879 Links: 237">on PLDB</span>
+ #257 <span title="TotalRank: 636 Jobs: 103 Users: 296 Facts: 1879 Links: 237">on PLDB</span>
  17 Years Old
 
 * Office Open XML (also informally known as OOXML or Microsoft Open XML (MOX)) is a zipped, XML-based file format developed by Microsoft for representing spreadsheets, charts, presentations and word processing documents. The format was initially standardized by Ecma (as ECMA-376), and by the ISO and IEC (as ISO/IEC 29500) in later versions. Starting with Microsoft Office 2007, the Office Open XML file formats have become the default target file format of Microsoft Office. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav wsdl.html apollo-guidance-computer.html
+keyboardNav apollo-guidance-computer.html snobol.html
 
 import ../footer.scroll

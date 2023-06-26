@@ -7,7 +7,7 @@ title GIF - Binary data format
 
 html
  <a class="trueBaseThemePreviousItem" href="ncl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mal.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="mql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gif-format.pldb
 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav ncl.html mal.html
+keyboardNav ncl.html mql.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title SCSS - Stylesheet language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="colascript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="jasmin.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="kitten.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lucene-query-syntax.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/scss.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#hamptonLintornCatlin Hampton Lintorn-Catlin
 
 dashboard
- #770 <span title="TotalRank: 1337 Jobs: 103 Users: 1124 Facts: 248 Links: 986">on PLDB</span>
+ #768 <span title="TotalRank: 1336 Jobs: 103 Users: 1124 Facts: 247 Links: 986">on PLDB</span>
  17 Years Old
  335k <span title="SCSS repos on GitHub.">Repos</span>
 
@@ -147,6 +147,6 @@ treeTable
   Token 
   Example
 
-keyboardNav colascript.html jasmin.html
+keyboardNav kitten.html lucene-query-syntax.html
 
 import ../footer.scroll

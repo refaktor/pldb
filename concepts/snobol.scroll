@@ -6,7 +6,7 @@ title SNOBOL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="apollo-guidance-computer.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="ooxml.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="odin.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/snobol.pldb
@@ -111,6 +111,6 @@ treeTable
   Token 
   Example
 
-keyboardNav apollo-guidance-computer.html odin.html
+keyboardNav ooxml.html odin.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Standard ML - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jinja.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="game.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="rebol.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/standard-ml.pldb
@@ -122,6 +122,6 @@ treeTable
   Token 
   Example
 
-keyboardNav jinja.html rebol.html
+keyboardNav game.html rebol.html
 
 import ../footer.scroll

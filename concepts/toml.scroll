@@ -6,7 +6,7 @@ title TOML - Data notation
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="zig.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="slim.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mumps.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/toml.pldb
@@ -115,6 +115,6 @@ treeTable
   Token 
   Example
 
-keyboardNav zig.html mumps.html
+keyboardNav slim.html mumps.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title AGC - Assembly language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ooxml.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="snobol.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="wsdl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ooxml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/apollo-guidance-computer.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1966 1966
 
 dashboard
- #257 <span title="TotalRank: 636 Jobs: 103 Users: 282 Facts: 251 Links: 986">on PLDB</span>
+ #256 <span title="TotalRank: 635 Jobs: 103 Users: 282 Facts: 250 Links: 986">on PLDB</span>
  57 Years Old
  210 <span title="AGC repos on GitHub.">Repos</span>
 
@@ -129,6 +129,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ooxml.html snobol.html
+keyboardNav wsdl.html ooxml.html
 
 import ../footer.scroll

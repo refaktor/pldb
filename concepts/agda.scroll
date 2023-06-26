@@ -7,7 +7,7 @@ title Agda - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="frege.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="slim-lang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sparc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/agda.pldb
 
@@ -175,6 +175,6 @@ treeTable
   Token 
   Example
 
-keyboardNav frege.html slim-lang.html
+keyboardNav frege.html sparc.html
 
 import ../footer.scroll

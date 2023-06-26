@@ -7,7 +7,7 @@ title Homebrew - Package manager
 
 html
  <a class="trueBaseThemePreviousItem" href="autohotkey.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gw-basic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="cool.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/homebrew-pm.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav autohotkey.html gw-basic.html
+keyboardNav autohotkey.html cool.html
 
 import ../footer.scroll
