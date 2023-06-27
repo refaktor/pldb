@@ -6,8 +6,8 @@ title SR - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="siri.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="stoical.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="square.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="statemate.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sr.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #3424 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3899 Links: 986">on PLDB</span>
+ #4313 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 2924 Links: 986">on PLDB</span>
  35 Years Old
 
 * 
 
+- SR first developed in <a href="../lists/originCommunities.html#vrijeUniversiteit">Vrije Universiteit</a>
 - SR on HOPL
  https://hopl.info/showlanguage.prx?exp=1437
 - Read more about SR on Semantic Scholar: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav siri.html stoical.html
+keyboardNav square.html statemate.html
 
 import ../footer.scroll

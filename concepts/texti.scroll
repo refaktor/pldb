@@ -6,7 +6,7 @@ title texti - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="funl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="ssml.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="blox.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/texti.pldb
@@ -47,6 +47,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav funl.html blox.html
+keyboardNav ssml.html blox.html
 
 import ../footer.scroll

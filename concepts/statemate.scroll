@@ -6,7 +6,7 @@ title Statemate - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="squidconf.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sr.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="unicode-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/statemate.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1998 1998
 
 dashboard
- #4314 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 2921 Links: 986">on PLDB</span>
+ #4314 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 2924 Links: 986">on PLDB</span>
  25 Years Old
 
 * 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav squidconf.html unicode-lang.html
+keyboardNav sr.html unicode-lang.html
 
 import ../footer.scroll

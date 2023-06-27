@@ -6,8 +6,8 @@ title Boston College Statistical Software Components - Package manager
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sierra.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="tengo.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sosl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="stringbean.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ssc-pm.pldb
 
@@ -19,13 +19,14 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1996 1996
 
 dashboard
- #3305 on PLDB
+ #3406 on PLDB
  27 Years Old
 
 * 
 
 - Boston College Statistical Software Components website
  https://www.stata.com/manuals/rssc.pdf
+- Boston College Statistical Software Components first developed in <a href="../lists/originCommunities.html#ukHigherEducationFundingCouncils">UK Higher Education Funding Councils</a>
 - Read more about Boston College Statistical Software Components on the web: 1. 2.
  https://ideas.repec.org/s/boc/bocode.html 1.
  http://fmwww.bc.edu/repec/bocode/s/sscstats.html 2.
@@ -34,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav sierra.html tengo.html
+keyboardNav sosl.html stringbean.html
 
 import ../footer.scroll

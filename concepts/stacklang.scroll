@@ -6,8 +6,8 @@ title stacklang - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="leaf.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="psyche.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="mewl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="storymatic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stacklang.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/JustinHuPrime/StackLang
 
 dashboard
- #2427 <span title="TotalRank: 2968 Jobs: 103 Users: 2371 Facts: 1879 Links: 986">on PLDB</span>
+ #2258 <span title="TotalRank: 2754 Jobs: 103 Users: 2371 Facts: 1665 Links: 986">on PLDB</span>
  5 Years Old
 
 * Stack-based interpreted programming language inspired by Racket
@@ -31,11 +31,12 @@ dashboard
 - stacklang website
  https://justinhuprime.github.io/StackLang/index.html
 - stacklang is developed on <a href="https://github.com/JustinHuPrime/StackLang">GitHub</a> and has 4 stars
+- stacklang first developed in <a href="../lists/originCommunities.html#universityOfBritishColumbia">University of British Columbia</a>
 
 <br>
 
 endColumns
 
-keyboardNav leaf.html psyche.html
+keyboardNav mewl.html storymatic.html
 
 import ../footer.scroll

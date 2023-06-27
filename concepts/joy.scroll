@@ -6,8 +6,8 @@ title Joy - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="meson.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="qalb.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="qalb.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="component-pascal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/joy.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#manfredVonThun Manfred von Thun
 
 dashboard
- #745 <span title="TotalRank: 1315 Jobs: 103 Users: 1022 Facts: 940 Links: 272">on PLDB</span>
+ #746 <span title="TotalRank: 1316 Jobs: 103 Users: 1022 Facts: 941 Links: 272">on PLDB</span>
  22 Years Old
 
 * Try now: <a href="https://tio.run/#joy">TIO</a>
@@ -64,6 +64,6 @@ treeTable
   Token 
   Example
 
-keyboardNav meson.html qalb.html
+keyboardNav qalb.html component-pascal.html
 
 import ../footer.scroll

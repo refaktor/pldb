@@ -6,8 +6,8 @@ title JSON Schema - Data validation language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="asciidoc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pod.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="z-notation.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="asciidoc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/json-schema.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/json-schema-org/json-schema-spec
 
 dashboard
- #328 <span title="TotalRank: 767 Jobs: 103 Users: 260 Facts: 404 Links: 986">on PLDB</span>
+ #327 <span title="TotalRank: 767 Jobs: 103 Users: 260 Facts: 404 Links: 986">on PLDB</span>
  13 Years Old
 
 * JSON Schema is a vocabulary that allows you to annotate and validate JSON documents.
@@ -88,6 +88,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav asciidoc.html pod.html
+keyboardNav z-notation.html asciidoc.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title STOICAL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sr.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="siri.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="streamit.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stoical.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
 
 dashboard
- #3425 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3899 Links: 986">on PLDB</span>
+ #3424 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3902 Links: 986">on PLDB</span>
  23 Years Old
 
 * 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav sr.html streamit.html
+keyboardNav siri.html streamit.html
 
 import ../footer.scroll

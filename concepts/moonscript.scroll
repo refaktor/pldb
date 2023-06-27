@@ -7,7 +7,7 @@ title MoonScript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="nearley.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="dot.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="squirrel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/moonscript.pldb
 
@@ -200,6 +200,6 @@ treeTable
   Token 
   Example
 
-keyboardNav nearley.html dot.html
+keyboardNav nearley.html squirrel.html
 
 import ../footer.scroll

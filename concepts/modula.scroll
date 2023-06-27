@@ -7,7 +7,7 @@ title Modula - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="alice.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ante.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="bosque.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/modula.pldb
 
@@ -47,6 +47,6 @@ treeTable
   Token :=
   Example
 
-keyboardNav alice.html ante.html
+keyboardNav alice.html bosque.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title tiledb - Database
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="strips.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="perl-data-language.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ezhil.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tiledb.pldb
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav strips.html ezhil.html
+keyboardNav perl-data-language.html ezhil.html
 
 import ../footer.scroll

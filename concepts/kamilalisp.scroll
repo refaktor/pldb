@@ -6,7 +6,7 @@ title KamilaLisp - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ps-algol.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="csa.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="sham.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/kamilalisp.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/kspalaiologos/kamilalisp
 
 dashboard
- #2135 <span title="TotalRank: 2654 Jobs: 103 Users: 1565 Facts: 1779 Links: 986">on PLDB</span>
+ #2135 <span title="TotalRank: 2654 Jobs: 103 Users: 1565 Facts: 1782 Links: 986">on PLDB</span>
  2 Years Old
 
 * A functional, flexible and concise Lisp.
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav ps-algol.html sham.html
+keyboardNav csa.html sham.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Optimized Systems Software - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ptx.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="hyphy.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="fpp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/optimized-systems-software.pldb
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav ptx.html fpp.html
+keyboardNav hyphy.html fpp.html
 
 import ../footer.scroll

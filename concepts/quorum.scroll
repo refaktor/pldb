@@ -7,7 +7,7 @@ title quorum - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="procfile.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="trex.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="srv.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/quorum.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2013 2013
 
 dashboard
- #2267 <span title="TotalRank: 2754 Jobs: 103 Users: 2433 Facts: 1665 Links: 986">on PLDB</span>
+ #2268 <span title="TotalRank: 2754 Jobs: 103 Users: 2434 Facts: 1665 Links: 986">on PLDB</span>
  10 Years Old
 
 * 
@@ -55,6 +55,6 @@ treeTable
   Token output
   Example
 
-keyboardNav procfile.html trex.html
+keyboardNav procfile.html srv.html
 
 import ../footer.scroll

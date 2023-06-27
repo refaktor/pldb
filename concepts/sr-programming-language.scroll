@@ -6,8 +6,8 @@ title SR - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="npl-lang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ifps.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ca-telon.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="lynx.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sr-programming-language.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #2212 <span title="TotalRank: 2733 Jobs: 103 Users: 1644 Facts: 2540 Links: 986">on PLDB</span>
+ #2216 <span title="TotalRank: 2733 Jobs: 103 Users: 1644 Facts: 2312 Links: 986">on PLDB</span>
  35 Years Old
 
 * SR (short for Synchronizing Resources) is a programming language designed for concurrent programming. Resources encapsulate processes and the variables they share, and can be separately compiled. Operations provide the primary mechanism for process interaction. Read more on Wikipedia...
@@ -27,12 +27,13 @@ dashboard
 
 - SR Wikipedia page
  https://en.wikipedia.org/wiki/SR_%28programming_language%29
+- SR first developed in <a href="../lists/originCommunities.html#universityOfArizona">University of Arizona</a>
 - See also: (1 related languages)<a href="occam.html">Occam</a>
 
 <br>
 
 endColumns
 
-keyboardNav npl-lang.html ifps.html
+keyboardNav ca-telon.html lynx.html
 
 import ../footer.scroll

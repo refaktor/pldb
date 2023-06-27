@@ -6,7 +6,7 @@ title SQLPL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="z-shell.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="blitzplus.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="pizza.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sqlpl.pldb
@@ -51,6 +51,6 @@ codeWithHeader Example from <a href='https://github.com/textmate/sql.tmbundle'>L
 
 endColumns
 
-keyboardNav z-shell.html pizza.html
+keyboardNav blitzplus.html pizza.html
 
 import ../footer.scroll

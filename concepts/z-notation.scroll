@@ -7,7 +7,7 @@ title Z notation - Notation
 
 html
  <a class="trueBaseThemePreviousItem" href="clipper.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="asciidoc.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="json-schema.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/z-notation.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1974 1974
 
 dashboard
- #326 <span title="TotalRank: 767 Jobs: 103 Users: 392 Facts: 1973 Links: 272">on PLDB</span>
+ #326 <span title="TotalRank: 767 Jobs: 103 Users: 392 Facts: 1975 Links: 272">on PLDB</span>
  49 Years Old
 
 * The Z notation  is a formal specification language used for describing and modelling computing systems. It is targeted at the clear specification of computer programs and computer-based systems in general.. Read more on Wikipedia...
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav clipper.html asciidoc.html
+keyboardNav clipper.html json-schema.html
 
 import ../footer.scroll

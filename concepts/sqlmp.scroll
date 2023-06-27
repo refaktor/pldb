@@ -7,7 +7,7 @@ title SQLMP - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="snostorm.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="tao.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ssl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sqlmp.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1991 1991
 
 dashboard
- #3125 <span title="TotalRank: 3888 Jobs: 103 Users: 2829 Facts: 2799 Links: 986">on PLDB</span>
+ #3126 <span title="TotalRank: 3890 Jobs: 103 Users: 2829 Facts: 2801 Links: 986">on PLDB</span>
  32 Years Old
 
 * 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav snostorm.html tao.html
+keyboardNav snostorm.html ssl.html
 
 import ../footer.scroll

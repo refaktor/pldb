@@ -7,7 +7,7 @@ title Logtalk - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="pep8.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ti-basic-assembly.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="srecode-template.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/logtalk.pldb
 
@@ -122,6 +122,6 @@ treeTable
   Token 
   Example
 
-keyboardNav pep8.html ti-basic-assembly.html
+keyboardNav pep8.html srecode-template.html
 
 import ../footer.scroll

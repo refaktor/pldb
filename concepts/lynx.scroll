@@ -6,7 +6,7 @@ title Lynx - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ca-telon.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sr-programming-language.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="pikt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lynx.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1984 1984
 
 dashboard
- #2217 <span title="TotalRank: 2733 Jobs: 103 Users: 1644 Facts: 2175 Links: 986">on PLDB</span>
+ #2217 <span title="TotalRank: 2733 Jobs: 103 Users: 1644 Facts: 2176 Links: 986">on PLDB</span>
  39 Years Old
 
 * Lynx is a programming language for large distributed networks, using remote procedure calls. It was developed by the University of Wisconsin–Madison in 1984 for the Charlotte multicomputer operating system.  In 1986 at the University of Rochester Lynx was ported to the Chrysalis operating system running on a BBN Butterfly multiprocessor.. Read more on Wikipedia...
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav ca-telon.html pikt.html
+keyboardNav sr-programming-language.html pikt.html
 
 import ../footer.scroll

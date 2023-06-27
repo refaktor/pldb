@@ -7,7 +7,7 @@ title netbeans-editor - Editor
 
 html
  <a class="trueBaseThemePreviousItem" href="alef.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="oil.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="shen.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/netbeans-editor.pldb
 
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav alef.html oil.html
+keyboardNav alef.html shen.html
 
 import ../footer.scroll

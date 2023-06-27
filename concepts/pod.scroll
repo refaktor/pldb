@@ -6,7 +6,7 @@ title Pod - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="json-schema.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="asciidoc.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="m4.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pod.pldb
@@ -101,6 +101,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Plain_Old_Doc
 
 endColumns
 
-keyboardNav json-schema.html m4.html
+keyboardNav asciidoc.html m4.html
 
 import ../footer.scroll

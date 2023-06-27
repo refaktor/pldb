@@ -6,8 +6,8 @@ title Unicon - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ebnf.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ghostscript.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ghostscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="emojicode.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/unicon.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#clintJeffery Clint Jeffery
 
 dashboard
- #484 <span title="TotalRank: 1013 Jobs: 103 Users: 1387 Facts: 419 Links: 491">on PLDB</span>
+ #485 <span title="TotalRank: 1014 Jobs: 103 Users: 1387 Facts: 420 Links: 491">on PLDB</span>
  15 Years Old
 
 * Unicon is a programming language designed by American computer scientist Clint Jeffery with collaborators including Shamim Mohamed, Jafar Al Gharaibeh, Robert Parlett and others. Unicon descended from Icon and a preprocessor for Icon called IDOL. Compared with Icon, Unicon offers better access to the operating system as well as support for object-oriented programming. Read more on Wikipedia...
@@ -121,6 +121,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ebnf.html ghostscript.html
+keyboardNav ghostscript.html emojicode.html
 
 import ../footer.scroll

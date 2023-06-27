@@ -7,7 +7,7 @@ title SQL-92 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="nushell.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="blitzplus.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spin.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sql-92.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1992 1992
 
 dashboard
- #592 <span title="TotalRank: 1163 Jobs: 103 Users: 734 Facts: 2058 Links: 326">on PLDB</span>
+ #592 <span title="TotalRank: 1163 Jobs: 103 Users: 734 Facts: 2060 Links: 326">on PLDB</span>
  31 Years Old
 
 * SQL-92 was the third revision of the SQL database query language. Unlike SQL-89, it was a major revision of the standard.  Aside from a few minor incompatibilities, the SQL-89 standard is forward-compatible with SQL-92. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav nushell.html blitzplus.html
+keyboardNav nushell.html spin.html
 
 import ../footer.scroll

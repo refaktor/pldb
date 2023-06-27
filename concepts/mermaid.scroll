@@ -6,8 +6,8 @@ title mermaid - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="wdl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sourcepawn.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="risc-v.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="wdl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mermaid.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/mermaid-js/mermaid
 
 dashboard
- #444 <span title="TotalRank: 946 Jobs: 103 Users: 42 Facts: 801 Links: 986">on PLDB</span>
+ #443 <span title="TotalRank: 946 Jobs: 103 Users: 42 Facts: 801 Links: 986">on PLDB</span>
  9 Years Old
 
 * Generation of diagram and flowchart from text in a similar manner as markdown
@@ -54,6 +54,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav wdl.html sourcepawn.html
+keyboardNav risc-v.html wdl.html
 
 import ../footer.scroll

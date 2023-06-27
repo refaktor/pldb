@@ -6,7 +6,7 @@ title Storymatic - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mewl.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="stacklang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="esoteric-reaction.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/storymatic.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/zSnout/Storymatic
 
 dashboard
- #2258 <span title="TotalRank: 2754 Jobs: 103 Users: 2381 Facts: 1665 Links: 986">on PLDB</span>
+ #2259 <span title="TotalRank: 2754 Jobs: 103 Users: 2381 Facts: 1665 Links: 986">on PLDB</span>
  1 Years Old
 
 * A simple programming language packed with features that compiles straight to JavaScript for perfect in-browser portability.
@@ -43,6 +43,6 @@ codeWithHeader Storymatic <a href="../lists/keywords.html?filter=storymatic">Key
 
 endColumns
 
-keyboardNav mewl.html esoteric-reaction.html
+keyboardNav stacklang.html esoteric-reaction.html
 
 import ../footer.scroll

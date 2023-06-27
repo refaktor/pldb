@@ -7,7 +7,7 @@ title Digital Interactive Business Oriented Language - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="s-sl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="southampton-basic-system.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="alphabasic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dibol.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1970 1970
 
 dashboard
- #2127 <span title="TotalRank: 2636 Jobs: 103 Users: 1547 Facts: 1879 Links: 986">on PLDB</span>
+ #2127 <span title="TotalRank: 2636 Jobs: 103 Users: 1547 Facts: 1883 Links: 986">on PLDB</span>
  53 Years Old
 
 * DiBOL or Digital's Business Oriented Language is a general-purpose, procedural, imperative programming language, designed for use in Management Information Systems (MIS) software development. It has a syntax similar to FORTRAN and BASIC, along with BCD arithmetic. It shares the COBOL program structure of data and procedure divisions.. Read more on Wikipedia...
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav s-sl.html southampton-basic-system.html
+keyboardNav s-sl.html alphabasic.html
 
 import ../footer.scroll

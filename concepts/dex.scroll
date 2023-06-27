@@ -7,7 +7,7 @@ title dex - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="earl-grey.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="plb.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="masm.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dex.pldb
 
@@ -64,6 +64,6 @@ treeTable
   Token 
   Example
 
-keyboardNav earl-grey.html plb.html
+keyboardNav earl-grey.html masm.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Game Maker Language - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="web-idl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="opl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="arc-isa.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/game-maker-language.pldb
 
@@ -142,6 +142,6 @@ treeTable
   Token 
   Example
 
-keyboardNav web-idl.html opl.html
+keyboardNav web-idl.html arc-isa.html
 
 import ../footer.scroll

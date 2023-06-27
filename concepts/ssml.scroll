@@ -6,8 +6,8 @@ title Speech Synthesis Markup Language - Xml format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="isetl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="intuitionistic.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="funl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="texti.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ssml.pldb
 
@@ -19,13 +19,14 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2010 2010
 
 dashboard
- #1753 <span title="TotalRank: 2287 Jobs: 103 Users: 2143 Facts: 1198 Links: 986">on PLDB</span>
+ #1694 <span title="TotalRank: 2209 Jobs: 103 Users: 2143 Facts: 1120 Links: 986">on PLDB</span>
  13 Years Old
 
 * 
 
 - Speech Synthesis Markup Language Wikipedia page
  https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language
+- Speech Synthesis Markup Language first developed in <a href="../lists/originCommunities.html#worldWideWebConsortium">World Wide Web Consortium</a>
 - Read more about Speech Synthesis Markup Language on the web: 1.
  https://www.w3.org/TR/speech-synthesis/ 1.
 
@@ -57,6 +58,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav isetl.html intuitionistic.html
+keyboardNav funl.html texti.html
 
 import ../footer.scroll

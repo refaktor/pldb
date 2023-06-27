@@ -7,7 +7,7 @@ title Meson - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="carth.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="joy.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="qalb.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/meson.pldb
 
@@ -67,6 +67,6 @@ treeTable
   Token 
   Example
 
-keyboardNav carth.html joy.html
+keyboardNav carth.html qalb.html
 
 import ../footer.scroll

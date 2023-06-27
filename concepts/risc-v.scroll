@@ -7,7 +7,7 @@ title RISC-V - Instruction set architecture
 
 html
  <a class="trueBaseThemePreviousItem" href="common-workflow-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="wdl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="mermaid.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/risc-v.pldb
 
@@ -76,6 +76,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav common-workflow-language.html wdl.html
+keyboardNav common-workflow-language.html mermaid.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title bamboo - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="hmmm.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="bro.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="wu.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bamboo.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav hmmm.html bro.html
+keyboardNav hmmm.html wu.html
 
 import ../footer.scroll

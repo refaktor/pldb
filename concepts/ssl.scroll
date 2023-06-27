@@ -6,8 +6,8 @@ title SSL - Protocol
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sps.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="static-typescript.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sqlmp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tao.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ssl.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1994 1994
 
 dashboard
- #4042 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3269 Links: 986">on PLDB</span>
+ #3127 <span title="TotalRank: 3890 Jobs: 103 Users: 2829 Facts: 2801 Links: 986">on PLDB</span>
  29 Years Old
 
 * 
 
+- SSL first developed in <a href="../lists/originCommunities.html#netscapeCommunicationsCorporation">Netscape Communications Corporation</a>
 - Read more about SSL on the web: 1.
  https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_2.0_and_3.0 1.
 
@@ -31,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav sps.html static-typescript.html
+keyboardNav sqlmp.html tao.html
 
 import ../footer.scroll

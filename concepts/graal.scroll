@@ -7,7 +7,7 @@ title GRAAL - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="arret.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="neliac.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="quake.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/graal.pldb
 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav arret.html neliac.html
+keyboardNav arret.html quake.html
 
 import ../footer.scroll

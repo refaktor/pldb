@@ -7,7 +7,7 @@ title Mewl - Esoteric programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="idio.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="storymatic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="stacklang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mewl.pldb
 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav idio.html storymatic.html
+keyboardNav idio.html stacklang.html
 
 import ../footer.scroll

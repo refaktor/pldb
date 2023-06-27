@@ -6,7 +6,7 @@ title HHVM - Virtual machine
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="markwhen.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="comtran.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="prql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hhvm.pldb
@@ -41,6 +41,6 @@ dashboard
 
 endColumns
 
-keyboardNav markwhen.html prql.html
+keyboardNav comtran.html prql.html
 
 import ../footer.scroll

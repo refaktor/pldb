@@ -6,8 +6,8 @@ title Manim - Framework
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="drakon.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="microsoft-macro-assembler.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="microsoft-macro-assembler.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="flowchart-fun.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/manim.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/manimCommunity/manim
 
 dashboard
- #635 on PLDB
+ #636 on PLDB
  8 Years Old
 
 * 3Blue1Brown is a math YouTube channel created and run by Grant Sanderson. The channel focuses on teaching higher mathematics from a visual perspective, and on the process of discovery and inquiry-based learning in mathematics, which Sanderson calls "inventing math". As of November 2022, the channel has 4.85 million subscribers.. Read more on Wikipedia...
@@ -53,6 +53,6 @@ dashboard
 
 endColumns
 
-keyboardNav drakon.html microsoft-macro-assembler.html
+keyboardNav microsoft-macro-assembler.html flowchart-fun.html
 
 import ../footer.scroll

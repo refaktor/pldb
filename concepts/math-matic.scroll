@@ -6,7 +6,7 @@ title MATH-MATIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="molfile-format.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="fp.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="gerbil.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/math-matic.pldb
@@ -53,6 +53,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/MATH-MATIC'>W
 
 endColumns
 
-keyboardNav molfile-format.html gerbil.html
+keyboardNav fp.html gerbil.html
 
 import ../footer.scroll

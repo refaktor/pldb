@@ -6,7 +6,7 @@ title SQURL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="soql-lang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sps.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="stage2.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/squrl.pldb
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1981 1981
 
 dashboard
- #3201 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4091 Links: 986">on PLDB</span>
+ #4041 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3271 Links: 986">on PLDB</span>
  42 Years Old
 
 * 
 
+- SQURL first developed in <a href="../lists/originCommunities.html#texasChristianUniversity">Texas Christian University</a>
 - SQURL on HOPL
  https://hopl.info/showlanguage.prx?exp=6252
 - Read more about SQURL on Semantic Scholar: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav soql-lang.html stage2.html
+keyboardNav sps.html stage2.html
 
 import ../footer.scroll

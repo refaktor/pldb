@@ -6,7 +6,7 @@ title Statement List - Assembly language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="scroll-lang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="squidconf.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tl-isa.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stl.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1993 1993
 
 dashboard
- #3010 <span title="TotalRank: 3629 Jobs: 103 Users: 2829 Facts: 2540 Links: 986">on PLDB</span>
+ #3011 <span title="TotalRank: 3630 Jobs: 103 Users: 2829 Facts: 2541 Links: 986">on PLDB</span>
  30 Years Old
  0 <span title="Statement List repos on GitHub.">Repos</span>
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav scroll-lang.html tl-isa.html
+keyboardNav squidconf.html tl-isa.html
 
 import ../footer.scroll

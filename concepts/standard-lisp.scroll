@@ -6,7 +6,7 @@ title Standard Lisp - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="stage2.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="soql-lang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="staple.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/standard-lisp.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1979 1979
 
 dashboard
- #3203 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4091 Links: 986">on PLDB</span>
+ #3203 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4093 Links: 986">on PLDB</span>
  44 Years Old
 
 * 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav stage2.html staple.html
+keyboardNav soql-lang.html staple.html
 
 import ../footer.scroll

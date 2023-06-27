@@ -6,7 +6,7 @@ title shill - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sentient.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="squiggle.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="clox.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/shill.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/HarvardPL/shill
 
 dashboard
- #2733 <span title="TotalRank: 3501 Jobs: 103 Users: 2412 Facts: 2540 Links: 986">on PLDB</span>
+ #2734 <span title="TotalRank: 3501 Jobs: 103 Users: 2412 Facts: 2541 Links: 986">on PLDB</span>
  9 Years Old
 
 * 
@@ -43,6 +43,6 @@ pipeTable
  title|titleLink|date|score|comments
  Shill: A Secure Shell Scripting Language|https://news.ycombinator.com/item?id=8365300|09/25/2014|85|43
 
-keyboardNav sentient.html clox.html
+keyboardNav squiggle.html clox.html
 
 import ../footer.scroll

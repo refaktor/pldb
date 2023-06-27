@@ -6,7 +6,7 @@ title Emojicode - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ghostscript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="unicon.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hla.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/emojicode.pldb
@@ -55,6 +55,6 @@ codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blo
 
 endColumns
 
-keyboardNav ghostscript.html hla.html
+keyboardNav unicon.html hla.html
 
 import ../footer.scroll

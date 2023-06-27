@@ -6,7 +6,7 @@ title LoomScript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="z-machine.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="superjson.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="shakespeare-programming-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/loomscript.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2013 2013
 
 dashboard
- #931 <span title="TotalRank: 1500 Jobs: 103 Users: 1124 Facts: 411 Links: 986">on PLDB</span>
+ #932 <span title="TotalRank: 1501 Jobs: 103 Users: 1124 Facts: 412 Links: 986">on PLDB</span>
  10 Years Old
  16 <span title="LoomScript repos on GitHub.">Repos</span>
 
@@ -110,6 +110,6 @@ treeTable
   Token 
   Example
 
-keyboardNav z-machine.html shakespeare-programming-language.html
+keyboardNav superjson.html shakespeare-programming-language.html
 
 import ../footer.scroll

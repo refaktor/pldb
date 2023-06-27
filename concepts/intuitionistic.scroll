@@ -6,7 +6,7 @@ title IPL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ssml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="isetl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="space.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/intuitionistic.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/granstrom/intuitionistic
 
 dashboard
- #1754 <span title="TotalRank: 2287 Jobs: 103 Users: 2264 Facts: 1198 Links: 986">on PLDB</span>
+ #1754 <span title="TotalRank: 2288 Jobs: 103 Users: 2264 Facts: 1199 Links: 986">on PLDB</span>
  10 Years Old
 
 * Automatically exported from code.google.com/p/intuitionistic
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav ssml.html space.html
+keyboardNav isetl.html space.html
 
 import ../footer.scroll

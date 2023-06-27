@@ -7,7 +7,7 @@ title ed - Editor
 
 html
  <a class="trueBaseThemePreviousItem" href="renderman-shading-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="knight.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="squire.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ed-editor.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#kenThompson Ken Thompson
 
 dashboard
- #2598 on PLDB
+ #2600 on PLDB
  50 Years Old
 
 * 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav renderman-shading-language.html knight.html
+keyboardNav renderman-shading-language.html squire.html
 
 import ../footer.scroll

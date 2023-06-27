@@ -6,8 +6,8 @@ title SQUOZE - Binary data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sparqcode.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="stringcomp.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="setun.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="flang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/squoze.pldb
 
@@ -19,13 +19,14 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1958 1958
 
 dashboard
- #3020 on PLDB
+ #3045 on PLDB
  65 Years Old
 
 * 
 
 - SQUOZE Wikipedia page
  https://en.wikipedia.org/wiki/SQUOZE
+- SQUOZE first developed in <a href="../lists/originCommunities.html#ibm">IBM</a>
 - SQUOZE on HOPL
  https://hopl.info/showlanguage.prx?exp=5458
 
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav sparqcode.html stringcomp.html
+keyboardNav setun.html flang.html
 
 import ../footer.scroll

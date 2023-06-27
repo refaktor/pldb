@@ -7,7 +7,7 @@ title STAGE2 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="squrl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="standard-lisp.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="static-typescript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stage2.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1970 1970
 
 dashboard
- #3202 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4091 Links: 986">on PLDB</span>
+ #4042 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3271 Links: 986">on PLDB</span>
  53 Years Old
 
 * 
 
+- STAGE2 first developed in <a href="../lists/originCommunities.html#universityOfColorado">University of Colorado</a>
 - STAGE2 on HOPL
  https://hopl.info/showlanguage.prx?exp=534
 - Read more about STAGE2 on Semantic Scholar: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav squrl.html standard-lisp.html
+keyboardNav squrl.html static-typescript.html
 
 import ../footer.scroll

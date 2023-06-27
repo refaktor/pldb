@@ -7,7 +7,7 @@ title CA-Telon - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="abstract-state-machine-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lynx.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sr-programming-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ca-telon.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1981 1981
 
 dashboard
- #2216 <span title="TotalRank: 2733 Jobs: 103 Users: 1644 Facts: 2312 Links: 986">on PLDB</span>
+ #2215 <span title="TotalRank: 2733 Jobs: 103 Users: 1644 Facts: 2312 Links: 986">on PLDB</span>
  42 Years Old
 
 * TELON, later renamed CA-TELON, is one of the first commercially successful application generators for building business applications.. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav abstract-state-machine-language.html lynx.html
+keyboardNav abstract-state-machine-language.html sr-programming-language.html
 
 import ../footer.scroll

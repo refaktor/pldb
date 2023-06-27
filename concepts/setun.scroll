@@ -7,7 +7,7 @@ title Setun - Computing machine
 
 html
  <a class="trueBaseThemePreviousItem" href="sdf.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="squoze.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/setun.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1958 1958
 
 dashboard
- #3045 on PLDB
+ #3044 on PLDB
  65 Years Old
 
 * 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav sdf.html flang.html
+keyboardNav sdf.html squoze.html
 
 import ../footer.scroll

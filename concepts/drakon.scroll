@@ -7,7 +7,7 @@ title DRAKON - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="algol-w.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pari-gp.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="dynamo-visual-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/drakon.pldb
 
@@ -45,6 +45,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/DRAKON'>Wikip
 
 endColumns
 
-keyboardNav algol-w.html pari-gp.html
+keyboardNav algol-w.html dynamo-visual-language.html
 
 import ../footer.scroll

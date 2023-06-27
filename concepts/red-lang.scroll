@@ -7,7 +7,7 @@ title Red - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="mmix.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="kermeta.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ssl-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/red-lang.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#johnBackus John Backus
 
 dashboard
- #2440 <span title="TotalRank: 2968 Jobs: 103 Users: 2829 Facts: 1879 Links: 986">on PLDB</span>
+ #2440 <span title="TotalRank: 2972 Jobs: 103 Users: 2829 Facts: 1883 Links: 986">on PLDB</span>
  51 Years Old
 
 * interested in pure functional programming, with no side-effects on storage or the external world.
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav mmix.html kermeta.html
+keyboardNav mmix.html ssl-lang.html
 
 import ../footer.scroll

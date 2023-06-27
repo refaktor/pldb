@@ -6,7 +6,7 @@ title sub - Minilanguage
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="squiggle.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="soql.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tern.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sub.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2013 2013
 
 dashboard
- #2831 <span title="TotalRank: 3522 Jobs: 103 Users: 2433 Facts: 2921 Links: 986">on PLDB</span>
+ #2831 <span title="TotalRank: 3523 Jobs: 103 Users: 2434 Facts: 2924 Links: 986">on PLDB</span>
  10 Years Old
 
 * eager, mutable records, statically typed, subtyping
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav squiggle.html tern.html
+keyboardNav soql.html tern.html
 
 import ../footer.scroll

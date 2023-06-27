@@ -7,7 +7,7 @@ title ColdFusion Components - Xml format
 
 html
  <a class="trueBaseThemePreviousItem" href="arden-syntax.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nexus-format.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spider.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/coldfusion-components.pldb
 
@@ -96,6 +96,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav arden-syntax.html nexus-format.html
+keyboardNav arden-syntax.html spider.html
 
 import ../footer.scroll

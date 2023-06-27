@@ -6,7 +6,7 @@ title json-graph-format - Json format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="checked-c.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="cusip.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="freemarker.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/json-graph-format.pldb
@@ -79,6 +79,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav checked-c.html freemarker.html
+keyboardNav cusip.html freemarker.html
 
 import ../footer.scroll

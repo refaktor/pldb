@@ -7,7 +7,7 @@ title Fibonacci - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="swallow.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="srecode-template.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="nxc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fibonacci.pldb
 
@@ -22,7 +22,7 @@ startColumns 4
  link ../lists/creators.html#andRenzoOrsini and Renzo Orsini
 
 dashboard
- #912 <span title="TotalRank: 1482 Jobs: 103 Users: 2829 Facts: 888 Links: 491">on PLDB</span>
+ #913 <span title="TotalRank: 1482 Jobs: 103 Users: 2829 Facts: 888 Links: 491">on PLDB</span>
  32 Years Old
 
 * Fibonacci is an object-oriented database programming language characterized by static and strong typing, and by new mechanisms for modeling databases in terms of objects with roles, classes, and associations.
@@ -81,6 +81,6 @@ treeTable
   Token 
   Example
 
-keyboardNav swallow.html srecode-template.html
+keyboardNav swallow.html nxc.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title AlphaBasic - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="csa.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="dibol.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="basic-11.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/alphabasic.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1976 1976
 
 dashboard
- #2132 <span title="TotalRank: 2649 Jobs: 103 Users: 2055 Facts: 2448 Links: 491">on PLDB</span>
+ #2128 <span title="TotalRank: 2649 Jobs: 103 Users: 2055 Facts: 2449 Links: 491">on PLDB</span>
  47 Years Old
 
 * AlphaBASIC is a computer programming language created by Alpha Microsystems in 1976. The language was written by Alpha Microsystems employees Paul Edelstein, Dick Wilcox and Bob Courier.. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav csa.html basic-11.html
+keyboardNav dibol.html basic-11.html
 
 import ../footer.scroll

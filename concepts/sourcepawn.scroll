@@ -6,7 +6,7 @@ title SourcePawn - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mermaid.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="wdl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="commodore-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sourcepawn.pldb
@@ -188,6 +188,6 @@ treeTable
   Token 
   Example
 
-keyboardNav mermaid.html commodore-basic.html
+keyboardNav wdl.html commodore-basic.html
 
 import ../footer.scroll
