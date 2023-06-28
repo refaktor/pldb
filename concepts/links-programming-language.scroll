@@ -6,7 +6,7 @@ title Links - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pipelines.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="cowsel.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="strongtalk.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/links-programming-language.pldb
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav pipelines.html strongtalk.html
+keyboardNav cowsel.html strongtalk.html
 
 import ../footer.scroll

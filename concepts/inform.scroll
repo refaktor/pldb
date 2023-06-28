@@ -6,7 +6,7 @@ title Inform - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="microsoft-basic.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="supercollider.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="factor.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/inform.pldb
@@ -164,6 +164,6 @@ treeTable
   Token 
   Example
 
-keyboardNav microsoft-basic.html factor.html
+keyboardNav supercollider.html factor.html
 
 import ../footer.scroll

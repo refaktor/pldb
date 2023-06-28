@@ -6,8 +6,8 @@ title starlark - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="oberon-2.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rmarkdown.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="capn-proto.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="miranda.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/starlark.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/bazelbuild/starlark
 
 dashboard
- #374 <span title="TotalRank: 847 Jobs: 103 Users: 390 Facts: 354 Links: 986">on PLDB</span>
+ #367 <span title="TotalRank: 835 Jobs: 103 Users: 390 Facts: 342 Links: 986">on PLDB</span>
  5 Years Old
  3k <span title="starlark repos on GitHub.">Repos</span>
 
@@ -31,8 +31,11 @@ dashboard
 
 - starlark is developed on <a href="https://github.com/bazelbuild/starlark">GitHub</a> and has 1,416 stars
 - There are at least 3,423 starlark repos on <a href="https://github.com/search?q=language:Starlark">GitHub</a>
+- starlark first developed in <a href="../lists/originCommunities.html#httpsGithubComBazelbuild">https://github.com/bazelbuild</a>
 - file extensions for starlark include bzl and star
 - The  Google BigQuery Public Dataset GitHub snapshot shows 562 users using starlark in 1k repos on <a href="https://api.github.com/search/repositories?q=language:Starlark">GitHub</a>
+- Read more about starlark on the web: 1.
+ https://bazel.build/contribute/policy 1.
 
 <br>
 
@@ -116,6 +119,6 @@ treeTable
   Token 
   Example
 
-keyboardNav oberon-2.html rmarkdown.html
+keyboardNav capn-proto.html miranda.html
 
 import ../footer.scroll

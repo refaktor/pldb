@@ -7,7 +7,7 @@ title Airtable - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="haggis.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="amos.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="deb.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/airtable-app.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav haggis.html amos.html
+keyboardNav haggis.html deb.html
 
 import ../footer.scroll

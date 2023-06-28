@@ -6,8 +6,8 @@ title starpial - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="oopsilon.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="u.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="plink-ped-format.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="kaml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/starpial.pldb
 
@@ -22,12 +22,13 @@ codeWithHeader Source code:
  git clone https://github.com/ColonelJ/Starpial
 
 dashboard
- #2079 <span title="TotalRank: 2586 Jobs: 103 Users: 2355 Facts: 1497 Links: 986">on PLDB</span>
+ #1961 <span title="TotalRank: 2467 Jobs: 103 Users: 2355 Facts: 1378 Links: 986">on PLDB</span>
  11 Years Old
 
 * <a href='https://github.com/ColonelJ/Starpial'>Starpial</a> is a stack-oriented functional logic programming language with OOP, recursive regex, dependent types, refinement types, and automatic parallelization based on transactions.
 
 - starpial is developed on <a href="https://github.com/ColonelJ/Starpial">GitHub</a> and has 7 stars
+- starpial first developed in <a href="../lists/originCommunities.html#httpsGithubComColonelJStarpialIssues">https://github.com/ColonelJ/Starpial/issues</a>
 
 <br>
 
@@ -43,6 +44,6 @@ treeTable
   Token 
   Example
 
-keyboardNav oopsilon.html u.html
+keyboardNav plink-ped-format.html kaml.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title crush - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="focal.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smt.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="wasp-lang.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pure.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/crush.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/liljencrantz/crush
 
 dashboard
- #894 <span title="TotalRank: 1458 Jobs: 103 Users: 369 Facts: 1199 Links: 986">on PLDB</span>
+ #892 <span title="TotalRank: 1458 Jobs: 103 Users: 369 Facts: 1199 Links: 986">on PLDB</span>
  3 Years Old
 
 * Crush is an attempt to make a traditional command line shell that is also a modern programming language. It has the features one would expect from a modern programming language like a type system, closures and lexical scoping, but with a syntax geared toward both batch and interactive shell usage.
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav focal.html smt.html
+keyboardNav wasp-lang.html pure.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Li-Chen Wang - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="spir.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="tcsh.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="parrot-basic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="status-quo-function.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/li-chen-wang.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav spir.html tcsh.html
+keyboardNav parrot-basic.html status-quo-function.html
 
 import ../footer.scroll

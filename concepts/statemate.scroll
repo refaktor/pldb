@@ -6,8 +6,8 @@ title Statemate - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sr.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="unicode-lang.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="social-networks-query-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tick-c.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/statemate.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1998 1998
 
 dashboard
- #4314 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 2924 Links: 986">on PLDB</span>
+ #3067 <span title="TotalRank: 3795 Jobs: 103 Users: 2829 Facts: 2706 Links: 986">on PLDB</span>
  25 Years Old
 
 * 
 
+- Statemate first developed in <a href="../lists/originCommunities.html#universityOfColorado">University of Colorado</a>
 - Statemate on HOPL
  https://hopl.info/showlanguage.prx?exp=2535
 - Read more about Statemate on Semantic Scholar: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav sr.html unicode-lang.html
+keyboardNav social-networks-query-language.html tick-c.html
 
 import ../footer.scroll

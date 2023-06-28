@@ -6,7 +6,7 @@ title Tick C - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="social-networks-query-language.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="statemate.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tikiwiki.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tick-c.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
 
 dashboard
- #3067 <span title="TotalRank: 3794 Jobs: 103 Users: 2829 Facts: 2705 Links: 986">on PLDB</span>
+ #3068 <span title="TotalRank: 3795 Jobs: 103 Users: 2829 Facts: 2706 Links: 986">on PLDB</span>
  26 Years Old
 
 * A superset of ANSI C that allows high-level, efficient, and machine-independent specification of dynamically generated code.
@@ -440,6 +440,6 @@ treeTable
   Token 
   Example
 
-keyboardNav social-networks-query-language.html tikiwiki.html
+keyboardNav statemate.html tikiwiki.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title quicklisp-pm - Package manager
 
 html
  <a class="trueBaseThemePreviousItem" href="qif.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="interchange-file-format.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ston.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/quicklisp-pm.pldb
 
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav qif.html interchange-file-format.html
+keyboardNav qif.html ston.html
 
 import ../footer.scroll

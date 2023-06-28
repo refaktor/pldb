@@ -6,8 +6,8 @@ title RDoc - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="foxpro.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gw-basic.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="intercal.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="foxpro.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/rdoc.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #306 <span title="TotalRank: 717 Jobs: 103 Users: 1004 Facts: 123 Links: 491">on PLDB</span>
+ #305 <span title="TotalRank: 717 Jobs: 103 Users: 1004 Facts: 123 Links: 491">on PLDB</span>
  19 Years Old
  0 <span title="RDoc repos on GitHub.">Repos</span>
 
@@ -172,6 +172,6 @@ codeWithHeader Example from <a href='https://github.com/joshaven/RDoc.tmbundle'>
 
 endColumns
 
-keyboardNav foxpro.html gw-basic.html
+keyboardNav intercal.html foxpro.html
 
 import ../footer.scroll

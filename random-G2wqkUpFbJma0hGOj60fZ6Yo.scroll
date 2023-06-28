@@ -18,7 +18,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,842 files and found 65 matches in 0.74s. <span id="publishQuery"></span>
+Searched 4,842 files and found 65 matches in 0.89s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Which programming languages use indentation?
@@ -52,7 +52,7 @@ table  DeLiM
  Genie DeLiM /concepts/genie.html DeLiM true DeLiM 416
  wisp DeLiM /concepts/wisp.html DeLiM true DeLiM 429
  ABC DeLiM /concepts/abc.html DeLiM true DeLiM 458
- Stylus DeLiM /concepts/stylus.html DeLiM true DeLiM 467
+ Stylus DeLiM /concepts/stylus.html DeLiM true DeLiM 468
  Imba DeLiM /concepts/imba.html DeLiM true DeLiM 516
  Curry DeLiM /concepts/curry.html DeLiM true DeLiM 561
  Argdown DeLiM /concepts/argdown.html DeLiM true DeLiM 603
@@ -67,30 +67,30 @@ table  DeLiM
  bog DeLiM /concepts/bog.html DeLiM true DeLiM 1057
  Quaint DeLiM /concepts/quaint.html DeLiM true DeLiM 1120
  Sheep DeLiM /concepts/sheep-lang.html DeLiM true DeLiM 1121
- Cyber DeLiM /concepts/cyber.html DeLiM true DeLiM 1164
+ Cyber DeLiM /concepts/cyber.html DeLiM true DeLiM 1165
  Scroll DeLiM /concepts/scroll.html DeLiM true DeLiM 1173
- ISWIM DeLiM /concepts/iswim.html DeLiM true DeLiM 1250
+ ISWIM DeLiM /concepts/iswim.html DeLiM true DeLiM 1251
  PROMAL DeLiM /concepts/promal.html DeLiM true DeLiM 1293
  I-expressions DeLiM /concepts/i-expressions.html DeLiM true DeLiM 1338
- p4p DeLiM /concepts/p4p.html DeLiM true DeLiM 1392
- Z DeLiM /concepts/z-expressions.html DeLiM true DeLiM 1430
+ p4p DeLiM /concepts/p4p.html DeLiM true DeLiM 1393
+ Z DeLiM /concepts/z-expressions.html DeLiM true DeLiM 1431
  Cirru DeLiM /concepts/cirru.html DeLiM true DeLiM 1454
  Note DeLiM /concepts/note.html DeLiM true DeLiM 1631
  BuddyScript DeLiM /concepts/buddyscript.html DeLiM true DeLiM 1712
  net-format DeLiM /concepts/net-format.html DeLiM true DeLiM 1719
- ELFE DeLiM /concepts/elfe.html DeLiM true DeLiM 1738
- TQL DeLiM /concepts/tql.html DeLiM true DeLiM 1744
- Ohayo DeLiM /concepts/ohayo.html DeLiM true DeLiM 1771
- Truth DeLiM /concepts/truth.html DeLiM true DeLiM 1775
- Space DeLiM /concepts/space.html DeLiM true DeLiM 2001
- bml DeLiM /concepts/bml.html DeLiM true DeLiM 2263
+ ELFE DeLiM /concepts/elfe.html DeLiM true DeLiM 1739
+ TQL DeLiM /concepts/tql.html DeLiM true DeLiM 1745
+ Ohayo DeLiM /concepts/ohayo.html DeLiM true DeLiM 1773
+ Truth DeLiM /concepts/truth.html DeLiM true DeLiM 1777
+ Space DeLiM /concepts/space.html DeLiM true DeLiM 2003
+ bml DeLiM /concepts/bml.html DeLiM true DeLiM 2264
  Sweet Expressions DeLiM /concepts/sweet-expressions.html DeLiM true DeLiM 2727
  Indental DeLiM /concepts/indental.html DeLiM true DeLiM 2796
  CSL DeLiM /concepts/csl.html DeLiM true DeLiM 2849
- converge DeLiM /concepts/converge.html DeLiM true DeLiM 3142
- Ordered graph data language DeLiM /concepts/ogdl.html DeLiM true DeLiM 3394
+ converge DeLiM /concepts/converge.html DeLiM true DeLiM 3143
+ Ordered graph data language DeLiM /concepts/ogdl.html DeLiM true DeLiM 3395
  MADCAP VI DeLiM /concepts/madcap-vi.html DeLiM true DeLiM 3546
- MADCAP DeLiM /concepts/madcap.html DeLiM true DeLiM 4725
+ MADCAP DeLiM /concepts/madcap.html DeLiM true DeLiM 4726
 
 Results as JSON, CSV, TSV or Tree
  link /search.json?q=title%20Which%20programming%20languages%20use%20indentation%3F%0Aselect%20hasSemanticIndentation%20rank%0AnotMissing%20hasSemanticIndentation%0Awhere%20hasSemanticIndentation%20%3D%20true%0AsortBy%20rank JSON

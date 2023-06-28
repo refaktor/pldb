@@ -6,7 +6,7 @@ title llhd - Hardware description language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pyret-lang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="cyber.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="curv.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/llhd.pldb
@@ -101,6 +101,6 @@ treeTable
   Token true false
   Example
 
-keyboardNav pyret-lang.html curv.html
+keyboardNav cyber.html curv.html
 
 import ../footer.scroll

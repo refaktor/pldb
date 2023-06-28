@@ -6,8 +6,8 @@ title visdown - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="gfa-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="vdscript.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="inchi.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gfa-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/visdown.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/amitkaps/visdown
 
 dashboard
- #1064 <span title="TotalRank: 1626 Jobs: 103 Users: 635 Facts: 888 Links: 986">on PLDB</span>
+ #1063 <span title="TotalRank: 1626 Jobs: 103 Users: 635 Facts: 888 Links: 986">on PLDB</span>
  7 Years Old
 
 * Write visualisation using a simple declarative markup like you would write code. Just wrap it in fenced block (three backticks) and mark the language as `vis`.
@@ -51,6 +51,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav gfa-basic.html vdscript.html
+keyboardNav inchi.html gfa-basic.html
 
 import ../footer.scroll

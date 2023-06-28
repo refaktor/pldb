@@ -7,7 +7,7 @@ title socialite - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="smithy.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="statebox.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="syndicate.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/socialite.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2015 2015
 
 dashboard
- #2909 <span title="TotalRank: 3523 Jobs: 103 Users: 2434 Facts: 2705 Links: 986">on PLDB</span>
+ #2910 <span title="TotalRank: 3523 Jobs: 103 Users: 2434 Facts: 2706 Links: 986">on PLDB</span>
  8 Years Old
 
 * 
@@ -38,6 +38,6 @@ pipeTable
  title|titleLink|date|score|comments
  Query Language for Large-Scale Graph Analysis|https://news.ycombinator.com/item?id=9316131|04/03/2015|2|0
 
-keyboardNav smithy.html statebox.html
+keyboardNav smithy.html syndicate.html
 
 import ../footer.scroll

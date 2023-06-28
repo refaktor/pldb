@@ -7,7 +7,7 @@ title SQL/PSM - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="svgbob.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pogoscript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="kodu-game-lab.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sql-psm.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav svgbob.html pogoscript.html
+keyboardNav svgbob.html kodu-game-lab.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title tornado - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="nsis.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="diff.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="altair-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tornado.pldb
@@ -51,6 +51,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav nsis.html altair-basic.html
+keyboardNav diff.html altair-basic.html
 
 import ../footer.scroll

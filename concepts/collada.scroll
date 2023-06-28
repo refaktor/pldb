@@ -6,8 +6,8 @@ title COLLADA - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="bosque.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="creole.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="edgedb.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bosque.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/collada.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav bosque.html creole.html
+keyboardNav edgedb.html bosque.html
 
 import ../footer.scroll

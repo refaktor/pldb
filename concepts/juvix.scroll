@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/cryptiumlabs/juvix
 
 dashboard
- #1465 <span title="TotalRank: 1991 Jobs: 103 Users: 902 Facts: 1497 Links: 986">on PLDB</span>
+ #1465 <span title="TotalRank: 1991 Jobs: 103 Users: 902 Facts: 1498 Links: 986">on PLDB</span>
  6 Years Old
 
 * Juvix empowers developers to write code in a high-level, functional language, compile it to gas-efficient output VM instructions, and formally verify the safety of their contracts prior to deployment and execution.

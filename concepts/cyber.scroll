@@ -6,8 +6,8 @@ title Cyber - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="fo.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="teco.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="pyret-lang.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="llhd.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cyber.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/fubark/cyber
 
 dashboard
- #1002 <span title="TotalRank: 1569 Jobs: 103 Users: 971 Facts: 495 Links: 986">on PLDB</span>
+ #1006 <span title="TotalRank: 1570 Jobs: 103 Users: 971 Facts: 496 Links: 986">on PLDB</span>
  1 Years Old
 
 * Cyber is a new language for fast, efficient, and concurrent scripting.
@@ -136,6 +136,6 @@ treeTable
   Example
    import m 'math'
 
-keyboardNav fo.html teco.html
+keyboardNav pyret-lang.html llhd.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Formatted Table - Data notation
 
 html
  <a class="trueBaseThemePreviousItem" href="ren-notation.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="vissim.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="basic-plus.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/formatted-table.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1990 1990
 
 dashboard
- #1242 <span title="TotalRank: 1778 Jobs: 103 Users: 2829 Facts: 689 Links: 986">on PLDB</span>
+ #1245 <span title="TotalRank: 1779 Jobs: 103 Users: 2829 Facts: 690 Links: 986">on PLDB</span>
  33 Years Old
  0 <span title="Formatted Table repos on GitHub.">Repos</span>
 
@@ -68,6 +68,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav ren-notation.html vissim.html
+keyboardNav ren-notation.html basic-plus.html
 
 import ../footer.scroll

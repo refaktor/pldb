@@ -6,7 +6,7 @@ title Flatline - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="obsidian.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="stockholm-format.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="nilscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/flatline.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/bigmlcom/flatline
 
 dashboard
- #1747 <span title="TotalRank: 2288 Jobs: 103 Users: 1644 Facts: 1199 Links: 986">on PLDB</span>
+ #1749 <span title="TotalRank: 2288 Jobs: 103 Users: 1644 Facts: 1199 Links: 986">on PLDB</span>
  10 Years Old
 
 * Flatline is a lispy language for the specification of values to be extracted or generated from an input dataset, using a finite sliding window of input rows.
@@ -62,6 +62,6 @@ treeTable
   Token 
   Example
 
-keyboardNav obsidian.html nilscript.html
+keyboardNav stockholm-format.html nilscript.html
 
 import ../footer.scroll

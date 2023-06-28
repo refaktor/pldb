@@ -6,7 +6,7 @@ title FFmpeg - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jakt.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="microdata.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="clarion.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ffmpeg.pldb
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav jakt.html clarion.html
+keyboardNav microdata.html clarion.html
 
 import ../footer.scroll

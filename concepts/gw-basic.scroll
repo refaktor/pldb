@@ -6,7 +6,7 @@ title GW-BASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="rdoc.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="foxpro.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="visual-foxpro.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gw-basic.pldb
@@ -47,6 +47,6 @@ treeTable
   Token 
   Example
 
-keyboardNav rdoc.html visual-foxpro.html
+keyboardNav foxpro.html visual-foxpro.html
 
 import ../footer.scroll

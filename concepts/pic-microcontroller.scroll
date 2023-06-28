@@ -7,7 +7,7 @@ title PIC microcontroller - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="hjson.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="carp.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="textile.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pic-microcontroller.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav hjson.html carp.html
+keyboardNav hjson.html textile.html
 
 import ../footer.scroll

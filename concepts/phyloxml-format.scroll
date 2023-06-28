@@ -7,7 +7,7 @@ title PhyloXML - Xml format
 
 html
  <a class="trueBaseThemePreviousItem" href="lilypond.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mgmt.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="progsbase.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/phyloxml-format.pldb
 
@@ -85,6 +85,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/PhyloXML'>Wik
 
 endColumns
 
-keyboardNav lilypond.html mgmt.html
+keyboardNav lilypond.html progsbase.html
 
 import ../footer.scroll

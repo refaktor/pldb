@@ -7,7 +7,7 @@ title STAGE2 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="squrl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="static-typescript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="standard-lisp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stage2.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1970 1970
 
 dashboard
- #4042 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3271 Links: 986">on PLDB</span>
+ #4040 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3272 Links: 986">on PLDB</span>
  53 Years Old
 
 * 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav squrl.html static-typescript.html
+keyboardNav squrl.html standard-lisp.html
 
 import ../footer.scroll

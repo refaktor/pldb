@@ -6,8 +6,8 @@ title GraphIt - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tap-code.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="http-2.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="http-2.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="whiley.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/graph-it.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/GraphIt-DSL/graphit
 
 dashboard
- #729 <span title="TotalRank: 1292 Jobs: 103 Users: 847 Facts: 342 Links: 986">on PLDB</span>
+ #730 <span title="TotalRank: 1293 Jobs: 103 Users: 847 Facts: 343 Links: 986">on PLDB</span>
  6 Years Old
 
 * GraphIt is a new DSL for graph computations that generates fast implementations for algorithms with different performance characteristics running on graphs with different sizes and structures. GraphIt separates what is computed (algorithm) from how it is computed (schedule). Programmers specify the algorithm using an algorithm language, and performance optimizations are specified using a separate scheduling language. The scheduling language enables programmers to easily search through this complicated tradeoff space by composing together a large set of edge traversal and vertex data layout optimizations.
@@ -100,6 +100,6 @@ pipeTable
  title|titleLink|date|score|comments
  GraphIt: A High-Performance Domain-Specific Language for Graph Analytics|https://news.ycombinator.com/item?id=18499287|11/21/2018|34|2
 
-keyboardNav tap-code.html http-2.html
+keyboardNav http-2.html whiley.html
 
 import ../footer.scroll

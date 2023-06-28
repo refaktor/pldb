@@ -6,8 +6,8 @@ title Kodu Game Lab - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pogoscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rant.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sql-psm.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pogoscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/kodu-game-lab.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
 
 dashboard
- #785 <span title="TotalRank: 1349 Jobs: 103 Users: 755 Facts: 1587 Links: 491">on PLDB</span>
+ #784 <span title="TotalRank: 1349 Jobs: 103 Users: 755 Facts: 1588 Links: 491">on PLDB</span>
  14 Years Old
 
 * Kodu, originally named Boku, is a programming integrated development environment (IDE) by Microsoft's FUSE Labs. It runs on Xbox 360 and Microsoft Windows XP, Windows Vista, Windows 7, Windows 8 and Windows 10. It was released on the Xbox Live Marketplace on June 30, 2009. Read more on Wikipedia...
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav pogoscript.html rant.html
+keyboardNav sql-psm.html pogoscript.html
 
 import ../footer.scroll

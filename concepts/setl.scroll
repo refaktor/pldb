@@ -6,8 +6,8 @@ title SETL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="linq.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="maxima.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="quickbasic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="linq.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/setl.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#jacobTSchwartz Jacob T. Schwartz
 
 dashboard
- #393 <span title="TotalRank: 871 Jobs: 103 Users: 1199 Facts: 531 Links: 237">on PLDB</span>
+ #392 <span title="TotalRank: 871 Jobs: 103 Users: 1199 Facts: 531 Links: 237">on PLDB</span>
  54 Years Old
 
 * Try now: <a href="https://riju.codes/setl">Riju</a>
@@ -80,6 +80,6 @@ treeTable
   Token 
   Example
 
-keyboardNav linq.html maxima.html
+keyboardNav quickbasic.html linq.html
 
 import ../footer.scroll

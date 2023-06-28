@@ -6,8 +6,8 @@ title Apache Spark - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="parrot-internal-representation.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="geojson.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="argdown.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="parrot-internal-representation.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spark.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#mateiZaharia Matei Zaharia
 
 dashboard
- #606 on PLDB
+ #605 on PLDB
  11 Years Old
 
 * Apache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Java, Scala, Python, and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, pandas API on Spark for pandas workloads, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for incremental computation and stream processing.
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav parrot-internal-representation.html geojson.html
+keyboardNav argdown.html parrot-internal-representation.html
 
 import ../footer.scroll

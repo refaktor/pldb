@@ -6,7 +6,7 @@ title WML - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="gluon.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="slice.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="srl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/wml.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
 
 dashboard
- #813 <span title="TotalRank: 1373 Jobs: 103 Users: 1689 Facts: 779 Links: 491">on PLDB</span>
+ #814 <span title="TotalRank: 1373 Jobs: 103 Users: 1689 Facts: 779 Links: 491">on PLDB</span>
  17 Years Old
 
 * Website Meta Language (WML) and its associated command wmk are together a free and extensible web designer's off-line HTML generation toolkit for Unix, distributed under the GNU General Public License (GPL v2). It works as an off-line content management system. It is written in ANSI C and Perl 5, built via a GNU Autoconf based source tree and runs out-of-the-box on all major Unix derivates. Read more on Wikipedia...
@@ -56,6 +56,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav gluon.html srl.html
+keyboardNav slice.html srl.html
 
 import ../footer.scroll

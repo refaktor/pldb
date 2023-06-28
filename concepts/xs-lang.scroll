@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#sturmMabie Sturm Mabie
 
 dashboard
- #3131 <span title="TotalRank: 3890 Jobs: 103 Users: 2829 Facts: 2801 Links: 986">on PLDB</span>
+ #3133 <span title="TotalRank: 3892 Jobs: 103 Users: 2829 Facts: 2803 Links: 986">on PLDB</span>
  4 Years Old
 
 * xs is a dynamically typed, dynamically scoped, concatenative array language inspired by kdb+/q and released into the public domain. The interpreter and builtin functions are written in OCaml. The name “xs” either stands for: eXtra Small or The plural of “x”.

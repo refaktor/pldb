@@ -6,7 +6,7 @@ title syndicate - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="statebox.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="socialite.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="typst.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/syndicate.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2016 2016
 
 dashboard
- #2911 <span title="TotalRank: 3523 Jobs: 103 Users: 2434 Facts: 2705 Links: 986">on PLDB</span>
+ #2911 <span title="TotalRank: 3523 Jobs: 103 Users: 2434 Facts: 2706 Links: 986">on PLDB</span>
  7 Years Old
 
 * 
@@ -38,6 +38,6 @@ pipeTable
  title|titleLink|date|score|comments
  Syn·di·cate: actor-based concurrent language implemented in Racket/JavaScript|https://news.ycombinator.com/item?id=13381170|01/12/2017|3|0
 
-keyboardNav statebox.html typst.html
+keyboardNav socialite.html typst.html
 
 import ../footer.scroll

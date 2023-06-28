@@ -6,8 +6,8 @@ title basic calculator - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="interlisp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flavors.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="flavors.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="xblite.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bc.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1975 1975
 
 dashboard
- #1086 <span title="TotalRank: 1645 Jobs: 103 Users: 808 Facts: 734 Links: 986">on PLDB</span>
+ #1087 <span title="TotalRank: 1646 Jobs: 103 Users: 808 Facts: 735 Links: 986">on PLDB</span>
  48 Years Old
 
 * Try now: <a href="https://riju.codes/bc">Riju</a> · <a href="https://tio.run/#bc">TIO</a>
@@ -76,6 +76,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav interlisp.html flavors.html
+keyboardNav flavors.html xblite.html
 
 import ../footer.scroll

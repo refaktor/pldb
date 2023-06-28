@@ -7,7 +7,7 @@ title souffle - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="skew.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="versioned-text-markup-language.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="statebox.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/souffle.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#bernhardScholz Bernhard Scholz
 
 dashboard
- #2959 <span title="TotalRank: 3523 Jobs: 103 Users: 2434 Facts: 2541 Links: 986">on PLDB</span>
+ #2959 <span title="TotalRank: 3523 Jobs: 103 Users: 2434 Facts: 2543 Links: 986">on PLDB</span>
  4 Years Old
 
 * 
@@ -41,6 +41,6 @@ pipeTable
  title|titleLink|date|score|comments
  A Specialized B-Tree for Concurrent Datalog Evaluation|https://news.ycombinator.com/item?id=19664658|04/15/2019|174|4
 
-keyboardNav skew.html versioned-text-markup-language.html
+keyboardNav skew.html statebox.html
 
 import ../footer.scroll

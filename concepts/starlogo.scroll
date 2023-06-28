@@ -6,8 +6,8 @@ title StarLogo - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="maude.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="morfik.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="morfik.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ns-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/starlogo.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #1169 <span title="TotalRank: 1712 Jobs: 103 Users: 1283 Facts: 2541 Links: 326">on PLDB</span>
+ #1170 <span title="TotalRank: 1712 Jobs: 103 Users: 1283 Facts: 2312 Links: 326">on PLDB</span>
  15 Years Old
 
 * StarLogo is an agent-based simulation language developed by Mitchel Resnick, Eric Klopfer, and others at MIT Media Lab and MIT Scheller Teacher Education Program in Massachusetts. It is an extension of the Logo programming language, a dialect of Lisp. Designed for education, StarLogo can be used by students to model the behavior of decentralized systems. Read more on Wikipedia...
@@ -27,12 +27,13 @@ dashboard
 
 - StarLogo Wikipedia page
  https://en.wikipedia.org/wiki/StarLogo
+- StarLogo first developed in <a href="../lists/originCommunities.html#massachusettsInstituteOfTechnology">Massachusetts Institute of Technology</a>
 - See also: (9 related languages)<a href="logo.html">Logo</a>, <a href="netlogo.html">NetLogo</a>, <a href="etoys.html">Etoys</a>, <a href="lisp.html">Lisp</a>, <a href="connection-machine.html">Connection Machine</a>, <a href="java.html">Java</a>, <a href="squeak.html">Squeak</a>, <a href="smalltalk.html">Smalltalk</a>, <a href="scratch.html">Scratch</a>
 
 <br>
 
 endColumns
 
-keyboardNav maude.html morfik.html
+keyboardNav morfik.html ns-basic.html
 
 import ../footer.scroll

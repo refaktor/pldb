@@ -7,7 +7,7 @@ title A-0 system - Compiler
 
 html
  <a class="trueBaseThemePreviousItem" href="cache-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="vml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="storyscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/a-0-system.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1951 1951
 
 dashboard
- #1019 on PLDB
+ #1020 on PLDB
  72 Years Old
 
 * The A-0 system (Arithmetic Language version 0), written by Grace Murray Hopper  in 1951 and 1952 for the UNIVAC I, was an early compiler related tool developed for electronic computers. The A-0 functioned more as a loader or linker than the modern notion of a compiler. A program was specified as a sequence of subroutines and arguments. Read more on Wikipedia...
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav cache-basic.html vml.html
+keyboardNav cache-basic.html storyscript.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Mech - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ip-pascal.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="hl7.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="doml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mech-lang.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/mech-lang/mech
 
 dashboard
- #879 <span title="TotalRank: 1443 Jobs: 103 Users: 1254 Facts: 354 Links: 986">on PLDB</span>
+ #880 <span title="TotalRank: 1444 Jobs: 103 Users: 1254 Facts: 355 Links: 986">on PLDB</span>
  5 Years Old
 
 * Try now: <a href="http://try.mech-lang.org/">Web</a>
@@ -101,6 +101,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav ip-pascal.html doml.html
+keyboardNav hl7.html doml.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title bml - Data notation
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="stella.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="protium.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="whirl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bml.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
 
 dashboard
- #2029 <span title="TotalRank: 2534 Jobs: 103 Users: 2829 Facts: 1445 Links: 986">on PLDB</span>
+ #2030 <span title="TotalRank: 2536 Jobs: 103 Users: 2829 Facts: 1447 Links: 986">on PLDB</span>
  9 Years Old
 
 * 
@@ -60,6 +60,6 @@ treeTable
   Token 
   Example
 
-keyboardNav stella.html whirl.html
+keyboardNav protium.html whirl.html
 
 import ../footer.scroll

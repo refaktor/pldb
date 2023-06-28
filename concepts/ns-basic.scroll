@@ -6,7 +6,7 @@ title NS Basic - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="morfik.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="starlogo.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="05ab1e.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ns-basic.pldb
@@ -71,6 +71,6 @@ treeTable
   Token 
   Example
 
-keyboardNav morfik.html 05ab1e.html
+keyboardNav starlogo.html 05ab1e.html
 
 import ../footer.scroll

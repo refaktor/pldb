@@ -6,7 +6,7 @@ title U - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="starpial.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="oopsilon.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="elegance.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/u.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/yassenb/u
 
 dashboard
- #2080 <span title="TotalRank: 2586 Jobs: 103 Users: 2381 Facts: 1497 Links: 986">on PLDB</span>
+ #2080 <span title="TotalRank: 2587 Jobs: 103 Users: 2381 Facts: 1498 Links: 986">on PLDB</span>
  10 Years Old
 
 * Try now: <a href="http://yassenb.github.io/u/dist/web/index.html">Web</a>
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav starpial.html elegance.html
+keyboardNav oopsilon.html elegance.html
 
 import ../footer.scroll

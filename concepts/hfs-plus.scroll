@@ -6,7 +6,7 @@ title HFS Plus - Filesystem
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="euclidean-geometry.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="slice.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="streem.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hfs-plus.pldb
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav euclidean-geometry.html streem.html
+keyboardNav slice.html streem.html
 
 import ../footer.scroll

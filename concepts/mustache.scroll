@@ -6,8 +6,8 @@ title mustache - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="codeql.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="futhark.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="futhark.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="felix.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mustache.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/mustache/mustache
 
 dashboard
- #522 <span title="TotalRank: 1066 Jobs: 103 Users: 245 Facts: 718 Links: 986">on PLDB</span>
+ #523 <span title="TotalRank: 1067 Jobs: 103 Users: 245 Facts: 719 Links: 986">on PLDB</span>
  14 Years Old
  6k <span title="mustache repos on GitHub.">Repos</span>
 
@@ -48,6 +48,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav codeql.html futhark.html
+keyboardNav futhark.html felix.html
 
 import ../footer.scroll

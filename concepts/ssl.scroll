@@ -7,7 +7,7 @@ title SSL - Protocol
 
 html
  <a class="trueBaseThemePreviousItem" href="sqlmp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="tao.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="stoical.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ssl.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1994 1994
 
 dashboard
- #3127 <span title="TotalRank: 3890 Jobs: 103 Users: 2829 Facts: 2801 Links: 986">on PLDB</span>
+ #3128 <span title="TotalRank: 3892 Jobs: 103 Users: 2829 Facts: 2803 Links: 986">on PLDB</span>
  29 Years Old
 
 * 
@@ -32,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav sqlmp.html tao.html
+keyboardNav sqlmp.html stoical.html
 
 import ../footer.scroll

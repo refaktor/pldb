@@ -7,7 +7,7 @@ title Fibonacci - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="swallow.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nxc.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="kona.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fibonacci.pldb
 
@@ -81,6 +81,6 @@ treeTable
   Token 
   Example
 
-keyboardNav swallow.html nxc.html
+keyboardNav swallow.html kona.html
 
 import ../footer.scroll

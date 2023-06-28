@@ -7,7 +7,7 @@ title FLUX - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="brainfuck.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="haml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="standard-ml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/flux.pldb
 
@@ -107,6 +107,6 @@ treeTable
   Token 
   Example
 
-keyboardNav brainfuck.html haml.html
+keyboardNav brainfuck.html standard-ml.html
 
 import ../footer.scroll

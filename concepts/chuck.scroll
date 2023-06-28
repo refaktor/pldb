@@ -7,7 +7,7 @@ title Ch - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="kitten.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="scss.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jasmin.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/chuck.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#geWang Ge Wang
 
 dashboard
- #767 <span title="TotalRank: 1336 Jobs: 103 Users: 738 Facts: 495 Links: 986">on PLDB</span>
+ #770 <span title="TotalRank: 1337 Jobs: 103 Users: 738 Facts: 496 Links: 986">on PLDB</span>
  20 Years Old
  571 <span title="Ch repos on GitHub.">Repos</span>
 
@@ -86,6 +86,6 @@ treeTable
   Token 
   Example
 
-keyboardNav kitten.html scss.html
+keyboardNav kitten.html jasmin.html
 
 import ../footer.scroll

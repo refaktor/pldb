@@ -7,7 +7,7 @@ title Glicol - Musical notation
 
 html
  <a class="trueBaseThemePreviousItem" href="1620sps.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="roku-brightscript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="query-by-example.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/glicol.pldb
 
@@ -58,6 +58,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav 1620sps.html roku-brightscript.html
+keyboardNav 1620sps.html query-by-example.html
 
 import ../footer.scroll

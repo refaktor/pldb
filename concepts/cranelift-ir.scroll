@@ -6,8 +6,8 @@ title Cranelift - Intermediate representation language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="edje-data-collection.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="powerbasic.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="context-diff.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="edje-data-collection.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cranelift-ir.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/CraneStation/cranelift
 
 dashboard
- #807 <span title="TotalRank: 1366 Jobs: 103 Users: 277 Facts: 1665 Links: 986">on PLDB</span>
+ #806 <span title="TotalRank: 1366 Jobs: 103 Users: 277 Facts: 1666 Links: 986">on PLDB</span>
  7 Years Old
 
 * Cranelift code generator
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav edje-data-collection.html powerbasic.html
+keyboardNav context-diff.html edje-data-collection.html
 
 import ../footer.scroll

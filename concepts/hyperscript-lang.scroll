@@ -6,8 +6,8 @@ title Hyperscript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="powerbasic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="unity.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="stencil.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gluon.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hyperscript-lang.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/bigskysoftware/_hyperscript
 
 dashboard
- #809 <span title="TotalRank: 1370 Jobs: 103 Users: 533 Facts: 734 Links: 986">on PLDB</span>
+ #810 <span title="TotalRank: 1371 Jobs: 103 Users: 533 Facts: 735 Links: 986">on PLDB</span>
  3 Years Old
 
 * _hyperscript is a small, open scripting language inspired by hypertalk
@@ -56,6 +56,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav powerbasic.html unity.html
+keyboardNav stencil.html gluon.html
 
 import ../footer.scroll

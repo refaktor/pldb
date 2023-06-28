@@ -7,7 +7,7 @@ title FutureBASIC - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="beanshell.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="walt.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="staroffice-basic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/futurebasic.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1992 1992
 
 dashboard
- #734 <span title="TotalRank: 1296 Jobs: 103 Users: 1606 Facts: 702 Links: 491">on PLDB</span>
+ #734 <span title="TotalRank: 1297 Jobs: 103 Users: 1606 Facts: 703 Links: 491">on PLDB</span>
  31 Years Old
 
 * FutureBasic is a free BASIC compiler for Apple Inc.'s Macintosh. It consists of an integrated development environment (IDE), editor, project manager, etc. for both PowerPC and Intel microprocessors. Read more on Wikipedia...
@@ -83,6 +83,6 @@ treeTable
   Token 
   Example
 
-keyboardNav beanshell.html walt.html
+keyboardNav beanshell.html staroffice-basic.html
 
 import ../footer.scroll

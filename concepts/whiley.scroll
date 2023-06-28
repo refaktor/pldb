@@ -6,7 +6,7 @@ title Whiley - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="http-2.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="graph-it.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="nqc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/whiley.pldb
@@ -151,6 +151,6 @@ treeTable
   Token 
   Example
 
-keyboardNav http-2.html nqc.html
+keyboardNav graph-it.html nqc.html
 
 import ../footer.scroll

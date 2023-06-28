@@ -7,7 +7,7 @@ title hakaru - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="business-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cirru.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pop-2.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hakaru.pldb
 
@@ -55,6 +55,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav business-basic.html cirru.html
+keyboardNav business-basic.html pop-2.html
 
 import ../footer.scroll

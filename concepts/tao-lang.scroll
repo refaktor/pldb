@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/zesterer/tao
 
 dashboard
- #1344 <span title="TotalRank: 1886 Jobs: 103 Users: 797 Facts: 1251 Links: 986">on PLDB</span>
+ #1344 <span title="TotalRank: 1886 Jobs: 103 Users: 797 Facts: 1252 Links: 986">on PLDB</span>
  3 Years Old
 
 * A statically-typed functional language with polymorphism, typeclasses, sum types, pattern-matching, first-class functions, currying, good diagnostics, and much more!

@@ -6,8 +6,8 @@ title Statsplorer - Visual programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ais.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="laning-and-zierler-system.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="george.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="coordinate-format.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/statsplorer.pldb
 
@@ -24,7 +24,7 @@ codeWithHeader Source code:
  git clone https://github.com/imkrishsub/VisiStat
 
 dashboard
- #1923 <span title="TotalRank: 2434 Jobs: 103 Users: 1842 Facts: 1665 Links: 666">on PLDB</span>
+ #1728 <span title="TotalRank: 2267 Jobs: 103 Users: 1842 Facts: 1498 Links: 666">on PLDB</span>
  9 Years Old
 
 * An application that allows users to do basic statistical analysis on-the-fly. 
@@ -32,12 +32,13 @@ dashboard
 - Statsplorer website
  https://hci.rwth-aachen.de/statsplorer
 - Statsplorer is developed on <a href="https://github.com/imkrishsub/VisiStat">GitHub</a> and has 8 stars
+- Statsplorer first developed in <a href="../lists/originCommunities.html#rwthAachenUniversity">RWTH Aachen University</a>
 - See also: (1 related languages)<a href="r.html">R</a>
 
 <br>
 
 endColumns
 
-keyboardNav ais.html laning-and-zierler-system.html
+keyboardNav george.html coordinate-format.html
 
 import ../footer.scroll

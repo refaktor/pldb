@@ -6,8 +6,8 @@ title StarOffice Basic - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="cartocss.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="plist.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="futurebasic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="walt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/staroffice-basic.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
 
 dashboard
- #762 <span title="TotalRank: 1328 Jobs: 103 Users: 1897 Facts: 734 Links: 491">on PLDB</span>
+ #735 <span title="TotalRank: 1297 Jobs: 103 Users: 1897 Facts: 703 Links: 491">on PLDB</span>
  23 Years Old
 
 * OpenOffice Basic (formerly known as StarOffice Basic or StarBasic or OOoBasic) is a dialect of the programming language BASIC that originated with the StarOffice office suite and spread through OpenOffice.org and derivatives such as LibreOffice (where it is known as LibreOffice Basic). The language is a domain-specific programming language which specifically serves the OpenOffice application suite.. Read more on Wikipedia...
@@ -27,6 +27,7 @@ dashboard
 
 - StarOffice Basic Wikipedia page
  https://en.wikipedia.org/wiki/StarOffice_Basic
+- StarOffice Basic first developed in <a href="../lists/originCommunities.html#starDivision">Star Division</a>
 - See also: (3 related languages)<a href="basic.html">BASIC</a>, <a href="vba.html">VBA</a>, <a href="isbn.html">ISBN</a>
 
 <br>
@@ -83,6 +84,6 @@ treeTable
   Token 
   Example
 
-keyboardNav cartocss.html plist.html
+keyboardNav futurebasic.html walt.html
 
 import ../footer.scroll

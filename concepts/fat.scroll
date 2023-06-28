@@ -6,7 +6,7 @@ title FAT - Filesystem
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="brainfuck.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="algol.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="dot.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fat.pldb
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav brainfuck.html dot.html
+keyboardNav algol.html dot.html
 
 import ../footer.scroll

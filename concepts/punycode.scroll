@@ -7,7 +7,7 @@ title Punycode - Character encoding
 
 html
  <a class="trueBaseThemePreviousItem" href="lispyscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="xblite.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="nestedtext.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/punycode.pldb
 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav lispyscript.html xblite.html
+keyboardNav lispyscript.html nestedtext.html
 
 import ../footer.scroll

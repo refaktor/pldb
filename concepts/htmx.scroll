@@ -7,7 +7,7 @@ title htmx - Template language
 
 html
  <a class="trueBaseThemePreviousItem" href="neko.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lookml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="rascal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/htmx.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/bigskysoftware/htmx
 
 dashboard
- #644 <span title="TotalRank: 1223 Jobs: 103 Users: 134 Facts: 1089 Links: 986">on PLDB</span>
+ #643 <span title="TotalRank: 1223 Jobs: 103 Users: 134 Facts: 1089 Links: 986">on PLDB</span>
  3 Years Old
 
 * htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
@@ -44,6 +44,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav neko.html lookml.html
+keyboardNav neko.html rascal.html
 
 import ../footer.scroll

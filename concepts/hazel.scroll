@@ -7,7 +7,7 @@ title hazel - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="partiql.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cir.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spir.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hazel.pldb
 
@@ -54,6 +54,6 @@ treeTable
   Token 
   Example
 
-keyboardNav partiql.html cir.html
+keyboardNav partiql.html spir.html
 
 import ../footer.scroll

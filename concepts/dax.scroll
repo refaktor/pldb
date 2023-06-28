@@ -7,7 +7,7 @@ title DAX - Query language
 
 html
  <a class="trueBaseThemePreviousItem" href="vissim.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="basic-plus.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="dlvm.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dax.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2009 2009
 
 dashboard
- #1244 <span title="TotalRank: 1779 Jobs: 103 Users: 845 Facts: 831 Links: 986">on PLDB</span>
+ #1241 <span title="TotalRank: 1779 Jobs: 103 Users: 845 Facts: 831 Links: 986">on PLDB</span>
  14 Years Old
 
 monacoEditor msdax
@@ -84,6 +84,6 @@ treeTable
   Token 
   Example
 
-keyboardNav vissim.html basic-plus.html
+keyboardNav vissim.html dlvm.html
 
 import ../footer.scroll

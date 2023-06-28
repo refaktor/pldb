@@ -7,7 +7,7 @@ title spark-pm - Package manager
 
 html
  <a class="trueBaseThemePreviousItem" href="souffle.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="versioned-text-markup-language.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="statebox.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/spark-pm.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
 
 dashboard
- #3205 on PLDB
+ #3206 on PLDB
  9 Years Old
 
 * 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav souffle.html versioned-text-markup-language.html
+keyboardNav souffle.html statebox.html
 
 import ../footer.scroll

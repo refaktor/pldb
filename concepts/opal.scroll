@@ -7,7 +7,7 @@ title Opal - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="miniml-error.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="joss.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="harlan.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/opal.pldb
 
@@ -88,6 +88,6 @@ treeTable
   Token 
   Example
 
-keyboardNav miniml-error.html joss.html
+keyboardNav miniml-error.html harlan.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Color BASIC - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="kuin.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="trac.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pharen.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/color-basic.pldb
 
@@ -40,6 +40,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Color_BASIC'>
 
 endColumns
 
-keyboardNav kuin.html trac.html
+keyboardNav kuin.html pharen.html
 
 import ../footer.scroll

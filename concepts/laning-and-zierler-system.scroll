@@ -6,7 +6,7 @@ title Laning and Zierler system - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="statsplorer.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="ais.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="loci.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/laning-and-zierler-system.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1953 1953
 
 dashboard
- #1924 <span title="TotalRank: 2434 Jobs: 103 Users: 1850 Facts: 1665 Links: 666">on PLDB</span>
+ #1925 <span title="TotalRank: 2435 Jobs: 103 Users: 1850 Facts: 1666 Links: 666">on PLDB</span>
  70 Years Old
 
 * The Laning and Zierler system (sometimes called "George" by its users) was one of the first operating algebraic compilers, that is, a system capable of accepting mathematical formulae in algebraic notation and producing equivalent machine code (the term compiler had not yet been invented and the system was referred to as "an interpretive program"). It was implemented in 1952 for the MIT WHIRLWIND by J. Halcombe Laning and Neal Zierler. Read more on Wikipedia...
@@ -41,6 +41,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Laning_and_Zi
 
 endColumns
 
-keyboardNav statsplorer.html loci.html
+keyboardNav ais.html loci.html
 
 import ../footer.scroll

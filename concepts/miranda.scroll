@@ -6,7 +6,7 @@ title Miranda - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="capn-proto.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="starlark.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mbox.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/miranda.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#davidTurner David Turner
 
 dashboard
- #367 <span title="TotalRank: 836 Jobs: 103 Users: 964 Facts: 526 Links: 207">on PLDB</span>
+ #368 <span title="TotalRank: 836 Jobs: 103 Users: 964 Facts: 526 Links: 207">on PLDB</span>
  38 Years Old
 
 * Try now: <a href="https://riju.codes/miranda">Riju</a>
@@ -81,6 +81,6 @@ treeTable
   Token 
   Example
 
-keyboardNav capn-proto.html mbox.html
+keyboardNav starlark.html mbox.html
 
 import ../footer.scroll

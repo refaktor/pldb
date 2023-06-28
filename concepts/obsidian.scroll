@@ -7,7 +7,7 @@ title obsidian - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="kalyn.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flatline.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="stockholm-format.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/obsidian.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/mcoblenz/Obsidian
 
 dashboard
- #1746 <span title="TotalRank: 2288 Jobs: 103 Users: 1436 Facts: 1199 Links: 986">on PLDB</span>
+ #1747 <span title="TotalRank: 2288 Jobs: 103 Users: 1436 Facts: 1199 Links: 986">on PLDB</span>
  5 Years Old
 
 * Obsidian language development
@@ -44,6 +44,6 @@ pipeTable
  title|titleLink|date|score|comments
  Obsidian: A safer blockchain programming language|https://news.ycombinator.com/item?id=20061546|05/31/2019|67|31
 
-keyboardNav kalyn.html flatline.html
+keyboardNav kalyn.html stockholm-format.html
 
 import ../footer.scroll

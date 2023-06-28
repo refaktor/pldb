@@ -7,7 +7,7 @@ title METAFONT - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="gettext.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="staroffice-basic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="component-pascal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/metafont.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1977 1977
 
 dashboard
- #847 on PLDB
+ #849 on PLDB
  46 Years Old
 
 * Metafont is a description language used to define raster fonts. It is also the name of the interpreter that executes Metafont code, generating the bitmap fonts that can be embedded into e.g. PostScript. Read more on Wikipedia...
@@ -68,6 +68,6 @@ treeTable
   Token 
   Example
 
-keyboardNav gettext.html staroffice-basic.html
+keyboardNav gettext.html component-pascal.html
 
 import ../footer.scroll

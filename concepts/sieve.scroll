@@ -7,7 +7,7 @@ title Sieve mail filtering language - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="packagist-pm.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hyperscript-lang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="notepad-plus-plus-editor.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sieve.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #1036 on PLDB
+ #1037 on PLDB
  15 Years Old
  10 <span title="Sieve mail filtering language repos on GitHub.">Repos</span>
 
@@ -92,6 +92,6 @@ treeTable
   Token 
   Example
 
-keyboardNav packagist-pm.html hyperscript-lang.html
+keyboardNav packagist-pm.html notepad-plus-plus-editor.html
 
 import ../footer.scroll

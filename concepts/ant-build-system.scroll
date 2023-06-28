@@ -6,7 +6,7 @@ title Ant Build System - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lisaac.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="jsoniq.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="lsl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ant-build-system.pldb
@@ -148,6 +148,6 @@ codeWithHeader Example from <a href='https://github.com/textmate/ant.tmbundle'>L
 
 endColumns
 
-keyboardNav lisaac.html lsl.html
+keyboardNav jsoniq.html lsl.html
 
 import ../footer.scroll

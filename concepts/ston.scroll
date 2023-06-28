@@ -6,8 +6,8 @@ title STON - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ulisp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="messagepack.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="quicklisp-pm.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="interchange-file-format.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ston.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/svenvc/ston
 
 dashboard
- #1791 on PLDB
+ #1730 on PLDB
  11 Years Old
  0 <span title="STON repos on GitHub.">Repos</span>
 
@@ -31,6 +31,7 @@ dashboard
 
 - STON is developed on <a href="https://github.com/svenvc/ston">GitHub</a> and has 131 stars
 - There are at least 0 STON repos on <a href="https://github.com/search?q=language:STON">GitHub</a>
+- STON first developed in <a href="../lists/originCommunities.html#httpsGithubComSvenvcStonIssues">https://github.com/svenvc/ston/issues</a>
 - file extensions for STON include ston
 - GitHub supports <a href="https://github.com/tomas-stefano/smalltalk-tmbundle" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for STON
 
@@ -41,6 +42,6 @@ codeWithHeader Example from <a href='https://github.com/tomas-stefano/smalltalk-
 
 endColumns
 
-keyboardNav ulisp.html messagepack.html
+keyboardNav quicklisp-pm.html interchange-file-format.html
 
 import ../footer.scroll

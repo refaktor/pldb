@@ -7,7 +7,7 @@ title SystemVerilog - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="clean.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="raml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="clips.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/systemverilog.pldb
 
@@ -201,6 +201,6 @@ treeTable
   Token 
   Example
 
-keyboardNav clean.html raml.html
+keyboardNav clean.html clips.html
 
 import ../footer.scroll

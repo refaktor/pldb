@@ -6,8 +6,8 @@ title STOICAL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="siri.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="streamit.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ssl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="tao.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stoical.pldb
 
@@ -15,15 +15,17 @@ startColumns 4
 
 <div class="trueBaseThemeQuickLinks"><a href="/edit.html?id=stoical" class="material-symbols-outlined">edit</a></div>
 
-* STOICAL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2000.
+* STOICAL is a <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2000 by Jonathan Moore Liles.
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
+ link ../lists/creators.html#jonathanMooreLiles Jonathan Moore Liles
 
 dashboard
- #3424 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3902 Links: 986">on PLDB</span>
+ #3129 <span title="TotalRank: 3892 Jobs: 103 Users: 2829 Facts: 2803 Links: 986">on PLDB</span>
  23 Years Old
 
 * 
 
+- STOICAL first developed in <a href="../lists/originCommunities.html#massachusettsInstituteOfTechnology">Massachusetts Institute of Technology</a>
 - STOICAL on HOPL
  https://hopl.info/showlanguage.prx?exp=5308
 - Read more about STOICAL on the web: 1.
@@ -33,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav siri.html streamit.html
+keyboardNav ssl.html tao.html
 
 import ../footer.scroll

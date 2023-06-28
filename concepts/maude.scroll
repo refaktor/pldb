@@ -7,7 +7,7 @@ title Maude - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="hilvl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="starlogo.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="morfik.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/maude.pldb
 
@@ -52,6 +52,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav hilvl.html starlogo.html
+keyboardNav hilvl.html morfik.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Stockholm format - Text data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tacl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="miva.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="obsidian.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="flatline.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stockholm-format.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
 
 dashboard
- #1876 <span title="TotalRank: 2396 Jobs: 103 Users: 1547 Facts: 1307 Links: 986">on PLDB</span>
+ #1748 <span title="TotalRank: 2288 Jobs: 103 Users: 1547 Facts: 1199 Links: 986">on PLDB</span>
  26 Years Old
 
 * Stockholm format is a multiple sequence alignment format used by Pfam and Rfam to disseminate protein and RNA sequence alignments. The alignment editors Ralee  and Belvu support Stockholm format as do the probabilistic database search tools, Infernal and HMMER, and the phylogenetic analysis tool Xrate. A simple example of an Rfam alignment (UPSK RNA) with a pseudoknot in Stockholm format is shown below: # STOCKHOLM 1.0 #=GF ID    UPSK #=GF SE    Predicted; Infernal  #=GF SS    Published; PMID 9223489 #=GF RN    [1] #=GF RM    9223489 #=GF RT    The role of the pseudoknot at the 3' end of turnip yellow mosaic #=GF RT    virus RNA in minus-strand synthesis by the viral RNA-dependent RNA #=GF RT    polymerase. Read more on Wikipedia...
@@ -27,6 +27,7 @@ dashboard
 
 - Stockholm format Wikipedia page
  https://en.wikipedia.org/wiki/Stockholm_format
+- Stockholm format first developed in <a href="../lists/originCommunities.html#stockholmUniversity">Stockholm University</a>
 - See also: (1 related languages)<a href="fasta-format.html">FASTA</a>
 
 <br>
@@ -46,6 +47,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Stockholm_for
 
 endColumns
 
-keyboardNav tacl.html miva.html
+keyboardNav obsidian.html flatline.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Smarty - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="datascript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="reia.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="imba.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/smarty.pldb
@@ -74,6 +74,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Smarty_(templ
 
 endColumns
 
-keyboardNav datascript.html imba.html
+keyboardNav reia.html imba.html
 
 import ../footer.scroll

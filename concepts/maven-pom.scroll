@@ -7,7 +7,7 @@ title Apache Maven - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="bcpl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="standard-ml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="dylan.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/maven-pom.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2004 2004
 
 dashboard
- #169 on PLDB
+ #170 on PLDB
  19 Years Old
 
 * Maven is a build automation tool used primarily for Java projects. Maven addresses two aspects of building software: first, it describes how software is built, and second, it describes its dependencies. Unlike earlier tools like Apache Ant, it uses conventions for the build procedure, and only exceptions need to be written down. Read more on Wikipedia...
@@ -262,6 +262,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Apache_Maven'
 
 endColumns
 
-keyboardNav bcpl.html standard-ml.html
+keyboardNav bcpl.html dylan.html
 
 import ../footer.scroll

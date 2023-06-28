@@ -6,8 +6,8 @@ title PowerBASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="cranelift-ir.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hyperscript-lang.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="edje-data-collection.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="stencil.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/powerbasic.pldb
 
@@ -73,6 +73,6 @@ treeTable
   Token 
   Example
 
-keyboardNav cranelift-ir.html hyperscript-lang.html
+keyboardNav edje-data-collection.html stencil.html
 
 import ../footer.scroll

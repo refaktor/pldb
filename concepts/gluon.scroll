@@ -6,8 +6,8 @@ title gluon - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="slice.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="wml.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="hyperscript-lang.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="unity.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gluon.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/gluon-lang/gluon
 
 dashboard
- #812 <span title="TotalRank: 1372 Jobs: 103 Users: 283 Facts: 1497 Links: 986">on PLDB</span>
+ #811 <span title="TotalRank: 1372 Jobs: 103 Users: 283 Facts: 1498 Links: 986">on PLDB</span>
  9 Years Old
 
 * A static, type inferred and embeddable language written in Rust.
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav slice.html wml.html
+keyboardNav hyperscript-lang.html unity.html
 
 import ../footer.scroll

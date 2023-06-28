@@ -7,7 +7,7 @@ title QuickBASIC - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="free-pascal.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="linq.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="setl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/quickbasic.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1985 1985
 
 dashboard
- #391 <span title="TotalRank: 870 Jobs: 103 Users: 776 Facts: 689 Links: 78">on PLDB</span>
+ #391 <span title="TotalRank: 871 Jobs: 103 Users: 776 Facts: 690 Links: 78">on PLDB</span>
  38 Years Old
 
 * Microsoft QuickBASIC (also QB) is an Integrated Development Environment (or IDE) and compiler for the BASIC programming language that was developed by Microsoft. QuickBASIC runs mainly on DOS, though there was a short-lived version for the classic Mac OS. It is loosely based on GW-BASIC but adds user-defined types, improved programming structures, better graphics and disk support and a compiler in addition to the interpreter. Read more on Wikipedia...
@@ -53,6 +53,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/QuickBASIC'>W
 
 endColumns
 
-keyboardNav free-pascal.html linq.html
+keyboardNav free-pascal.html setl.html
 
 import ../footer.scroll

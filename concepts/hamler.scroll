@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/hamler-lang/hamler
 
 dashboard
- #1039 <span title="TotalRank: 1606 Jobs: 103 Users: 517 Facts: 1028 Links: 986">on PLDB</span>
+ #1039 <span title="TotalRank: 1606 Jobs: 103 Users: 517 Facts: 1029 Links: 986">on PLDB</span>
  4 Years Old
 
 * Hamler is a strongly-typed language with compile-time typechecking and built-in support for concurrency and distribution.

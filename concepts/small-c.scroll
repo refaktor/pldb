@@ -6,7 +6,7 @@ title Small-C - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="guix.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="nesl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ko.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/small-c.pldb
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav guix.html ko.html
+keyboardNav nesl.html ko.html
 
 import ../footer.scroll

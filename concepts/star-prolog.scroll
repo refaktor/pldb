@@ -7,7 +7,7 @@ title *Prolog - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="staple.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="status-quo-script.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="static-typescript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/star-prolog.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1989 1989
 
 dashboard
- #3205 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4093 Links: 986">on PLDB</span>
+ #4043 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3272 Links: 986">on PLDB</span>
  34 Years Old
 
 * 
 
+- *Prolog first developed in <a href="../lists/originCommunities.html#centrumWiskundeInformaticaAndUniversityOfAmsterdam">Centrum Wiskunde & Informatica and University of Amsterdam</a>
 - *Prolog on HOPL
  https://hopl.info/showlanguage.prx?exp=4206
 - Read more about *Prolog on Semantic Scholar: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav staple.html status-quo-script.html
+keyboardNav staple.html static-typescript.html
 
 import ../footer.scroll

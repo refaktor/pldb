@@ -6,8 +6,8 @@ title SHA-2 - Hash function
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="zone.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="conan-pm.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="gleam.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="zone.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sha-2-hash-function.pldb
 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav zone.html conan-pm.html
+keyboardNav gleam.html zone.html
 
 import ../footer.scroll

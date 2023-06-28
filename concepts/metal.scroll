@@ -7,7 +7,7 @@ title Metal - Library
 
 html
  <a class="trueBaseThemePreviousItem" href="numpy.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="raml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pike.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/metal.pldb
 
@@ -140,6 +140,6 @@ codeWithHeader Example from <a href='https://github.com/textmate/c.tmbundle'>Lin
 
 endColumns
 
-keyboardNav numpy.html raml.html
+keyboardNav numpy.html pike.html
 
 import ../footer.scroll

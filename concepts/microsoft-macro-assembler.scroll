@@ -6,7 +6,7 @@ title Microsoft Macro Assembler - Assembly language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="textile.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="carp.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="algol-w.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/microsoft-macro-assembler.pldb
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav textile.html algol-w.html
+keyboardNav carp.html algol-w.html
 
 import ../footer.scroll

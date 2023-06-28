@@ -7,7 +7,7 @@ title OpenNN - Library
 
 html
  <a class="trueBaseThemePreviousItem" href="wasp-lang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cyber.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="bpkg-pm.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/open-nn.pldb
 
@@ -42,6 +42,6 @@ dashboard
 
 endColumns
 
-keyboardNav wasp-lang.html cyber.html
+keyboardNav wasp-lang.html bpkg-pm.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Standard ML - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="game.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rebol.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="flux.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="haml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/standard-ml.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1990 1990
 
 dashboard
- #157 <span title="TotalRank: 449 Jobs: 103 Users: 387 Facts: 282 Links: 64">on PLDB</span>
+ #148 <span title="TotalRank: 430 Jobs: 103 Users: 387 Facts: 263 Links: 64">on PLDB</span>
  33 Years Old
  392k <span title="Standard ML repos on GitHub.">Repos</span>
 
@@ -35,6 +35,7 @@ dashboard
 - Standard ML docs
  http://www.cs.cmu.edu/~rwh/isml/book.pdf
 - There are at least 392,047 Standard ML repos on <a href="https://github.com/search?q=language:Standard ML">GitHub</a>
+- Standard ML first developed in <a href="../lists/originCommunities.html#bellLaboratoriesAndPrincetonUniversity">Bell Laboratories and Princeton University</a>
 - file extensions for Standard ML include sml, ml, fun and sig
 - The  Google BigQuery Public Dataset GitHub snapshot shows 2k users using Standard ML in 2k repos on <a href="https://api.github.com/search/repositories?q=language:Standard ML">GitHub</a>
 - Standard ML appears in the <a href="https://www.tiobe.com/tiobe-index/">TIOBE Index</a>
@@ -45,6 +46,8 @@ dashboard
 - Standard ML appears in the <a href="https://github.com/mame/quine-relay">Quine Relay</a> project
 - <a href="http://sml-family.org">sml-family.org</a> was registered in 2014
 - See also: (19 related languages)<a href="alice.html">Alice</a>, <a href="dependent-ml.html">DML</a>, <a href="hope.html">HOPE</a>, <a href="elm.html">Elm</a>, <a href="fstar.html">F*</a>, <a href="ocaml.html">OCaml</a>, <a href="rust.html">Rust</a>, <a href="scala.html">Scala</a>, <a href="ml.html">ML</a>, <a href="caml.html">Caml</a>, <a href="c.html">C</a>, <a href="poplog.html">POPLOG</a>, <a href="pop-11.html">Pop-11</a>, <a href="common-lisp.html">Common Lisp</a>, <a href="prolog.html">Prolog</a>, <a href="emacs-editor.html">Emacs</a>, <a href="isabelle.html">Isabelle</a>, <a href="extended-ml.html">Extended ML</a>, <a href="f-sharp.html">F#</a>
+- Read more about Standard ML on the web: 1.
+ https://www.smlnj.org/sml.html 1.
 
 <br>
 
@@ -122,6 +125,6 @@ treeTable
   Token 
   Example
 
-keyboardNav game.html rebol.html
+keyboardNav flux.html haml.html
 
 import ../footer.scroll

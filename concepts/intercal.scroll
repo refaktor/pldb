@@ -7,7 +7,7 @@ title INTERCAL - Esoteric programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="alloy.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="foxpro.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="rdoc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/intercal.pldb
 
@@ -122,6 +122,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/INTERCAL'>Wik
 
 endColumns
 
-keyboardNav alloy.html foxpro.html
+keyboardNav alloy.html rdoc.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Stencil - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="open-shading-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="xcard.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="powerbasic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hyperscript-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stencil.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/stencilproject/Stencil
 
 dashboard
- #830 <span title="TotalRank: 1389 Jobs: 103 Users: 300 Facts: 1028 Links: 986">on PLDB</span>
+ #809 <span title="TotalRank: 1371 Jobs: 103 Users: 300 Facts: 968 Links: 986">on PLDB</span>
  5 Years Old
 
 * Try now: <a href="https://tio.run/#stencil">TIO</a>
@@ -33,6 +33,7 @@ dashboard
 - Stencil website
  https://stencil.fuller.li/en/latest/
 - Stencil is developed on <a href="https://github.com/stencilproject/Stencil">GitHub</a> and has 2,135 stars
+- Stencil first developed in <a href="../lists/originCommunities.html#httpsGithubComStencilproject">https://github.com/stencilproject</a>
 
 <br>
 
@@ -47,6 +48,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav open-shading-language.html xcard.html
+keyboardNav powerbasic.html hyperscript-lang.html
 
 import ../footer.scroll

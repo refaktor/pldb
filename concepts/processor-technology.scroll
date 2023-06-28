@@ -7,7 +7,7 @@ title Processor Technology - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="lispworks.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="simscript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="guix.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/processor-technology.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav lispworks.html simscript.html
+keyboardNav lispworks.html guix.html
 
 import ../footer.scroll

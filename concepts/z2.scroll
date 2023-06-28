@@ -6,7 +6,7 @@ title z2 - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="frame.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="stella.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ca65-assembly.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/z2.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/MasterZean/z2-compiler-cpp
 
 dashboard
- #1899 <span title="TotalRank: 2396 Jobs: 103 Users: 2434 Facts: 1307 Links: 986">on PLDB</span>
+ #1901 <span title="TotalRank: 2397 Jobs: 103 Users: 2434 Facts: 1308 Links: 986">on PLDB</span>
  8 Years Old
 
 * Z2 is a statically-typed pure-OOP general-use performance-centric systems-programming language.
@@ -43,6 +43,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav frame.html ca65-assembly.html
+keyboardNav stella.html ca65-assembly.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Pygments - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="starlark.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="jython.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="jscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pygments.pldb
@@ -42,6 +42,6 @@ dashboard
 
 endColumns
 
-keyboardNav starlark.html jscript.html
+keyboardNav jython.html jscript.html
 
 import ../footer.scroll

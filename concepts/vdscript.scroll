@@ -6,7 +6,7 @@ title vdscript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="visdown.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="gfa-basic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="firrtl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/vdscript.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#averyLee Avery Lee
 
 dashboard
- #1065 <span title="TotalRank: 1628 Jobs: 103 Users: 539 Facts: 1377 Links: 986">on PLDB</span>
+ #1065 <span title="TotalRank: 1628 Jobs: 103 Users: 539 Facts: 1378 Links: 986">on PLDB</span>
  23 Years Old
 
 openGraphImage https://upload.wikimedia.org/wikipedia/commons/4/4c/VirtualDub_1.10.4_20210103.png
@@ -58,6 +58,6 @@ codeWithHeader vdscript <a href="../lists/keywords.html?filter=vdscript">Keyword
 
 endColumns
 
-keyboardNav visdown.html firrtl.html
+keyboardNav gfa-basic.html firrtl.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Jasmin - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="colascript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="chuck.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="renderscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jasmin.pldb
@@ -140,6 +140,6 @@ treeTable
   Token 
   Example
 
-keyboardNav colascript.html renderscript.html
+keyboardNav chuck.html renderscript.html
 
 import ../footer.scroll

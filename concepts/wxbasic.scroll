@@ -6,8 +6,8 @@ title WxBasic - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="eve.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mps.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="abc.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="eve.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/wxbasic.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2002 2002
 
 dashboard
- #423 <span title="TotalRank: 928 Jobs: 103 Users: 1897 Facts: 334 Links: 491">on PLDB</span>
+ #422 <span title="TotalRank: 928 Jobs: 103 Users: 1897 Facts: 334 Links: 491">on PLDB</span>
  21 Years Old
 
 * wxBasic is a free software / open-source software, cross-platform BASIC interpreter. As it is based on syntax of the BASIC language, it is designed to be simple to learn and understand, and allow novice programmers to write applications for graphical environments like Windows and Linux with minimal effort.  wxBasic is a bytecode based language, like Perl or Java. Read more on Wikipedia...
@@ -129,6 +129,6 @@ treeTable
   Token 
   Example
 
-keyboardNav eve.html mps.html
+keyboardNav abc.html eve.html
 
 import ../footer.scroll

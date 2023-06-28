@@ -6,7 +6,7 @@ title XBLite - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="flavors.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="bc.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="catala.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xblite.pldb
@@ -71,6 +71,6 @@ treeTable
   Token 
   Example
 
-keyboardNav flavors.html catala.html
+keyboardNav bc.html catala.html
 
 import ../footer.scroll

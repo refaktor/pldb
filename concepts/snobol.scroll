@@ -7,7 +7,7 @@ title SNOBOL - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ooxml.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="odin.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="restructuredtext.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/snobol.pldb
 
@@ -111,6 +111,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ooxml.html odin.html
+keyboardNav ooxml.html restructuredtext.html
 
 import ../footer.scroll

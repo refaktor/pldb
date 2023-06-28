@@ -6,8 +6,8 @@ title micro-editor - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="csv.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="amqp.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="tinyc-compiler.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="csv.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/micro-editor.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/zyedidia/micro
 
 dashboard
- #724 on PLDB
+ #723 on PLDB
  7 Years Old
 
 * A modern and intuitive terminal-based text editor
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav csv.html amqp.html
+keyboardNav tinyc-compiler.html csv.html
 
 import ../footer.scroll

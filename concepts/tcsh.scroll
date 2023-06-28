@@ -6,7 +6,7 @@ title tcsh - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="li-chen-wang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="status-quo-function.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="orc-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tcsh.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1983 1983
 
 dashboard
- #1220 <span title="TotalRank: 1763 Jobs: 103 Users: 1148 Facts: 674 Links: 986">on PLDB</span>
+ #1221 <span title="TotalRank: 1763 Jobs: 103 Users: 1148 Facts: 674 Links: 986">on PLDB</span>
  40 Years Old
  0 <span title="tcsh repos on GitHub.">Repos</span>
 
@@ -64,6 +64,6 @@ treeTable
   Token echo
   Example
 
-keyboardNav li-chen-wang.html orc-lang.html
+keyboardNav status-quo-function.html orc-lang.html
 
 import ../footer.scroll

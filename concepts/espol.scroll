@@ -7,7 +7,7 @@ title Executive Systems Problem Oriented Language - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="model-204.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cowsel.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pipelines.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/espol.pldb
 
@@ -60,6 +60,6 @@ treeTable
   Token 
   Example
 
-keyboardNav model-204.html cowsel.html
+keyboardNav model-204.html pipelines.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title statebox - Visual programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="socialite.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="syndicate.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="souffle.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="versioned-text-markup-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/statebox.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #2910 <span title="TotalRank: 3523 Jobs: 103 Users: 2434 Facts: 2705 Links: 986">on PLDB</span>
+ #2960 <span title="TotalRank: 3523 Jobs: 103 Users: 2434 Facts: 2543 Links: 986">on PLDB</span>
  15 Years Old
 
 openGraphImage https://pldb.com/screenshots/statebox.png
@@ -31,6 +31,7 @@ image ../screenshots/statebox.png
 
 - statebox website
  https://statebox.org/
+- statebox first developed in <a href="../lists/originCommunities.html#httpsGithubComStatebox">https://github.com/statebox</a>
 - statebox on Twitter
  https://twitter.com/statebox
 - <a href="https://statebox.org/">statebox.org</a> was registered in 2008
@@ -39,6 +40,6 @@ image ../screenshots/statebox.png
 
 endColumns
 
-keyboardNav socialite.html syndicate.html
+keyboardNav souffle.html versioned-text-markup-language.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Context Diff - Diff format
 
 html
  <a class="trueBaseThemePreviousItem" href="turbo-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="edje-data-collection.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="cranelift-ir.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/context-diff.pldb
 
@@ -82,6 +82,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav turbo-basic.html edje-data-collection.html
+keyboardNav turbo-basic.html cranelift-ir.html
 
 import ../footer.scroll

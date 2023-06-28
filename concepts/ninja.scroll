@@ -7,7 +7,7 @@ title Ninja - Template language
 
 html
  <a class="trueBaseThemePreviousItem" href="lex.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="marko.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="csound.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ninja.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/ninja-build/ninja
 
 dashboard
- #293 <span title="TotalRank: 699 Jobs: 103 Users: 105 Facts: 542 Links: 491">on PLDB</span>
+ #291 <span title="TotalRank: 699 Jobs: 103 Users: 105 Facts: 542 Links: 491">on PLDB</span>
  11 Years Old
  0 <span title="Ninja repos on GitHub.">Repos</span>
 
@@ -46,6 +46,6 @@ dashboard
 
 endColumns
 
-keyboardNav lex.html marko.html
+keyboardNav lex.html csound.html
 
 import ../footer.scroll

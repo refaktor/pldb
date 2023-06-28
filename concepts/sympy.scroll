@@ -7,7 +7,7 @@ title SymPy - Library
 
 html
  <a class="trueBaseThemePreviousItem" href="pick-operating-system.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="rholang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="qmake.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sympy.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav pick-operating-system.html rholang.html
+keyboardNav pick-operating-system.html qmake.html
 
 import ../footer.scroll

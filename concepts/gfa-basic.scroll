@@ -6,8 +6,8 @@ title GFA BASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="inchi.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="visdown.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="visdown.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="vdscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gfa-basic.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1986 1986
 
 dashboard
- #1063 <span title="TotalRank: 1626 Jobs: 103 Users: 1375 Facts: 1251 Links: 272">on PLDB</span>
+ #1064 <span title="TotalRank: 1627 Jobs: 103 Users: 1375 Facts: 1252 Links: 272">on PLDB</span>
  37 Years Old
 
 * GFA BASIC is a dialect of the BASIC programming language, by Frank Ostrowski.  The name is derived from the company ("GFA Systemtechnik GmbH"), which distributed the software. In the mid-1980s to the 1990s it enjoyed popularity as an advanced BASIC dialect, but has been mostly superseded by several other programming languages. Read more on Wikipedia...
@@ -57,6 +57,6 @@ treeTable
   Token PRINT
   Example
 
-keyboardNav inchi.html visdown.html
+keyboardNav visdown.html vdscript.html
 
 import ../footer.scroll

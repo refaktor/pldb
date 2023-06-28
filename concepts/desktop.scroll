@@ -6,7 +6,7 @@ title desktop - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jsil-compiler.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="plot.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="type-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/desktop.pldb
@@ -87,6 +87,6 @@ codeWithHeader Example from <a href='https://github.com/Mailaender/desktop.tmbun
 
 endColumns
 
-keyboardNav jsil-compiler.html type-language.html
+keyboardNav plot.html type-language.html
 
 import ../footer.scroll

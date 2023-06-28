@@ -6,7 +6,7 @@ title Volt - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="bpel.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="lpc.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tsv.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/volt.pldb
@@ -167,6 +167,6 @@ treeTable
   Token 
   Example
 
-keyboardNav bpel.html tsv.html
+keyboardNav lpc.html tsv.html
 
 import ../footer.scroll
