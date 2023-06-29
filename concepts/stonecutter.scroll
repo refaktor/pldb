@@ -6,7 +6,7 @@ title StoneCutter - Grammar language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="status-quo-script.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="static-typescript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="strcmacs.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stonecutter.pldb
@@ -22,11 +22,12 @@ startColumns 4
  link ../lists/creators.html#frankConlon Frank Conlon
 
 dashboard
- #3206 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4096 Links: 986">on PLDB</span>
+ #4039 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3275 Links: 986">on PLDB</span>
  3 Years Old
 
 * In this work we introduce the StoneCutter instruction set design language and tool infrastructure. StoneCutter provides a familiar, C-like language construct by which to develop the implementation for individual, programmable instructions. The LLVM-based StoneCutter compiler performs individual instruction and whole-ISA optimizations in order to generate a high performance, Chisel HDL representation of the target design. Utilizing the existing Chisel tools, users can also generate C++ cycle accurate simulation models as well as Verilog representations of the target design. As a result, StoneCutter provides a very rapid design environment for development and experimentation.
 
+- StoneCutter first developed in <a href="../lists/originCommunities.html#tacticalComputingLaboratoriesLlc">Tactical Computing Laboratories LLC</a>
 - Read more about StoneCutter on the web: 1.
  https://dl.acm.org/doi/10.1145/3387902.3394029 1.
 
@@ -34,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav status-quo-script.html strcmacs.html
+keyboardNav static-typescript.html strcmacs.html
 
 import ../footer.scroll

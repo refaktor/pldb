@@ -7,7 +7,7 @@ title VCF - Text data format
 
 html
  <a class="trueBaseThemePreviousItem" href="plot.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mvel.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="strips.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/vcf-format.pldb
 
@@ -61,6 +61,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Variant_Call_
 
 endColumns
 
-keyboardNav plot.html mvel.html
+keyboardNav plot.html strips.html
 
 import ../footer.scroll

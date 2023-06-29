@@ -7,7 +7,7 @@ title sqlite-storage-format - Binary data format
 
 html
  <a class="trueBaseThemePreviousItem" href="siri.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="streamit.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sue.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sqlite-storage-format.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
 
 dashboard
- #3933 on PLDB
+ #3928 on PLDB
  23 Years Old
 
 * The complete state of an SQLite database is usually contained in a single file on disk called the "main database file". During a transaction, SQLite stores additional information in a second file called the "rollback journal", or if SQLite is in WAL mode, a write-ahead log file.
@@ -32,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav siri.html streamit.html
+keyboardNav siri.html sue.html
 
 import ../footer.scroll

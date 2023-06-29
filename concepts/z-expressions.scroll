@@ -6,8 +6,8 @@ title Z - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="newsqueak.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="coco.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="coco.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cms-2.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/z-expressions.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/chrisdone/z
 
 dashboard
- #1231 <span title="TotalRank: 1767 Jobs: 103 Users: 961 Facts: 703 Links: 986">on PLDB</span>
+ #1232 <span title="TotalRank: 1768 Jobs: 103 Users: 961 Facts: 704 Links: 986">on PLDB</span>
  11 Years Old
 
 * A strict, impure, curried, partially applied programming language with rather peculiar syntax. 
@@ -83,6 +83,6 @@ treeTable
    print : Hello, World!
            What's going on in here? 
 
-keyboardNav newsqueak.html coco.html
+keyboardNav coco.html cms-2.html
 
 import ../footer.scroll

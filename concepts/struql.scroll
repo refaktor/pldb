@@ -6,8 +6,8 @@ title StruQL - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lola.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="yedalog.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="soy.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="baysick.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/struql.pldb
 
@@ -22,11 +22,12 @@ startColumns 4
  link ../lists/creators.html#andIgorTatarinov and Igor Tatarinov
 
 dashboard
- #1484 <span title="TotalRank: 2001 Jobs: 103 Users: 2829 Facts: 912 Links: 986">on PLDB</span>
+ #1428 <span title="TotalRank: 1950 Jobs: 103 Users: 2829 Facts: 861 Links: 986">on PLDB</span>
  24 Years Old
 
 * A StruQL query is a function from a set of input graphs to an output graph.
 
+- StruQL first developed in <a href="../lists/originCommunities.html#atTLabsAndNorthDakotaStateUniversity">AT&T Labs and North Dakota State University</a>
 - Read more about StruQL on the web: 1.
  https://www.usenix.org/legacy/events/dsl99/full_papers/fernandez/fernandez.pdf 1.
 
@@ -84,6 +85,6 @@ treeTable
   Token 
   Example
 
-keyboardNav lola.html yedalog.html
+keyboardNav soy.html baysick.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title hashlink - Bytecode format
 
 html
  <a class="trueBaseThemePreviousItem" href="gff-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="muon.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="eex.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hashlink.pldb
 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav gff-format.html muon.html
+keyboardNav gff-format.html eex.html
 
 import ../footer.scroll

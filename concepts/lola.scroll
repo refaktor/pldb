@@ -7,7 +7,7 @@ title LOLA - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="verifpal.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="struql.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="yedalog.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lola.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1991 1991
 
 dashboard
- #1483 <span title="TotalRank: 2001 Jobs: 103 Users: 2829 Facts: 912 Links: 986">on PLDB</span>
+ #1484 <span title="TotalRank: 2002 Jobs: 103 Users: 2829 Facts: 913 Links: 986">on PLDB</span>
  32 Years Old
 
 * 
@@ -60,6 +60,6 @@ codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blo
 
 endColumns
 
-keyboardNav verifpal.html struql.html
+keyboardNav verifpal.html yedalog.html
 
 import ../footer.scroll

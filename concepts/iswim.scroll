@@ -6,7 +6,7 @@ title ISWIM - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="caramel.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="muon.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="avr.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/iswim.pldb
@@ -56,6 +56,6 @@ treeTable
   Token 
   Example
 
-keyboardNav caramel.html avr.html
+keyboardNav muon.html avr.html
 
 import ../footer.scroll

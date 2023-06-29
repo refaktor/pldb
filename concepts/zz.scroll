@@ -6,7 +6,7 @@ title zz - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="apt.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="hyperscript.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mckeeman-form.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/zz.pldb
@@ -63,6 +63,6 @@ treeTable
   Token printf
   Example
 
-keyboardNav apt.html mckeeman-form.html
+keyboardNav hyperscript.html mckeeman-form.html
 
 import ../footer.scroll

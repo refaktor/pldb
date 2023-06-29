@@ -7,7 +7,7 @@ title Static Typescript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="star-prolog.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="subl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="stonecutter.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/static-typescript.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2019 2019
 
 dashboard
- #4044 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3272 Links: 986">on PLDB</span>
+ #4038 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3275 Links: 986">on PLDB</span>
  4 Years Old
 
 * We present Static TypeScript (STS), a subset of TypeScript (itself, a gradually typed superset of JavaScript), and its compiler/linker toolchain, which is implemented fully in TypeScript and runs in the web browser.
@@ -267,6 +267,6 @@ treeTable
   Token 
   Example
 
-keyboardNav star-prolog.html subl.html
+keyboardNav star-prolog.html stonecutter.html
 
 import ../footer.scroll

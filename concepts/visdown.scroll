@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/amitkaps/visdown
 
 dashboard
- #1063 <span title="TotalRank: 1626 Jobs: 103 Users: 635 Facts: 888 Links: 986">on PLDB</span>
+ #1063 <span title="TotalRank: 1627 Jobs: 103 Users: 635 Facts: 889 Links: 986">on PLDB</span>
  7 Years Old
 
 * Write visualisation using a simple declarative markup like you would write code. Just wrap it in fenced block (three backticks) and mark the language as `vis`.

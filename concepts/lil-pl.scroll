@@ -6,8 +6,8 @@ title Lil - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="httplang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="algebraic-modeling-language.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="algebraic-modeling-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hacspec.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lil-pl.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/JohnEarnest/Decker
 
 dashboard
- #1269 <span title="TotalRank: 1803 Jobs: 103 Users: 788 Facts: 912 Links: 986">on PLDB</span>
+ #1270 <span title="TotalRank: 1804 Jobs: 103 Users: 788 Facts: 913 Links: 986">on PLDB</span>
  1 Years Old
 
 * Try now: <a href="https://beyondloom.com/decker/tour.html">Web</a>
@@ -69,6 +69,6 @@ treeTable
   Token 
   Example
 
-keyboardNav httplang.html algebraic-modeling-language.html
+keyboardNav algebraic-modeling-language.html hacspec.html
 
 import ../footer.scroll

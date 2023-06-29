@@ -6,7 +6,7 @@ title ink-lang - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="edge-side-includes.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="genshi.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ocl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ink-lang.pldb
@@ -56,6 +56,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav edge-side-includes.html ocl.html
+keyboardNav genshi.html ocl.html
 
 import ../footer.scroll

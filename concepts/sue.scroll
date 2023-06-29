@@ -6,7 +6,7 @@ title Sue - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="streamit.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="siri.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="summer.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sue.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1971 1971
 
 dashboard
- #3424 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3906 Links: 986">on PLDB</span>
+ #3418 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3913 Links: 986">on PLDB</span>
  52 Years Old
 
 * 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav streamit.html summer.html
+keyboardNav siri.html summer.html
 
 import ../footer.scroll

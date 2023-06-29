@@ -6,8 +6,8 @@ title strat - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="shacl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="jcof.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="macsyma.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="mimix-stream-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/strat.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/stratworld/strat
 
 dashboard
- #1817 <span title="TotalRank: 2341 Jobs: 103 Users: 2143 Facts: 1252 Links: 986">on PLDB</span>
+ #1720 <span title="TotalRank: 2245 Jobs: 103 Users: 2143 Facts: 1156 Links: 986">on PLDB</span>
  5 Years Old
 
 * A language to represent and deploy portable cloud systems ->
@@ -30,6 +30,7 @@ dashboard
 - strat website
  https://strat.world/
 - strat is developed on <a href="https://github.com/stratworld/strat">GitHub</a> and has 15 stars
+- strat first developed in <a href="../lists/originCommunities.html#httpsGithubComStratworld">https://github.com/stratworld</a>
 - <a href="https://strat.world/">strat.world</a> was registered in 2022
 
 <br>
@@ -43,6 +44,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav shacl.html jcof.html
+keyboardNav macsyma.html mimix-stream-language.html
 
 import ../footer.scroll

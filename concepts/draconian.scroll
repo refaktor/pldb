@@ -7,7 +7,7 @@ title draconian - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="atx.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="8th.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="stringbean.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/draconian.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/TechnoDrive/draconian
 
 dashboard
- #2702 <span title="TotalRank: 3401 Jobs: 103 Users: 2412 Facts: 2312 Links: 986">on PLDB</span>
+ #2703 <span title="TotalRank: 3403 Jobs: 103 Users: 2412 Facts: 2314 Links: 986">on PLDB</span>
  2 Years Old
 
 * A crisp language focused on making code equally easy to both read and type.
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav atx.html 8th.html
+keyboardNav atx.html stringbean.html
 
 import ../footer.scroll

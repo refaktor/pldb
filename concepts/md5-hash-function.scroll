@@ -6,7 +6,7 @@ title MD5 - Hash function
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pcre.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="staroffice-basic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ext2.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/md5-hash-function.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav pcre.html ext2.html
+keyboardNav staroffice-basic.html ext2.html
 
 import ../footer.scroll

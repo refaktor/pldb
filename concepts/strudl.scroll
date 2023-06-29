@@ -6,8 +6,8 @@ title STRUDL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="stress.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sw2.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="streamit.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="unicode-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/strudl.pldb
 
@@ -19,20 +19,22 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1965 1965
 
 dashboard
- #3210 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4096 Links: 986">on PLDB</span>
+ #4314 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 2929 Links: 986">on PLDB</span>
  58 Years Old
 
 * 
 
+- STRUDL first developed in <a href="../lists/originCommunities.html#massachusettsInstituteOfTechnology">Massachusetts Institute of Technology</a>
 - STRUDL on HOPL
  https://hopl.info/showlanguage.prx?exp=348
-- Read more about STRUDL on the web: 1.
- https://cedb.asce.org/CEDBsearch/record.jsp?dockey=0014460 1.
+- Read more about STRUDL on the web: 1. 2.
+ https://news.mit.edu/2021/robert-logcher-professor-emeritus-cee-dies-0728 1.
+ https://cedb.asce.org/CEDBsearch/record.jsp?dockey=0014460 2.
 
 <br>
 
 endColumns
 
-keyboardNav stress.html sw2.html
+keyboardNav streamit.html unicode-lang.html
 
 import ../footer.scroll

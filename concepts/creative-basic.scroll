@@ -7,7 +7,7 @@ title Creative Basic - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="clash.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="yawl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="focus.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/creative-basic.pldb
 
@@ -83,6 +83,6 @@ treeTable
   Token 
   Example
 
-keyboardNav clash.html yawl.html
+keyboardNav clash.html focus.html
 
 import ../footer.scroll

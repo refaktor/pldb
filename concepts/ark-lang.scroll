@@ -6,8 +6,8 @@ title Ark - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="focus.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="t.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="yawl.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="wireless-markup-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ark-lang.pldb
 
@@ -61,6 +61,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: A programming language I've been working on called Ark|https://news.ycombinator.com/item?id=10845659|01/05/2016|15|3
 
-keyboardNav focus.html t.html
+keyboardNav yawl.html wireless-markup-language.html
 
 import ../footer.scroll

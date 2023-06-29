@@ -6,8 +6,8 @@ title COM Structured Storage - Binary data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sprite-os.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sybyl-notation.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="molecular-query-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="advice-taker.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/structured-storage.pldb
 
@@ -19,13 +19,14 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2010 2010
 
 dashboard
- #3004 on PLDB
+ #3027 on PLDB
  13 Years Old
 
 * The Compound File Binary File Format, a general-purpose file format that provides a file-system-like structure within a file for the storage of arbitrary, application-specific streams of data.
 
 - COM Structured Storage Wikipedia page
  https://en.wikipedia.org/wiki/COM_Structured_Storage
+- COM Structured Storage first developed in <a href="../lists/originCommunities.html#microsoftCorporation">Microsoft Corporation</a>
 - Read more about COM Structured Storage on the web: 1.
  https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b?redirectedfrom=MSDN 1.
 
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav sprite-os.html sybyl-notation.html
+keyboardNav molecular-query-language.html advice-taker.html
 
 import ../footer.scroll

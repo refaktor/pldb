@@ -7,7 +7,7 @@ title Boston College Statistical Software Components - Package manager
 
 html
  <a class="trueBaseThemePreviousItem" href="sosl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="stringbean.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="subscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ssc-pm.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1996 1996
 
 dashboard
- #3407 on PLDB
+ #3408 on PLDB
  27 Years Old
 
 * 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav sosl.html stringbean.html
+keyboardNav sosl.html subscript.html
 
 import ../footer.scroll

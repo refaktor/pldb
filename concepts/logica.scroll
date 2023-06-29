@@ -6,8 +6,8 @@ title Logica - Query language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="yoix.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="act-iii.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="lotusscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="netlinx.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/logica.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/evgskv/logica
 
 dashboard
- #619 <span title="TotalRank: 1187 Jobs: 103 Users: 394 Facts: 690 Links: 986">on PLDB</span>
+ #621 <span title="TotalRank: 1188 Jobs: 103 Users: 394 Facts: 691 Links: 986">on PLDB</span>
  3 Years Old
 
 * Logica is an open source declarative logic programming language for data manipulation. Logica is a successor to Yedalog, a language created at Google earlier.
@@ -77,6 +77,6 @@ treeTable
   Token 
   Example
 
-keyboardNav yoix.html act-iii.html
+keyboardNav lotusscript.html netlinx.html
 
 import ../footer.scroll

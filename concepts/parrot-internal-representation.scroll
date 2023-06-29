@@ -6,8 +6,8 @@ title PIR - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jai.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="guile.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="guile.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="fay.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/parrot-internal-representation.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2006 2006
 
 dashboard
- #557 <span title="TotalRank: 1119 Jobs: 103 Users: 1007 Facts: 690 Links: 326">on PLDB</span>
+ #558 <span title="TotalRank: 1120 Jobs: 103 Users: 1007 Facts: 691 Links: 326">on PLDB</span>
  17 Years Old
  0 <span title="PIR repos on GitHub.">Repos</span>
 
@@ -55,6 +55,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Parrot_interm
 
 endColumns
 
-keyboardNav jai.html guile.html
+keyboardNav guile.html fay.html
 
 import ../footer.scroll

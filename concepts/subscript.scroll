@@ -6,7 +6,7 @@ title subscript - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="stringbean.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sosl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="taql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/subscript.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
 
 dashboard
- #2871 <span title="TotalRank: 3523 Jobs: 103 Users: 2434 Facts: 2803 Links: 986">on PLDB</span>
+ #2871 <span title="TotalRank: 3524 Jobs: 103 Users: 2435 Facts: 2807 Links: 986">on PLDB</span>
  11 Years Old
 
 * 
@@ -38,6 +38,6 @@ pipeTable
  title|titleLink|date|score|comments
  SubScript: Programming with event driven math & concurrent fun|https://news.ycombinator.com/item?id=4987582|12/30/2012|2|0
 
-keyboardNav stringbean.html taql.html
+keyboardNav sosl.html taql.html
 
 import ../footer.scroll

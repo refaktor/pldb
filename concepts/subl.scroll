@@ -6,7 +6,7 @@ title SubL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="static-typescript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="stress.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="surge.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/subl.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1989 1989
 
 dashboard
- #4045 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3272 Links: 986">on PLDB</span>
+ #4043 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3275 Links: 986">on PLDB</span>
  34 Years Old
 
 * 
@@ -43,6 +43,6 @@ treeTable
   Token 
   Example
 
-keyboardNav static-typescript.html surge.html
+keyboardNav stress.html surge.html
 
 import ../footer.scroll

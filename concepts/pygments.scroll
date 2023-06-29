@@ -6,7 +6,7 @@ title Pygments - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jython.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="mermaid.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="jscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pygments.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/pygments/pygments
 
 dashboard
- #474 on PLDB
+ #473 on PLDB
  17 Years Old
 
 * Try now: <a href="https://pygments.org/demo/">Web</a>
@@ -42,6 +42,6 @@ dashboard
 
 endColumns
 
-keyboardNav jython.html jscript.html
+keyboardNav mermaid.html jscript.html
 
 import ../footer.scroll

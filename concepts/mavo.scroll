@@ -6,8 +6,8 @@ title mavo - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mgmt.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="msp430.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="igor-pro.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bnf.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mavo.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/mavoweb/mavo
 
 dashboard
- #532 <span title="TotalRank: 1081 Jobs: 103 Users: 275 Facts: 703 Links: 986">on PLDB</span>
+ #534 <span title="TotalRank: 1082 Jobs: 103 Users: 275 Facts: 704 Links: 986">on PLDB</span>
  8 Years Old
 
 * Create web applications entirely by writing HTML and CSS!
@@ -60,6 +60,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav mgmt.html msp430.html
+keyboardNav igor-pro.html bnf.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title STRINGCOMP - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sparqcode.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="superplan.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sdf.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="flang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stringcomp.pldb
 
@@ -19,13 +19,14 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1967 1967
 
 dashboard
- #2599 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 3906 Links: 986">on PLDB</span>
+ #2617 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 2929 Links: 986">on PLDB</span>
  56 Years Old
 
 * 
 
 - STRINGCOMP Wikipedia page
  https://en.wikipedia.org/wiki/STRINGCOMP
+- STRINGCOMP first developed in <a href="../lists/originCommunities.html#boltBeranekAndNewmanInc">Bolt Beranek and Newman Inc</a>
 - STRINGCOMP on HOPL
  https://hopl.info/showlanguage.prx?exp=2743
 
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav sparqcode.html superplan.html
+keyboardNav sdf.html flang.html
 
 import ../footer.scroll

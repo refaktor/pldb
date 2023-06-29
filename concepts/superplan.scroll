@@ -6,7 +6,7 @@ title Superplan - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="stringcomp.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sparqcode.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="algol-x.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/superplan.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#heinzRutishauser Heinz Rutishauser
 
 dashboard
- #2600 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 3906 Links: 986">on PLDB</span>
+ #2600 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 3913 Links: 986">on PLDB</span>
  72 Years Old
 
 * 
@@ -42,6 +42,6 @@ treeTable
   Token 
   Example
 
-keyboardNav stringcomp.html algol-x.html
+keyboardNav sparqcode.html algol-x.html
 
 import ../footer.scroll

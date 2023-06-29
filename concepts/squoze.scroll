@@ -7,7 +7,7 @@ title SQUOZE - Binary data format
 
 html
  <a class="trueBaseThemePreviousItem" href="setun.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="stringcomp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/squoze.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav setun.html flang.html
+keyboardNav setun.html stringcomp.html
 
 import ../footer.scroll

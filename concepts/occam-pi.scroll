@@ -7,7 +7,7 @@ title Occam π - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="abcl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="onyx.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="strand-programming-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/occam-pi.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2005 2005
 
 dashboard
- #2295 <span title="TotalRank: 2786 Jobs: 103 Users: 1697 Facts: 2060 Links: 986">on PLDB</span>
+ #2294 <span title="TotalRank: 2786 Jobs: 103 Users: 1697 Facts: 2061 Links: 986">on PLDB</span>
  18 Years Old
 
 * Try now: <a href="https://tio.run/#occam-pi">TIO</a>
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav abcl.html onyx.html
+keyboardNav abcl.html strand-programming-language.html
 
 import ../footer.scroll

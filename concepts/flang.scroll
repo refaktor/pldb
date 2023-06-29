@@ -6,7 +6,7 @@ title FLANG - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sdf.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="stringcomp.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="gasp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/flang.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #2617 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 2803 Links: 986">on PLDB</span>
+ #2618 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 2807 Links: 986">on PLDB</span>
  35 Years Old
 
 * 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav sdf.html gasp.html
+keyboardNav stringcomp.html gasp.html
 
 import ../footer.scroll

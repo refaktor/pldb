@@ -7,7 +7,7 @@ title IBM Informix-4GL - Query language
 
 html
  <a class="trueBaseThemePreviousItem" href="magik.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="savi.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="zbasic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/informix.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1985 1985
 
 dashboard
- #1800 <span title="TotalRank: 2333 Jobs: 103 Users: 1244 Facts: 1378 Links: 986">on PLDB</span>
+ #1801 <span title="TotalRank: 2333 Jobs: 103 Users: 1244 Facts: 1378 Links: 986">on PLDB</span>
  38 Years Old
 
 * Informix-4GL is a 4GL programming language developed by Informix during the mid-1980s.. Read more on Wikipedia...
@@ -41,6 +41,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav magik.html savi.html
+keyboardNav magik.html zbasic.html
 
 import ../footer.scroll

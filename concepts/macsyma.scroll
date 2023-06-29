@@ -7,7 +7,7 @@ title Project MAC’s SYmbolic MAnipulator - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="cobolscript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mimix-stream-language.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="strat.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/macsyma.pldb
 
@@ -57,6 +57,6 @@ treeTable
   Token print
   Example
 
-keyboardNav cobolscript.html mimix-stream-language.html
+keyboardNav cobolscript.html strat.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Unicode - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sr.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="strudl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="virt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/unicode-lang.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1955 1955
 
 dashboard
- #4315 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 2927 Links: 986">on PLDB</span>
+ #4315 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 2929 Links: 986">on PLDB</span>
  68 Years Old
 
 * 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav sr.html virt.html
+keyboardNav strudl.html virt.html
 
 import ../footer.scroll

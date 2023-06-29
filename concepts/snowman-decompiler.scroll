@@ -7,7 +7,7 @@ title Snowman - Decompiler
 
 html
  <a class="trueBaseThemePreviousItem" href="cranelift-ir.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="fibonacci.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="freemarker.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/snowman-decompiler.pldb
 
@@ -38,6 +38,6 @@ codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blo
 
 endColumns
 
-keyboardNav cranelift-ir.html fibonacci.html
+keyboardNav cranelift-ir.html freemarker.html
 
 import ../footer.scroll

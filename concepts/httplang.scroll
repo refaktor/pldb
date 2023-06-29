@@ -7,7 +7,7 @@ title httplang - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="spec-sharp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="lil-pl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="algebraic-modeling-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/httplang.pldb
 
@@ -40,6 +40,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: HTTPLang – a scripting language for making HTTP requests|https://news.ycombinator.com/item?id=9598443|05/25/2015|44|8
 
-keyboardNav spec-sharp.html lil-pl.html
+keyboardNav spec-sharp.html algebraic-modeling-language.html
 
 import ../footer.scroll

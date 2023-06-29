@@ -6,7 +6,7 @@ title jayfor - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="cadence-skill.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="locomotive-basic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="rdf-schema.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jayfor.pldb
@@ -43,6 +43,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: JAYFOR a compiled programming language written in C|https://news.ycombinator.com/item?id=8748769|12/14/2014|5|1
 
-keyboardNav cadence-skill.html rdf-schema.html
+keyboardNav locomotive-basic.html rdf-schema.html
 
 import ../footer.scroll

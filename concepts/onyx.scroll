@@ -6,7 +6,7 @@ title Onyx - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="occam-pi.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="strand-programming-language.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="tlc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/onyx.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#jasonEvans Jason Evans
 
 dashboard
- #2296 <span title="TotalRank: 2786 Jobs: 103 Users: 1697 Facts: 1884 Links: 986">on PLDB</span>
+ #2296 <span title="TotalRank: 2786 Jobs: 103 Users: 1697 Facts: 1885 Links: 986">on PLDB</span>
  34 Years Old
 
 * Onyx is a stack-oriented, multi-threaded, interpreted, general purpose programming language  .. Read more on Wikipedia...
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav occam-pi.html tlc.html
+keyboardNav strand-programming-language.html tlc.html
 
 import ../footer.scroll

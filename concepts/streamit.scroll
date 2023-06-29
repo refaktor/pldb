@@ -6,8 +6,8 @@ title StreamIt - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="siri.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sue.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sr.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="strudl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/streamit.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1992 1992
 
 dashboard
- #3423 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3906 Links: 986">on PLDB</span>
+ #4313 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 2929 Links: 986">on PLDB</span>
  31 Years Old
 
 * 
 
+- StreamIt first developed in <a href="../lists/originCommunities.html#massachusettsInstituteOfTechnology">Massachusetts Institute of Technology</a>
 - Explore StreamIt snippets on <a href="http://www.rosettacode.org/wiki/Category:StreamIt">Rosetta Code</a>
 - StreamIt on HOPL
  https://hopl.info/showlanguage.prx?exp=4964
@@ -34,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav siri.html sue.html
+keyboardNav sr.html strudl.html
 
 import ../footer.scroll

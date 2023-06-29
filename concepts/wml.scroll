@@ -7,7 +7,7 @@ title WML - Template language
 
 html
  <a class="trueBaseThemePreviousItem" href="slice.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="srl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jargon.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/wml.pldb
 
@@ -56,6 +56,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav slice.html srl.html
+keyboardNav slice.html jargon.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Soy - Template language
 
 html
  <a class="trueBaseThemePreviousItem" href="fsl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="baysick.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="struql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/soy.pldb
 
@@ -87,6 +87,6 @@ treeTable
   Token 
   Example
 
-keyboardNav fsl.html baysick.html
+keyboardNav fsl.html struql.html
 
 import ../footer.scroll

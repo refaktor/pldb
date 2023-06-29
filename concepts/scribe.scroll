@@ -6,7 +6,7 @@ title Scribe - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="amos.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="sdlbasic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mdx-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/scribe.pldb
@@ -47,6 +47,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Scribe_(marku
 
 endColumns
 
-keyboardNav amos.html mdx-lang.html
+keyboardNav sdlbasic.html mdx-lang.html
 
 import ../footer.scroll

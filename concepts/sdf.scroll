@@ -7,7 +7,7 @@ title SDF - Grammar language
 
 html
  <a class="trueBaseThemePreviousItem" href="schoonschip.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="stringcomp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sdf.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1989 1989
 
 dashboard
- #2616 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 2927 Links: 986">on PLDB</span>
+ #2616 <span title="TotalRank: 3232 Jobs: 103 Users: 2143 Facts: 2929 Links: 986">on PLDB</span>
  34 Years Old
 
 * 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav schoonschip.html flang.html
+keyboardNav schoonschip.html stringcomp.html
 
 import ../footer.scroll

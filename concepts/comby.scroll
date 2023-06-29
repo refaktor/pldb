@@ -6,8 +6,8 @@ title comby - Grammar language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="cache-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="strips.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="focal.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="perl-data-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/comby.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/comby-tools/comby
 
 dashboard
- #897 <span title="TotalRank: 1461 Jobs: 103 Users: 372 Facts: 1199 Links: 986">on PLDB</span>
+ #898 <span title="TotalRank: 1461 Jobs: 103 Users: 372 Facts: 1200 Links: 986">on PLDB</span>
  4 Years Old
 
 * A tool for structural code search and replace that supports ~every language.
@@ -43,6 +43,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav cache-basic.html strips.html
+keyboardNav focal.html perl-data-language.html
 
 import ../footer.scroll

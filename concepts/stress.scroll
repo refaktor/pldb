@@ -7,7 +7,7 @@ title STRESS - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="strema.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="strudl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="subl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/stress.pldb
 
@@ -19,11 +19,12 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1963 1963
 
 dashboard
- #3209 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 4096 Links: 986">on PLDB</span>
+ #4042 <span title="TotalRank: 3918 Jobs: 103 Users: 2829 Facts: 3275 Links: 986">on PLDB</span>
  60 Years Old
 
 * 
 
+- STRESS first developed in <a href="../lists/originCommunities.html#massachusettsInstituteOfTechnology">Massachusetts Institute of Technology</a>
 - STRESS on HOPL
  https://hopl.info/showlanguage.prx?exp=211
 - Read more about STRESS on the web: 1.
@@ -33,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav strema.html strudl.html
+keyboardNav strema.html subl.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Farcaster - Protocol
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="stutter-lang.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="t.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="pasukon.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/farcaster.pldb
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav stutter-lang.html pasukon.html
+keyboardNav t.html pasukon.html
 
 import ../footer.scroll

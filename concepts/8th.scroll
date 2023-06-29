@@ -6,7 +6,7 @@ title 8th - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="draconian.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="stringbean.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="arvelie-format.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/8th.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2014 2014
 
 dashboard
- #2703 <span title="TotalRank: 3401 Jobs: 103 Users: 2434 Facts: 2312 Links: 986">on PLDB</span>
+ #2705 <span title="TotalRank: 3403 Jobs: 103 Users: 2435 Facts: 2314 Links: 986">on PLDB</span>
  9 Years Old
 
 * 8th is an innovative, secure, cross-platform, robust, and fun concatenative programming language for mobile, desktop, server, and embedded application development.
@@ -37,6 +37,6 @@ codeWithHeader Example from <a href='https://github.com/leachim6/hello-world/blo
 
 endColumns
 
-keyboardNav draconian.html arvelie-format.html
+keyboardNav stringbean.html arvelie-format.html
 
 import ../footer.scroll

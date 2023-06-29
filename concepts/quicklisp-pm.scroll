@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/quicklisp/quicklisp-client
 
 dashboard
- #1729 on PLDB
+ #1730 on PLDB
  13 Years Old
 
 * Quicklisp client.

@@ -7,7 +7,7 @@ title DAX - Query language
 
 html
  <a class="trueBaseThemePreviousItem" href="vissim.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="dlvm.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="basic-plus.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dax.pldb
 
@@ -84,6 +84,6 @@ treeTable
   Token 
   Example
 
-keyboardNav vissim.html dlvm.html
+keyboardNav vissim.html basic-plus.html
 
 import ../footer.scroll

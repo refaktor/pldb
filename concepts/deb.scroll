@@ -6,7 +6,7 @@ title Deb file format - Binary data format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="airtable-app.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="haggis.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="amos.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/deb.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav airtable-app.html amos.html
+keyboardNav haggis.html amos.html
 
 import ../footer.scroll

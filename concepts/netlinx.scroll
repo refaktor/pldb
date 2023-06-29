@@ -6,7 +6,7 @@ title NetLinx - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="lotusscript.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="logica.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="sam-format.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/netlinx.pldb
@@ -208,6 +208,6 @@ treeTable
   Token 
   Example
 
-keyboardNav lotusscript.html sam-format.html
+keyboardNav logica.html sam-format.html
 
 import ../footer.scroll
