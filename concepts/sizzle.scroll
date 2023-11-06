@@ -7,7 +7,7 @@ title sizzle - Query language
 
 html
  <a class="trueBaseThemePreviousItem" href="vimwiki.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="thinbasic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="desmos.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sizzle.pldb
 
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav vimwiki.html thinbasic.html
+keyboardNav vimwiki.html desmos.html
 
 import ../footer.scroll

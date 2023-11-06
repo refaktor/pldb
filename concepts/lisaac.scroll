@@ -7,7 +7,7 @@ title Lisaac - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="cyclone.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="arkscript.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="skulpt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lisaac.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2003 2003
 
 dashboard
- #707 <span title="TotalRank: 1271 Jobs: 103 Users: 2435 Facts: 779 Links: 389">on PLDB</span>
+ #707 <span title="TotalRank: 1272 Jobs: 103 Users: 2435 Facts: 780 Links: 389">on PLDB</span>
  20 Years Old
 
 * Try now: <a href="https://riju.codes/lisaac">Riju</a>
@@ -76,6 +76,6 @@ treeTable
   Token .print
   Example
 
-keyboardNav cyclone.html arkscript.html
+keyboardNav cyclone.html skulpt.html
 
 import ../footer.scroll

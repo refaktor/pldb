@@ -6,8 +6,8 @@ title Desmos - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="thinbasic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="edgedb.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sizzle.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="thinbasic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/desmos.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#eliLuberoff Eli Luberoff
 
 dashboard
- #634 <span title="TotalRank: 1211 Jobs: 103 Users: 122 Facts: 2453 Links: 986">on PLDB</span>
+ #633 <span title="TotalRank: 1211 Jobs: 103 Users: 122 Facts: 2453 Links: 986">on PLDB</span>
  12 Years Old
 
 * 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav thinbasic.html edgedb.html
+keyboardNav sizzle.html thinbasic.html
 
 import ../footer.scroll

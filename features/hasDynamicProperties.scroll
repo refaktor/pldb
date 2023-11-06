@@ -26,7 +26,7 @@ codeWithHeader Example from <a href="../concepts/python.html">Python</a>, <a hre
  person = Person(&quot;John&quot;)
  person.age = 50
 
-* Languages *with* Dynamic Properties include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/python.html">Python</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/cython.html">Cython</a>
+* Languages *with* Dynamic Properties include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/python.html">Python</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/cython.html">Cython</a>, <a href="../concepts/aardvark.html">Aardvark</a>
 
 * Languages *without* Dynamic Properties include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>
 

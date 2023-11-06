@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/bucardo/bucardo
 
 dashboard
- #1453 on PLDB
+ #1454 on PLDB
  14 Years Old
 
 * Bucardo is an asynchronous PostgreSQL replication system, allowing for multi-source, multi-target operations. Bucardo is a replication system for Postgres that supports any number of sources and targets (aka masters and slaves). It is asynchronous and trigger based.

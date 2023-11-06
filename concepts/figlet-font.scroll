@@ -6,7 +6,7 @@ title FIGlet Font - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="nushell.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="fay.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mathcad.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/figlet-font.pldb
@@ -187,6 +187,6 @@ codeWithHeader Example from <a href='https://github.com/Alhadis/language-fontfor
 
 endColumns
 
-keyboardNav nushell.html mathcad.html
+keyboardNav fay.html mathcad.html
 
 import ../footer.scroll

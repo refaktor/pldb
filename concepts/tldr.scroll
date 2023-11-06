@@ -6,8 +6,8 @@ title tldr - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="readable.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="act-iii.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="x-pixmap.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="spin.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/tldr.pldb
 
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav readable.html act-iii.html
+keyboardNav x-pixmap.html spin.html
 
 import ../footer.scroll

@@ -17,7 +17,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,842 files and found 239 matches in 2.53s. <span id="publishQuery"></span>
+Searched 4,842 files and found 240 matches in 1.27s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Which programming languages support multiline comments?
@@ -124,13 +124,13 @@ table  DeLiM
  xBase DeLiM /concepts/xbase.html DeLiM true DeLiM /* */ DeLiM 240 DeLiM pl DeLiM 1986
  Opa DeLiM /concepts/opa.html DeLiM true DeLiM /* */ DeLiM 242 DeLiM pl DeLiM 2011
  Hy DeLiM /concepts/hy.html DeLiM true DeLiM  DeLiM 244 DeLiM pl DeLiM 2013
- GNU Octave DeLiM /concepts/octave.html DeLiM true DeLiM  DeLiM 245 DeLiM pl DeLiM 1988
- Boo DeLiM /concepts/boo.html DeLiM true DeLiM  DeLiM 246 DeLiM pl DeLiM 2003
+ Boo DeLiM /concepts/boo.html DeLiM true DeLiM  DeLiM 245 DeLiM pl DeLiM 2003
+ GNU Octave DeLiM /concepts/octave.html DeLiM true DeLiM  DeLiM 247 DeLiM pl DeLiM 1988
  Ceylon DeLiM /concepts/ceylon.html DeLiM true DeLiM /* */ DeLiM 248 DeLiM pl DeLiM 2011
  Zephir DeLiM /concepts/zephir.html DeLiM true DeLiM /* */ DeLiM 249 DeLiM pl DeLiM 2013
- Object Pascal DeLiM /concepts/object-pascal.html DeLiM true DeLiM { } DeLiM 252 DeLiM pl DeLiM 1986
+ Object Pascal DeLiM /concepts/object-pascal.html DeLiM true DeLiM { } DeLiM 253 DeLiM pl DeLiM 1986
  SystemVerilog DeLiM /concepts/systemverilog.html DeLiM true DeLiM /* */ DeLiM 257 DeLiM pl DeLiM 2002
- Pony DeLiM /concepts/pony.html DeLiM true DeLiM  DeLiM 265 DeLiM pl DeLiM 2012
+ Pony DeLiM /concepts/pony.html DeLiM true DeLiM  DeLiM 264 DeLiM pl DeLiM 2012
  Bison DeLiM /concepts/bison.html DeLiM true DeLiM /* */ DeLiM 268 DeLiM grammarLanguage DeLiM 1985
  JSON5 DeLiM /concepts/json5.html DeLiM true DeLiM /* */ DeLiM 277 DeLiM dataNotation DeLiM 2012
  Nextflow DeLiM /concepts/nextflow.html DeLiM true DeLiM /* */ DeLiM 278 DeLiM pl DeLiM 2013
@@ -145,13 +145,13 @@ table  DeLiM
  Lex DeLiM /concepts/lex.html DeLiM true DeLiM /* */ DeLiM 323 DeLiM grammarLanguage DeLiM 1975
  Alloy DeLiM /concepts/alloy.html DeLiM true DeLiM /* */ DeLiM 338 DeLiM pl DeLiM 1997
  POV-Ray SDL DeLiM /concepts/pov-ray-sdl.html DeLiM true DeLiM /* */ DeLiM 340 DeLiM pl DeLiM 1991
- LiveScript DeLiM /concepts/livescript.html DeLiM true DeLiM /* */ DeLiM 344 DeLiM pl DeLiM 2011
+ LiveScript DeLiM /concepts/livescript.html DeLiM true DeLiM /* */ DeLiM 343 DeLiM pl DeLiM 2011
  PEG.js DeLiM /concepts/pegjs.html DeLiM true DeLiM /* */ DeLiM 370 DeLiM grammarLanguage DeLiM 2010
  B DeLiM /concepts/b.html DeLiM true DeLiM /* */ DeLiM 375 DeLiM pl DeLiM 1969
  Bicep DeLiM /concepts/bicep.html DeLiM true DeLiM /* */ DeLiM 377 DeLiM jsonFormat DeLiM 2020
- Wolfram Language DeLiM /concepts/wolfram.html DeLiM true DeLiM (* *) DeLiM 378 DeLiM pl DeLiM 1988
+ Wolfram Language DeLiM /concepts/wolfram.html DeLiM true DeLiM (* *) DeLiM 380 DeLiM pl DeLiM 1988
  TLA DeLiM /concepts/tla.html DeLiM true DeLiM (* *) DeLiM 382 DeLiM pl DeLiM 1999
- Speedie DeLiM /concepts/speedie.html DeLiM true DeLiM /* */ DeLiM 388 DeLiM pl DeLiM 2022
+ Speedie DeLiM /concepts/speedie.html DeLiM true DeLiM /* */ DeLiM 387 DeLiM pl DeLiM 2022
  C3 DeLiM /concepts/c3.html DeLiM true DeLiM /* */ DeLiM 389 DeLiM pl DeLiM 2019
  Twig DeLiM /concepts/twig.html DeLiM true DeLiM {# #} DeLiM 394 DeLiM template DeLiM 2009
  Less DeLiM /concepts/less.html DeLiM true DeLiM /* */ DeLiM 398 DeLiM stylesheetLanguage DeLiM 2009
@@ -173,43 +173,43 @@ table  DeLiM
  HLSL DeLiM /concepts/hlsl.html DeLiM true DeLiM  DeLiM 511 DeLiM pl DeLiM 2002
  janet DeLiM /concepts/janet.html DeLiM false DeLiM  DeLiM 512 DeLiM pl DeLiM 2018
  PARI/GP DeLiM /concepts/pari-gp.html DeLiM true DeLiM /* */ DeLiM 514 DeLiM pl DeLiM 1985
- XSLT DeLiM /concepts/xslt.html DeLiM true DeLiM  DeLiM 519 DeLiM xmlFormat DeLiM 1998
+ XSLT DeLiM /concepts/xslt.html DeLiM true DeLiM  DeLiM 518 DeLiM xmlFormat DeLiM 1998
  Fortress DeLiM /concepts/fortress.html DeLiM true DeLiM (* *) DeLiM 523 DeLiM pl DeLiM 2004
  muPad DeLiM /concepts/mupad.html DeLiM true DeLiM  DeLiM 528 DeLiM pl DeLiM 1997
  Gosu DeLiM /concepts/gosu.html DeLiM true DeLiM  DeLiM 537 DeLiM pl DeLiM 2002
- Ron DeLiM /concepts/ron.html DeLiM true DeLiM /* */ DeLiM 551 DeLiM dataNotation DeLiM 2015
- Closure Templates DeLiM /concepts/closure-templates.html DeLiM true DeLiM /* */ DeLiM 552 DeLiM template DeLiM 2009
+ Closure Templates DeLiM /concepts/closure-templates.html DeLiM true DeLiM /* */ DeLiM 551 DeLiM template DeLiM 2009
+ Ron DeLiM /concepts/ron.html DeLiM true DeLiM /* */ DeLiM 552 DeLiM dataNotation DeLiM 2015
  Objective C++ DeLiM /concepts/objective-cpp.html DeLiM true DeLiM /* */ DeLiM 559 DeLiM pl DeLiM 1993
  GLSL DeLiM /concepts/glsl.html DeLiM true DeLiM  DeLiM 560 DeLiM pl DeLiM 1992
  Hjson DeLiM /concepts/hjson.html DeLiM true DeLiM /* */ DeLiM 574 DeLiM dataNotation DeLiM 2014
  PL/M DeLiM /concepts/pl-m.html DeLiM true DeLiM /* */ DeLiM 575 DeLiM pl DeLiM 1973
  LilyPond DeLiM /concepts/lilypond.html DeLiM true DeLiM  DeLiM 577 DeLiM pl DeLiM 1996
- SourcePawn DeLiM /concepts/sourcepawn.html DeLiM true DeLiM /* */ DeLiM 581 DeLiM pl DeLiM 2014
- EBNF DeLiM /concepts/ebnf.html DeLiM true DeLiM (* *) DeLiM 601 DeLiM grammarLanguage DeLiM 1977
+ SourcePawn DeLiM /concepts/sourcepawn.html DeLiM true DeLiM /* */ DeLiM 579 DeLiM pl DeLiM 2014
+ EBNF DeLiM /concepts/ebnf.html DeLiM true DeLiM (* *) DeLiM 602 DeLiM grammarLanguage DeLiM 1977
  Argdown DeLiM /concepts/argdown.html DeLiM true DeLiM <!-- --> DeLiM 603 DeLiM textMarkup DeLiM 2014
- Jule DeLiM /concepts/jule.html DeLiM true DeLiM /* */ DeLiM 616 DeLiM pl DeLiM 2021
- progsbase DeLiM /concepts/progsbase.html DeLiM true DeLiM  DeLiM 678 DeLiM pl DeLiM 2018
+ Jule DeLiM /concepts/jule.html DeLiM true DeLiM /* */ DeLiM 615 DeLiM pl DeLiM 2021
+ progsbase DeLiM /concepts/progsbase.html DeLiM true DeLiM  DeLiM 681 DeLiM pl DeLiM 2018
  blockml DeLiM /concepts/blockml.html DeLiM true DeLiM /* */ DeLiM 688 DeLiM textMarkup DeLiM 2014
  NetLinx DeLiM /concepts/netlinx.html DeLiM true DeLiM (* *) DeLiM 708 DeLiM pl DeLiM 2007
- JAI DeLiM /concepts/jai.html DeLiM true DeLiM  DeLiM 709 DeLiM pl DeLiM 2014
- P4 DeLiM /concepts/p4.html DeLiM true DeLiM /* */ DeLiM 718 DeLiM pl DeLiM 2014
+ JAI DeLiM /concepts/jai.html DeLiM true DeLiM  DeLiM 710 DeLiM pl DeLiM 2014
+ P4 DeLiM /concepts/p4.html DeLiM true DeLiM /* */ DeLiM 717 DeLiM pl DeLiM 2014
  Angelscript DeLiM /concepts/angelscript.html DeLiM true DeLiM /* */ DeLiM 752 DeLiM pl DeLiM 2003
- ARexx DeLiM /concepts/arexx.html DeLiM true DeLiM /* */ DeLiM 755 DeLiM pl DeLiM 1987
- Apex DeLiM /concepts/apex.html DeLiM true DeLiM /* */ DeLiM 757 DeLiM pl DeLiM 2007
+ Apex DeLiM /concepts/apex.html DeLiM true DeLiM /* */ DeLiM 755 DeLiM pl DeLiM 2007
+ ARexx DeLiM /concepts/arexx.html DeLiM true DeLiM /* */ DeLiM 756 DeLiM pl DeLiM 1987
  DM DeLiM /concepts/dm.html DeLiM true DeLiM /* */ DeLiM 767 DeLiM pl DeLiM 1994
- Linden Scripting Language DeLiM /concepts/lsl.html DeLiM true DeLiM /* */ DeLiM 776 DeLiM pl DeLiM 2003
+ Linden Scripting Language DeLiM /concepts/lsl.html DeLiM true DeLiM /* */ DeLiM 772 DeLiM pl DeLiM 2003
  Cryptol DeLiM /concepts/cryptol.html DeLiM true DeLiM  DeLiM 786 DeLiM pl DeLiM 2014
  Eclipse Command Language DeLiM /concepts/eclipse-command-language.html DeLiM true DeLiM /* */ DeLiM 791 DeLiM pl DeLiM 2008
  Nix DeLiM /concepts/nix.html DeLiM true DeLiM  DeLiM 812 DeLiM packageManager DeLiM 2003
  Mask DeLiM /concepts/maskjs.html DeLiM true DeLiM /* */ DeLiM 838 DeLiM template DeLiM 2012
- COMPONENT PASCAL DeLiM /concepts/component-pascal.html DeLiM true DeLiM (* *) DeLiM 849 DeLiM pl DeLiM 1997
+ COMPONENT PASCAL DeLiM /concepts/component-pascal.html DeLiM true DeLiM (* *) DeLiM 847 DeLiM pl DeLiM 1997
  CartoCSS DeLiM /concepts/cartocss.html DeLiM true DeLiM /* */ DeLiM 861 DeLiM pl DeLiM 2010
- ooc DeLiM /concepts/ooc.html DeLiM true DeLiM  DeLiM 862 DeLiM pl DeLiM 2009
+ ooc DeLiM /concepts/ooc.html DeLiM true DeLiM  DeLiM 864 DeLiM pl DeLiM 2009
  BlitzMax DeLiM /concepts/blitzmax.html DeLiM true DeLiM  DeLiM 874 DeLiM pl DeLiM 2014
  SCSS DeLiM /concepts/scss.html DeLiM true DeLiM /* */ DeLiM 876 DeLiM stylesheetLanguage DeLiM 2006
  RenderScript DeLiM /concepts/renderscript.html DeLiM true DeLiM /* */ DeLiM 881 DeLiM pl DeLiM 2011
  Game Maker Language DeLiM /concepts/game-maker-language.html DeLiM true DeLiM /* */ DeLiM 899 DeLiM pl DeLiM 1999
- clay DeLiM /concepts/clay.html DeLiM true DeLiM  DeLiM 908 DeLiM pl DeLiM 2010
+ clay DeLiM /concepts/clay.html DeLiM true DeLiM  DeLiM 909 DeLiM pl DeLiM 2010
  Edje Data Collection DeLiM /concepts/edje-data-collection.html DeLiM true DeLiM /* */ DeLiM 916 DeLiM jsonFormat DeLiM 2010
  CLIST DeLiM /concepts/clist.html DeLiM true DeLiM /* */ DeLiM 920 DeLiM pl DeLiM 1990
  Slice DeLiM /concepts/slice.html DeLiM true DeLiM /* */ DeLiM 923 DeLiM pl DeLiM 2011
@@ -219,37 +219,38 @@ table  DeLiM
  groff DeLiM /concepts/groff.html DeLiM true DeLiM .ig DeLiM 973 DeLiM textMarkup DeLiM 1990
  winxed DeLiM /concepts/winxed.html DeLiM true DeLiM /* */ DeLiM 988 DeLiM pl DeLiM 2009
  Cycript DeLiM /concepts/cycript.html DeLiM true DeLiM /* */ DeLiM 1008 DeLiM pl DeLiM 2008
- Fibonacci DeLiM /concepts/fibonacci.html DeLiM true DeLiM (* *) DeLiM 1032 DeLiM pl DeLiM 1991
- WebIDL DeLiM /concepts/web-idl.html DeLiM true DeLiM /* */ DeLiM 1034 DeLiM idl DeLiM 2012
- Sieve mail filtering language DeLiM /concepts/sieve.html DeLiM true DeLiM  DeLiM 1036 DeLiM application DeLiM 2008
- JSON with Comments DeLiM /concepts/json-with-comments.html DeLiM true DeLiM /* */ DeLiM 1052 DeLiM dataNotation DeLiM 2001
- LoomScript DeLiM /concepts/loomscript.html DeLiM true DeLiM /* */ DeLiM 1066 DeLiM pl DeLiM 2013
- Type Language DeLiM /concepts/type-language.html DeLiM true DeLiM /* */ DeLiM 1092 DeLiM pl DeLiM 2013
- OpenEdge ABL DeLiM /concepts/openedge-advanced-business-language.html DeLiM true DeLiM  DeLiM 1097 DeLiM pl DeLiM 2006
- Arden syntax DeLiM /concepts/arden-syntax.html DeLiM true DeLiM /* */ DeLiM 1113 DeLiM dataNotation DeLiM 1992
- Flow9 DeLiM /concepts/flow9.html DeLiM true DeLiM /* */ DeLiM 1135 DeLiM pl DeLiM 2010
- FML DeLiM /concepts/fml-lang.html DeLiM true DeLiM ### DeLiM 1157 DeLiM pl DeLiM 2012
- Handel-C DeLiM /concepts/handel-c.html DeLiM true DeLiM /* */ DeLiM 1174 DeLiM pl DeLiM 1996
- Cypher Query Language DeLiM /concepts/cypher.html DeLiM true DeLiM /* */ DeLiM 1206 DeLiM queryLanguage DeLiM 2011
- Plus DeLiM /concepts/plus.html DeLiM true DeLiM /* */ DeLiM 1244 DeLiM pl DeLiM 1976
- Simple Actor Language System and Architecture DeLiM /concepts/salsa.html DeLiM true DeLiM /* */ DeLiM 1307 DeLiM pl DeLiM 2001
- Mako DeLiM /concepts/mako.html DeLiM true DeLiM  DeLiM 1347 DeLiM template DeLiM 2006
- Jsonnet DeLiM /concepts/jsonnet.html DeLiM true DeLiM /* */ DeLiM 1372 DeLiM dataNotation DeLiM 2014
- Orc DeLiM /concepts/orc-lang.html DeLiM true DeLiM {- -} DeLiM 1392 DeLiM pl DeLiM 2004
- Ligo DeLiM /concepts/ligo.html DeLiM true DeLiM (* *) DeLiM 1396 DeLiM contractLanguage DeLiM 2019
- basic calculator DeLiM /concepts/bc.html DeLiM true DeLiM  DeLiM 1400 DeLiM pl DeLiM 1975
- PowerQuery M DeLiM /concepts/power-query-m.html DeLiM true DeLiM /* */ DeLiM 1417 DeLiM queryLanguage DeLiM 2015
- Boron DeLiM /concepts/boron.html DeLiM true DeLiM /* */ DeLiM 1459 DeLiM pl DeLiM 2009
- Pawn DeLiM /concepts/pawn-scripting-language.html DeLiM true DeLiM  DeLiM 1510 DeLiM pl DeLiM 1998
- GraphQL Schema Definition Language DeLiM /concepts/graphql-sdl.html DeLiM false DeLiM  DeLiM 1513 DeLiM idl DeLiM 2018
- HAGGIS DeLiM /concepts/haggis.html DeLiM true DeLiM ''' DeLiM 1531 DeLiM pl DeLiM 2010
- kai DeLiM /concepts/kai.html DeLiM true DeLiM /* */ DeLiM 1548 DeLiM pl DeLiM 2016
- JS++ DeLiM /concepts/jspp.html DeLiM true DeLiM /* */ DeLiM 1552 DeLiM pl DeLiM 2011
- DAX DeLiM /concepts/dax.html DeLiM true DeLiM /* */ DeLiM 1563 DeLiM queryLanguage DeLiM 2009
- Sophia DeLiM /concepts/sophia.html DeLiM true DeLiM /* */ DeLiM 1586 DeLiM contractLanguage DeLiM 2018
- Soy DeLiM /concepts/soy.html DeLiM true DeLiM /* */ DeLiM 1620 DeLiM template DeLiM 2008
- Augeas DeLiM /concepts/augeas.html DeLiM true DeLiM  DeLiM 1646 DeLiM pl DeLiM 2007
- dedukti DeLiM /concepts/dedukti.html DeLiM true DeLiM (; ;) DeLiM 1672 DeLiM pl DeLiM 2009
+ Aardvark DeLiM /concepts/aardvark.html DeLiM true DeLiM  DeLiM 1022 DeLiM pl DeLiM 2020
+ Fibonacci DeLiM /concepts/fibonacci.html DeLiM true DeLiM (* *) DeLiM 1033 DeLiM pl DeLiM 1991
+ WebIDL DeLiM /concepts/web-idl.html DeLiM true DeLiM /* */ DeLiM 1036 DeLiM idl DeLiM 2012
+ Sieve mail filtering language DeLiM /concepts/sieve.html DeLiM true DeLiM  DeLiM 1037 DeLiM application DeLiM 2008
+ JSON with Comments DeLiM /concepts/json-with-comments.html DeLiM true DeLiM /* */ DeLiM 1054 DeLiM dataNotation DeLiM 2001
+ LoomScript DeLiM /concepts/loomscript.html DeLiM true DeLiM /* */ DeLiM 1069 DeLiM pl DeLiM 2013
+ Type Language DeLiM /concepts/type-language.html DeLiM true DeLiM /* */ DeLiM 1093 DeLiM pl DeLiM 2013
+ OpenEdge ABL DeLiM /concepts/openedge-advanced-business-language.html DeLiM true DeLiM  DeLiM 1099 DeLiM pl DeLiM 2006
+ Arden syntax DeLiM /concepts/arden-syntax.html DeLiM true DeLiM /* */ DeLiM 1116 DeLiM dataNotation DeLiM 1992
+ Flow9 DeLiM /concepts/flow9.html DeLiM true DeLiM /* */ DeLiM 1136 DeLiM pl DeLiM 2010
+ FML DeLiM /concepts/fml-lang.html DeLiM true DeLiM ### DeLiM 1158 DeLiM pl DeLiM 2012
+ Handel-C DeLiM /concepts/handel-c.html DeLiM true DeLiM /* */ DeLiM 1176 DeLiM pl DeLiM 1996
+ Cypher Query Language DeLiM /concepts/cypher.html DeLiM true DeLiM /* */ DeLiM 1207 DeLiM queryLanguage DeLiM 2011
+ Plus DeLiM /concepts/plus.html DeLiM true DeLiM /* */ DeLiM 1246 DeLiM pl DeLiM 1976
+ Simple Actor Language System and Architecture DeLiM /concepts/salsa.html DeLiM true DeLiM /* */ DeLiM 1308 DeLiM pl DeLiM 2001
+ Mako DeLiM /concepts/mako.html DeLiM true DeLiM  DeLiM 1349 DeLiM template DeLiM 2006
+ Jsonnet DeLiM /concepts/jsonnet.html DeLiM true DeLiM /* */ DeLiM 1373 DeLiM dataNotation DeLiM 2014
+ Orc DeLiM /concepts/orc-lang.html DeLiM true DeLiM {- -} DeLiM 1394 DeLiM pl DeLiM 2004
+ Ligo DeLiM /concepts/ligo.html DeLiM true DeLiM (* *) DeLiM 1398 DeLiM contractLanguage DeLiM 2019
+ basic calculator DeLiM /concepts/bc.html DeLiM true DeLiM  DeLiM 1401 DeLiM pl DeLiM 1975
+ PowerQuery M DeLiM /concepts/power-query-m.html DeLiM true DeLiM /* */ DeLiM 1418 DeLiM queryLanguage DeLiM 2015
+ Boron DeLiM /concepts/boron.html DeLiM true DeLiM /* */ DeLiM 1461 DeLiM pl DeLiM 2009
+ Pawn DeLiM /concepts/pawn-scripting-language.html DeLiM true DeLiM  DeLiM 1511 DeLiM pl DeLiM 1998
+ GraphQL Schema Definition Language DeLiM /concepts/graphql-sdl.html DeLiM false DeLiM  DeLiM 1514 DeLiM idl DeLiM 2018
+ HAGGIS DeLiM /concepts/haggis.html DeLiM true DeLiM ''' DeLiM 1532 DeLiM pl DeLiM 2010
+ kai DeLiM /concepts/kai.html DeLiM true DeLiM /* */ DeLiM 1549 DeLiM pl DeLiM 2016
+ JS++ DeLiM /concepts/jspp.html DeLiM true DeLiM /* */ DeLiM 1553 DeLiM pl DeLiM 2011
+ DAX DeLiM /concepts/dax.html DeLiM true DeLiM /* */ DeLiM 1564 DeLiM queryLanguage DeLiM 2009
+ Sophia DeLiM /concepts/sophia.html DeLiM true DeLiM /* */ DeLiM 1587 DeLiM contractLanguage DeLiM 2018
+ Soy DeLiM /concepts/soy.html DeLiM true DeLiM /* */ DeLiM 1622 DeLiM template DeLiM 2008
+ Augeas DeLiM /concepts/augeas.html DeLiM true DeLiM  DeLiM 1652 DeLiM pl DeLiM 2007
+ dedukti DeLiM /concepts/dedukti.html DeLiM true DeLiM (; ;) DeLiM 1674 DeLiM pl DeLiM 2009
  HuJSON DeLiM /concepts/hujson.html DeLiM true DeLiM /* */ DeLiM 1750 DeLiM dataNotation DeLiM 2019
  JSL DeLiM /concepts/jsl.html DeLiM true DeLiM /* */ DeLiM 1755 DeLiM pl DeLiM 1989
  Manchester syntax DeLiM /concepts/manchester-syntax.html DeLiM true DeLiM /* */ DeLiM 1814 DeLiM dataNotation DeLiM 2006

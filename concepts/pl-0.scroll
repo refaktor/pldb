@@ -6,7 +6,7 @@ title PL/0 - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="transact-sql.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="unison.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="aspectj.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pl-0.pldb
@@ -105,6 +105,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/PL/0'>Wikiped
 
 endColumns
 
-keyboardNav transact-sql.html aspectj.html
+keyboardNav unison.html aspectj.html
 
 import ../footer.scroll

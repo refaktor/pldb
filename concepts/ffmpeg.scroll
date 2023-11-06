@@ -7,7 +7,7 @@ title FFmpeg - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="microdata.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="clarion.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="jakt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ffmpeg.pldb
 
@@ -24,7 +24,7 @@ codeWithHeader Source code:
  git clone https://github.com/FFmpeg/FFmpeg
 
 dashboard
- #660 on PLDB
+ #659 on PLDB
  23 Years Old
 
 * Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav microdata.html clarion.html
+keyboardNav microdata.html jakt.html
 
 import ../footer.scroll

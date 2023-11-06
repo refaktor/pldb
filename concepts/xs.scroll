@@ -6,7 +6,7 @@ title XS - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="punched-tape.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="befunge.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="latte.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xs.pldb
@@ -136,6 +136,6 @@ treeTable
   Token 
   Example
 
-keyboardNav punched-tape.html latte.html
+keyboardNav befunge.html latte.html
 
 import ../footer.scroll

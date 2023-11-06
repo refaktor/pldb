@@ -6,8 +6,8 @@ title Pycket - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="net-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cbasic.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="sporth.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ok.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pycket.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/pycket/pycket
 
 dashboard
- #1519 <span title="TotalRank: 2031 Jobs: 103 Users: 942 Facts: 1499 Links: 986">on PLDB</span>
+ #1505 <span title="TotalRank: 2031 Jobs: 103 Users: 942 Facts: 1499 Links: 986">on PLDB</span>
  1 Years Old
 
 * Pycket: a Racket/Scheme implementation that is generated using the RPython framework
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav net-format.html cbasic.html
+keyboardNav sporth.html ok.html
 
 import ../footer.scroll

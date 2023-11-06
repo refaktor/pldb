@@ -6,7 +6,7 @@ title DDML - Xml format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="runoff.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="triton.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="jai.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ddml.pldb
@@ -367,6 +367,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav runoff.html jai.html
+keyboardNav triton.html jai.html
 
 import ../footer.scroll

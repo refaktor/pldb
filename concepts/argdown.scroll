@@ -7,7 +7,7 @@ title Argdown - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="xtext.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cilk.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="renpy.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/argdown.pldb
 
@@ -163,6 +163,6 @@ treeTable
   Token 
   Example
 
-keyboardNav xtext.html cilk.html
+keyboardNav xtext.html renpy.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Wren - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="clojurescript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flatbuffers.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="flatbuffers.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="pike.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/wren.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/munificent/wren
 
 dashboard
- #269 <span title="TotalRank: 660 Jobs: 103 Users: 145 Facts: 412 Links: 986">on PLDB</span>
+ #270 <span title="TotalRank: 661 Jobs: 103 Users: 145 Facts: 413 Links: 986">on PLDB</span>
  10 Years Old
  8 <span title="Wren repos on GitHub.">Repos</span>
 
@@ -102,6 +102,6 @@ treeTable
   Token 
   Example
 
-keyboardNav clojurescript.html flatbuffers.html
+keyboardNav flatbuffers.html pike.html
 
 import ../footer.scroll

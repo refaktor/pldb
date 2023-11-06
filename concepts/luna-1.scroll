@@ -6,7 +6,7 @@ title Luna - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="p.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="speakeasy.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ox.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/luna-1.pldb
@@ -42,6 +42,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav p.html ox.html
+keyboardNav speakeasy.html ox.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title mun-lang - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="mckeeman-form.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="impala.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="chisel.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mun-lang.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/mun-lang/mun
 
 dashboard
- #756 <span title="TotalRank: 1322 Jobs: 103 Users: 440 Facts: 779 Links: 986">on PLDB</span>
+ #756 <span title="TotalRank: 1323 Jobs: 103 Users: 440 Facts: 780 Links: 986">on PLDB</span>
  4 Years Old
 
 * Source code for the Mun language and runtime.
@@ -75,6 +75,6 @@ treeTable
   Token 
   Example
 
-keyboardNav mckeeman-form.html impala.html
+keyboardNav mckeeman-form.html chisel.html
 
 import ../footer.scroll

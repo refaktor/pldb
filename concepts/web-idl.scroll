@@ -6,8 +6,8 @@ title WebIDL - Interface design language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="manhood.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="game-maker-language.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="game-maker-language.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="arc-isa.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/web-idl.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2012 2012
 
 dashboard
- #788 <span title="TotalRank: 1350 Jobs: 103 Users: 803 Facts: 444 Links: 986">on PLDB</span>
+ #789 <span title="TotalRank: 1351 Jobs: 103 Users: 803 Facts: 445 Links: 986">on PLDB</span>
  11 Years Old
  17 <span title="WebIDL repos on GitHub.">Repos</span>
 
@@ -93,6 +93,6 @@ treeTable
   Token 
   Example
 
-keyboardNav manhood.html game-maker-language.html
+keyboardNav game-maker-language.html arc-isa.html
 
 import ../footer.scroll

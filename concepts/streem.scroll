@@ -6,8 +6,8 @@ title Streem - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="euclidean-geometry.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="skip.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="gold.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="m3db.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/streem.pldb
 
@@ -50,6 +50,6 @@ codeWithHeader Streem <a href="../lists/keywords.html?filter=streem">Keywords</a
 
 endColumns
 
-keyboardNav euclidean-geometry.html skip.html
+keyboardNav gold.html m3db.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title Vigil - Esoteric programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="roff.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mathics.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="xcard.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="bliss.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/vigil.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/munificent/vigil
 
 dashboard
- #834 <span title="TotalRank: 1390 Jobs: 103 Users: 301 Facts: 993 Links: 986">on PLDB</span>
+ #832 <span title="TotalRank: 1390 Jobs: 103 Users: 301 Facts: 993 Links: 986">on PLDB</span>
  10 Years Old
 
 * Vigil, the eternal morally vigilant programming language
@@ -68,6 +68,6 @@ treeTable
   Token 
   Example
 
-keyboardNav roff.html mathics.html
+keyboardNav xcard.html bliss.html
 
 import ../footer.scroll

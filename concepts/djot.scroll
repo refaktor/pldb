@@ -6,7 +6,7 @@ title Djot - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="xslt.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="pari-gp.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="asmjs.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/djot.pldb
@@ -109,6 +109,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav xslt.html asmjs.html
+keyboardNav pari-gp.html asmjs.html
 
 import ../footer.scroll

@@ -20,7 +20,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,842 files and found 433 matches in 4.15s. <span id="publishQuery"></span>
+Searched 4,842 files and found 433 matches in 2.18s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Which of today's top languages were created in the 1970's?
@@ -61,70 +61,70 @@ table  DeLiM
  SYMBOL DeLiM /concepts/symbol.html DeLiM true DeLiM 359 DeLiM pl DeLiM 1971
  Datalog DeLiM /concepts/datalog.html DeLiM true DeLiM 366 DeLiM pl DeLiM 1977
  M4 DeLiM /concepts/m4.html DeLiM true DeLiM 369 DeLiM pl DeLiM 1977
- Bourne shell DeLiM /concepts/bourne-shell.html DeLiM true DeLiM 392 DeLiM pl DeLiM 1977
- PL/0 DeLiM /concepts/pl-0.html DeLiM true DeLiM 417 DeLiM pl DeLiM 1976
+ Bourne shell DeLiM /concepts/bourne-shell.html DeLiM true DeLiM 390 DeLiM pl DeLiM 1977
+ PL/0 DeLiM /concepts/pl-0.html DeLiM true DeLiM 416 DeLiM pl DeLiM 1976
  Dc DeLiM /concepts/dc.html DeLiM true DeLiM 438 DeLiM pl DeLiM 1978
  Z notation DeLiM /concepts/z-notation.html DeLiM true DeLiM 440 DeLiM notation DeLiM 1974
- CLU DeLiM /concepts/clu.html DeLiM true DeLiM 442 DeLiM pl DeLiM 1975
+ CLU DeLiM /concepts/clu.html DeLiM true DeLiM 443 DeLiM pl DeLiM 1975
  S DeLiM /concepts/s.html DeLiM true DeLiM 459 DeLiM pl DeLiM 1976
  EML DeLiM /concepts/mbox.html DeLiM true DeLiM 484 DeLiM textDataFormat DeLiM 1974
  Tiny BASIC DeLiM /concepts/tiny-basic.html DeLiM true DeLiM 504 DeLiM pl DeLiM 1975
  Diff DeLiM /concepts/diff.html DeLiM true DeLiM 524 DeLiM unixApplication DeLiM 1974
- HOPE DeLiM /concepts/hope.html DeLiM true DeLiM 529 DeLiM pl DeLiM 1978
+ HOPE DeLiM /concepts/hope.html DeLiM true DeLiM 530 DeLiM pl DeLiM 1978
  RATFOR DeLiM /concepts/ratfor.html DeLiM true DeLiM 571 DeLiM pl DeLiM 1976
  Altair BASIC DeLiM /concepts/altair-basic.html DeLiM true DeLiM 572 DeLiM pl DeLiM 1975
  PL/M DeLiM /concepts/pl-m.html DeLiM true DeLiM 575 DeLiM pl DeLiM 1973
  Commodore BASIC DeLiM /concepts/commodore-basic.html DeLiM true DeLiM 590 DeLiM pl DeLiM 1977
- EBNF DeLiM /concepts/ebnf.html DeLiM true DeLiM 601 DeLiM grammarLanguage DeLiM 1977
+ EBNF DeLiM /concepts/ebnf.html DeLiM true DeLiM 602 DeLiM grammarLanguage DeLiM 1977
  PIC microcontroller DeLiM /concepts/pic-microcontroller.html DeLiM true DeLiM 632 DeLiM pl DeLiM 1975
- Troff DeLiM /concepts/troff.html DeLiM true DeLiM 698 DeLiM textMarkup DeLiM 1973
+ Troff DeLiM /concepts/troff.html DeLiM true DeLiM 696 DeLiM textMarkup DeLiM 1973
  CSV DeLiM /concepts/csv.html DeLiM true DeLiM 723 DeLiM dataNotation DeLiM 1972
- Modula DeLiM /concepts/modula.html DeLiM true DeLiM 744 DeLiM pl DeLiM 1975
- Up-arrow notation DeLiM /concepts/up-arrow-notation.html DeLiM true DeLiM 797 DeLiM notation DeLiM 1976
+ Modula DeLiM /concepts/modula.html DeLiM true DeLiM 745 DeLiM pl DeLiM 1975
+ Up-arrow notation DeLiM /concepts/up-arrow-notation.html DeLiM true DeLiM 796 DeLiM notation DeLiM 1976
  ROFF DeLiM /concepts/roff.html DeLiM true DeLiM 938 DeLiM textMarkup DeLiM 1971
  TI-BASIC DeLiM /concepts/ti-basic.html DeLiM true DeLiM 950 DeLiM pl DeLiM 1970
  UCSD Pascal DeLiM /concepts/ucsd-pascal.html DeLiM true DeLiM 955 DeLiM pl DeLiM 1978
  Applesoft BASIC DeLiM /concepts/applesoft-basic.html DeLiM true DeLiM 956 DeLiM pl DeLiM 1979
  Cesil DeLiM /concepts/cesil.html DeLiM true DeLiM 975 DeLiM pl DeLiM 1974
- TI Program DeLiM /concepts/ti-basic-assembly.html DeLiM true DeLiM 1031 DeLiM assembly DeLiM 1970
- Mary DeLiM /concepts/mary.html DeLiM true DeLiM 1045 DeLiM pl DeLiM 1970
- Programming Language for Business DeLiM /concepts/plb.html DeLiM true DeLiM 1094 DeLiM pl DeLiM 1972
- NATURAL DeLiM /concepts/natural.html DeLiM true DeLiM 1112 DeLiM pl DeLiM 1971
- GRASS DeLiM /concepts/grass.html DeLiM true DeLiM 1130 DeLiM pl DeLiM 1977
- FP DeLiM /concepts/fp.html DeLiM true DeLiM 1142 DeLiM pl DeLiM 1977
- PEARL DeLiM /concepts/pearl.html DeLiM true DeLiM 1144 DeLiM pl DeLiM 1977
- WHOIS DeLiM /concepts/whois-protocol.html DeLiM true DeLiM 1151 DeLiM protocol DeLiM 1970
- Molfile DeLiM /concepts/molfile-format.html DeLiM true DeLiM 1167 DeLiM textDataFormat DeLiM 1979
- BlooP DeLiM /concepts/bloop.html DeLiM true DeLiM 1201 DeLiM esolang DeLiM 1979
- ELLA DeLiM /concepts/ella-programming-language.html DeLiM true DeLiM 1204 DeLiM pl DeLiM 1979
- MACRO-10 DeLiM /concepts/macro-10.html DeLiM true DeLiM 1221 DeLiM pl DeLiM 1978
- KRL DeLiM /concepts/krl.html DeLiM true DeLiM 1231 DeLiM pl DeLiM 1976
- Mesa DeLiM /concepts/mesa.html DeLiM true DeLiM 1236 DeLiM pl DeLiM 1970
- Sinclair BASIC DeLiM /concepts/sinclair-basic.html DeLiM true DeLiM 1239 DeLiM pl DeLiM 1979
- Plus DeLiM /concepts/plus.html DeLiM true DeLiM 1244 DeLiM pl DeLiM 1976
- PLZ DeLiM /concepts/plz.html DeLiM true DeLiM 1257 DeLiM pl DeLiM 1979
- CLISP DeLiM /concepts/clisp.html DeLiM true DeLiM 1358 DeLiM pl DeLiM 1973
- BASIC Programming DeLiM /concepts/basic-programming.html DeLiM true DeLiM 1364 DeLiM pl DeLiM 1979
- LUCID DeLiM /concepts/lucid.html DeLiM true DeLiM 1379 DeLiM pl DeLiM 1976
- Integer BASIC DeLiM /concepts/integer-basic.html DeLiM true DeLiM 1384 DeLiM pl DeLiM 1977
- basic calculator DeLiM /concepts/bc.html DeLiM true DeLiM 1400 DeLiM pl DeLiM 1975
- COMAL DeLiM /concepts/comal.html DeLiM true DeLiM 1408 DeLiM pl DeLiM 1973
- Lisp Machine Lisp DeLiM /concepts/lisp-machine-lisp.html DeLiM true DeLiM 1431 DeLiM pl DeLiM 1974
- Mouse DeLiM /concepts/mouse.html DeLiM true DeLiM 1478 DeLiM pl DeLiM 1970
- MACRO DeLiM /concepts/macro.html DeLiM true DeLiM 1498 DeLiM pl DeLiM 1979
- MUSIC/SP DeLiM /concepts/music-sp.html DeLiM true DeLiM 1503 DeLiM pl DeLiM 1972
- C shell DeLiM /concepts/c-shell.html DeLiM true DeLiM 1507 DeLiM pl DeLiM 1978
- HAL/S DeLiM /concepts/hal-s.html DeLiM true DeLiM 1562 DeLiM assembly DeLiM 1972
- CHIP-8 DeLiM /concepts/chip-8.html DeLiM true DeLiM 1566 DeLiM pl DeLiM 1970
- Li-Chen Wang DeLiM /concepts/li-chen-wang.html DeLiM true DeLiM 1597 DeLiM pl DeLiM 1976
- BASIC-PLUS DeLiM /concepts/basic-plus.html DeLiM true DeLiM 1600 DeLiM pl DeLiM 1975
+ TI Program DeLiM /concepts/ti-basic-assembly.html DeLiM true DeLiM 1032 DeLiM assembly DeLiM 1970
+ Mary DeLiM /concepts/mary.html DeLiM true DeLiM 1047 DeLiM pl DeLiM 1970
+ Programming Language for Business DeLiM /concepts/plb.html DeLiM true DeLiM 1095 DeLiM pl DeLiM 1972
+ NATURAL DeLiM /concepts/natural.html DeLiM true DeLiM 1115 DeLiM pl DeLiM 1971
+ GRASS DeLiM /concepts/grass.html DeLiM true DeLiM 1131 DeLiM pl DeLiM 1977
+ FP DeLiM /concepts/fp.html DeLiM true DeLiM 1143 DeLiM pl DeLiM 1977
+ PEARL DeLiM /concepts/pearl.html DeLiM true DeLiM 1145 DeLiM pl DeLiM 1977
+ WHOIS DeLiM /concepts/whois-protocol.html DeLiM true DeLiM 1152 DeLiM protocol DeLiM 1970
+ Molfile DeLiM /concepts/molfile-format.html DeLiM true DeLiM 1169 DeLiM textDataFormat DeLiM 1979
+ BlooP DeLiM /concepts/bloop.html DeLiM true DeLiM 1202 DeLiM esolang DeLiM 1979
+ ELLA DeLiM /concepts/ella-programming-language.html DeLiM true DeLiM 1205 DeLiM pl DeLiM 1979
+ MACRO-10 DeLiM /concepts/macro-10.html DeLiM true DeLiM 1223 DeLiM pl DeLiM 1978
+ KRL DeLiM /concepts/krl.html DeLiM true DeLiM 1233 DeLiM pl DeLiM 1976
+ Mesa DeLiM /concepts/mesa.html DeLiM true DeLiM 1237 DeLiM pl DeLiM 1970
+ Sinclair BASIC DeLiM /concepts/sinclair-basic.html DeLiM true DeLiM 1240 DeLiM pl DeLiM 1979
+ Plus DeLiM /concepts/plus.html DeLiM true DeLiM 1246 DeLiM pl DeLiM 1976
+ PLZ DeLiM /concepts/plz.html DeLiM true DeLiM 1259 DeLiM pl DeLiM 1979
+ CLISP DeLiM /concepts/clisp.html DeLiM true DeLiM 1355 DeLiM pl DeLiM 1973
+ BASIC Programming DeLiM /concepts/basic-programming.html DeLiM true DeLiM 1365 DeLiM pl DeLiM 1979
+ LUCID DeLiM /concepts/lucid.html DeLiM true DeLiM 1380 DeLiM pl DeLiM 1976
+ Integer BASIC DeLiM /concepts/integer-basic.html DeLiM true DeLiM 1385 DeLiM pl DeLiM 1977
+ basic calculator DeLiM /concepts/bc.html DeLiM true DeLiM 1401 DeLiM pl DeLiM 1975
+ COMAL DeLiM /concepts/comal.html DeLiM true DeLiM 1409 DeLiM pl DeLiM 1973
+ Lisp Machine Lisp DeLiM /concepts/lisp-machine-lisp.html DeLiM true DeLiM 1432 DeLiM pl DeLiM 1974
+ Mouse DeLiM /concepts/mouse.html DeLiM true DeLiM 1484 DeLiM pl DeLiM 1970
+ MACRO DeLiM /concepts/macro.html DeLiM true DeLiM 1499 DeLiM pl DeLiM 1979
+ MUSIC/SP DeLiM /concepts/music-sp.html DeLiM true DeLiM 1504 DeLiM pl DeLiM 1972
+ C shell DeLiM /concepts/c-shell.html DeLiM true DeLiM 1508 DeLiM pl DeLiM 1978
+ HAL/S DeLiM /concepts/hal-s.html DeLiM true DeLiM 1563 DeLiM assembly DeLiM 1972
+ CHIP-8 DeLiM /concepts/chip-8.html DeLiM true DeLiM 1567 DeLiM pl DeLiM 1970
+ Li-Chen Wang DeLiM /concepts/li-chen-wang.html DeLiM true DeLiM 1598 DeLiM pl DeLiM 1976
+ BASIC-PLUS DeLiM /concepts/basic-plus.html DeLiM true DeLiM 1601 DeLiM pl DeLiM 1975
  OPS5 DeLiM /concepts/ops5.html DeLiM true DeLiM 1608 DeLiM pl DeLiM 1977
- RTL/2 DeLiM /concepts/rtl-2.html DeLiM true DeLiM 1631 DeLiM pl DeLiM 1972
- QUEL DeLiM /concepts/quel.html DeLiM true DeLiM 1653 DeLiM queryLanguage DeLiM 1976
- Business Basic DeLiM /concepts/business-basic.html DeLiM true DeLiM 1664 DeLiM pl DeLiM 1970
- z80 DeLiM /concepts/z80.html DeLiM true DeLiM 1681 DeLiM assembly DeLiM 1976
- MDL DeLiM /concepts/mdl.html DeLiM true DeLiM 1707 DeLiM pl DeLiM 1971
- THEOS DeLiM /concepts/theos-multi-user-basic.html DeLiM true DeLiM 1732 DeLiM pl DeLiM 1977
+ RTL/2 DeLiM /concepts/rtl-2.html DeLiM true DeLiM 1632 DeLiM pl DeLiM 1972
+ QUEL DeLiM /concepts/quel.html DeLiM true DeLiM 1644 DeLiM queryLanguage DeLiM 1976
+ Business Basic DeLiM /concepts/business-basic.html DeLiM true DeLiM 1665 DeLiM pl DeLiM 1970
+ z80 DeLiM /concepts/z80.html DeLiM true DeLiM 1683 DeLiM assembly DeLiM 1976
+ MDL DeLiM /concepts/mdl.html DeLiM true DeLiM 1708 DeLiM pl DeLiM 1971
+ THEOS DeLiM /concepts/theos-multi-user-basic.html DeLiM true DeLiM 1733 DeLiM pl DeLiM 1977
  Model 204 DeLiM /concepts/model-204.html DeLiM true DeLiM 1794 DeLiM pl DeLiM 1972
  PLEX DeLiM /concepts/plex.html DeLiM true DeLiM 1817 DeLiM pl DeLiM 1975
  Processor Technology DeLiM /concepts/processor-technology.html DeLiM true DeLiM 1829 DeLiM pl DeLiM 1975

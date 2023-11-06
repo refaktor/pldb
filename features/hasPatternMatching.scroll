@@ -34,7 +34,10 @@ codeWithHeader Example from <a href="../concepts/felix.html">Felix</a>:
   | None =&gt; println &quot;NONE&quot;;
   endmatch;
 
-* Languages *with* Pattern Matching include <a href="../concepts/rust.html">Rust</a>, <a href="../concepts/haskell.html">Haskell</a>, <a href="../concepts/elixir.html">Elixir</a>, <a href="../concepts/coconut.html">Coconut</a>, <a href="../concepts/hope.html">HOPE</a>, <a href="../concepts/felix.html">Felix</a>, <a href="../concepts/egison.html">Egison</a>, <a href="../concepts/npl-lang.html">NPL</a>
+codeWithHeader Example from <a href="../concepts/aardvark.html">Aardvark</a>:
+ This functionality is included in switch statements.
+
+* Languages *with* Pattern Matching include <a href="../concepts/rust.html">Rust</a>, <a href="../concepts/haskell.html">Haskell</a>, <a href="../concepts/elixir.html">Elixir</a>, <a href="../concepts/coconut.html">Coconut</a>, <a href="../concepts/hope.html">HOPE</a>, <a href="../concepts/felix.html">Felix</a>, <a href="../concepts/aardvark.html">Aardvark</a>, <a href="../concepts/egison.html">Egison</a>, <a href="../concepts/npl-lang.html">NPL</a>
 
 * Languages *without* Pattern Matching include <a href="../concepts/progsbase.html">progsbase</a>
 

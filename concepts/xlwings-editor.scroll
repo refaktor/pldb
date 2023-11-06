@@ -6,8 +6,8 @@ title xlwings-editor - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ip-pascal.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="kitten.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="laravel-framework.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="strips.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xlwings-editor.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/xlwings/xlwings
 
 dashboard
- #997 on PLDB
+ #994 on PLDB
  10 Years Old
 
 * xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web. 
@@ -37,6 +37,6 @@ dashboard
 
 endColumns
 
-keyboardNav ip-pascal.html kitten.html
+keyboardNav laravel-framework.html strips.html
 
 import ../footer.scroll

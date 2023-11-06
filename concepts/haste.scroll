@@ -6,8 +6,8 @@ title haste - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ezhil.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ternary-notation.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="aardvark.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ezhil.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/haste.pldb
 
@@ -44,6 +44,6 @@ pipeTable
  title|titleLink|date|score|comments
  Haste language|https://news.ycombinator.com/item?id=7513516|04/02/2014|259|73
 
-keyboardNav ezhil.html ternary-notation.html
+keyboardNav aardvark.html ezhil.html
 
 import ../footer.scroll

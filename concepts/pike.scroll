@@ -6,7 +6,7 @@ title Pike - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="flatbuffers.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="wren.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="bpmn.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pike.pldb
@@ -129,6 +129,6 @@ treeTable
   Token 
   Example
 
-keyboardNav flatbuffers.html bpmn.html
+keyboardNav wren.html bpmn.html
 
 import ../footer.scroll

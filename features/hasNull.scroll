@@ -29,7 +29,10 @@ codeWithHeader Example from <a href="../concepts/ion.html">Ion</a>:
 codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  nil
 
-* Languages *with* Null include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/ion.html">Ion</a>, <a href="../concepts/jule.html">Jule</a>
+codeWithHeader Example from <a href="../concepts/aardvark.html">Aardvark</a>:
+ `null`
+
+* Languages *with* Null include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/ion.html">Ion</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/aardvark.html">Aardvark</a>
 
 * This question asks: Does the language have a null value?
 

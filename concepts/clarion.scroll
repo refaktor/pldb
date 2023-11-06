@@ -6,8 +6,8 @@ title Clarion - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="utc-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="json-stat.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="json-stat.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jovial.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/clarion.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1986 1986
 
 dashboard
- #602 <span title="TotalRank: 1173 Jobs: 103 Users: 732 Facts: 404 Links: 666">on PLDB</span>
+ #603 <span title="TotalRank: 1174 Jobs: 103 Users: 732 Facts: 405 Links: 666">on PLDB</span>
  37 Years Old
  223 <span title="Clarion repos on GitHub.">Repos</span>
 
@@ -81,6 +81,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Clarion_(prog
 
 endColumns
 
-keyboardNav utc-format.html json-stat.html
+keyboardNav json-stat.html jovial.html
 
 import ../footer.scroll

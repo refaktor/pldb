@@ -7,7 +7,7 @@ title WxBasic - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="abc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="eve.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="mps.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/wxbasic.pldb
 
@@ -129,6 +129,6 @@ treeTable
   Token 
   Example
 
-keyboardNav abc.html eve.html
+keyboardNav abc.html mps.html
 
 import ../footer.scroll

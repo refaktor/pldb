@@ -6,8 +6,8 @@ title Nu - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="geojson.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="microsoft-small-basic.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="microsoft-small-basic.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="hexagon.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nu.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#timBurks Tim Burks
 
 dashboard
- #465 <span title="TotalRank: 988 Jobs: 103 Users: 979 Facts: 496 Links: 389">on PLDB</span>
+ #466 <span title="TotalRank: 989 Jobs: 103 Users: 979 Facts: 497 Links: 389">on PLDB</span>
  16 Years Old
  215 <span title="Nu repos on GitHub.">Repos</span>
 
@@ -75,6 +75,6 @@ treeTable
   Token puts
   Example
 
-keyboardNav geojson.html microsoft-small-basic.html
+keyboardNav microsoft-small-basic.html hexagon.html
 
 import ../footer.scroll

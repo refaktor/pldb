@@ -7,7 +7,7 @@ title SaltStack - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="datalog.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="hypercard.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="wolfram.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/saltstack.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/saltstack/salt
 
 dashboard
- #333 <span title="TotalRank: 773 Jobs: 103 Users: 61 Facts: 609 Links: 986">on PLDB</span>
+ #334 <span title="TotalRank: 774 Jobs: 103 Users: 61 Facts: 610 Links: 986">on PLDB</span>
  12 Years Old
  4k <span title="SaltStack repos on GitHub.">Repos</span>
 
@@ -48,6 +48,6 @@ codeWithHeader Example from <a href='https://github.com/saltstack/atom-salt'>Lin
 
 endColumns
 
-keyboardNav datalog.html hypercard.html
+keyboardNav datalog.html wolfram.html
 
 import ../footer.scroll

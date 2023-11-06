@@ -6,7 +6,7 @@ title Ante - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="contracts.coffee.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="icd.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="praat-script.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ante.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/jfecher/ante
 
 dashboard
- #681 <span title="TotalRank: 1255 Jobs: 103 Users: 417 Facts: 735 Links: 986">on PLDB</span>
+ #682 <span title="TotalRank: 1256 Jobs: 103 Users: 417 Facts: 736 Links: 986">on PLDB</span>
  8 Years Old
 
 * Try now: <a href="https://riju.codes/ante">Riju</a> · <a href="https://tio.run/#ante">TIO</a>
@@ -57,6 +57,6 @@ treeTable
   Token print
   Example
 
-keyboardNav contracts.coffee.html praat-script.html
+keyboardNav icd.html praat-script.html
 
 import ../footer.scroll

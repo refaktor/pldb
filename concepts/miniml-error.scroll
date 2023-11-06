@@ -6,8 +6,8 @@ title miniML_error - Minilanguage
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="unified-diff.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="opal.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="masm.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="plb.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/miniml-error.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/andrejbauer/plzoo/tree/master/src/miniml_error
 
 dashboard
- #965 <span title="TotalRank: 1528 Jobs: 103 Users: 439 Facts: 2061 Links: 986">on PLDB</span>
+ #963 <span title="TotalRank: 1528 Jobs: 103 Users: 439 Facts: 2061 Links: 986">on PLDB</span>
  10 Years Old
 
 * like miniml that can also abort execution
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav unified-diff.html opal.html
+keyboardNav masm.html plb.html
 
 import ../footer.scroll

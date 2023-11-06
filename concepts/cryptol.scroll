@@ -6,7 +6,7 @@ title Cryptol - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="json-stat.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="jovial.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="carbon.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cryptol.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/GaloisInc/cryptol
 
 dashboard
- #604 <span title="TotalRank: 1175 Jobs: 103 Users: 451 Facts: 621 Links: 666">on PLDB</span>
+ #605 <span title="TotalRank: 1176 Jobs: 103 Users: 451 Facts: 622 Links: 666">on PLDB</span>
  9 Years Old
 
 * Try now: <a href="https://tio.run/#cryptol">TIO</a>
@@ -102,6 +102,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav json-stat.html carbon.html
+keyboardNav jovial.html carbon.html
 
 import ../footer.scroll

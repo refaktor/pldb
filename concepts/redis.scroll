@@ -7,7 +7,7 @@ title Redis - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="highlightjs.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="object-pascal.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sparql.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/redis.pldb
 
@@ -75,6 +75,6 @@ treeTable
   Token 
   Example
 
-keyboardNav highlightjs.html object-pascal.html
+keyboardNav highlightjs.html sparql.html
 
 import ../footer.scroll

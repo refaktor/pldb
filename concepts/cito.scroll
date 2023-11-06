@@ -7,7 +7,7 @@ title Ć - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="berry.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="doh.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pasukon.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cito.pldb
 
@@ -46,6 +46,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav berry.html doh.html
+keyboardNav berry.html pasukon.html
 
 import ../footer.scroll

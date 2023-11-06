@@ -7,7 +7,7 @@ title Jule - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ssb.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gams.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="aith.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jule.pldb
 
@@ -791,6 +791,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ssb.html gams.html
+keyboardNav ssb.html aith.html
 
 import ../footer.scroll

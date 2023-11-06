@@ -13,7 +13,7 @@ viewSourceUrl https://github.com/breck7/pldb/blob/main/questions/.grammar
 
 startColumns 4
 
-* Languages *with* hasIfElses include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/jule.html">Jule</a>
+* Languages *with* hasIfElses include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/aardvark.html">Aardvark</a>
 
 * This question asks: Does the language have if-else statements or expressions?
 

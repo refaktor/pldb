@@ -7,7 +7,7 @@ title vdscript - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="gfa-basic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="firrtl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="visdown.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/vdscript.pldb
 
@@ -58,6 +58,6 @@ codeWithHeader vdscript <a href="../lists/keywords.html?filter=vdscript">Keyword
 
 endColumns
 
-keyboardNav gfa-basic.html firrtl.html
+keyboardNav gfa-basic.html visdown.html
 
 import ../footer.scroll

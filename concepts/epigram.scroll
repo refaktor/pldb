@@ -6,8 +6,8 @@ title Epigram - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="type-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smpl.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="ch.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="type-language.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/epigram.pldb
 
@@ -58,6 +58,6 @@ treeTable
   Token 
   Example
 
-keyboardNav type-language.html smpl.html
+keyboardNav ch.html type-language.html
 
 import ../footer.scroll

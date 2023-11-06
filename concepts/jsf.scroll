@@ -7,7 +7,7 @@ title JSFuck - Esoteric programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="blitzmax.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="ooc.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="tiddlywiki.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jsf.pldb
 
@@ -178,6 +178,6 @@ codeWithHeader Example from <a href='https://riju.codes/jsf'>Riju</a>:
 
 endColumns
 
-keyboardNav blitzmax.html ooc.html
+keyboardNav blitzmax.html tiddlywiki.html
 
 import ../footer.scroll

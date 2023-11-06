@@ -20,7 +20,10 @@ codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
 codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  self
 
-* Languages *with* hasSelfOrThisWord include <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>
+codeWithHeader Example from <a href="../concepts/aardvark.html">Aardvark</a>:
+ You can name it whatever you like.
+
+* Languages *with* hasSelfOrThisWord include <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/aardvark.html">Aardvark</a>
 
 * This question asks: Does a language have a keyword or syntax to refer to the current instance?
 

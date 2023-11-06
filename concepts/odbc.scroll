@@ -7,7 +7,7 @@ title Open Database Connectivity - Protocol
 
 html
  <a class="trueBaseThemePreviousItem" href="smiles-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flow9.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="whois-protocol.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/odbc.pldb
 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav smiles-format.html flow9.html
+keyboardNav smiles-format.html whois-protocol.html
 
 import ../footer.scroll

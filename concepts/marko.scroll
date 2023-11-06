@@ -6,8 +6,8 @@ title Marko - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="json-ld.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="puppet.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="puppet.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="base64.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/marko.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/marko-js/marko
 
 dashboard
- #294 <span title="TotalRank: 701 Jobs: 103 Users: 102 Facts: 496 Links: 986">on PLDB</span>
+ #295 <span title="TotalRank: 702 Jobs: 103 Users: 102 Facts: 497 Links: 986">on PLDB</span>
  9 Years Old
  101 <span title="Marko repos on GitHub.">Repos</span>
 
@@ -59,6 +59,6 @@ codeWithHeader Example from <a href='https://github.com/marko-js/marko-tmbundle'
 
 endColumns
 
-keyboardNav json-ld.html puppet.html
+keyboardNav puppet.html base64.html
 
 import ../footer.scroll

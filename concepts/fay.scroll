@@ -7,7 +7,7 @@ title fay - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="parrot-internal-representation.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mql.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="velato.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fay.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/faylang/fay
 
 dashboard
- #559 <span title="TotalRank: 1120 Jobs: 103 Users: 421 Facts: 596 Links: 986">on PLDB</span>
+ #560 <span title="TotalRank: 1121 Jobs: 103 Users: 421 Facts: 597 Links: 986">on PLDB</span>
  11 Years Old
 
 * A proper subset of Haskell that compiles to JavaScript
@@ -68,6 +68,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav parrot-internal-representation.html mql.html
+keyboardNav parrot-internal-representation.html velato.html
 
 import ../footer.scroll

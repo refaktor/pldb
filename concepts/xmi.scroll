@@ -7,7 +7,7 @@ title XML Metadata Interchange - Xml format
 
 html
  <a class="trueBaseThemePreviousItem" href="livr.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cadence-skill.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="scribble.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xmi.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav livr.html cadence-skill.html
+keyboardNav livr.html scribble.html
 
 import ../footer.scroll

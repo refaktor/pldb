@@ -6,8 +6,8 @@ title invokator - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="odata.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="open-shading-language.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="alpine-abuild.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="odata.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/invokator.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/grame-cncm/faust
 
 dashboard
- #829 <span title="TotalRank: 1386 Jobs: 103 Users: 297 Facts: 1308 Links: 986">on PLDB</span>
+ #828 <span title="TotalRank: 1386 Jobs: 103 Users: 297 Facts: 1308 Links: 986">on PLDB</span>
  19 Years Old
 
 * Try now: <a href="https://tio.run/#https://faustide.grame.fr/">TIO</a>
@@ -44,6 +44,6 @@ dashboard
 
 endColumns
 
-keyboardNav odata.html open-shading-language.html
+keyboardNav alpine-abuild.html odata.html
 
 import ../footer.scroll

@@ -6,8 +6,8 @@ title CIL - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="argdown.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="renpy.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="renpy.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="geojson.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cilk.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1994 1994
 
 dashboard
- #462 <span title="TotalRank: 984 Jobs: 103 Users: 800 Facts: 609 Links: 272">on PLDB</span>
+ #463 <span title="TotalRank: 985 Jobs: 103 Users: 800 Facts: 610 Links: 272">on PLDB</span>
  29 Years Old
  1 <span title="CIL repos on GitHub.">Repos</span>
 
@@ -77,6 +77,6 @@ treeTable
   Token 
   Example
 
-keyboardNav argdown.html renpy.html
+keyboardNav renpy.html geojson.html
 
 import ../footer.scroll

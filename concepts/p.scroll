@@ -6,8 +6,8 @@ title P - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="speakeasy.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="luna-1.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="turbo-assembler.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="speakeasy.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/p.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/p-org/P
 
 dashboard
- #824 <span title="TotalRank: 1381 Jobs: 103 Users: 292 Facts: 1666 Links: 986">on PLDB</span>
+ #823 <span title="TotalRank: 1381 Jobs: 103 Users: 292 Facts: 1666 Links: 986">on PLDB</span>
  10 Years Old
 
 * P is a state machine based programming language for modeling and specifying complex distributed systems.
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav speakeasy.html luna-1.html
+keyboardNav turbo-assembler.html speakeasy.html
 
 import ../footer.scroll

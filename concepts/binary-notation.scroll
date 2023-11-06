@@ -7,7 +7,7 @@ title Binary notation - Notation
 
 html
  <a class="trueBaseThemePreviousItem" href="dokuwiki.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="fancy.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="omgrofl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/binary-notation.pldb
 
@@ -55,6 +55,6 @@ pipeTable
  title|titleLink|date|score|comments
  How I See Numbers|https://news.ycombinator.com/item?id=30539292|03/03/2022|300|194
 
-keyboardNav dokuwiki.html fancy.html
+keyboardNav dokuwiki.html omgrofl.html
 
 import ../footer.scroll

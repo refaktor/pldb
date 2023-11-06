@@ -7,7 +7,7 @@ title HeLang - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ssi.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nesc.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="spry.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/helang.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/kifuan/helang
 
 dashboard
- #856 <span title="TotalRank: 1416 Jobs: 103 Users: 327 Facts: 1782 Links: 986">on PLDB</span>
+ #855 <span title="TotalRank: 1416 Jobs: 103 Users: 327 Facts: 1782 Links: 986">on PLDB</span>
  1 Years Old
 
 * 何语言，次世代赛博编程语言。
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav ssi.html nesc.html
+keyboardNav ssi.html spry.html
 
 import ../footer.scroll

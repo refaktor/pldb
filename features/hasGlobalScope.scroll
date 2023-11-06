@@ -18,7 +18,7 @@ codeWithHeader Example from <a href="../concepts/speedie.html">Speedie</a>:
  function abc
   x = 10
 
-* Languages *with* hasGlobalScope include <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>
+* Languages *with* hasGlobalScope include <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/aardvark.html">Aardvark</a>
 
 * This question asks: Is there at least one top level scope?
 

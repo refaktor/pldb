@@ -6,7 +6,7 @@ title Csound - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ninja.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="ecr.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="json-ld.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/csound.pldb
@@ -118,6 +118,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ninja.html json-ld.html
+keyboardNav ecr.html json-ld.html
 
 import ../footer.scroll

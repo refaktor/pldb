@@ -6,8 +6,8 @@ title Fast Healthcare Interoperability Resources - Standard
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="visdown.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nuget-pm.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="frink.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="visdown.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fhir.pldb
 
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav visdown.html nuget-pm.html
+keyboardNav frink.html visdown.html
 
 import ../footer.scroll

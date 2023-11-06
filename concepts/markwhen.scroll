@@ -6,7 +6,7 @@ title Markwhen - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="twig.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="yasnippet.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="oxygene.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/markwhen.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/mark-when/markwhen
 
 dashboard
- #352 <span title="TotalRank: 813 Jobs: 103 Users: 312 Facts: 398 Links: 986">on PLDB</span>
+ #352 <span title="TotalRank: 814 Jobs: 103 Users: 312 Facts: 399 Links: 986">on PLDB</span>
  1 Years Old
 
 * Try now: <a href="https://markwhen.com/example">Web</a>
@@ -94,6 +94,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav twig.html oxygene.html
+keyboardNav yasnippet.html oxygene.html
 
 import ../footer.scroll

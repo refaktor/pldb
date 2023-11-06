@@ -6,7 +6,7 @@ title Mercurial - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ext4.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="clu.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="diagram.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mercurial.pldb
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav ext4.html diagram.html
+keyboardNav clu.html diagram.html
 
 import ../footer.scroll

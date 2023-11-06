@@ -6,7 +6,7 @@ title jasmine - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ssb.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="aldor.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="onnx.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/jasmine.pldb
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav ssb.html onnx.html
+keyboardNav aldor.html onnx.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title FLOW-MATIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="aldor.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="ntp.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="grammar.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/flow-matic.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#graceHopper Grace Hopper
 
 dashboard
- #649 <span title="TotalRank: 1230 Jobs: 103 Users: 826 Facts: 801 Links: 326">on PLDB</span>
+ #650 <span title="TotalRank: 1231 Jobs: 103 Users: 826 Facts: 802 Links: 326">on PLDB</span>
  68 Years Old
 
 * FLOW-MATIC, originally known as B-0 (Business Language version 0), was the first English-like data processing language. It was developed for the UNIVAC I at Remington Rand under Grace Hopper during the period from 1955 until 1959. It had a strong influence on the development of COBOL.. Read more on Wikipedia...
@@ -60,6 +60,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/FLOW-MATIC'>W
 
 endColumns
 
-keyboardNav aldor.html grammar.html
+keyboardNav ntp.html grammar.html
 
 import ../footer.scroll

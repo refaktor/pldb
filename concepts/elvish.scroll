@@ -6,8 +6,8 @@ title Elvish - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="sugarss.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="motif-software.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="mqtt.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="sugarss.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/elvish.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/elves/elvish
 
 dashboard
- #717 <span title="TotalRank: 1282 Jobs: 103 Users: 193 Facts: 993 Links: 986">on PLDB</span>
+ #716 <span title="TotalRank: 1282 Jobs: 103 Users: 193 Facts: 993 Links: 986">on PLDB</span>
  10 Years Old
 
 * Try now: <a href="https://try.elv.sh/">Web</a> · <a href="https://riju.codes/elvish">Riju</a>
@@ -48,6 +48,6 @@ codeWithHeader Example from <a href='https://riju.codes/elvish'>Riju</a>:
 
 endColumns
 
-keyboardNav sugarss.html motif-software.html
+keyboardNav mqtt.html sugarss.html
 
 import ../footer.scroll

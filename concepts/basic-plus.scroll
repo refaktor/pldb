@@ -6,8 +6,8 @@ title BASIC-PLUS - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="dax.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="dlvm.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="vissim.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="dax.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/basic-plus.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav dax.html dlvm.html
+keyboardNav vissim.html dax.html
 
 import ../footer.scroll

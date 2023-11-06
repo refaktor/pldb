@@ -6,7 +6,7 @@ title chevrotain - Library
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="halide.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="pegjs.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ninja.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/chevrotain.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/SAP/chevrotain
 
 dashboard
- #373 on PLDB
+ #372 on PLDB
  8 Years Old
 
 * Parser Building Toolkit for JavaScript
@@ -123,6 +123,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav halide.html ninja.html
+keyboardNav pegjs.html ninja.html
 
 import ../footer.scroll

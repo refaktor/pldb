@@ -7,7 +7,7 @@ title Gopher - Protocol
 
 html
  <a class="trueBaseThemePreviousItem" href="activevfp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="smallbasic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="apache-cassandra.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gopher-protocol.pldb
 
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav activevfp.html smallbasic.html
+keyboardNav activevfp.html apache-cassandra.html
 
 import ../footer.scroll

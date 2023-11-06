@@ -6,8 +6,8 @@ title SugarSS - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mqtt.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="elvish.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="elvish.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="motif-software.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/sugarss.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/postcss/sugarss
 
 dashboard
- #716 <span title="TotalRank: 1281 Jobs: 103 Users: 557 Facts: 621 Links: 986">on PLDB</span>
+ #717 <span title="TotalRank: 1282 Jobs: 103 Users: 557 Facts: 622 Links: 986">on PLDB</span>
  7 Years Old
  0 <span title="SugarSS repos on GitHub.">Repos</span>
 
@@ -74,6 +74,6 @@ treeTable
   Token 
   Example
 
-keyboardNav mqtt.html elvish.html
+keyboardNav elvish.html motif-software.html
 
 import ../footer.scroll

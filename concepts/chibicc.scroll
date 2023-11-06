@@ -6,8 +6,8 @@ title chibicc - Compiler
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="yoptascript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="neko.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="telnet-protocol.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="yoptascript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/chibicc.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/rui314/chibicc
 
 dashboard
- #855 on PLDB
+ #854 on PLDB
  4 Years Old
 
 * A Small C Compiler.
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav yoptascript.html neko.html
+keyboardNav telnet-protocol.html yoptascript.html
 
 import ../footer.scroll

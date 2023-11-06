@@ -6,7 +6,7 @@ title BLISS - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="xcard.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="vigil.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="roff.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bliss.pldb
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#williamWulf William Wulf
 
 dashboard
- #832 <span title="TotalRank: 1390 Jobs: 103 Users: 1055 Facts: 621 Links: 666">on PLDB</span>
+ #833 <span title="TotalRank: 1391 Jobs: 103 Users: 1055 Facts: 622 Links: 666">on PLDB</span>
  54 Years Old
 
 * BLISS is a system programming language developed at Carnegie Mellon University by W. A. Wulf, D. Read more on Wikipedia...
@@ -93,6 +93,6 @@ treeTable
   Token 
   Example
 
-keyboardNav xcard.html roff.html
+keyboardNav vigil.html roff.html
 
 import ../footer.scroll

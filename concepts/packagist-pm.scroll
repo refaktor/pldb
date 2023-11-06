@@ -6,8 +6,8 @@ title packagist-pm - Package manager
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="web-idl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sieve.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="observable-lang.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="web-idl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/packagist-pm.pldb
 
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav web-idl.html sieve.html
+keyboardNav observable-lang.html web-idl.html
 
 import ../footer.scroll

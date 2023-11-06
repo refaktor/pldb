@@ -7,7 +7,7 @@ title Turbo Assembler - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="clist.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="speakeasy.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="p.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/turbo-assembler.pldb
 
@@ -49,6 +49,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Turbo_Assembl
 
 endColumns
 
-keyboardNav clist.html speakeasy.html
+keyboardNav clist.html p.html
 
 import ../footer.scroll

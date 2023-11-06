@@ -6,7 +6,7 @@ title Knitr - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="pasukon.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="farcaster.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="berry.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/knitr.pldb
@@ -41,6 +41,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Knitr'>Wikipe
 
 endColumns
 
-keyboardNav pasukon.html berry.html
+keyboardNav farcaster.html berry.html
 
 import ../footer.scroll

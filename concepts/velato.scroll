@@ -6,7 +6,7 @@ title Velato - Esoteric programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mql.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="fay.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="svelte.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/velato.pldb
@@ -368,6 +368,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav mql.html svelte.html
+keyboardNav fay.html svelte.html
 
 import ../footer.scroll

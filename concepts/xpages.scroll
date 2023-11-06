@@ -6,7 +6,7 @@ title XPages - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="spider.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="knitr.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="xbasic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xpages.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #1276 on PLDB
+ #1278 on PLDB
  15 Years Old
  22 <span title="XPages repos on GitHub.">Repos</span>
 
@@ -63,6 +63,6 @@ codeWithHeader Example from <a href='https://github.com/textmate/xml.tmbundle'>L
 
 endColumns
 
-keyboardNav spider.html xbasic.html
+keyboardNav knitr.html xbasic.html
 
 import ../footer.scroll

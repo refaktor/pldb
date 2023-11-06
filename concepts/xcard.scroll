@@ -7,7 +7,7 @@ title xCard - Xml format
 
 html
  <a class="trueBaseThemePreviousItem" href="open-shading-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="bliss.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="vigil.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/xcard.pldb
 
@@ -127,6 +127,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav open-shading-language.html bliss.html
+keyboardNav open-shading-language.html vigil.html
 
 import ../footer.scroll

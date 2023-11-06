@@ -6,7 +6,7 @@ title PAWN - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="cg.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="action.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="glsl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pawn.pldb
@@ -114,6 +114,6 @@ treeTable
   Token 
   Example
 
-keyboardNav cg.html glsl.html
+keyboardNav action.html glsl.html
 
 import ../footer.scroll

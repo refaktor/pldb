@@ -6,8 +6,8 @@ title Ext4 - Filesystem
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="clu.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mercurial.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="z-notation.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="algol-68.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ext4.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2008 2008
 
 dashboard
- #444 on PLDB
+ #442 on PLDB
  15 Years Old
 
 * The ext4 or fourth extended filesystem is a journaling file system for Linux, developed as the successor to ext3.. Read more on Wikipedia...
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav clu.html mercurial.html
+keyboardNav z-notation.html algol-68.html
 
 import ../footer.scroll

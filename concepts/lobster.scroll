@@ -6,8 +6,8 @@ title lobster - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="ferret.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="jolie.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="maxscript.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="ferret.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/lobster.pldb
 
@@ -39,6 +39,6 @@ dashboard
 
 endColumns
 
-keyboardNav ferret.html jolie.html
+keyboardNav maxscript.html ferret.html
 
 import ../footer.scroll

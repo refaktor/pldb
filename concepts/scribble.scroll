@@ -6,8 +6,8 @@ title scribble - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="rescript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="livr.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="xmi.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="cadence-skill.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/scribble.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/racket/scribble
 
 dashboard
- #1135 <span title="TotalRank: 1688 Jobs: 103 Users: 850 Facts: 735 Links: 986">on PLDB</span>
+ #1138 <span title="TotalRank: 1689 Jobs: 103 Users: 850 Facts: 736 Links: 986">on PLDB</span>
  26 Years Old
 
 * 
@@ -61,6 +61,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav rescript.html livr.html
+keyboardNav xmi.html cadence-skill.html
 
 import ../footer.scroll

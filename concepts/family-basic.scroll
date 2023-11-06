@@ -6,8 +6,8 @@ title Family BASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="gentoo-ebuild.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flowgorithm.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="eff.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="gentoo-ebuild.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/family-basic.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav gentoo-ebuild.html flowgorithm.html
+keyboardNav eff.html gentoo-ebuild.html
 
 import ../footer.scroll

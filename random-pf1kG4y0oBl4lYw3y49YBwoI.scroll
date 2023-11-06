@@ -18,7 +18,7 @@ html
 
 <div id="tqlErrors"></div>
 
-Searched 4,842 files and found 65 matches in 1.10s. <span id="publishQuery"></span>
+Searched 4,842 files and found 65 matches in 0.56s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
 # Which programming languages use indentation?
@@ -42,14 +42,14 @@ table  DeLiM
  Occam DeLiM /concepts/occam.html DeLiM true DeLiM 206
  Makefile DeLiM /concepts/makefile.html DeLiM true DeLiM 215
  Nemerle DeLiM /concepts/nemerle.html DeLiM true DeLiM 219
- Boo DeLiM /concepts/boo.html DeLiM true DeLiM 246
+ Boo DeLiM /concepts/boo.html DeLiM true DeLiM 245
  Inform DeLiM /concepts/inform.html DeLiM true DeLiM 272
  reStructuredText DeLiM /concepts/restructuredtext.html DeLiM true DeLiM 276
  Sass DeLiM /concepts/sass.html DeLiM true DeLiM 281
- LiveScript DeLiM /concepts/livescript.html DeLiM true DeLiM 344
- Speedie DeLiM /concepts/speedie.html DeLiM true DeLiM 388
- Miranda DeLiM /concepts/miranda.html DeLiM true DeLiM 400
- Genie DeLiM /concepts/genie.html DeLiM true DeLiM 416
+ LiveScript DeLiM /concepts/livescript.html DeLiM true DeLiM 343
+ Speedie DeLiM /concepts/speedie.html DeLiM true DeLiM 387
+ Miranda DeLiM /concepts/miranda.html DeLiM true DeLiM 401
+ Genie DeLiM /concepts/genie.html DeLiM true DeLiM 417
  wisp DeLiM /concepts/wisp.html DeLiM true DeLiM 429
  ABC DeLiM /concepts/abc.html DeLiM true DeLiM 458
  Stylus DeLiM /concepts/stylus.html DeLiM true DeLiM 468
@@ -57,29 +57,29 @@ table  DeLiM
  Curry DeLiM /concepts/curry.html DeLiM true DeLiM 561
  Argdown DeLiM /concepts/argdown.html DeLiM true DeLiM 603
  beads-lang DeLiM /concepts/beads-lang.html DeLiM true DeLiM 642
- Spin DeLiM /concepts/spin.html DeLiM true DeLiM 672
- Aldor DeLiM /concepts/aldor.html DeLiM true DeLiM 727
+ Spin DeLiM /concepts/spin.html DeLiM true DeLiM 670
+ Aldor DeLiM /concepts/aldor.html DeLiM true DeLiM 728
  Cobra DeLiM /concepts/cobra.html DeLiM true DeLiM 748
  Tree Notation DeLiM /concepts/treenotation.html DeLiM true DeLiM 789
- XL DeLiM /concepts/xl-lang.html DeLiM true DeLiM 793
- mckeeman-form DeLiM /concepts/mckeeman-form.html DeLiM true DeLiM 856
+ XL DeLiM /concepts/xl-lang.html DeLiM true DeLiM 794
+ mckeeman-form DeLiM /concepts/mckeeman-form.html DeLiM true DeLiM 855
  SCSS DeLiM /concepts/scss.html DeLiM true DeLiM 876
- bog DeLiM /concepts/bog.html DeLiM true DeLiM 1057
- Quaint DeLiM /concepts/quaint.html DeLiM true DeLiM 1120
- Sheep DeLiM /concepts/sheep-lang.html DeLiM true DeLiM 1121
- Cyber DeLiM /concepts/cyber.html DeLiM true DeLiM 1165
- Scroll DeLiM /concepts/scroll.html DeLiM true DeLiM 1173
- ISWIM DeLiM /concepts/iswim.html DeLiM true DeLiM 1251
- PROMAL DeLiM /concepts/promal.html DeLiM true DeLiM 1293
- I-expressions DeLiM /concepts/i-expressions.html DeLiM true DeLiM 1335
- p4p DeLiM /concepts/p4p.html DeLiM true DeLiM 1393
- Z DeLiM /concepts/z-expressions.html DeLiM true DeLiM 1433
- Cirru DeLiM /concepts/cirru.html DeLiM true DeLiM 1454
- Note DeLiM /concepts/note.html DeLiM true DeLiM 1632
- BuddyScript DeLiM /concepts/buddyscript.html DeLiM true DeLiM 1713
- net-format DeLiM /concepts/net-format.html DeLiM true DeLiM 1720
- ELFE DeLiM /concepts/elfe.html DeLiM true DeLiM 1740
- TQL DeLiM /concepts/tql.html DeLiM true DeLiM 1746
+ bog DeLiM /concepts/bog.html DeLiM true DeLiM 1059
+ Quaint DeLiM /concepts/quaint.html DeLiM true DeLiM 1122
+ Sheep DeLiM /concepts/sheep-lang.html DeLiM true DeLiM 1123
+ Cyber DeLiM /concepts/cyber.html DeLiM true DeLiM 1167
+ Scroll DeLiM /concepts/scroll.html DeLiM true DeLiM 1175
+ ISWIM DeLiM /concepts/iswim.html DeLiM true DeLiM 1252
+ PROMAL DeLiM /concepts/promal.html DeLiM true DeLiM 1294
+ I-expressions DeLiM /concepts/i-expressions.html DeLiM true DeLiM 1336
+ p4p DeLiM /concepts/p4p.html DeLiM true DeLiM 1395
+ Z DeLiM /concepts/z-expressions.html DeLiM true DeLiM 1434
+ Cirru DeLiM /concepts/cirru.html DeLiM true DeLiM 1456
+ Note DeLiM /concepts/note.html DeLiM true DeLiM 1633
+ BuddyScript DeLiM /concepts/buddyscript.html DeLiM true DeLiM 1714
+ net-format DeLiM /concepts/net-format.html DeLiM true DeLiM 1721
+ ELFE DeLiM /concepts/elfe.html DeLiM true DeLiM 1741
+ TQL DeLiM /concepts/tql.html DeLiM true DeLiM 1747
  Ohayo DeLiM /concepts/ohayo.html DeLiM true DeLiM 1773
  Truth DeLiM /concepts/truth.html DeLiM true DeLiM 1777
  Space DeLiM /concepts/space.html DeLiM true DeLiM 2004

@@ -7,7 +7,7 @@ title fo - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="sam-coupe.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="teco.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pyret-lang.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fo.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/albrow/fo
 
 dashboard
- #1001 <span title="TotalRank: 1566 Jobs: 103 Users: 477 Facts: 1499 Links: 986">on PLDB</span>
+ #1002 <span title="TotalRank: 1566 Jobs: 103 Users: 477 Facts: 1499 Links: 986">on PLDB</span>
  5 Years Old
 
 * An experimental language which adds functional programming features to Go.
@@ -41,6 +41,6 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Fo: An experimental language which adds generics on top of Go|https://news.ycombinator.com/item?id=17294548|06/12/2018|165|124
 
-keyboardNav sam-coupe.html teco.html
+keyboardNav sam-coupe.html pyret-lang.html
 
 import ../footer.scroll

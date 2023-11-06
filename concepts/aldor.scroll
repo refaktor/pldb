@@ -7,7 +7,7 @@ title Aldor - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="xproc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="flow-matic.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="ntp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/aldor.pldb
 
@@ -25,7 +25,7 @@ startColumns 4
  link ../lists/creators.html#scottMorrison Scott Morrison
 
 dashboard
- #648 <span title="TotalRank: 1228 Jobs: 103 Users: 1568 Facts: 459 Links: 666">on PLDB</span>
+ #648 <span title="TotalRank: 1229 Jobs: 103 Users: 1568 Facts: 460 Links: 666">on PLDB</span>
  33 Years Old
 
 * Aldor is a programming language. It is the successor of A# as the extension language of the Axiom computer algebra system. Aldor combines imperative, functional, and object-oriented features. Read more on Wikipedia...
@@ -107,6 +107,6 @@ treeTable
   Token 
   Example
 
-keyboardNav xproc.html flow-matic.html
+keyboardNav xproc.html ntp.html
 
 import ../footer.scroll

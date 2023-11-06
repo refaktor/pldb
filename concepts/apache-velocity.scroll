@@ -7,7 +7,7 @@ title Velocity - Template language
 
 html
  <a class="trueBaseThemePreviousItem" href="curl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="papyrus.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="up-arrow-notation.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/apache-velocity.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2003 2003
 
 dashboard
- #586 <span title="TotalRank: 1150 Jobs: 103 Users: 772 Facts: 658 Links: 389">on PLDB</span>
+ #586 <span title="TotalRank: 1151 Jobs: 103 Users: 772 Facts: 659 Links: 389">on PLDB</span>
  20 Years Old
 
 * Apache Velocity is a Java-based template engine that provides a template language to reference objects defined in Java code. It aims to ensure clean separation between the presentation tier and business tiers in a Web application (the model–view–controller design pattern). Velocity is an open source software project hosted by the Apache Software Foundation. Read more on Wikipedia...
@@ -67,6 +67,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav curl.html papyrus.html
+keyboardNav curl.html up-arrow-notation.html
 
 import ../footer.scroll

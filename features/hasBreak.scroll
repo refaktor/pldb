@@ -22,7 +22,7 @@ codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
  break
  break a_label
 
-* Languages *with* hasBreak include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/c2.html">C2</a>
+* Languages *with* hasBreak include <a href="../concepts/c3.html">C3</a>, <a href="../concepts/speedie.html">Speedie</a>, <a href="../concepts/jule.html">Jule</a>, <a href="../concepts/c2.html">C2</a>, <a href="../concepts/aardvark.html">Aardvark</a>
 
 * This question asks: Does the language have a keyword for breaking out of a loop?
 

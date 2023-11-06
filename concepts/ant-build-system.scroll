@@ -6,7 +6,7 @@ title Ant Build System - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="jsoniq.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="semver.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="lsl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ant-build-system.pldb
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2000 2000
 
 dashboard
- #776 on PLDB
+ #772 on PLDB
  23 Years Old
 
 * Apache Ant is a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. The main known usage of Ant is the build of Java applications. Ant supplies a number of built-in tasks allowing to compile, assemble, test and run Java applications. Ant can also be used effectively to build non Java applications, for instance C or C++ applications. More generally, Ant can be used to pilot any type of process which can be described in terms of targets and tasks.
@@ -148,6 +148,6 @@ codeWithHeader Example from <a href='https://github.com/textmate/ant.tmbundle'>L
 
 endColumns
 
-keyboardNav jsoniq.html lsl.html
+keyboardNav semver.html lsl.html
 
 import ../footer.scroll

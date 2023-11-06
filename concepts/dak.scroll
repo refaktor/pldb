@@ -6,7 +6,7 @@ title Dak - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="kona.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="lux.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="nxc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/dak.pldb
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/daaku/dak
 
 dashboard
- #915 <span title="TotalRank: 1487 Jobs: 103 Users: 1606 Facts: 398 Links: 986">on PLDB</span>
+ #917 <span title="TotalRank: 1488 Jobs: 103 Users: 1606 Facts: 399 Links: 986">on PLDB</span>
  1 Years Old
 
 * Try now: <a href="https://www.daklang.com/tour/functions/">Web</a>
@@ -95,6 +95,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav kona.html nxc.html
+keyboardNav lux.html nxc.html
 
 import ../footer.scroll

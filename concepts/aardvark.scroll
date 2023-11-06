@@ -6,14 +6,14 @@ title Aardvark - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="tql.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="gaml.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="tiledb.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="haste.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/aardvark.pldb
 
 startColumns 4
 
-<div class="trueBaseThemeQuickLinks"><a href="https://docs.programit.repl.co" class="material-symbols-outlined">home</a> <a href="https://github.com/Aardvark-team/Adk" class="material-symbols-outlined">code</a> <a href="/edit.html?id=aardvark" class="material-symbols-outlined">edit</a></div>
+<div class="trueBaseThemeQuickLinks"><a href="https://github.com/Aardvark-team/Aardvark-py" class="material-symbols-outlined">code</a> <a href="https://aardvark-docs.programit.repl.co/" class="material-symbols-outlined">menu_book</a> <a href="/edit.html?id=aardvark" class="material-symbols-outlined">edit</a></div>
 
 * Aardvark is an open source <a href="/search.html?q=select+type%0D%0Awhere+type+%3D+pl">programming language</a> created in 2020 by Hg0428 and JustCoding123 and CompilingCoder and TheBoys619 and PlasDev and ZDev1.
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+2020 2020
@@ -25,35 +25,319 @@ startColumns 4
  link ../lists/creators.html#zDev1 ZDev1
 
 codeWithHeader Source code:
- git clone https://github.com/Aardvark-team/Adk
+ git clone https://github.com/Aardvark-team/Aardvark-py
 
 dashboard
- #1549 <span title="TotalRank: 2057 Jobs: 103 Users: 2363 Facts: 968 Links: 986">on PLDB</span>
+ #901 <span title="TotalRank: 1468 Jobs: 103 Users: 2399 Facts: 379 Links: 986">on PLDB</span>
  3 Years Old
 
-* Aardvark is an object oriented programming language designed writing clean and easy to read code. It is an interpreted language written in C++, Go, and Python. Version 0.1~0.8.9 was written in Python, Version 1.0 was written in C++, and AdkGO was written in Go. It has a UI, graphics, and data science/artificial intellegence library as of 2022.
+* Aardvark was originally designed in Python as an interpretter. This encompassed all releases up to 1.0. Then, in 2021 and 2022, other implementations started emerging, written in language such as Go and C++. In 2022, however, Aardvark underwent the 1.0 redesign. The language was redesigned from the ground up and re-implemented with a new, but temporary Python interpretter. Now, in 2023, the team is building the final compiler. This compiler is written in Aardvark itself and compiles to LLVM. It has the goal of being faster than C while easier than Python. It was designed for beginners and pros alike. The documentation is avaialiable here: https://aardvark-docs.programit.repl.co. It includes many tutorials and articles.
 
-- Aardvark website
- https://docs.programit.repl.co
-- Aardvark is developed on <a href="https://github.com/Aardvark-team/Adk">GitHub</a> and has 5 stars
+- Aardvark is developed on <a href="https://github.com/Aardvark-team/Aardvark-py">GitHub</a> and has 2 stars
+- Aardvark docs
+ https://aardvark-docs.programit.repl.co/
 - Aardvark first developed in <a href="../lists/originCommunities.html#discord">discord</a>
 
 <br>
 
 codeWithHeader Example from the web:
- #include os as os
- class Hello() {
-    funct helloWorld() {
-        output(&#39;helloWorld&#39;)
-        i = 0
-        if i==0 {
-            output(&#39;i is 0!&#39;)
-        }
-    }
- }
+ stdout.write(&quot;Hello World!\n&quot;)
 
 endColumns
 
-keyboardNav tql.html gaml.html
+## Language <a href="../lists/features.html">features</a>
+
+treeTable
+ row
+  Feature Sets
+  FeatureLink ../features/hasSets.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature hasSelfOrThisWord
+  FeatureLink ../features/hasSelfOrThisWord.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   You can name it whatever you like.
+ row
+  Feature hasReservedWords
+  FeatureLink ../features/hasReservedWords.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Print() Debugging
+  FeatureLink ../features/hasPrintDebugging.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Prefix Notation
+  FeatureLink ../features/hasPrefixNotation.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Postfix Notation
+  FeatureLink ../features/hasPostfixNotation.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Pointers
+  FeatureLink ../features/hasPointers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Pattern Matching
+  FeatureLink ../features/hasPatternMatching.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   This functionality is included in switch statements.
+ row
+  Feature Operators
+  FeatureLink ../features/hasOperators.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Octals
+  FeatureLink ../features/hasOctals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Null
+  FeatureLink ../features/hasNull.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   `null`
+ row
+  Feature Multiple Inheritance
+  FeatureLink ../features/hasMultipleInheritance.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Multiline Strings
+  FeatureLink ../features/hasMultilineStrings.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature MultiLine Comments
+  FeatureLink ../features/hasMultiLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Module Pattern
+  FeatureLink ../features/hasModules.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Manual Memory Management
+  FeatureLink ../features/hasManualMemoryManagement.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Lists
+  FeatureLink ../features/hasLists.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Line Comments
+  FeatureLink ../features/hasLineComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Infix Notation
+  FeatureLink ../features/hasInfixNotation.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Increment and decrement operators
+  FeatureLink ../features/hasIncrementAndDecrementOperators.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   ++ and --
+ row
+  Feature Implicit Arguments
+  FeatureLink ../features/hasImplicitArguments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Integers
+  FeatureLink ../features/hasIntegers.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Inheritance
+  FeatureLink ../features/hasInheritance.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature File Imports
+  FeatureLink ../features/hasImports.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature hasIfs
+  FeatureLink ../features/hasIfs.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature hasIfElses
+  FeatureLink ../features/hasIfElses.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Here Document
+  FeatureLink ../features/hasHereDocs.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Hexadecimals
+  FeatureLink ../features/hasHexadecimals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   `16_fa7` would evaluate as a hexadecimal number
+ row
+  Feature hasGlobalScope
+  FeatureLink ../features/hasGlobalScope.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature hasForLoops
+  FeatureLink ../features/hasForLoops.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature hasFnArguments
+  FeatureLink ../features/hasFnArguments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Floats
+  FeatureLink ../features/hasFloats.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature First-Class Functions
+  FeatureLink ../features/hasFirstClassFunctions.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Exceptions
+  FeatureLink ../features/hasExceptions.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+   Has throw, try, and catch
+ row
+  Feature Dynamic Properties
+  FeatureLink ../features/hasDynamicProperties.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Constants
+  FeatureLink ../features/hasConstants.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Constructors
+  FeatureLink ../features/hasConstructors.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Conditionals
+  FeatureLink ../features/hasConditionals.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature hasContinue
+  FeatureLink ../features/hasContinue.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Comments
+  FeatureLink ../features/hasComments.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Classes
+  FeatureLink ../features/hasClasses.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature hasBreak
+  FeatureLink ../features/hasBreak.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Booleans
+  FeatureLink ../features/hasBooleans.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Assignment
+  FeatureLink ../features/hasAssignment.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Anonymous Functions
+  FeatureLink ../features/hasAnonymousFunctions.html
+  Supported <span class="hasFeature">✓</span>
+  Token 
+  Example
+ row
+  Feature Labels
+  FeatureLink ../features/hasLabels.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+ row
+  Feature Binary Literals
+  FeatureLink ../features/hasBinaryNumbers.html
+  Supported <span class="doesNotHaveFeature">X</span>
+  Token 
+  Example
+   `2_101` would evaluate as a binary number.
+
+keyboardNav tiledb.html haste.html
 
 import ../footer.scroll

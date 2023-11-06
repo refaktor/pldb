@@ -6,8 +6,8 @@ title NestedText - Data notation
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="passerine.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="txt2tags.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="txt2tags.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="babylonian-numerals.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/nestedtext.pldb
 
@@ -23,7 +23,7 @@ codeWithHeader Source code:
  git clone https://github.com/KenKundert/nestedtext
 
 dashboard
- #1044 <span title="TotalRank: 1611 Jobs: 103 Users: 957 Facts: 551 Links: 986">on PLDB</span>
+ #1046 <span title="TotalRank: 1612 Jobs: 103 Users: 957 Facts: 552 Links: 986">on PLDB</span>
  3 Years Old
 
 * Human Readable and Writable Data Interchange Format
@@ -91,6 +91,6 @@ treeTable
   Token 
   Example
 
-keyboardNav passerine.html txt2tags.html
+keyboardNav txt2tags.html babylonian-numerals.html
 
 import ../footer.scroll

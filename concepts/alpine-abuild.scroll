@@ -7,7 +7,7 @@ title Alpine Abuild - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ox.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="odata.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="invokator.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/alpine-abuild.pldb
 
@@ -131,6 +131,6 @@ treeTable
   Token 
   Example
 
-keyboardNav ox.html odata.html
+keyboardNav ox.html invokator.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title PgBouncer - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="scoop-pm.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cpl.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="lookml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pgbouncer.pldb
 
@@ -42,6 +42,6 @@ dashboard
 
 endColumns
 
-keyboardNav scoop-pm.html cpl.html
+keyboardNav scoop-pm.html lookml.html
 
 import ../footer.scroll

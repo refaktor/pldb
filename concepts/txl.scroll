@@ -7,7 +7,7 @@ title TXL - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="luna.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="janet.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="puredata.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/txl.pldb
 
@@ -145,6 +145,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/TXL_(programm
 
 endColumns
 
-keyboardNav luna.html janet.html
+keyboardNav luna.html puredata.html
 
 import ../footer.scroll

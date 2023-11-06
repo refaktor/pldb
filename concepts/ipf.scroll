@@ -6,8 +6,8 @@ title Information Presentation Facility - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="beads-lang.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="qr-code.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="qr-code.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="roc.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ipf.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1997 1997
 
 dashboard
- #578 <span title="TotalRank: 1145 Jobs: 103 Users: 1443 Facts: 551 Links: 491">on PLDB</span>
+ #579 <span title="TotalRank: 1146 Jobs: 103 Users: 1443 Facts: 552 Links: 491">on PLDB</span>
  26 Years Old
 
 * Information Presentation Facility (IPF) is a system for presenting online help and hypertext on IBM OS/2 systems. IPF also refers to the markup language that is used to create IPF content. The IPF language has its origins in BookMaster and Generalized Markup Language developed by IBM. Read more on Wikipedia...
@@ -77,6 +77,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Information_P
 
 endColumns
 
-keyboardNav beads-lang.html qr-code.html
+keyboardNav qr-code.html roc.html
 
 import ../footer.scroll

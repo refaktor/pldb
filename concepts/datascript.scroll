@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/tonsky/DataScript
 
 dashboard
- #450 <span title="TotalRank: 960 Jobs: 103 Users: 191 Facts: 704 Links: 666">on PLDB</span>
+ #450 <span title="TotalRank: 960 Jobs: 103 Users: 191 Facts: 705 Links: 666">on PLDB</span>
  9 Years Old
 
 * Immutable database and Datalog query engine for Clojure, ClojureScript and JS

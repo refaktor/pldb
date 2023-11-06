@@ -6,8 +6,8 @@ title Common Object File Format - Binary executable format
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="json-graph-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="nxc.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="spatial.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="jargon.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/coff.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav json-graph-format.html nxc.html
+keyboardNav spatial.html jargon.html
 
 import ../footer.scroll

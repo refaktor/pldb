@@ -7,7 +7,7 @@ title BibTeX - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="less.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="miranda.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sgml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bibtex.pldb
 
@@ -80,6 +80,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/BibTeX'>Wikip
 
 endColumns
 
-keyboardNav less.html miranda.html
+keyboardNav less.html sgml.html
 
 import ../footer.scroll

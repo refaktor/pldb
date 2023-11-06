@@ -7,7 +7,7 @@ title X PixMap - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="pharo.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="readable.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="tldr.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/x-pixmap.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1989 1989
 
 dashboard
- #668 on PLDB
+ #669 on PLDB
  34 Years Old
  170 <span title="X PixMap repos on GitHub.">Repos</span>
 
@@ -91,6 +91,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/X_PixMap'>Wik
 
 endColumns
 
-keyboardNav pharo.html readable.html
+keyboardNav pharo.html tldr.html
 
 import ../footer.scroll

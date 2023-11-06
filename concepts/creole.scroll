@@ -7,7 +7,7 @@ title Creole - Text markup language
 
 html
  <a class="trueBaseThemePreviousItem" href="kixtart.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="jade.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="dojo.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/creole.pldb
 
@@ -102,6 +102,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Creole_(marku
 
 endColumns
 
-keyboardNav kixtart.html jade.html
+keyboardNav kixtart.html dojo.html
 
 import ../footer.scroll

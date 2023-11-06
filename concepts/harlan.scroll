@@ -6,8 +6,8 @@ title harlan - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="opal.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="isq.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="unified-diff.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="opal.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/harlan.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav opal.html isq.html
+keyboardNav unified-diff.html opal.html
 
 import ../footer.scroll

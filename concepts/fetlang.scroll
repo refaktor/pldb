@@ -7,7 +7,7 @@ title fetlang - Esoteric programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="wireless-markup-language.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="stutter-lang.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="t.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/fetlang.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/Property404/fetlang
 
 dashboard
- #940 <span title="TotalRank: 1509 Jobs: 103 Users: 420 Facts: 1055 Links: 986">on PLDB</span>
+ #941 <span title="TotalRank: 1509 Jobs: 103 Users: 420 Facts: 1055 Links: 986">on PLDB</span>
  6 Years Old
 
 * A nsfw esolang.
@@ -49,6 +49,6 @@ treeTable
   Example
    "Hello world"
 
-keyboardNav wireless-markup-language.html stutter-lang.html
+keyboardNav wireless-markup-language.html t.html
 
 import ../footer.scroll

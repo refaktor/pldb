@@ -6,7 +6,7 @@ title Qualcomm Hexagon - Assembly language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="microsoft-small-basic.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="nu.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="hlsl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/hexagon.pldb
@@ -41,6 +41,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Qualcomm_Hexa
 
 endColumns
 
-keyboardNav microsoft-small-basic.html hlsl.html
+keyboardNav nu.html hlsl.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title ARC processor - Instruction set architecture
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="game-maker-language.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="web-idl.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="opl.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/arc-isa.pldb
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav game-maker-language.html opl.html
+keyboardNav web-idl.html opl.html
 
 import ../footer.scroll

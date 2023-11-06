@@ -7,7 +7,7 @@ title Seed7 - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="gambas.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="yasnippet.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="twig.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/seed7.pldb
 
@@ -20,7 +20,7 @@ startColumns 4
  link ../lists/creators.html#thomasMertes Thomas Mertes
 
 dashboard
- #349 <span title="TotalRank: 811 Jobs: 103 Users: 1115 Facts: 531 Links: 177">on PLDB</span>
+ #349 <span title="TotalRank: 812 Jobs: 103 Users: 1115 Facts: 532 Links: 177">on PLDB</span>
  18 Years Old
 
 * Seed7 is an extensible general-purpose programming language designed by Thomas Mertes. It is syntactically similar to Pascal and Ada. Along with many other features, it provides an extension mechanism. Read more on Wikipedia...
@@ -110,6 +110,6 @@ treeTable
   Token 
   Example
 
-keyboardNav gambas.html yasnippet.html
+keyboardNav gambas.html twig.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Cell - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="islisp.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="groff.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="newick-format.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cell.pldb
 
@@ -113,6 +113,6 @@ treeTable
   Token 
   Example
 
-keyboardNav islisp.html groff.html
+keyboardNav islisp.html newick-format.html
 
 import ../footer.scroll

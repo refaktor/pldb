@@ -6,8 +6,8 @@ title CMS-2 - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="z-expressions.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="pikelet.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="coco.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="z-expressions.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/cms-2.pldb
 
@@ -40,6 +40,6 @@ dashboard
 
 endColumns
 
-keyboardNav z-expressions.html pikelet.html
+keyboardNav coco.html z-expressions.html
 
 import ../footer.scroll

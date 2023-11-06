@@ -6,7 +6,7 @@ title GN - Application
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="etoys.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="babylonian-numerals.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="status-quo-function.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/generate-ninja.pldb
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/o-lim/generate-ninja
 
 dashboard
- #1390 on PLDB
+ #1392 on PLDB
  8 Years Old
 
 * GN, a meta-build system that generates Ninja build files
@@ -52,6 +52,6 @@ codeWithHeader Example from <a href='https://github.com/devoncarew/language-gn'>
 
 endColumns
 
-keyboardNav etoys.html status-quo-function.html
+keyboardNav babylonian-numerals.html status-quo-function.html
 
 import ../footer.scroll

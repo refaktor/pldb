@@ -6,7 +6,7 @@ title PIC - Text markup language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="mathlab.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="tea.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="mqtt.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/pic.pldb
@@ -80,6 +80,6 @@ treeTable
   Token 
   Example
 
-keyboardNav mathlab.html mqtt.html
+keyboardNav tea.html mqtt.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title BBC BASIC - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="fml.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="s3.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="rockstar.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/bbc-basic.pldb
@@ -60,6 +60,6 @@ treeTable
   Token PRINT
   Example
 
-keyboardNav fml.html rockstar.html
+keyboardNav s3.html rockstar.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title JSON-LD - Data validation language
 
 html
  <a class="trueBaseThemePreviousItem" href="csound.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="marko.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="puppet.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/json-ld.pldb
 
@@ -78,6 +78,6 @@ codeWithHeader Example from <a href='https://github.com/atom/language-javascript
 
 endColumns
 
-keyboardNav csound.html marko.html
+keyboardNav csound.html puppet.html
 
 import ../footer.scroll

@@ -7,7 +7,7 @@ title Atmel AVR - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="dc.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="falcon.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="slash.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/atmel-avr.pldb
 
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav dc.html falcon.html
+keyboardNav dc.html slash.html
 
 import ../footer.scroll

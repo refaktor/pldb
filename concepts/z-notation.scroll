@@ -7,7 +7,7 @@ title Z notation - Notation
 
 html
  <a class="trueBaseThemePreviousItem" href="clipper.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="json-schema.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="pod.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/z-notation.pldb
 
@@ -35,6 +35,6 @@ dashboard
 
 endColumns
 
-keyboardNav clipper.html json-schema.html
+keyboardNav clipper.html pod.html
 
 import ../footer.scroll

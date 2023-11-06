@@ -19,7 +19,7 @@ codeWithHeader Example from <a href="../concepts/scheme.html">Scheme</a>, <a hre
 codeWithHeader Example from <a href="../concepts/slope.html">Slope</a>:
  (+ 1 2)
 
-* Languages *with* Prefix Notation include <a href="../concepts/scheme.html">Scheme</a>, <a href="../concepts/racket.html">Racket</a>, <a href="../concepts/slope.html">Slope</a>
+* Languages *with* Prefix Notation include <a href="../concepts/scheme.html">Scheme</a>, <a href="../concepts/racket.html">Racket</a>, <a href="../concepts/slope.html">Slope</a>, <a href="../concepts/aardvark.html">Aardvark</a>
 
 * This question asks: Does the language allow operators to be placed at the beginning of the expression?
 

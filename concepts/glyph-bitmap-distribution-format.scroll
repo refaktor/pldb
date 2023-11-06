@@ -7,7 +7,7 @@ title Glyph Bitmap Distribution Format - Application
 
 html
  <a class="trueBaseThemePreviousItem" href="svelte.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="cfml.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="blitzplus.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/glyph-bitmap-distribution-format.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1988 1988
 
 dashboard
- #651 on PLDB
+ #650 on PLDB
  35 Years Old
 
 * The Glyph Bitmap Distribution Format (BDF) by Adobe is a file format for storing bitmap fonts. The content takes the form of a text file intended to be human- and computer-readable. BDF is typically used in Unix X Window environments. Read more on Wikipedia...
@@ -264,6 +264,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Glyph_Bitmap_
 
 endColumns
 
-keyboardNav svelte.html cfml.html
+keyboardNav svelte.html blitzplus.html
 
 import ../footer.scroll

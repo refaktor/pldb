@@ -32,6 +32,8 @@ codeWithHeader Example from <a href="../concepts/jule.html">Jule</a>:
 
 * Languages *with* Labels include <a href="../concepts/javascript.html">JavaScript</a>, <a href="../concepts/typescript.html">TypeScript</a>, <a href="../concepts/c3.html">C3</a>, <a href="../concepts/jule.html">Jule</a>
 
+* Languages *without* Labels include <a href="../concepts/aardvark.html">Aardvark</a>
+
 * This question asks: Does the language have a way to label locations within the source code?
 
 * Read more about Labels on the web: 1.

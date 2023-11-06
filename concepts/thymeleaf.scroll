@@ -7,7 +7,7 @@ title Thymeleaf - Template language
 
 html
  <a class="trueBaseThemePreviousItem" href="blockml.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="mu.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="sysml.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/thymeleaf.pldb
 
@@ -49,6 +49,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/Thymeleaf'>Wi
 
 endColumns
 
-keyboardNav blockml.html mu.html
+keyboardNav blockml.html sysml.html
 
 import ../footer.scroll

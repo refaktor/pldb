@@ -7,7 +7,7 @@ title MariaDB - Query language
 
 html
  <a class="trueBaseThemePreviousItem" href="pov-ray-sdl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="plpgsql.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="whitespace.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mariadb.pldb
 
@@ -57,6 +57,6 @@ treeTable
   Token TRUE FALSE
   Example
 
-keyboardNav pov-ray-sdl.html plpgsql.html
+keyboardNav pov-ray-sdl.html whitespace.html
 
 import ../footer.scroll

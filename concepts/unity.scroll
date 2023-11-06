@@ -6,7 +6,7 @@ title UNITY - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="gluon.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="hyperscript-lang.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="slice.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/unity.pldb
@@ -63,6 +63,6 @@ codeWithHeader Example from <a href='https://en.wikipedia.org/wiki/UNITY_(progra
 
 endColumns
 
-keyboardNav gluon.html slice.html
+keyboardNav hyperscript-lang.html slice.html
 
 import ../footer.scroll

@@ -6,7 +6,7 @@ title Wolfram Mathematica - Editor
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="chrysalisp.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="true-basic.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="sather.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mathematica-editor.pldb
@@ -34,6 +34,6 @@ dashboard
 
 endColumns
 
-keyboardNav chrysalisp.html sather.html
+keyboardNav true-basic.html sather.html
 
 import ../footer.scroll

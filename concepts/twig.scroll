@@ -6,8 +6,8 @@ title Twig - Template language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="yasnippet.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="markwhen.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="seed7.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="yasnippet.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/twig.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/mitsuhiko/twig
 
 dashboard
- #351 <span title="TotalRank: 813 Jobs: 103 Users: 698 Facts: 321 Links: 389">on PLDB</span>
+ #350 <span title="TotalRank: 813 Jobs: 103 Users: 698 Facts: 321 Links: 389">on PLDB</span>
  14 Years Old
  6k <span title="Twig repos on GitHub.">Repos</span>
 
@@ -135,6 +135,6 @@ treeTable
    {# A comment
    #}
 
-keyboardNav yasnippet.html markwhen.html
+keyboardNav seed7.html yasnippet.html
 
 import ../footer.scroll

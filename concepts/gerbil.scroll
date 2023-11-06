@@ -6,8 +6,8 @@ title Gerbil Scheme - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="molfile-format.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="wyvern.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="fp.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="carpet.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/gerbil.pldb
 
@@ -22,7 +22,7 @@ codeWithHeader Source code:
  git clone https://github.com/vyzo/gerbil
 
 dashboard
- #1019 <span title="TotalRank: 1586 Jobs: 103 Users: 497 Facts: 1253 Links: 986">on PLDB</span>
+ #1018 <span title="TotalRank: 1586 Jobs: 103 Users: 497 Facts: 1253 Links: 986">on PLDB</span>
  7 Years Old
 
 * Gerbil Scheme
@@ -65,6 +65,6 @@ treeTable
   Token 
   Example
 
-keyboardNav molfile-format.html wyvern.html
+keyboardNav fp.html carpet.html
 
 import ../footer.scroll

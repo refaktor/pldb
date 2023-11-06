@@ -6,8 +6,8 @@ title BlackCoffee - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="toffeescript.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="arexx.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="asciidots.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="heap.coffee.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/blackcoffee.pldb
 
@@ -43,6 +43,6 @@ codeWithHeader BlackCoffee <a href="../lists/keywords.html?filter=blackcoffee">K
 
 endColumns
 
-keyboardNav toffeescript.html arexx.html
+keyboardNav asciidots.html heap.coffee.html
 
 import ../footer.scroll

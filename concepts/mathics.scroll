@@ -6,7 +6,7 @@ title mathics - Programming language
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="vigil.html">&lt;</a>
+ <a class="trueBaseThemePreviousItem" href="roff.html">&lt;</a>
  <a class="trueBaseThemeNextItem" href="ssharp.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mathics.pldb
@@ -44,6 +44,6 @@ codeWithHeader Example from the web:
 
 endColumns
 
-keyboardNav vigil.html ssharp.html
+keyboardNav roff.html ssharp.html
 
 import ../footer.scroll

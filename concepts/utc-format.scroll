@@ -7,7 +7,7 @@ title UTC - Time format
 
 html
  <a class="trueBaseThemePreviousItem" href="pyret.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="clarion.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="json-stat.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/utc-format.pldb
 
@@ -32,6 +32,6 @@ dashboard
 
 endColumns
 
-keyboardNav pyret.html clarion.html
+keyboardNav pyret.html json-stat.html
 
 import ../footer.scroll

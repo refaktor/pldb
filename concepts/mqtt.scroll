@@ -7,7 +7,7 @@ title Message Queuing Telemetry Transport - Protocol
 
 html
  <a class="trueBaseThemePreviousItem" href="pic.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="sugarss.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="elvish.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/mqtt.pldb
 
@@ -36,6 +36,6 @@ dashboard
 
 endColumns
 
-keyboardNav pic.html sugarss.html
+keyboardNav pic.html elvish.html
 
 import ../footer.scroll

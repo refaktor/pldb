@@ -7,7 +7,7 @@ title penrose - Programming language
 
 html
  <a class="trueBaseThemePreviousItem" href="ucl.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="visual-prolog.html">&gt;</a>
+ <a class="trueBaseThemeNextItem" href="gdscript.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/penrose.pldb
 
@@ -38,6 +38,6 @@ dashboard
 
 endColumns
 
-keyboardNav ucl.html visual-prolog.html
+keyboardNav ucl.html gdscript.html
 
 import ../footer.scroll

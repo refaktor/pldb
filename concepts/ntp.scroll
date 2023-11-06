@@ -6,8 +6,8 @@ title Network Time Protocol - Protocol
  hidden
 
 html
- <a class="trueBaseThemePreviousItem" href="grammar.html">&lt;</a>
- <a class="trueBaseThemeNextItem" href="jruby.html">&gt;</a>
+ <a class="trueBaseThemePreviousItem" href="aldor.html">&lt;</a>
+ <a class="trueBaseThemeNextItem" href="flow-matic.html">&gt;</a>
 
 viewSourceUrl https://github.com/breck7/pldb/blob/main/concepts/ntp.pldb
 
@@ -19,7 +19,7 @@ startColumns 4
  link /search.html?q=select+type+appeared%0D%0Awhere+appeared+%3D+1981 1981
 
 dashboard
- #651 <span title="TotalRank: 1230 Jobs: 103 Users: 141 Facts: 2545 Links: 986">on PLDB</span>
+ #649 <span title="TotalRank: 1230 Jobs: 103 Users: 141 Facts: 2545 Links: 986">on PLDB</span>
  42 Years Old
 
 * The Network Time Protocol (NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks. In operation since before 1985, NTP is one of the oldest Internet protocols in current use. NTP was designed by David L. Read more on Wikipedia...
@@ -33,6 +33,6 @@ dashboard
 
 endColumns
 
-keyboardNav grammar.html jruby.html
+keyboardNav aldor.html flow-matic.html
 
 import ../footer.scroll
